@@ -4,7 +4,7 @@ Free, open annotated editions of classic books for high school and college stude
 
 Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Open Margins puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
 
-**First edition:** *The Great Gatsby* by F. Scott Fitzgerald (1925).
+**First edition:** *Lord Jim* by Joseph Conrad (1900), chapters 1 to 10.
 
 ## How it works
 
@@ -62,6 +62,7 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 | 7 | | |
 | 8 | | |
 | 9 | | |
+| 10 | | |
 
 ## License
 
