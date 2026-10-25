@@ -3,13 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lord Jim · Scholia</title>
+<title>Scholia</title>
+<script src="prefs.js"></script>
 <link rel="stylesheet" href="tufte/tufte.css">
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="reader-page inline-mode">
 <header class="bar">
-  <a class="home" href="index.html">Lord Jim</a>
+  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a><span class="sep">/</span><a id="book-link" href="book.html">Book</a></nav>
   <fieldset class="layers" id="layers">
     <legend class="sr-only">Note layers</legend>
     <label><input type="checkbox" value="vocab">Vocab</label>
@@ -17,15 +18,68 @@
     <label><input type="checkbox" value="history">History</label>
     <label><input type="checkbox" value="place">Place</label>
   </fieldset>
+  <span class="bar-spacer"></span>
+  <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
+  <details class="settings">
+    <summary aria-label="Reading settings">Aa</summary>
+    <div class="settings-panel">
+      <div class="row">
+        <span class="label">Theme</span>
+        <div class="seg">
+          <label><input type="radio" name="pref-theme" data-pref="theme" value="auto">Auto</label>
+          <label><input type="radio" name="pref-theme" data-pref="theme" value="light">Light</label>
+          <label><input type="radio" name="pref-theme" data-pref="theme" value="dark">Dark</label>
+        </div>
+      </div>
+      <div class="row">
+        <label class="label" for="pref-font">Font</label>
+        <select id="pref-font" data-pref="font">
+          <option value="et-book">ET Book</option>
+          <option value="georgia">Georgia</option>
+          <option value="palatino">Palatino</option>
+          <option value="charter">Charter</option>
+          <option value="sans">Sans serif</option>
+        </select>
+      </div>
+      <div class="row">
+        <span class="label">Text size</span>
+        <div class="stepper">
+          <button type="button" data-size-step="-10" aria-label="Smaller text">A&minus;</button>
+          <output data-size-out>100%</output>
+          <button type="button" data-size-step="10" aria-label="Larger text">A+</button>
+        </div>
+      </div>
+      <div class="row">
+        <span class="label">Line length</span>
+        <div class="seg">
+          <label><input type="radio" name="pref-width" data-pref="width" value="narrow">Narrow</label>
+          <label><input type="radio" name="pref-width" data-pref="width" value="medium">Medium</label>
+          <label><input type="radio" name="pref-width" data-pref="width" value="wide">Wide</label>
+        </div>
+      </div>
+      <div class="row">
+        <span class="label">Margin notes</span>
+        <div class="seg">
+          <label><input type="radio" name="pref-notes" data-pref="notes" value="approach">On approach</label>
+          <label><input type="radio" name="pref-notes" data-pref="notes" value="always">Always</label>
+        </div>
+        <p class="hint">Vocabulary notes are on the right; allusions, history, and places on the left. “Always” keeps both open when the window is wide enough.</p>
+      </div>
+      <button type="button" data-prefs-reset>Reset to defaults</button>
+    </div>
+  </details>
 </header>
-<article class="chapter">
-  <h1 id="title">Chapter</h1>
-  <div class="reader">
-    <section class="text" id="text"><p class="status">Loading…</p></section>
-    <aside class="margin" id="margin" aria-label="Notes"></aside>
-  </div>
-  <nav class="chapnav" id="chapnav"></nav>
-</article>
+<main class="reader" id="reader">
+  <div class="ticks ticks-left" id="ticks-left" aria-hidden="true"></div>
+  <aside class="panel panel-left" id="panel-left" aria-label="Allusion, history, and place notes"></aside>
+  <section class="column" id="column">
+    <h1 id="title">Chapter</h1>
+    <div id="text"><p class="status">Loading…</p></div>
+    <nav class="chapnav" id="chapnav" aria-label="Chapters"></nav>
+  </section>
+  <aside class="panel panel-right" id="panel-right" aria-label="Vocabulary notes"></aside>
+  <div class="ticks ticks-right" id="ticks-right" aria-hidden="true"></div>
+</main>
 <script src="reader.js"></script>
 </body>
 </html>

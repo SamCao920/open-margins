@@ -1,28 +1,46 @@
-// Scholia chapter reader. Loads a chapter's text and notes, marks anchors,
-// and shows notes in the right margin (wide screens) or under the paragraph
-// when an anchor is tapped (narrow screens).
+// Scholia chapter reader. Loads a chapter's text and notes and marks anchors.
+// Wide screens: the text keeps a fixed reading width in the centre, and notes
+// sit in panels on either side that open when the pointer nears that side.
+// Narrow screens: tapping an anchor opens its note under the paragraph.
 (function () {
   'use strict';
 
-  const BOOK = 'lord-jim';
-  const CHAPTERS = 10;
+  const BOOKS = { 'lord-jim': { title: 'Lord Jim', chapters: 10 } };
   const LAYERS = ['vocab', 'allusion', 'history', 'place'];
   const LAYER_NAMES = { vocab: 'Vocab', allusion: 'Allusion', history: 'History', place: 'Place' };
+  // Vocabulary goes on the right; references to the wider world on the left.
+  const SIDE = { vocab: 'right', allusion: 'left', history: 'left', place: 'left' };
   const STORE_KEY = 'scholia.layers';
-  const NARROW = window.matchMedia('(max-width: 1150px)');
+
+  const GAP = 24;          // space between the text and a panel
+  const MIN_PANEL = 240;
+  const MAX_PANEL = 360;
+  // Below this gutter width there is no room for a panel even with the text
+  // slid aside, so notes open under the paragraph instead.
+  const MIN_GUTTER = (MIN_PANEL + GAP) / 2;
+  const NOTE_GAP = 6;
 
   const params = new URLSearchParams(location.search);
-  const ch = Math.min(CHAPTERS, Math.max(1, parseInt(params.get('ch'), 10) || 1));
+  const bookId = BOOKS[params.get('book')] ? params.get('book') : 'lord-jim';
+  const book = BOOKS[bookId];
+  const ch = Math.min(book.chapters, Math.max(1, parseInt(params.get('ch'), 10) || 1));
   const pad = String(ch).padStart(2, '0');
 
+  const readerEl = document.getElementById('reader');
+  const columnEl = document.getElementById('column');
   const textEl = document.getElementById('text');
-  const marginEl = document.getElementById('margin');
-  document.getElementById('title').textContent = 'Chapter ' + ch;
-  document.title = 'Lord Jim, Chapter ' + ch + ' · Scholia';
+  const panels = { left: document.getElementById('panel-left'), right: document.getElementById('panel-right') };
+  const ticks = { left: document.getElementById('ticks-left'), right: document.getElementById('ticks-right') };
 
-  // The deployed site has texts/ and notes/ beside the pages; a local checkout
-  // served from the repo root has them one level up.
+  document.getElementById('title').textContent = 'Chapter ' + ch;
+  document.title = book.title + ', Chapter ' + ch + ' · Scholia';
+  const bookLink = document.getElementById('book-link');
+  bookLink.textContent = book.title;
+  bookLink.href = 'book.html?book=' + bookId;
+
   async function fetchFirst(paths, parse) {
+    // The deployed site has texts/ and notes/ beside the pages; a local
+    // checkout served from the repo root has them one level up.
     for (const p of paths) {
       try {
         const r = await fetch(p);
@@ -48,9 +66,6 @@
     LAYERS.forEach(l => { on[l] = !(saved && saved[l] === false); });
     return on;
   }
-  function saveLayers(on) {
-    try { localStorage.setItem(STORE_KEY, JSON.stringify(on)); } catch (e) { /* ignore */ }
-  }
   const layersOn = loadLayers();
   function applyLayers() {
     LAYERS.forEach(l => document.body.classList.toggle('hide-' + l, !layersOn[l]));
@@ -59,20 +74,20 @@
     box.checked = layersOn[box.value];
     box.addEventListener('change', () => {
       layersOn[box.value] = box.checked;
-      saveLayers(layersOn);
+      try { localStorage.setItem(STORE_KEY, JSON.stringify(layersOn)); } catch (e) { /* ignore */ }
       applyLayers();
-      closeInlineNotes();
-      layoutMargin();
+      clearActive();
+      layout();
     });
   });
   applyLayers();
 
   // ----- Chapter navigation -----
-  const nav = document.getElementById('chapnav');
-  nav.innerHTML =
-    (ch > 1 ? '<a href="chapter.html?ch=' + (ch - 1) + '">&larr; Chapter ' + (ch - 1) + '</a>' : '<span></span>') +
-    '<a href="index.html">Contents</a>' +
-    (ch < CHAPTERS ? '<a href="chapter.html?ch=' + (ch + 1) + '">Chapter ' + (ch + 1) + ' &rarr;</a>' : '<span></span>');
+  const chapterHref = n => 'chapter.html?book=' + bookId + '&ch=' + n;
+  document.getElementById('chapnav').innerHTML =
+    (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '">&larr; Chapter ' + (ch - 1) + '</a>' : '<span></span>') +
+    '<a href="book.html?book=' + bookId + '">Contents</a>' +
+    (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '">Chapter ' + (ch + 1) + ' &rarr;</a>' : '<span></span>');
 
   // ----- Rendering -----
   function noteHtml(n) {
@@ -136,47 +151,91 @@
     notes.forEach(n => { notesById[n.id] = n; });
     const used = new Set();
     textEl.innerHTML = '';
-    marginEl.innerHTML = '';
+    ['left', 'right'].forEach(s => { panels[s].innerHTML = ''; ticks[s].innerHTML = ''; });
     paragraphs(raw).forEach(t => {
       const p = document.createElement('p');
       const r = markParagraph(t, notes, used);
       p.innerHTML = r.html;
       textEl.appendChild(p);
-      r.placed.forEach(n => marginEl.appendChild(makeNote(n)));
+      r.placed.forEach(n => {
+        const side = SIDE[n.layer];
+        panels[side].appendChild(makeNote(n));
+        const tick = document.createElement('span');
+        tick.className = 'tick';
+        tick.dataset.layer = n.layer;
+        tick.dataset.id = n.id;
+        ticks[side].appendChild(tick);
+      });
     });
     notes.filter(n => !used.has(n.id)).forEach(n =>
       console.warn('Anchor not found in text:', n.id, JSON.stringify(n.anchor)));
-    layoutMargin();
+    layout();
   }
 
-  // Place margin notes as close to their anchors as possible. Notes that would
-  // overlap are grouped, and each group is centred on its anchors, so a
-  // crowded passage spreads notes both above and below instead of only down.
-  const GAP = 5;
-  function layoutMargin() {
-    if (NARROW.matches) return;
-    const base = marginEl.getBoundingClientRect().top;
+  // ----- Layout -----
+  // fits: both panels fit beside the text. Otherwise an open panel slides
+  // the text toward the other side by `shift`, so the text is never covered.
+  const geo = { inline: true, fits: false, textLeft: 0, textRight: 0, shift: 0 };
+  const anchorFor = id => textEl.querySelector('.anchor[data-id="' + id + '"]');
+
+  function layout() {
+    const rr = readerEl.getBoundingClientRect();
+    geo.textLeft = columnEl.offsetLeft;
+    geo.textRight = columnEl.offsetLeft + columnEl.offsetWidth;
+    const gutter = Math.min(geo.textLeft, rr.width - geo.textRight);
+    const inline = gutter < MIN_GUTTER;
+    if (inline !== geo.inline) { clearActive(); state.hover = state.peek = null; }
+    geo.inline = inline;
+    document.body.classList.toggle('inline-mode', inline);
+    if (inline) { applyOpen(); return; }
+
+    const room = gutter - GAP;
+    geo.fits = room >= MIN_PANEL;
+    document.body.dataset.fits = geo.fits ? 'yes' : 'no';
+    const width = Math.max(MIN_PANEL, Math.min(MAX_PANEL, room));
+    panels.left.style.width = panels.right.style.width = width + 'px';
+    panels.left.style.left = Math.max(0, geo.textLeft - GAP - width) + 'px';
+    panels.right.style.left = Math.min(geo.textRight + GAP, rr.width - width) + 'px';
+    geo.shift = Math.max(0, width + GAP - geo.textLeft);
+    ticks.left.style.left = (geo.textLeft - 16) + 'px';
+    ticks.right.style.left = (geo.textRight + 8) + 'px';
+
+    let bottom = 0;
+    ['left', 'right'].forEach(side => {
+      bottom = Math.max(bottom, placeNotes(side, rr.top));
+    });
+    readerEl.style.minHeight = '';
+    const height = Math.max(bottom, readerEl.offsetHeight);
+    readerEl.style.minHeight = height + 'px';
+    panels.left.style.height = panels.right.style.height = height + 'px';
+    applyOpen();
+  }
+
+  // Place one side's notes as close to their anchors as possible. Notes that
+  // would overlap are grouped, and each group is centred on its anchors.
+  function placeNotes(side, top) {
     const items = [];
-    marginEl.querySelectorAll('.note').forEach(el => {
+    panels[side].querySelectorAll('.note').forEach(el => {
       if (getComputedStyle(el).display === 'none') return;
-      const a = textEl.querySelector('.anchor[data-id="' + el.dataset.id + '"]');
+      const a = anchorFor(el.dataset.id);
       if (!a) return;
-      items.push({ el, want: a.getBoundingClientRect().top - base, h: el.offsetHeight });
+      const r = a.getBoundingClientRect();
+      items.push({ el, want: r.top - top, h: el.offsetHeight });
+      const tick = ticks[side].querySelector('.tick[data-id="' + el.dataset.id + '"]');
+      if (tick) tick.style.top = (r.top - top + r.height / 2) + 'px';
     });
     const groups = [];
     items.forEach(it => {
       let g = { items: [it], h: it.h, offsetSum: it.want, top: Math.max(0, it.want) };
       while (groups.length) {
         const prev = groups[groups.length - 1];
-        if (prev.top + prev.h + GAP <= g.top) break;
+        if (prev.top + prev.h + NOTE_GAP <= g.top) break;
         groups.pop();
-        // Merge: offsets of g's items shift by prev's height.
-        const shift = prev.h + GAP;
         let offsetSum = prev.offsetSum;
-        let off = shift;
-        g.items.forEach(x => { offsetSum += x.want - off; off += x.h + GAP; });
+        let off = prev.h + NOTE_GAP;
+        g.items.forEach(x => { offsetSum += x.want - off; off += x.h + NOTE_GAP; });
         const n = prev.items.length + g.items.length;
-        g = { items: prev.items.concat(g.items), h: prev.h + GAP + g.h, offsetSum, top: 0 };
+        g = { items: prev.items.concat(g.items), h: prev.h + NOTE_GAP + g.h, offsetSum, top: 0 };
         g.top = Math.max(0, offsetSum / n);
       }
       groups.push(g);
@@ -184,15 +243,71 @@
     let bottom = 0;
     groups.forEach(g => {
       let y = g.top;
-      g.items.forEach(x => { x.el.style.top = y + 'px'; y += x.h + GAP; });
+      g.items.forEach(x => { x.el.style.top = y + 'px'; y += x.h + NOTE_GAP; });
       bottom = y;
     });
-    marginEl.style.minHeight = bottom + 'px';
+    return bottom;
   }
 
-  function closeInlineNotes() {
+  // ----- Opening panels -----
+  // hover: the pointer is in that side's gutter or inside its open panel.
+  // peek: the pointer is on an anchor whose note lives on that side.
+  // pinned: an anchor was clicked; stays open until dismissed.
+  const state = { hover: null, peek: null, pinned: null };
+
+  function applyOpen() {
+    const open = { left: false, right: false };
+    if (!geo.inline && geo.fits) {
+      const always = document.documentElement.dataset.notes === 'always';
+      ['left', 'right'].forEach(side => {
+        open[side] = always || state.hover === side || state.peek === side || state.pinned === side;
+      });
+    } else if (!geo.inline) {
+      // Only one panel at a time when the text has to slide aside for it.
+      // Hovering an anchor doesn't open it here: the text would slide out
+      // from under the pointer.
+      const side = state.hover || state.pinned;
+      if (side) open[side] = true;
+    }
+    ['left', 'right'].forEach(side => {
+      panels[side].classList.toggle('open', open[side]);
+      panels[side].setAttribute('aria-hidden', open[side] ? 'false' : 'true');
+    });
+    const shift = geo.fits || geo.inline ? 0 : open.left ? geo.shift : open.right ? -geo.shift : 0;
+    readerEl.style.setProperty('--shift', shift + 'px');
+  }
+
+  let lastMove = null;
+  let frame = 0;
+  function onMove() {
+    frame = 0;
+    const ev = lastMove;
+    if (geo.inline) return;
+    const inPanel = ev.target.closest && ev.target.closest('.panel.open');
+    if (inPanel) {
+      state.hover = inPanel === panels.left ? 'left' : 'right';
+    } else {
+      const x = ev.clientX - readerEl.getBoundingClientRect().left;
+      state.hover = x < geo.textLeft - 8 ? 'left' : x > geo.textRight + 8 ? 'right' : null;
+    }
+    applyOpen();
+  }
+  document.addEventListener('mousemove', e => {
+    lastMove = e;
+    if (!frame) frame = requestAnimationFrame(onMove);
+  });
+  document.documentElement.addEventListener('mouseleave', () => { state.hover = null; applyOpen(); });
+
+  function clearActive() {
+    document.querySelectorAll('.anchor.active, .note.active, .tick.active').forEach(el => el.classList.remove('active'));
     textEl.querySelectorAll('.inline-note').forEach(el => el.remove());
-    textEl.querySelectorAll('.anchor.active').forEach(el => el.classList.remove('active'));
+    state.pinned = null;
+  }
+
+  function setHover(id, on) {
+    const a = anchorFor(id);
+    if (a) a.classList.toggle('hover', on);
+    document.querySelectorAll('.note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.toggle('hover', on));
   }
 
   function activate(anchor) {
@@ -200,52 +315,82 @@
     const n = notesById[id];
     if (!n || !layersOn[n.layer]) return;
 
-    if (NARROW.matches) {
+    if (geo.inline) {
       const p = anchor.closest('p');
-      const open = p.nextElementSibling && p.nextElementSibling.classList.contains('inline-note') &&
-        p.nextElementSibling.dataset.id === id;
-      closeInlineNotes();
+      const next = p.nextElementSibling;
+      const open = next && next.classList.contains('inline-note') && next.dataset.id === id;
+      clearActive();
       if (open) return;
       anchor.classList.add('active');
       p.after(makeNote(n, 'inline-note'));
       return;
     }
 
-    textEl.querySelectorAll('.anchor.active').forEach(el => el.classList.remove('active'));
-    marginEl.querySelectorAll('.note.active').forEach(el => el.classList.remove('active'));
+    clearActive();
     anchor.classList.add('active');
-    const m = marginEl.querySelector('.note[data-id="' + id + '"]');
-    if (m) m.classList.add('active');
-    layoutMargin();
+    document.querySelectorAll('.panel .note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.add('active'));
+    state.pinned = SIDE[n.layer];
+    layout(); // the active note shows its source, so heights change
   }
 
   textEl.addEventListener('click', e => {
     const a = e.target.closest('.anchor');
     if (a) activate(a);
-  });
-  marginEl.addEventListener('click', e => {
-    const m = e.target.closest('.note');
-    if (!m || e.target.closest('a')) return;
-    const a = textEl.querySelector('.anchor[data-id="' + m.dataset.id + '"]');
-    if (a) activate(a);
+    else if (state.pinned || textEl.querySelector('.inline-note')) { clearActive(); applyOpen(); }
   });
   textEl.addEventListener('keydown', e => {
     const a = e.target.closest('.anchor');
     if (a && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); activate(a); }
   });
+  textEl.addEventListener('mouseover', e => {
+    const a = e.target.closest('.anchor');
+    if (!a || geo.inline || !layersOn[a.dataset.layer]) return;
+    state.peek = SIDE[a.dataset.layer];
+    setHover(a.dataset.id, true);
+    applyOpen();
+  });
+  textEl.addEventListener('mouseout', e => {
+    const a = e.target.closest('.anchor');
+    if (!a) return;
+    state.peek = null;
+    setHover(a.dataset.id, false);
+    applyOpen();
+  });
+  ['left', 'right'].forEach(side => {
+    panels[side].addEventListener('click', e => {
+      const m = e.target.closest('.note');
+      if (!m || e.target.closest('a')) return;
+      const a = anchorFor(m.dataset.id);
+      if (a) activate(a);
+    });
+    panels[side].addEventListener('mouseover', e => {
+      const m = e.target.closest('.note');
+      if (m) setHover(m.dataset.id, true);
+    });
+    panels[side].addEventListener('mouseout', e => {
+      const m = e.target.closest('.note');
+      if (m) setHover(m.dataset.id, false);
+    });
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && (state.pinned || textEl.querySelector('.inline-note'))) { clearActive(); applyOpen(); }
+  });
 
   let resizeTimer;
   window.addEventListener('resize', () => {
     clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(layoutMargin, 100);
+    resizeTimer = setTimeout(layout, 100);
   });
-  NARROW.addEventListener('change', () => { closeInlineNotes(); layoutMargin(); });
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(layoutMargin);
+  document.addEventListener('scholia:prefs', () => {
+    layout();
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
+  });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
 
   // ----- Load -----
   (async function () {
-    const textPath = 'texts/' + BOOK + '/ch' + pad + '.txt';
-    const notesPath = 'notes/' + BOOK + '/ch' + ch + '.json';
+    const textPath = 'texts/' + bookId + '/ch' + pad + '.txt';
+    const notesPath = 'notes/' + bookId + '/ch' + ch + '.json';
     const raw = await fetchFirst([textPath, '../' + textPath], r => r.text());
     if (raw === null) {
       textEl.innerHTML = '<p class="status">Could not load the text for this chapter.</p>';

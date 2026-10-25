@@ -28,7 +28,7 @@ texts/lord_jim.txt         Full public domain text (Project Gutenberg boilerplat
 texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch10.txt
 notes/SCHEMA.md            Annotation format
 notes/lord-jim/ch1.json    Annotations, one JSON file per chapter
-site/                      Static reader: plain HTML, CSS, and JavaScript
+site/                      Static site: home page (index.html), book contents (book.html), chapter reader (chapter.html)
 site/tufte/                Tufte CSS 1.9.0 and ET Book fonts, vendored unchanged (MIT)
 scripts/check_notes.py     Checks notes against the schema and the chapter text
 .github/workflows/pages.yml  Deploys site/, texts/, and notes/ to GitHub Pages
