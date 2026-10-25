@@ -1,0 +1,578 @@
+[
+  {
+    "id": "ch9-001",
+    "anchor": "he formulated in his head",
+    "layer": "vocab",
+    "note": "Formulated: put together carefully in words.",
+    "source": "Merriam-Webster, “formulate”, https://www.merriam-webster.com/dictionary/formulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-002",
+    "anchor": "a tone of imprecation",
+    "layer": "vocab",
+    "note": "Imprecation: a spoken curse or angry oath.",
+    "source": "Merriam-Webster, “imprecation”, https://www.merriam-webster.com/dictionary/imprecation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-003",
+    "anchor": "scenes--as far as I can judge--of low comedy",
+    "layer": "vocab",
+    "note": "Low comedy: crude, slapstick humour, like clowns falling about.",
+    "source": "Merriam-Webster, “low comedy”, https://www.merriam-webster.com/dictionary/low%20comedy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-004",
+    "anchor": "the others naturally shirked",
+    "layer": "vocab",
+    "note": "Shirked: avoided a duty or unpleasant task.",
+    "source": "Merriam-Webster, “shirk”, https://www.merriam-webster.com/dictionary/shirk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-005",
+    "anchor": "“Gott-for-dam!",
+    "layer": "vocab",
+    "note": "The German captain’s accent for “God damn!”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-006",
+    "anchor": "funny enough to make angels weep",
+    "layer": "allusion",
+    "note": "An echo of Shakespeare’s Measure for Measure, where Isabella says proud man “plays such fantastic tricks before high heaven / As make the angels weep.” Here, a scene so foolish it is both funny and dreadful.",
+    "source": "William Shakespeare, Measure for Measure, Act 2, Scene 2",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-007",
+    "anchor": "with maniacal insistence",
+    "layer": "vocab",
+    "note": "Maniacal: wild and frantic, like a madman.",
+    "source": "Merriam-Webster, “maniacal”, https://www.merriam-webster.com/dictionary/maniacal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-008",
+    "anchor": "a silent black squall",
+    "layer": "vocab",
+    "note": "Squall: a sudden, violent gust of wind, usually with rain.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Squall”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-009",
+    "anchor": "in whole constellations",
+    "layer": "vocab",
+    "note": "Constellations: groups of stars forming patterns in the sky.",
+    "source": "Merriam-Webster, “constellation”, https://www.merriam-webster.com/dictionary/constellation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-010",
+    "anchor": "one abyss of obscurity",
+    "layer": "vocab",
+    "note": "Obscurity: darkness, where nothing can be seen.",
+    "source": "Merriam-Webster, “obscurity”, https://www.merriam-webster.com/dictionary/obscurity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-011",
+    "anchor": "in the tenebrous immensity a livid arch",
+    "layer": "vocab",
+    "note": "Tenebrous: dark and gloomy. Livid: a sickly, bruise-like grey or blue.",
+    "source": "Merriam-Webster, “tenebrous”, https://www.merriam-webster.com/dictionary/tenebrous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-012",
+    "anchor": "a swell or two",
+    "layer": "vocab",
+    "note": "A swell: a long, rolling wave that does not break.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Swell”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-013",
+    "anchor": "a peculiar impetuosity",
+    "layer": "vocab",
+    "note": "Impetuosity: sudden, rushing, violent force.",
+    "source": "Merriam-Webster, “impetuosity”, https://www.merriam-webster.com/dictionary/impetuosity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-014",
+    "anchor": "justified in surmising",
+    "layer": "vocab",
+    "note": "Surmising: guessing from the evidence.",
+    "source": "Merriam-Webster, “surmise”, https://www.merriam-webster.com/dictionary/surmise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-015",
+    "anchor": "these new capers of their fright",
+    "layer": "vocab",
+    "note": "Capers: wild, silly jumps or pranks.",
+    "source": "Merriam-Webster, “caper”, https://www.merriam-webster.com/dictionary/caper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-016",
+    "anchor": "these new antics",
+    "layer": "vocab",
+    "note": "Antics: foolish, ridiculous, clownish behaviour.",
+    "source": "Merriam-Webster, “antic”, https://www.merriam-webster.com/dictionary/antic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-017",
+    "anchor": "hopelessly wrong-headed",
+    "layer": "vocab",
+    "note": "Wrong-headed: stubbornly mistaken and unreasonable.",
+    "source": "Merriam-Webster, “wrongheaded”, https://www.merriam-webster.com/dictionary/wrongheaded",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-018",
+    "anchor": "scathingly",
+    "layer": "vocab",
+    "note": "Harshly and cuttingly, meant to wound.",
+    "source": "Merriam-Webster, “scathing”, https://www.merriam-webster.com/dictionary/scathing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-019",
+    "anchor": "the ghost of a show",
+    "layer": "vocab",
+    "note": "Not the slightest chance of surviving.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-020",
+    "anchor": "the least craven of the lot",
+    "layer": "vocab",
+    "note": "Craven: cowardly, lacking all courage.",
+    "source": "Merriam-Webster, “craven”, https://www.merriam-webster.com/dictionary/craven",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-021",
+    "anchor": "mustered enough pluck",
+    "layer": "vocab",
+    "note": "Mustered: gathered up. Pluck: courage.",
+    "source": "Merriam-Webster, “muster”, https://www.merriam-webster.com/dictionary/muster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-022",
+    "anchor": "by a chasm without bottom",
+    "layer": "vocab",
+    "note": "Chasm: a deep gap or split in the earth.",
+    "source": "Merriam-Webster, “chasm”, https://www.merriam-webster.com/dictionary/chasm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-023",
+    "anchor": "their labouring shoulders",
+    "layer": "vocab",
+    "note": "Labouring: working hard and with strain.",
+    "source": "Merriam-Webster, “labor”, https://www.merriam-webster.com/dictionary/labor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-024",
+    "anchor": "the sting of his abstention",
+    "layer": "vocab",
+    "note": "Abstention: choosing not to take part.",
+    "source": "Merriam-Webster, “abstention”, https://www.merriam-webster.com/dictionary/abstention",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-025",
+    "anchor": "the turmoil of terror",
+    "layer": "vocab",
+    "note": "Turmoil: a state of wild confusion.",
+    "source": "Merriam-Webster, “turmoil”, https://www.merriam-webster.com/dictionary/turmoil",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-026",
+    "anchor": "like chaff before the wind",
+    "layer": "allusion",
+    "note": "A phrase from the Bible. Chaff is the light husk blown away when grain is threshed; Psalm 35 asks that enemies be “as chaff before the wind,” scattered and helpless.",
+    "source": "The Bible (King James Version), Psalm 35:5",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-027",
+    "anchor": "knockabout clowns in a farce",
+    "layer": "vocab",
+    "note": "Knockabout: rough slapstick. Farce: a wildly silly comedy.",
+    "source": "Merriam-Webster, “farce”, https://www.merriam-webster.com/dictionary/farce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-028",
+    "anchor": "canting the stem clear of the davit",
+    "layer": "vocab",
+    "note": "Canting: tilting. They tilted the boat’s front end free of its crane arm.",
+    "source": "Merriam-Webster, “cant”, https://www.merriam-webster.com/dictionary/cant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-029",
+    "anchor": "They would stand nonplussed",
+    "layer": "vocab",
+    "note": "Nonplussed: so puzzled they do not know what to do.",
+    "source": "Merriam-Webster, “nonplussed”, https://www.merriam-webster.com/dictionary/nonplussed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-030",
+    "anchor": "with morose thoughtfulness",
+    "layer": "vocab",
+    "note": "Morose: gloomy, sullen, and silent.",
+    "source": "Merriam-Webster, “morose”, https://www.merriam-webster.com/dictionary/morose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-031",
+    "anchor": "I loathed them",
+    "layer": "vocab",
+    "note": "Loathed: hated intensely, with disgust.",
+    "source": "Merriam-Webster, “loathe”, https://www.merriam-webster.com/dictionary/loathe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-032",
+    "anchor": "driven to distraction",
+    "layer": "vocab",
+    "note": "Driven to distraction: made almost frantic with distress.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-033",
+    "anchor": "an element of burlesque in his ordeal",
+    "layer": "vocab",
+    "note": "Burlesque: a mocking, exaggerated comedy. Ordeal: a painful trial.",
+    "source": "Merriam-Webster, “burlesque”, https://www.merriam-webster.com/dictionary/burlesque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-034",
+    "anchor": "a degradation of funny grimaces",
+    "layer": "vocab",
+    "note": "Degradation: humiliation. Grimaces: twisted, ugly faces.",
+    "source": "Merriam-Webster, “grimace”, https://www.merriam-webster.com/dictionary/grimace",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-035",
+    "anchor": "the brooding rancour",
+    "layer": "vocab",
+    "note": "Rancour: bitter, long-lasting resentment or hatred.",
+    "source": "Merriam-Webster, “rancor”, https://www.merriam-webster.com/dictionary/rancor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-036",
+    "anchor": "the bare recital of events",
+    "layer": "vocab",
+    "note": "Recital: a detailed account, telling events in order.",
+    "source": "Merriam-Webster, “recital”, https://www.merriam-webster.com/dictionary/recital",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-037",
+    "anchor": "from the zenith",
+    "layer": "vocab",
+    "note": "Zenith: the point in the sky directly overhead.",
+    "source": "Merriam-Webster, “zenith”, https://www.merriam-webster.com/dictionary/zenith",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-038",
+    "anchor": "her teeming life",
+    "layer": "vocab",
+    "note": "Teeming: crowded, swarming with life.",
+    "source": "Merriam-Webster, “teem”, https://www.merriam-webster.com/dictionary/teem",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-039",
+    "anchor": "a dismal smile",
+    "layer": "vocab",
+    "note": "Dismal: gloomy, sad, and cheerless.",
+    "source": "Merriam-Webster, “dismal”, https://www.merriam-webster.com/dictionary/dismal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-040",
+    "anchor": "that clump of bushes yonder",
+    "layer": "vocab",
+    "note": "Yonder: over there, at a distance.",
+    "source": "Merriam-Webster, “yonder”, https://www.merriam-webster.com/dictionary/yonder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-041",
+    "anchor": "it behoved me",
+    "layer": "vocab",
+    "note": "Behoved: was necessary or right for (me).",
+    "source": "Merriam-Webster, “behoove”, https://www.merriam-webster.com/dictionary/behoove",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-042",
+    "anchor": "I was not disposed",
+    "layer": "vocab",
+    "note": "Disposed: inclined or willing to do something.",
+    "source": "Merriam-Webster, “disposed”, https://www.merriam-webster.com/dictionary/disposed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-043",
+    "anchor": "totter and collapse",
+    "layer": "vocab",
+    "note": "Totter: move unsteadily, about to fall.",
+    "source": "Merriam-Webster, “totter”, https://www.merriam-webster.com/dictionary/totter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-044",
+    "anchor": "That was the donkey-man",
+    "layer": "vocab",
+    "note": "The engineer who runs the donkey engine, a small steam engine for winches and pumps.",
+    "source": "Merriam-Webster, “donkey engine”, https://www.merriam-webster.com/dictionary/donkey%20engine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-045",
+    "anchor": "A haggard, white-faced chap",
+    "layer": "vocab",
+    "note": "Haggard: worn-out and exhausted-looking, as if ill.",
+    "source": "Merriam-Webster, “haggard”, https://www.merriam-webster.com/dictionary/haggard",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-046",
+    "anchor": "Acted third engineer",
+    "layer": "vocab",
+    "note": "He was serving as third engineer, though not officially ranked as one.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-047",
+    "anchor": "out of sorts",
+    "layer": "vocab",
+    "note": "Out of sorts: slightly unwell or in a bad mood.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-048",
+    "anchor": "deep-rooted irony",
+    "layer": "vocab",
+    "note": "Irony: saying the opposite of what you mean, often mockingly.",
+    "source": "Merriam-Webster, “irony”, https://www.merriam-webster.com/dictionary/irony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-049",
+    "anchor": "not fair game",
+    "layer": "vocab",
+    "note": "Fair game: someone it is fair to attack or tease.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-050",
+    "anchor": "the twang of the bow",
+    "layer": "vocab",
+    "note": "Twang: the sharp sound of a bowstring when released.",
+    "source": "Merriam-Webster, “twang”, https://www.merriam-webster.com/dictionary/twang",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-051",
+    "anchor": "I use the simile advisedly",
+    "layer": "vocab",
+    "note": "Simile: a comparison using “like” or “as.” Advisedly: on purpose, after thought.",
+    "source": "Merriam-Webster, “simile”, https://www.merriam-webster.com/dictionary/simile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-052",
+    "anchor": "their practical joke",
+    "layer": "vocab",
+    "note": "A practical joke: a trick played on someone to make them look foolish.",
+    "source": "Merriam-Webster, “practical joke”, https://www.merriam-webster.com/dictionary/practical%20joke",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-053",
+    "anchor": "the grinding surge of the heavy davits",
+    "layer": "vocab",
+    "note": "Surge: a sudden, heavy forward movement.",
+    "source": "Merriam-Webster, “surge”, https://www.merriam-webster.com/dictionary/surge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-054",
+    "anchor": "a threatening heave",
+    "layer": "vocab",
+    "note": "Heave: a rising and falling movement, as of the sea.",
+    "source": "Merriam-Webster, “heave”, https://www.merriam-webster.com/dictionary/heave",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-055",
+    "anchor": "the boat-falls ripped through the blocks",
+    "layer": "vocab",
+    "note": "The ropes lowering the boat ran fast through their pulleys (blocks).",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Block”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-056",
+    "anchor": "a swivel hook",
+    "layer": "vocab",
+    "note": "A hook on a turning joint, used to attach the boat to its lowering ropes.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-057",
+    "anchor": "like a disturbed hive",
+    "layer": "vocab",
+    "note": "Hive: a beehive full of buzzing bees.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-058",
+    "anchor": "swallowing motion in his gullet",
+    "layer": "vocab",
+    "note": "Gullet: the throat, the passage food is swallowed down.",
+    "source": "Merriam-Webster, “gullet”, https://www.merriam-webster.com/dictionary/gullet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-059",
+    "anchor": "I beheld him rise",
+    "layer": "vocab",
+    "note": "Beheld: saw, looked upon (an old word).",
+    "source": "Merriam-Webster, “behold”, https://www.merriam-webster.com/dictionary/behold",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-060",
+    "anchor": "involuntarily I pricked up my ears",
+    "layer": "vocab",
+    "note": "Involuntarily: without meaning to. Pricked up my ears: listened hard.",
+    "source": "Merriam-Webster, “involuntary”, https://www.merriam-webster.com/dictionary/involuntary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-061",
+    "anchor": "a piteous stare",
+    "layer": "vocab",
+    "note": "Piteous: pitiful, deserving or asking for pity.",
+    "source": "Merriam-Webster, “piteous”, https://www.merriam-webster.com/dictionary/piteous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-062",
+    "anchor": "dumfounded and hurt",
+    "layer": "vocab",
+    "note": "Dumfounded: so astonished as to be speechless.",
+    "source": "Merriam-Webster, “dumbfound”, https://www.merriam-webster.com/dictionary/dumbfound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-063",
+    "anchor": "fallen across a thwart",
+    "layer": "vocab",
+    "note": "Thwart: a plank seat running across a rowing boat.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Thwart”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-064",
+    "anchor": "the red side-light",
+    "layer": "vocab",
+    "note": "The red lamp on a ship’s port (left) side, lit at night.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-065",
+    "anchor": "she loomed like a cliff",
+    "layer": "vocab",
+    "note": "Loomed: rose up huge and threatening.",
+    "source": "Merriam-Webster, “loom”, https://www.merriam-webster.com/dictionary/loom",
+    "status": "draft",
+    "checker": null
+  }
+]

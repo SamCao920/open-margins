@@ -1,0 +1,513 @@
+[
+  {
+    "id": "ch4-001",
+    "anchor": "in answer to pointed questions",
+    "layer": "vocab",
+    "note": "Pointed: sharp and direct, aimed at something specific.",
+    "source": "Merriam-Webster, “pointed”, https://www.merriam-webster.com/dictionary/pointed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-002",
+    "anchor": "the official Inquiry",
+    "layer": "history",
+    "note": "Under British shipping law, a serious accident at sea led to a formal investigation in court. A magistrate heard the evidence sitting with “nautical assessors,” experienced seamen who advised on matters of seamanship. Such inquiries were also held in British colonial ports.",
+    "source": "Merchant Shipping Act 1894 (57 & 58 Vict. c. 60), Part VI, “Special Shipping Inquiries and Courts”, https://www.legislation.gov.uk/ukpga/Vict/57-58/60/part/VI/enacted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-003",
+    "anchor": "the police court",
+    "layer": "vocab",
+    "note": "A magistrate’s court that hears minor cases; here, used for the inquiry.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-004",
+    "anchor": "the witness-box",
+    "layer": "vocab",
+    "note": "The raised stand where a witness stands to give evidence in court.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-005",
+    "anchor": "big framework of punkahs",
+    "layer": "vocab",
+    "note": "Punkahs: large cloth fans hung from the ceiling and swung by a servant pulling a cord.",
+    "source": "Merriam-Webster, “punkah”, https://www.merriam-webster.com/dictionary/punkah",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-006",
+    "anchor": "spellbound",
+    "layer": "vocab",
+    "note": "Held completely still by fascination, as if by a spell.",
+    "source": "Merriam-Webster, “spellbound”, https://www.merriam-webster.com/dictionary/spellbound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-007",
+    "anchor": "extorted his answers",
+    "layer": "vocab",
+    "note": "Extorted: forced out by pressure.",
+    "source": "Merriam-Webster, “extort”, https://www.merriam-webster.com/dictionary/extort",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-008",
+    "anchor": "poignant",
+    "layer": "vocab",
+    "note": "Painfully sharp and moving to the feelings.",
+    "source": "Merriam-Webster, “poignant”, https://www.merriam-webster.com/dictionary/poignant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-009",
+    "anchor": "presiding magistrate",
+    "layer": "vocab",
+    "note": "The judge in charge of the court. Presiding: leading the proceedings.",
+    "source": "Merriam-Webster, “magistrate”, https://www.merriam-webster.com/dictionary/magistrate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-010",
+    "anchor": "clean shaved and impassible",
+    "layer": "vocab",
+    "note": "Impassible: showing no feeling at all (an old word close to “impassive”).",
+    "source": "Merriam-Webster, “impassible”, https://www.merriam-webster.com/dictionary/impassible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-011",
+    "anchor": "the two nautical assessors",
+    "layer": "vocab",
+    "note": "Experienced seamen who sit beside the magistrate to judge questions of seamanship.",
+    "source": "Merriam-Webster, “assessor”, https://www.merriam-webster.com/dictionary/assessor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-012",
+    "anchor": "floating awash",
+    "layer": "vocab",
+    "note": "Awash: floating just at the surface, with water washing over it.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Awash”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-013",
+    "anchor": "a water-logged wreck",
+    "layer": "vocab",
+    "note": "A wreck so full of water that it barely floats.",
+    "source": "Merriam-Webster, “waterlogged”, https://www.merriam-webster.com/dictionary/waterlogged",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-014",
+    "anchor": "ascertain",
+    "layer": "vocab",
+    "note": "Find out for certain; make sure of the facts.",
+    "source": "Merriam-Webster, “ascertain”, https://www.merriam-webster.com/dictionary/ascertain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-015",
+    "anchor": "a thin horseshoe beard",
+    "layer": "vocab",
+    "note": "A beard shaped like a horseshoe, around the chin and up the cheeks.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-016",
+    "anchor": "salient cheek-bones",
+    "layer": "vocab",
+    "note": "Salient: sticking out; prominent and easy to notice.",
+    "source": "Merriam-Webster, “salient”, https://www.merriam-webster.com/dictionary/salient",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-017",
+    "anchor": "a blotting-pad",
+    "layer": "vocab",
+    "note": "A pad of soft paper for soaking up wet ink.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-018",
+    "anchor": "the forepeak hatch",
+    "layer": "vocab",
+    "note": "The forepeak is the space inside the very front of the hull; a hatch is its deck opening.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Fore-peak”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-019",
+    "anchor": "the whole drift of its lanyard",
+    "layer": "vocab",
+    "note": "Lanyard: a short rope. The whole drift: its full length.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Lanyard”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-020",
+    "anchor": "below the water-line",
+    "layer": "vocab",
+    "note": "The water-line is the level the water reaches on a ship’s side.",
+    "source": "Merriam-Webster, “waterline”, https://www.merriam-webster.com/dictionary/waterline",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-021",
+    "anchor": "played incessantly",
+    "layer": "vocab",
+    "note": "Incessantly: without ever stopping or pausing.",
+    "source": "Merriam-Webster, “incessant”, https://www.merriam-webster.com/dictionary/incessant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-022",
+    "anchor": "no other bulkhead in the ship but the collision bulkhead",
+    "layer": "vocab",
+    "note": "Bulkheads are walls inside a hull; the collision bulkhead is a watertight one near the bow.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bulk-heads”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-023",
+    "anchor": "separating the forepeak from the forehold",
+    "layer": "vocab",
+    "note": "The forehold is the cargo space in the front part of the ship.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-024",
+    "anchor": "like a lump of lead",
+    "layer": "vocab",
+    "note": "Straight to the bottom, as heavy lead would sink.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-025",
+    "anchor": "I fancy he was asking",
+    "layer": "vocab",
+    "note": "I fancy: I imagine, I suppose (British).",
+    "source": "Merriam-Webster, “fancy”, https://www.merriam-webster.com/dictionary/fancy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-026",
+    "anchor": "making a row",
+    "layer": "vocab",
+    "note": "Row (rhymes with “cow”): a noisy fuss or quarrel.",
+    "source": "Merriam-Webster, “row”, https://www.merriam-webster.com/dictionary/row",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-027",
+    "anchor": "the starboard ladder",
+    "layer": "vocab",
+    "note": "Starboard: the right-hand side of a ship, facing forward.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Starboard”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-028",
+    "anchor": "round the skylight",
+    "layer": "vocab",
+    "note": "A skylight is a glass-covered opening in the deck letting light below.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-029",
+    "anchor": "engine-room companion which was on the port side",
+    "layer": "vocab",
+    "note": "Companion: covered stairway below. Port: the ship’s left-hand side, facing forward.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Companion”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-030",
+    "anchor": "a meticulous precision",
+    "layer": "vocab",
+    "note": "Meticulous: extremely careful about every small detail.",
+    "source": "Merriam-Webster, “meticulous”, https://www.merriam-webster.com/dictionary/meticulous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-031",
+    "anchor": "tangible",
+    "layer": "vocab",
+    "note": "Able to be touched; real and solid.",
+    "source": "Merriam-Webster, “tangible”, https://www.merriam-webster.com/dictionary/tangible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-032",
+    "anchor": "fourteen-hundred-ton steamer",
+    "layer": "vocab",
+    "note": "A ship’s tonnage measured its size or carrying capacity.",
+    "source": "Merriam-Webster, “tonnage”, https://www.merriam-webster.com/dictionary/tonnage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-033",
+    "anchor": "a directing spirit of perdition",
+    "layer": "vocab",
+    "note": "Perdition: utter ruin; in religion, eternal damnation.",
+    "source": "Merriam-Webster, “perdition”, https://www.merriam-webster.com/dictionary/perdition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-034",
+    "anchor": "detestable",
+    "layer": "vocab",
+    "note": "Deserving to be hated; disgusting.",
+    "source": "Merriam-Webster, “detestable”, https://www.merriam-webster.com/dictionary/detestable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-035",
+    "anchor": "the serried circle of facts",
+    "layer": "vocab",
+    "note": "Serried: pressed close together in rows, like soldiers.",
+    "source": "Merriam-Webster, “serried”, https://www.merriam-webster.com/dictionary/serried",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-036",
+    "anchor": "dashes round and round, distracted",
+    "layer": "vocab",
+    "note": "Distracted here means frantic, half out of its mind.",
+    "source": "Merriam-Webster, “distracted”, https://www.merriam-webster.com/dictionary/distracted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-037",
+    "anchor": "stone-blind",
+    "layer": "vocab",
+    "note": "Completely blind, as blind as a stone.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-038",
+    "anchor": "“infernal steam!”",
+    "layer": "vocab",
+    "note": "Infernal: hellish; used as a curse, like “damned.”",
+    "source": "Merriam-Webster, “infernal”, https://www.merriam-webster.com/dictionary/infernal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-039",
+    "anchor": "becoming irrelevant",
+    "layer": "vocab",
+    "note": "Irrelevant: not connected to the question being asked.",
+    "source": "Merriam-Webster, “irrelevant”, https://www.merriam-webster.com/dictionary/irrelevant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-040",
+    "anchor": "a curt ‘Yes, I did’",
+    "layer": "vocab",
+    "note": "Curt: short and abrupt, almost rude.",
+    "source": "Merriam-Webster, “curt”, https://www.merriam-webster.com/dictionary/curt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-041",
+    "anchor": "parched lips",
+    "layer": "vocab",
+    "note": "Parched: dried out from heat or thirst.",
+    "source": "Merriam-Webster, “parched”, https://www.merriam-webster.com/dictionary/parched",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-042",
+    "anchor": "eddied down",
+    "layer": "vocab",
+    "note": "Eddied: swirled in circles, like water around a rock.",
+    "source": "Merriam-Webster, “eddy”, https://www.merriam-webster.com/dictionary/eddy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-043",
+    "anchor": "voluminous draperies",
+    "layer": "vocab",
+    "note": "Voluminous: very full and loose. Draperies: robes or cloths hanging in folds.",
+    "source": "Merriam-Webster, “voluminous”, https://www.merriam-webster.com/dictionary/voluminous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-044",
+    "anchor": "drill suits",
+    "layer": "vocab",
+    "note": "Suits of drill, a strong cotton cloth worn by Europeans in hot climates.",
+    "source": "Merriam-Webster, “drill”, https://www.merriam-webster.com/dictionary/drill",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-045",
+    "anchor": "round pith hats",
+    "layer": "vocab",
+    "note": "Light sun helmets made from pith (dried plant stem), worn in the tropics.",
+    "source": "Merriam-Webster, “pith helmet”, https://www.merriam-webster.com/dictionary/pith%20helmet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-046",
+    "anchor": "the court peons",
+    "layer": "vocab",
+    "note": "Peons (in India): attendants or messengers.",
+    "source": "Merriam-Webster, “peon”, https://www.merriam-webster.com/dictionary/peon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-047",
+    "anchor": "red-sashed",
+    "layer": "vocab",
+    "note": "Wearing a sash, a band of cloth around the waist.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-048",
+    "anchor": "like so many retrievers",
+    "layer": "vocab",
+    "note": "Retrievers: hunting dogs trained to fetch, always alert.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-049",
+    "anchor": "an act of intelligent volition",
+    "layer": "vocab",
+    "note": "Volition: the act of choosing or willing something.",
+    "source": "Merriam-Webster, “volition”, https://www.merriam-webster.com/dictionary/volition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-050",
+    "anchor": "incoherent",
+    "layer": "vocab",
+    "note": "Not clearly connected; jumbled and hard to follow.",
+    "source": "Merriam-Webster, “incoherent”, https://www.merriam-webster.com/dictionary/incoherent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-051",
+    "anchor": "endless converse with himself",
+    "layer": "vocab",
+    "note": "Converse (noun): conversation; talk with someone.",
+    "source": "Merriam-Webster, “converse”, https://www.merriam-webster.com/dictionary/converse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-052",
+    "anchor": "a wayfarer",
+    "layer": "vocab",
+    "note": "A traveller on foot, often on a long journey.",
+    "source": "Merriam-Webster, “wayfarer”, https://www.merriam-webster.com/dictionary/wayfarer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-053",
+    "anchor": "turned away resolutely",
+    "layer": "vocab",
+    "note": "Resolutely: firmly and with determination.",
+    "source": "Merriam-Webster, “resolute”, https://www.merriam-webster.com/dictionary/resolute",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-054",
+    "anchor": "on a verandah",
+    "layer": "vocab",
+    "note": "A roofed, open porch along the outside of a house.",
+    "source": "Merriam-Webster, “veranda”, https://www.merriam-webster.com/dictionary/veranda",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-055",
+    "anchor": "each cane-chair harboured",
+    "layer": "vocab",
+    "note": "Cane-chair: a chair woven of cane. Harboured: held, sheltered.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-056",
+    "anchor": "pensive eyes",
+    "layer": "vocab",
+    "note": "Pensive: thoughtful, in a quiet or sad way.",
+    "source": "Merriam-Webster, “pensive”, https://www.merriam-webster.com/dictionary/pensive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-057",
+    "anchor": "an unruffled forehead",
+    "layer": "vocab",
+    "note": "Unruffled: smooth and calm, not wrinkled with worry.",
+    "source": "Merriam-Webster, “unruffled”, https://www.merriam-webster.com/dictionary/unruffled",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-058",
+    "anchor": "the lapse of time",
+    "layer": "vocab",
+    "note": "Lapse of time: the passing of time.",
+    "source": "Merriam-Webster, “lapse”, https://www.merriam-webster.com/dictionary/lapse",
+    "status": "draft",
+    "checker": null
+  }
+]

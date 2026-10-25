@@ -250,6 +250,7 @@ Flat by default. Depth comes from paper changes (buff wrapper over newsprint) an
 ### Shadow Vocabulary
 - **Floating card** (`box-shadow: 0 10px 30px var(--shadow)`): the open settings card.
 - **Lifted note** (`box-shadow: 0 6px 18px var(--shadow)`): a hovered or pinned note in an open margin panel, raised over its trimmed neighbours.
+- **Tipped-in plate** (`box-shadow: 0 18px 40px -22px var(--shadow)`): the one exception at rest; a painting's buff mount sits on the page like a plate tipped into a bound volume.
 
 ### Named Rules
 **The Print Is Flat Rule.** Nothing at rest has a shadow. Shadows are soft and diffuse and appear only on an element that overlaps the text; never a hard offset shadow.
@@ -267,6 +268,12 @@ Printed boxes, not app buttons.
 - **Stepper (A−, A+):** 2.6rem square-cornered boxes in ink hairline; hover inverts to ink on newsprint; disabled at 35% opacity.
 - **Text action** (reset): muted ink, underlined in faint rule, no box.
 - **Focus:** 1px ink outline offset 3px (2px on composite controls).
+
+### Logo
+The mark is a bold Old Standard "S" inside an open square frame whose top-right corner is broken by an asterisk, the vocabulary reference mark: a letter with a note in its margin. `site/brand/mark.svg` is drawn in currentColor and applied as a CSS mask on `.logo`, so it inherits ink in both themes (1.45rem in the running head, 4.25rem on the home title page, 1em in colophons). `favicon.svg` is a heavier variant on a buff ground, legible at 16px; PNGs at 32, 180 (apple-touch) and 512px are rendered from it.
+
+### Plates (signature)
+Public-domain paintings of readers, set as numbered plates: the image in a 1px wrapper-ink keyline on a buff mount (padding clamp(12px, 1.8vw, 24px)), with a caption below in muted ink led by a small-caps plate number ("Plate I.", "Frontispiece."). The home page pairs Plate I with the title page in a 5fr/6fr spread, then floats Plates II and III alternately beside its two folios. Home art stays general (reading, libraries), never tied to one book; a book's own frontispiece belongs on its book page. Every plate is credited with museum and source in the colophon and `site/art/CREDITS.md`. Buff appears only as wrapper bars and mounts, never as a full-width band meeting the page.
 
 ### Layer toggles (signature)
 Each layer is its printer's mark in a 1.15rem square box. On: filled wrapper ink with the mark in buff. Off: hollow box, name struck through at 60% opacity. The checkbox stays real and visually hidden; focus draws the outline on the box.
@@ -288,7 +295,7 @@ Each layer is its printer's mark in a 1.15rem square box. On: filled wrapper ink
 ### Annotated text and notes (signature)
 - **Anchor:** dotted muted underline (1px, .22em offset), never hyphenated across lines; hover goes solid ink; active adds the buff wash.
 - **Reference marks:** * † § ¶ in the gutters, muted at rest, bold ink when their note is hovered or active.
-- **Note:** bold mark, italic lemma, "]", gloss; source on its own line in muted ink. In open margins notes are trimmed to whole words with "unverified" kept up front; hover or pin shows the note whole with the buff wash and lifted-note shadow.
+- **Note:** bold mark, italic lemma, "]", gloss; source on its own line in muted ink. In open margins notes are trimmed to whole words; draft status is never shown to readers; hover or pin shows the note whole with the buff wash and lifted-note shadow.
 - **Focus note:** a single note beside its anchor; pinned adds the buff wash and the source.
 - **Motion:** panels fade and slide 8px in over .2s, focus notes rise 3px over .16s, the column shift takes .24s, all on `cubic-bezier(.16, 1, .3, 1)`.
 

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "ch2-001",
+    "anchor": "magic monotony",
+    "layer": "vocab",
+    "note": "Monotony: dull sameness, every day like the one before.",
+    "source": "Merriam-Webster, “monotony”, https://www.merriam-webster.com/dictionary/monotony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-002",
+    "anchor": "the exactions of",
+    "layer": "vocab",
+    "note": "Exactions: hard demands that must be met.",
+    "source": "Merriam-Webster, “exaction”, https://www.merriam-webster.com/dictionary/exaction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-003",
+    "anchor": "prosaic severity",
+    "layer": "vocab",
+    "note": "Prosaic: dull and ordinary. Severity: harshness.",
+    "source": "Merriam-Webster, “prosaic”, https://www.merriam-webster.com/dictionary/prosaic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-004",
+    "anchor": "This reward eluded",
+    "layer": "vocab",
+    "note": "Eluded: escaped; he never managed to get it.",
+    "source": "Merriam-Webster, “elude”, https://www.merriam-webster.com/dictionary/elude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-005",
+    "anchor": "tractable",
+    "layer": "vocab",
+    "note": "Easy to manage or control; willing to follow orders.",
+    "source": "Merriam-Webster, “tractable”, https://www.merriam-webster.com/dictionary/tractable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-006",
+    "anchor": "chief mate of a fine ship",
+    "layer": "vocab",
+    "note": "The chief mate is the officer next in rank below the captain.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Mate”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-007",
+    "anchor": "secret truth of his pretences",
+    "layer": "vocab",
+    "note": "Pretences: false claims or appearances one puts on.",
+    "source": "Merriam-Webster, “pretense”, https://www.merriam-webster.com/dictionary/pretense",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-008",
+    "anchor": "indefinable",
+    "layer": "vocab",
+    "note": "Impossible to describe exactly in words.",
+    "source": "Merriam-Webster, “indefinable”, https://www.merriam-webster.com/dictionary/indefinable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-009",
+    "anchor": "unbridled cruelty",
+    "layer": "vocab",
+    "note": "Unbridled: unrestrained, out of control, like a horse without a bridle.",
+    "source": "Merriam-Webster, “unbridled”, https://www.merriam-webster.com/dictionary/unbridled",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-010",
+    "anchor": "annihilate",
+    "layer": "vocab",
+    "note": "Destroy completely, so that nothing is left.",
+    "source": "Merriam-Webster, “annihilate”, https://www.merriam-webster.com/dictionary/annihilate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-011",
+    "anchor": "a falling spar",
+    "layer": "vocab",
+    "note": "A spar is any pole used in a ship’s rigging, such as a mast, yard, or boom.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Spar”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-012",
+    "anchor": "pairfect meeracle",
+    "layer": "vocab",
+    "note": "The captain’s Scottish way of saying “perfect miracle.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-013",
+    "anchor": "how she lived through it",
+    "layer": "vocab",
+    "note": "“She” is the ship: the ship survived the storm.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-014",
+    "anchor": "abyss of unrest",
+    "layer": "vocab",
+    "note": "Abyss: a bottomless pit or gulf.",
+    "source": "Merriam-Webster, “abyss”, https://www.merriam-webster.com/dictionary/abyss",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-015",
+    "anchor": "lucid moments",
+    "layer": "vocab",
+    "note": "Lucid: clear-headed; able to think clearly again.",
+    "source": "Merriam-Webster, “lucid”, https://www.merriam-webster.com/dictionary/lucid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-016",
+    "anchor": "unstimulated",
+    "layer": "vocab",
+    "note": "Not stirred up or excited by anything.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-017",
+    "anchor": "battened down",
+    "layer": "vocab",
+    "note": "Shut in below deck, as hatches are “battened down” (fastened shut) in a storm.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Batten down”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-018",
+    "anchor": "devastation",
+    "layer": "vocab",
+    "note": "Ruin and wreckage left by violent damage.",
+    "source": "Merriam-Webster, “devastation”, https://www.merriam-webster.com/dictionary/devastation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-019",
+    "anchor": "writhe",
+    "layer": "vocab",
+    "note": "Twist the body about, as if in pain.",
+    "source": "Merriam-Webster, “writhe”, https://www.merriam-webster.com/dictionary/writhe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-020",
+    "anchor": "the purser",
+    "layer": "vocab",
+    "note": "The ship’s officer who keeps the accounts and supplies.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Purser”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-021",
+    "anchor": "of a gunboat",
+    "layer": "vocab",
+    "note": "A small armed warship, used on coasts and rivers.",
+    "source": "Merriam-Webster, “gunboat”, https://www.merriam-webster.com/dictionary/gunboat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-022",
+    "anchor": "railway contractor",
+    "layer": "vocab",
+    "note": "A businessman paid to build a railway line.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-023",
+    "anchor": "held the doctor for an ass",
+    "layer": "vocab",
+    "note": "Thought the doctor was a fool.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-024",
+    "anchor": "debaucheries",
+    "layer": "vocab",
+    "note": "Debaucheries: wild overindulgence; here, secretly dosing himself heavily.",
+    "source": "Merriam-Webster, “debauchery”, https://www.merriam-webster.com/dictionary/debauchery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-025",
+    "anchor": "patent medicine",
+    "layer": "history",
+    "note": "Patent medicines were bottled remedies sold without a prescription, often with secret ingredients such as alcohol or opium, and advertised with exaggerated claims of cures. They were popular and widely sold in the late nineteenth century.",
+    "source": "Merriam-Webster, “patent medicine”, https://www.merriam-webster.com/dictionary/patent%20medicine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-026",
+    "anchor": "his Tamil",
+    "layer": "vocab",
+    "note": "Tamil: one of the Tamil people of southern India and northern Sri Lanka.",
+    "source": "Merriam-Webster, “Tamil”, https://www.merriam-webster.com/dictionary/Tamil",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-027",
+    "anchor": "unwearied devotion",
+    "layer": "vocab",
+    "note": "Unwearied: never tiring or slackening.",
+    "source": "Merriam-Webster, “unwearied”, https://www.merriam-webster.com/dictionary/unwearied",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-028",
+    "anchor": "in pyjamas",
+    "layer": "vocab",
+    "note": "British spelling of “pajamas,” loose clothes for sleeping.",
+    "source": "Merriam-Webster, “pajamas”, https://www.merriam-webster.com/dictionary/pajamas",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-029",
+    "anchor": "the languor of the earth",
+    "layer": "vocab",
+    "note": "Languor: a pleasant, sleepy heaviness or laziness.",
+    "source": "Merriam-Webster, “languor”, https://www.merriam-webster.com/dictionary/languor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-030",
+    "anchor": "bewitching",
+    "layer": "vocab",
+    "note": "Charming, as if by magic.",
+    "source": "Merriam-Webster, “bewitching”, https://www.merriam-webster.com/dictionary/bewitching",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-031",
+    "anchor": "the fronds of",
+    "layer": "vocab",
+    "note": "Fronds: the large divided leaves of palms or ferns.",
+    "source": "Merriam-Webster, “frond”, https://www.merriam-webster.com/dictionary/frond",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-032",
+    "anchor": "roadstead which is a thoroughfare",
+    "layer": "vocab",
+    "note": "A roadstead is sheltered water near a shore where ships anchor. A thoroughfare is a main route.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Road”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-033",
+    "anchor": "garlanded islets",
+    "layer": "vocab",
+    "note": "Islets: small islands. Garlanded: decorated as if with wreaths of flowers.",
+    "source": "Merriam-Webster, “islet”, https://www.merriam-webster.com/dictionary/islet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-034",
+    "anchor": "festal",
+    "layer": "vocab",
+    "note": "Festive, cheerful, like a celebration or holiday.",
+    "source": "Merriam-Webster, “festal”, https://www.merriam-webster.com/dictionary/festal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-035",
+    "anchor": "holiday pageant",
+    "layer": "vocab",
+    "note": "A pageant is a colourful public parade or show.",
+    "source": "Merriam-Webster, “pageant”, https://www.merriam-webster.com/dictionary/pageant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-036",
+    "anchor": "Directly he could walk",
+    "layer": "vocab",
+    "note": "Directly: as soon as (British usage).",
+    "source": "Merriam-Webster, “directly”, https://www.merriam-webster.com/dictionary/directly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-037",
+    "anchor": "men of his calling",
+    "layer": "vocab",
+    "note": "Calling: profession; here, other seamen.",
+    "source": "Merriam-Webster, “calling”, https://www.merriam-webster.com/dictionary/calling",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-038",
+    "anchor": "an undefaced energy",
+    "layer": "vocab",
+    "note": "Undefaced: unspoiled, not worn away.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-039",
+    "anchor": "buccaneers",
+    "layer": "vocab",
+    "note": "Pirates, especially the sea-robbers of the Caribbean in the 1600s.",
+    "source": "Merriam-Webster, “buccaneer”, https://www.merriam-webster.com/dictionary/buccaneer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-040",
+    "anchor": "country ships",
+    "layer": "history",
+    "note": "Merchant ships in the “country trade”: trade between ports within Asia and along India’s coasts, as opposed to voyages to and from Britain. Officers in this trade were usually Europeans; the ships themselves might belong to Asian or European owners.",
+    "source": "Families in British India Society, “Country Sea Service”, https://wiki.fibis.org/w/Country_Sea_Service",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-041",
+    "anchor": "the home service",
+    "layer": "vocab",
+    "note": "Ships sailing on long voyages to and from Britain, as opposed to local Eastern trade.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-042",
+    "anchor": "attuned to",
+    "layer": "vocab",
+    "note": "Attuned: in harmony with; used to and suited to.",
+    "source": "Merriam-Webster, “attune”, https://www.merriam-webster.com/dictionary/attune",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-043",
+    "anchor": "precariously",
+    "layer": "vocab",
+    "note": "Unsteadily; in a way that could fall apart at any moment.",
+    "source": "Merriam-Webster, “precarious”, https://www.merriam-webster.com/dictionary/precarious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-044",
+    "anchor": "the verge of dismissal",
+    "layer": "vocab",
+    "note": "On the verge of: about to. Dismissal: being fired.",
+    "source": "Merriam-Webster, “verge”, https://www.merriam-webster.com/dictionary/verge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-045",
+    "anchor": "the verge of engagement",
+    "layer": "vocab",
+    "note": "Engagement here means being hired for a job.",
+    "source": "Merriam-Webster, “engagement”, https://www.merriam-webster.com/dictionary/engagement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-046",
+    "anchor": "serving Chinamen",
+    "layer": "vocab",
+    "note": "“Chinamen” and “half-castes” were period terms, now offensive, for Chinese and mixed-race people.",
+    "source": "Merriam-Webster, “Chinaman”, https://www.merriam-webster.com/dictionary/Chinaman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-047",
+    "anchor": "a soft thing",
+    "layer": "vocab",
+    "note": "An easy job; something good for little effort.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-048",
+    "anchor": "an easy billet",
+    "layer": "vocab",
+    "note": "Billet: a job or position.",
+    "source": "Merriam-Webster, “billet”, https://www.merriam-webster.com/dictionary/billet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-049",
+    "anchor": "the Siamese navy",
+    "layer": "place",
+    "note": "Siam was the name of Thailand until 1939. Its king kept a modern navy in the late 1800s, and some of its officers were hired Europeans.",
+    "source": "Encyclopaedia Britannica, “Thailand”, https://www.britannica.com/place/Thailand",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-050",
+    "anchor": "unsubstantial",
+    "layer": "vocab",
+    "note": "Lacking substance; not solid or real.",
+    "source": "Merriam-Webster, “unsubstantial”, https://www.merriam-webster.com/dictionary/unsubstantial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-051",
+    "anchor": "original disdain",
+    "layer": "vocab",
+    "note": "Disdain: the feeling that something is beneath you; scorn.",
+    "source": "Merriam-Webster, “disdain”, https://www.merriam-webster.com/dictionary/disdain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-052",
+    "anchor": "took a berth",
+    "layer": "vocab",
+    "note": "Took a job on a ship; a berth is a position aboard.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Berth”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-053",
+    "anchor": "as old as the hills",
+    "layer": "vocab",
+    "note": "Very old; a common saying.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-054",
+    "anchor": "a condemned water-tank",
+    "layer": "vocab",
+    "note": "A water tank officially declared unfit for use.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-055",
+    "anchor": "chartered by an Arab",
+    "layer": "vocab",
+    "note": "Chartered: hired, so the Arab rented the ship for this voyage.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Charter-party”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-056",
+    "anchor": "renegade",
+    "layer": "vocab",
+    "note": "A person who has turned against his own country or side.",
+    "source": "Merriam-Webster, “renegade”, https://www.merriam-webster.com/dictionary/renegade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-057",
+    "anchor": "New South Wales German",
+    "layer": "place",
+    "note": "New South Wales was a British colony in southeastern Australia, with Sydney as its capital. It became a state of Australia when the colonies federated in 1901. The captain is a German who had settled there.",
+    "source": "Encyclopaedia Britannica, “New South Wales”, https://www.britannica.com/place/New-South-Wales",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-058",
+    "anchor": "‘blood-and-iron’ air",
+    "layer": "allusion",
+    "note": "Otto von Bismarck, the Prussian leader who united Germany through wars between 1864 and 1871, told a parliamentary committee in 1862 that great questions are decided “by iron and blood.” A “blood-and-iron” air means a harsh, bullying manner.",
+    "source": "German History in Documents and Images, “Excerpt from Bismarck’s ‘Blood and Iron’ Speech (1862)”, https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/excerpt-from-bismarcks-blood-and-iron-speech-1862",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-059",
+    "anchor": "eight hundred pilgrims",
+    "layer": "history",
+    "note": "Steamers carried Muslim pilgrims from Southeast Asia across the Indian Ocean and up the Red Sea to Jeddah, the port for Mecca, to make the hajj, the pilgrimage every Muslim who is able should make once. The trade grew after the Suez Canal opened in 1869.",
+    "source": "National Heritage Board (Singapore), “The Journey of Faith”, https://www.nhb.gov.sg/-/media/nhb/files/media/releases/new-releases/the-journey-of-faith.pdf",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-060",
+    "anchor": "with steam up",
+    "layer": "vocab",
+    "note": "Steam up: with fires lit and boilers ready, so the engines can start.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-061",
+    "anchor": "wooden jetty",
+    "layer": "vocab",
+    "note": "Jetty: a landing pier built out into the water.",
+    "source": "Merriam-Webster, “jetty”, https://www.merriam-webster.com/dictionary/jetty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-062",
+    "anchor": "three gangways",
+    "layer": "vocab",
+    "note": "Gangways: movable bridges or ramps between a ship and the shore.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gangway”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-063",
+    "anchor": "forward and aft",
+    "layer": "vocab",
+    "note": "Toward the front (forward) and toward the back (aft) of the ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Aft”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-064",
+    "anchor": "yawning hatchways",
+    "layer": "vocab",
+    "note": "Yawning: wide open. Hatchways: openings in the deck to the decks below.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Hatchway”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-065",
+    "anchor": "a cistern",
+    "layer": "vocab",
+    "note": "Cistern: a tank for storing water.",
+    "source": "Merriam-Webster, “cistern”, https://www.merriam-webster.com/dictionary/cistern",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-066",
+    "anchor": "crevices and crannies",
+    "layer": "vocab",
+    "note": "Narrow cracks and small hidden gaps.",
+    "source": "Merriam-Webster, “cranny”, https://www.merriam-webster.com/dictionary/cranny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-067",
+    "anchor": "coasting in praus",
+    "layer": "vocab",
+    "note": "Praus: fast Malay sailing boats. Coasting: sailing along the coast.",
+    "source": "Merriam-Webster, “proa”, https://www.merriam-webster.com/dictionary/proa",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-068",
+    "anchor": "populous campongs",
+    "layer": "vocab",
+    "note": "Populous: crowded. Campongs (kampongs): Malay villages.",
+    "source": "Merriam-Webster, “kampong”, https://www.merriam-webster.com/dictionary/kampong",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-069",
+    "anchor": "soiled head-cloths",
+    "layer": "vocab",
+    "note": "Soiled: dirty. Head-cloths: cloths worn wrapped over the head.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-070",
+    "anchor": "an exacting belief",
+    "layer": "vocab",
+    "note": "Exacting: demanding a great deal of effort or sacrifice.",
+    "source": "Merriam-Webster, “exacting”, https://www.merriam-webster.com/dictionary/exacting",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-071",
+    "anchor": "Look at dese cattle",
+    "layer": "vocab",
+    "note": "“Dese” is “these” in the German captain’s accent.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-072",
+    "anchor": "that pious voyage",
+    "layer": "vocab",
+    "note": "Pious: devoutly religious; done out of faith.",
+    "source": "Merriam-Webster, “pious”, https://www.merriam-webster.com/dictionary/pious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-073",
+    "anchor": "the Patna cast off",
+    "layer": "vocab",
+    "note": "Cast off: let go the ropes holding the ship to the wharf.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cast off”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-074",
+    "anchor": "the wharf",
+    "layer": "vocab",
+    "note": "A landing place where ships tie up to load and unload.",
+    "source": "Merriam-Webster, “wharf”, https://www.merriam-webster.com/dictionary/wharf",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-075",
+    "anchor": "crossed obliquely",
+    "layer": "vocab",
+    "note": "Obliquely: at a slant, not straight across.",
+    "source": "Merriam-Webster, “oblique”, https://www.merriam-webster.com/dictionary/oblique",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-076",
+    "anchor": "anchoring-ground of sailing-ships",
+    "layer": "vocab",
+    "note": "An area of water set aside where ships drop anchor.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-077",
+    "anchor": "ranged close to a ledge",
+    "layer": "vocab",
+    "note": "Ranged close to: sailed close alongside. Ledge: a ridge of rock.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-078",
+    "anchor": "the Most High",
+    "layer": "vocab",
+    "note": "A name for God, used in prayer.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-079",
+    "anchor": "implored",
+    "layer": "vocab",
+    "note": "Begged earnestly and urgently for something.",
+    "source": "Merriam-Webster, “implore”, https://www.merriam-webster.com/dictionary/implore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-080",
+    "anchor": "far astern",
+    "layer": "vocab",
+    "note": "Astern: behind the ship, in the direction of its back.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Astern”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-081",
+    "anchor": "screw-pile lighthouse",
+    "layer": "vocab",
+    "note": "A lighthouse on iron legs screwed into the soft seabed of shallow water.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-082",
+    "anchor": "a treacherous shoal",
+    "layer": "vocab",
+    "note": "Shoal: a shallow place in the sea, dangerous to ships.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Shoal”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-083",
+    "anchor": "in derision",
+    "layer": "vocab",
+    "note": "Derision: mocking laughter; scorn for something thought foolish.",
+    "source": "Merriam-Webster, “derision”, https://www.merriam-webster.com/dictionary/derision",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-084",
+    "anchor": "the Red Sea",
+    "layer": "place",
+    "note": "The long, narrow sea between northeast Africa and the Arabian Peninsula. Ships from Asia entered it at its southern end to reach the ports of Arabia and, after 1869, the Suez Canal.",
+    "source": "Encyclopaedia Britannica, “Red Sea”, https://www.britannica.com/place/Red-Sea",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-085",
+    "anchor": "a fulgor",
+    "layer": "vocab",
+    "note": "A dazzling brightness, like a blaze of light.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-086",
+    "anchor": "viscous",
+    "layer": "vocab",
+    "note": "Thick and slow-moving, like syrup.",
+    "source": "Merriam-Webster, “viscous”, https://www.merriam-webster.com/dictionary/viscous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-087",
+    "anchor": "lived amidships",
+    "layer": "vocab",
+    "note": "Amidships: in the middle part of the ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Amidships”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-088",
+    "anchor": "The awnings",
+    "layer": "vocab",
+    "note": "Awnings: canvas sheets spread over a deck as a roof against sun or rain.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Awning”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-089",
+    "anchor": "stem to stern",
+    "layer": "vocab",
+    "note": "From the front tip (stem) to the back (stern) of the ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stem”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-090",
+    "anchor": "in the wake",
+    "layer": "vocab",
+    "note": "Wake: the track of disturbed water a moving ship leaves behind it.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Wake”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-091",
+    "anchor": "smouldering",
+    "layer": "vocab",
+    "note": "Burning slowly with smoke but no flame.",
+    "source": "Merriam-Webster, “smolder”, https://www.merriam-webster.com/dictionary/smolder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-092",
+    "anchor": "like a benediction",
+    "layer": "vocab",
+    "note": "Benediction: a blessing, such as a prayer for good.",
+    "source": "Merriam-Webster, “benediction”, https://www.merriam-webster.com/dictionary/benediction",
+    "status": "draft",
+    "checker": null
+  }
+]

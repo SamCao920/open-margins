@@ -1,0 +1,61 @@
+name: Fetch public-domain art
+
+# Downloads the paintings listed in .github/art-sources.txt from Wikimedia
+# Commons into site/art/ and commits them, so the site serves its own copies.
+on:
+  push:
+    paths: ['.github/art-sources.txt']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download paintings
+        run: |
+          mkdir -p site/art
+          python3 - <<'PY'
+          import json, os, subprocess, urllib.parse, urllib.request
+          UA = {"User-Agent": "ScholiaArtFetch/1.0 (https://github.com/samcao920/scholia)"}
+          def get(url):
+              return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read()
+          for line in open(".github/art-sources.txt", encoding="utf-8"):
+              line = line.strip()
+              if not line or line.startswith("#"):
+                  continue
+              name, spec = line.split("|", 1)
+              if os.path.exists(f"site/art/{name}.jpg") or os.path.exists(f"site/art/{name}-1800.jpg"):
+                  continue
+              title = spec
+              if spec.startswith("search:"):
+                  q = urllib.parse.urlencode({"action": "query", "list": "search", "srnamespace": 6,
+                                              "srsearch": spec[7:] + " filetype:bitmap", "srlimit": 5, "format": "json"})
+                  hits = json.loads(get("https://commons.wikimedia.org/w/api.php?" + q))["query"]["search"]
+                  print(name, "search results:", [h["title"] for h in hits])
+                  if not hits:
+                      print(f"::warning::No Commons result for {spec}")
+                      continue
+                  title = hits[0]["title"].removeprefix("File:")
+              url = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(title.replace(" ", "_")) + "?width=2400"
+              print("Fetching", name, "from", url)
+              try:
+                  data = get(url)
+              except Exception as e:
+                  print(f"::warning::Could not fetch {title}: {e}")
+                  continue
+              open(f"site/art/{name}.jpg", "wb").write(data)
+              with open("site/art/SOURCES.txt", "a", encoding="utf-8") as f:
+                  f.write(f"{name}.jpg <- https://commons.wikimedia.org/wiki/File:{urllib.parse.quote(title.replace(' ', '_'))}\n")
+          PY
+          ls -la site/art
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/art
+          git diff --cached --quiet || git commit -m "Fetch public-domain paintings from Wikimedia Commons"
+          git push

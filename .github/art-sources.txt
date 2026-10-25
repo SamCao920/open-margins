@@ -1,0 +1,7 @@
+# One painting per line: output-name|Wikimedia Commons file name
+#   or output-name|search:<words>  (takes the top Commons file search result)
+# The fetch-art workflow downloads each into site/art/<output-name>.jpg.
+temeraire|The Fighting Temeraire, JMW Turner, National Gallery.jpg
+bookworm|Carl Spitzweg - "The Bookworm".jpg
+fragonard|search:Fragonard Young Girl Reading National Gallery of Art
+vermeer|search:Vermeer Girl Reading a Letter at an Open Window

@@ -196,29 +196,118 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .settings-panel .hint { color: var(--muted); font-size: .85rem; line-height: 1.4; margin: .35rem 0 0; font-style: italic; }
 .settings-panel [data-prefs-reset] { font: inherit; font-size: .85rem; color: var(--muted); background: none; border: 0; padding: 0; text-decoration: underline; text-decoration-color: var(--faint); cursor: pointer; }
 
-/* ----- Cover and title pages ----- */
-.bar-float { position: absolute; top: .7rem; right: 16px; z-index: 5; color: var(--wrapper-ink); }
-.page { max-width: 40rem; margin: 0 auto; padding: 0 16px 4rem; }
-.masthead {
-  background: var(--wrapper); color: var(--wrapper-ink);
-  text-align: center;
-  padding: 2.6rem 16px 0;
+/* ----- Logo: the S-with-asterisk mark, drawn in the current text colour ----- */
+.logo {
+  display: inline-block; width: 1em; height: 1em; flex: none;
+  background: currentColor;
+  -webkit-mask: url("brand/mark.svg") center / contain no-repeat;
+          mask: url("brand/mark.svg") center / contain no-repeat;
 }
-.masthead h1 {
-  font-size: clamp(2.6rem, 9vw, 4.6rem);
-  letter-spacing: .16em; text-transform: uppercase; line-height: 1;
-  margin-right: -.16em; /* optically recentre the tracked caps */
-}
-.masthead .subtitle { font-style: italic; font-size: 1.15rem; margin: .7rem 0 0; }
-.masthead .issue {
-  max-width: 40rem; margin: 1.6rem auto 0; padding: .35rem 0;
-  display: flex; justify-content: space-between; gap: 1rem;
-  border-top: 1px solid var(--wrapper-ink);
-  font-size: .78rem; letter-spacing: .1em; text-transform: uppercase;
-}
-.masthead .rule-double { max-width: 40rem; margin: 0 auto; border-color: var(--wrapper-ink); }
-.masthead + .rule-double { display: none; }
+.bar-title { display: inline-flex; align-items: center; gap: .45rem; }
+.bar-title .logo { width: 1.45rem; height: 1.45rem; }
 
+/* ----- Home: the library's opening spread ----- */
+/* A frontispiece faces a title page across one gutter. Buff appears only as
+   the mount of each plate, so nothing butts against the page edge. */
+.home-top { max-width: 72rem; margin: 0 auto; padding: .9rem 24px 0; text-align: right; }
+.text-button {
+  font: inherit; font-size: .78rem; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--muted); background: none; border: 0; padding: .2rem 0; cursor: pointer;
+  text-decoration: underline; text-decoration-color: var(--faint); text-underline-offset: .3em;
+}
+.text-button:hover { color: var(--ink); text-decoration-color: currentColor; }
+
+.spread {
+  max-width: 72rem; margin: 0 auto;
+  padding: clamp(1rem, 3vw, 2.5rem) 24px clamp(3rem, 6vw, 5rem);
+  display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr);
+  align-items: center;
+}
+.plate { margin: 0; }
+.mount {
+  display: inline-block;
+  background: var(--wrapper);
+  padding: clamp(12px, 1.8vw, 24px);
+  box-shadow: 0 18px 40px -22px var(--shadow);
+}
+.mount img { display: block; height: auto; max-width: 100%; border: 1px solid var(--wrapper-ink); }
+.plate figcaption { font-size: .88rem; color: var(--muted); margin-top: .7rem; line-height: 1.4; }
+.plate-no { font-variant: small-caps; letter-spacing: .06em; color: var(--ink); margin-right: .25em; }
+
+.plate-front { text-align: center; padding-right: clamp(1.5rem, 4vw, 3.5rem); }
+.plate-front img { width: auto; max-height: min(72vh, 780px); }
+.title-page {
+  border-left: 1px solid var(--faint);
+  padding: 1rem 0 1rem clamp(1.5rem, 5vw, 4.5rem);
+  text-align: center;
+}
+.logo-title { width: 4.25rem; height: 4.25rem; color: var(--ink); }
+.wordmark {
+  font-size: clamp(2.8rem, 6.4vw, 4.6rem);
+  letter-spacing: .16em; margin-right: -.16em; /* recentre tracked caps */
+  text-transform: uppercase; line-height: 1; margin-top: .9rem;
+}
+.title-page .subtitle { font-style: italic; font-size: 1.2rem; margin: .7rem 0 1.4rem; }
+.title-page .rule-double { max-width: 22rem; margin: 0 auto; }
+.title-page .lede { max-width: 30rem; margin: 1.6rem auto 0; font-size: 1.12rem; line-height: 1.6; text-align: left; }
+.contents-head {
+  font-size: .8rem; letter-spacing: .24em; text-transform: uppercase;
+  margin: 2.4rem 0 .7rem;
+}
+.library { list-style: none; margin: 0 auto; padding: 0; max-width: 30rem; text-align: left; }
+.library li { padding: .55rem 0; border-top: 1px solid var(--faint); border-bottom: 1px solid var(--faint); }
+.book-line { display: flex; align-items: baseline; gap: .6rem; text-decoration: none; }
+.book-line .title { font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.book-line .leader { flex: 1; border-bottom: 1px dotted var(--muted); transform: translateY(-.3em); min-width: 1.5rem; }
+.book-line .author { font-style: italic; }
+.book-line:hover .title { text-decoration: underline; text-underline-offset: .2em; }
+.library .meta { display: block; color: var(--muted); font-size: .92rem; font-style: italic; margin-top: .1rem; }
+.primary-action {
+  display: inline-block; margin-top: 1.6rem;
+  padding: .6rem 1.4rem .55rem;
+  border: 1px solid var(--ink); background: var(--ink); color: var(--ground);
+  font-size: .82rem; letter-spacing: .14em; text-transform: uppercase; text-decoration: none;
+  transition: background .18s cubic-bezier(.16, 1, .3, 1), color .18s cubic-bezier(.16, 1, .3, 1);
+}
+.primary-action em { text-transform: none; letter-spacing: .02em; font-size: 1.15em; }
+.primary-action:hover { background: transparent; color: var(--ink); }
+.imprint { margin: 1.4rem 0 0; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+
+.folio { max-width: 46rem; margin: 0 auto; padding: 0 24px 3rem; display: flow-root; }
+.folio h2 {
+  font-size: .82rem; letter-spacing: .22em; text-transform: uppercase;
+  margin: 0 0 1.1rem; padding-top: 2.2rem; border-top: 1px solid var(--hair);
+}
+.folio p { margin: 0 0 .9rem; line-height: 1.6; }
+.plate-inline { float: right; width: min(42%, 300px); margin: 2.2rem 0 1rem 2.2rem; text-align: center; }
+.folio-alt .plate-inline { float: left; margin: 2.2rem 2.2rem 1rem 0; }
+.plate-inline .mount { padding: 12px; }
+
+.colophon {
+  max-width: 46rem; margin: 1rem auto 0; padding: 1.4rem 24px 3rem;
+  color: var(--muted); font-size: .86rem; text-align: center;
+}
+.colophon .rule-double { margin-bottom: 1.4rem; }
+.colophon .logo { width: 1.6rem; height: 1.6rem; color: var(--ink); margin-bottom: .6rem; }
+.colophon p { margin: 0 0 .5rem; }
+
+@media (max-width: 860px) {
+  .spread { grid-template-columns: 1fr; gap: 2rem; }
+  .title-page { order: -1; border-left: 0; padding: 0; }
+  .plate-front { padding-right: 0; }
+  .plate-front img { max-height: 62vh; }
+}
+@media (max-width: 600px) {
+  .folio { display: flex; flex-direction: column; }
+  .folio h2 { order: -1; }
+  .plate-inline, .folio-alt .plate-inline { float: none; width: auto; max-width: 260px; margin: .5rem auto 1.5rem; }
+}
+
+/* ----- Title page (book) ----- */
+.page { max-width: 40rem; margin: 0 auto; padding: 0 16px 4rem; }
+.book-frontispiece { text-align: center; margin: 2.4rem 0 0; }
+.book-frontispiece .mount { max-width: 100%; }
+.book-frontispiece figcaption { max-width: 32rem; margin-left: auto; margin-right: auto; }
 .title-block { text-align: center; padding: 3rem 0 2rem; }
 .title-block h1 { font-size: clamp(2.2rem, 7vw, 3.4rem); letter-spacing: .08em; text-transform: uppercase; line-height: 1.05; }
 .title-block .by { margin: .8rem 0 0; letter-spacing: .12em; text-transform: uppercase; font-size: .85rem; }
@@ -249,7 +338,6 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .contents-book .title:hover { text-decoration: underline; }
 
 .foot { color: var(--muted); font-size: .88rem; margin-top: 3.5rem; padding-top: .6rem; border-top: 1px solid var(--hair); text-align: center; }
-.draft-label { font-style: italic; color: var(--muted); }
 
 /* ----- Chapter reader ----- */
 .reader { position: relative; padding: 2.6rem 16px 4rem; }
@@ -298,7 +386,6 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .note .term { font-style: italic; }
 .note .term::after { content: "]"; font-style: normal; margin: 0 .3em 0 .05em; }
 .note .layer-name { display: none; }
-.note .draft-label { font-size: .88em; }
 .note .source { display: block; color: var(--muted); font-size: .88em; margin-top: .2rem; overflow-wrap: anywhere; }
 
 /* Panels: all of one side's notes, opened by moving into that margin. */
@@ -319,18 +406,12 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .panel .note.hover, .panel .note.active { background: var(--mark); }
 .panel .note.offscreen { visibility: hidden; }
 /* The open margin is an overview: each note shows the lines that fit (set
-   in reader.js by trimming the gloss to whole words), with
-   "unverified" up front so it is never cut off. Hovering or pinning a note
-   shows it whole, over its neighbours. */
-.draft-tag { display: none; }
-.panel .note .draft-tag { display: inline; font-style: italic; color: var(--muted); font-size: .88em; margin-right: .35em; }
-.panel .note .draft-label { display: none; }
+   in reader.js by trimming the gloss to whole words). Hovering or pinning a
+   note shows it whole, over its neighbours. */
 .gloss-short { display: none; }
 .panel .note.clamped:not(.active):not(.hover) .gloss { display: none; }
 .panel .note.clamped:not(.active):not(.hover) .gloss-short { display: inline; }
 .panel .note.hover, .panel .note.active { z-index: 2; box-shadow: 0 6px 18px var(--shadow); }
-.panel .note.hover .draft-tag, .panel .note.active .draft-tag { display: none; }
-.panel .note.hover .draft-label, .panel .note.active .draft-label { display: inline; }
 
 /* A single note beside its anchor, on hover or click */
 .focus-note {
@@ -387,7 +468,7 @@ body.hide-place    :is(.note, .tick)[data-layer="place"] { display: none; }
 }
 .chapnav a { text-decoration: none; }
 .chapnav .next { text-align: right; }
-.chapnav .dir { display: block; font-size: .85em; color: var(--muted); letter-spacing: .14em; }
+.chapnav .dir { display: block; color: var(--muted); letter-spacing: .14em; }
 .chapnav a:hover { text-decoration: underline; }
 
 @media (max-width: 700px) {
@@ -395,6 +476,4 @@ body.hide-place    :is(.note, .tick)[data-layer="place"] { display: none; }
   .layers { order: 10; width: 100%; }
   .running .chapter-crumb { display: none; }
   .reader { padding-top: 1.8rem; }
-  .masthead { padding-top: 3.4rem; }
-  .masthead .issue { flex-direction: column; align-items: center; gap: .1rem; }
 }
