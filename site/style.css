@@ -319,16 +319,15 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .panel .note.hover, .panel .note.active { background: var(--mark); }
 .panel .note.offscreen { visibility: hidden; }
 /* The open margin is an overview: each note shows the lines that fit (set
-   in reader.js as --clamp), with
+   in reader.js by trimming the gloss to whole words), with
    "unverified" up front so it is never cut off. Hovering or pinning a note
    shows it whole, over its neighbours. */
 .draft-tag { display: none; }
 .panel .note .draft-tag { display: inline; font-style: italic; color: var(--muted); font-size: .88em; margin-right: .35em; }
 .panel .note .draft-label { display: none; }
-.panel .note:not(.active):not(.hover) {
-  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: var(--clamp, 2); line-clamp: var(--clamp, 2);
-  overflow: hidden;
-}
+.gloss-short { display: none; }
+.panel .note.clamped:not(.active):not(.hover) .gloss { display: none; }
+.panel .note.clamped:not(.active):not(.hover) .gloss-short { display: inline; }
 .panel .note.hover, .panel .note.active { z-index: 2; box-shadow: 0 6px 18px var(--shadow); }
 .panel .note.hover .draft-tag, .panel .note.active .draft-tag { display: none; }
 .panel .note.hover .draft-label, .panel .note.active .draft-label { display: inline; }

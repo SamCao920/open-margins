@@ -106,7 +106,7 @@
       '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
       '<span class="term">' + escapeHtml(n.anchor) + '</span>' +
       (n.status === 'draft' ? '<span class="draft-tag">unverified</span>' : '') +
-      escapeHtml(n.note) +
+      '<span class="gloss">' + escapeHtml(n.note) + '</span><span class="gloss-short"></span>' +
       (n.status === 'draft' ? ' <span class="draft-label">(unverified)</span>' : '') +
       (n.source ? '<span class="source">Source: ' + linkify(n.source) + '</span>' : '');
   }
@@ -250,11 +250,44 @@
       const next = items[i + 1] ? items[i + 1].want : Infinity;
       const lh = parseFloat(getComputedStyle(it.el).lineHeight) || 18;
       const lines = Math.max(1, Math.min(6, Math.floor((next - y - NOTE_GAP) / lh)));
-      it.el.style.setProperty('--clamp', lines);
+      fitNote(it.el, lines, lh);
       it.el.style.top = y + 'px';
+      it.el.style.paddingBottom = '';
       floor = y + it.el.offsetHeight + NOTE_GAP;
     });
     return floor;
+  }
+
+  // Trim a margin note's gloss to whole words so the note fits in `lines`
+  // lines. The lemma is never cut, and at least the gloss's first words
+  // always show. An ellipsis marks the cut unless the kept text ends a
+  // sentence. Results are cached per note, width, and lines.
+  function fitNote(el, lines, lh) {
+    const key = lines + '|' + el.clientWidth;
+    if (el.dataset.fitKey === key) return;
+    el.dataset.fitKey = key;
+    const full = el.querySelector('.gloss').textContent;
+    const shortEl = el.querySelector('.gloss-short');
+    const words = full.split(' ');
+    const tooTall = () => el.offsetHeight > lines * lh + 4;
+    el.classList.remove('clamped');
+    if (!tooTall()) return;
+    el.classList.add('clamped');
+    const show = k => {
+      const text = words.slice(0, k).join(' ');
+      // A full sentence ending needs no ellipsis; a comma or bracket does.
+      shortEl.textContent = /[.!?]["\u201d]?$/.test(text) ? text : text.replace(/[\s,;:]+$/, '') + '\u2026';
+    };
+    // Never fewer than three words of gloss, even if that costs a line.
+    let lo = Math.min(3, words.length), hi = words.length - 1;
+    show(lo);
+    if (tooTall()) return;
+    while (lo < hi) {
+      const mid = Math.ceil((lo + hi) / 2);
+      show(mid);
+      if (tooTall()) hi = mid - 1; else lo = mid;
+    }
+    show(lo);
   }
   let scrollFrame = 0;
   window.addEventListener('scroll', () => {
@@ -389,7 +422,21 @@
   function setHover(id, on) {
     const a = anchorFor(id);
     if (a) a.classList.toggle('hover', on);
-    document.querySelectorAll('.panel .note[data-id="' + id + '"]').forEach(el => el.classList.toggle('hover', on));
+    document.querySelectorAll('.panel .note[data-id="' + id + '"]').forEach(el => {
+      el.classList.toggle('hover', on);
+      el.style.paddingBottom = '';
+      if (!on) return;
+      // A whole note shown over its neighbours: let its wash cover the next
+      // note's whole first line instead of slicing through its letters.
+      let next = el.nextElementSibling;
+      while (next && (next.classList.contains('offscreen') || getComputedStyle(next).display === 'none')) next = next.nextElementSibling;
+      if (!next) return;
+      const bottom = el.offsetTop + el.offsetHeight;
+      if (bottom <= next.offsetTop) return;
+      const lh = parseFloat(getComputedStyle(next).lineHeight) || 18;
+      const target = next.offsetTop + lh + 4;
+      if (bottom < target) el.style.paddingBottom = (target - bottom + parseFloat(getComputedStyle(el).paddingBottom)) + 'px';
+    });
     ticksFor(id).forEach(el => el.classList.toggle('hover', on));
   }
 
