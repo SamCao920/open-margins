@@ -1,0 +1,3 @@
+bookworm.jpg <- https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg
+fragonard.jpg <- https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg
+vermeer.jpg <- https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg
