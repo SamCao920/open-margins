@@ -1,0 +1,995 @@
+[
+  {
+    "id": "ch1-001",
+    "anchor": "from-under stare",
+    "layer": "vocab",
+    "note": "A look upward from under lowered brows, with the head bent forward.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-002",
+    "anchor": "dogged",
+    "layer": "vocab",
+    "note": "Stubborn and determined; refusing to give up.",
+    "source": "Merriam-Webster, “dogged”, https://www.merriam-webster.com/dictionary/dogged",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-003",
+    "anchor": "apparelled",
+    "layer": "vocab",
+    "note": "Dressed. British spelling of “appareled.”",
+    "source": "Merriam-Webster, “apparel”, https://www.merriam-webster.com/dictionary/apparel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-004",
+    "anchor": "various Eastern ports",
+    "layer": "vocab",
+    "note": "Ports in Asia. Europeans of the time called South and East Asia “the East.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-005",
+    "anchor": "ship-chandler’s water-clerk",
+    "layer": "vocab",
+    "note": "A ship-chandler sells supplies to ships. His water-clerk boats out to arriving ships to win their business.",
+    "source": "Merriam-Webster, “ship chandler”, https://www.merriam-webster.com/dictionary/ship%20chandler",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-006",
+    "anchor": "greeting her captain",
+    "layer": "vocab",
+    "note": "Sailors call a ship “she,” so “her captain” means the ship’s captain.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-007",
+    "anchor": "ostentation",
+    "layer": "vocab",
+    "note": "Showing off; a display meant to impress.",
+    "source": "Merriam-Webster, “ostentation”, https://www.merriam-webster.com/dictionary/ostentation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-008",
+    "anchor": "seaworthy",
+    "layer": "vocab",
+    "note": "In good enough condition to sail safely at sea.",
+    "source": "Merriam-Webster, “seaworthy”, https://www.merriam-webster.com/dictionary/seaworthy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-009",
+    "anchor": "chain-hooks",
+    "layer": "vocab",
+    "note": "Iron rods with a hook at one end, used on deck to haul and handle the anchor chain.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Chain-hook”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-010",
+    "anchor": "for her cable",
+    "layer": "vocab",
+    "note": "The cable is the heavy rope or chain that connects a ship to its anchor.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cable”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-011",
+    "anchor": "book of gold-leaf",
+    "layer": "vocab",
+    "note": "Gold-leaf is gold beaten into very thin sheets, sold in small booklets and used to gild carvings.",
+    "source": "Merriam-Webster, “gold leaf”, https://www.merriam-webster.com/dictionary/gold%20leaf",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-012",
+    "anchor": "carvings of her stern",
+    "layer": "vocab",
+    "note": "The stern is the back end of a ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stern”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-013",
+    "anchor": "cool parlour",
+    "layer": "vocab",
+    "note": "A parlour is a sitting room for receiving visitors.",
+    "source": "Merriam-Webster, “parlor”, https://www.merriam-webster.com/dictionary/parlor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-014",
+    "anchor": "three months’ passage out",
+    "layer": "vocab",
+    "note": "A voyage of three months outward, from a home port to a distant one.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-015",
+    "anchor": "patience of Job",
+    "layer": "allusion",
+    "note": "Job, in the Bible’s Book of Job, loses his wealth, children, and health but keeps his faith in God. “The patience of Job” became a common saying for endless patience.",
+    "source": "The Bible (King James Version), Book of Job; James 5:11, “Ye have heard of the patience of Job”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-016",
+    "anchor": "jollity",
+    "layer": "vocab",
+    "note": "Cheerful fun and good humour.",
+    "source": "Merriam-Webster, “jollity”, https://www.merriam-webster.com/dictionary/jollity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-017",
+    "anchor": "boon companion",
+    "layer": "vocab",
+    "note": "A close friend who shares in drinking and good times.",
+    "source": "Merriam-Webster, “boon companion”, https://www.merriam-webster.com/dictionary/boon%20companion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-018",
+    "anchor": "and some humouring",
+    "layer": "vocab",
+    "note": "Humouring: going along with someone’s wishes or moods to keep them happy.",
+    "source": "Merriam-Webster, “humor”, https://www.merriam-webster.com/dictionary/humor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-019",
+    "anchor": "fidelity of a fiend",
+    "layer": "vocab",
+    "note": "Fidelity: loyalty. A fiend is a devil or evil spirit.",
+    "source": "Merriam-Webster, “fiend”, https://www.merriam-webster.com/dictionary/fiend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-020",
+    "anchor": "throw up the job",
+    "layer": "vocab",
+    "note": "Quit the job suddenly; give it up.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-021",
+    "anchor": "Confounded fool",
+    "layer": "vocab",
+    "note": "“Confounded” was a mild curse word, like “damned.”",
+    "source": "Merriam-Webster, “confounded”, https://www.merriam-webster.com/dictionary/confounded",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-022",
+    "anchor": "exquisite sensibility",
+    "layer": "vocab",
+    "note": "Exquisite here means intense or keen, not “beautiful.” Sensibility means sensitivity of feeling.",
+    "source": "Merriam-Webster, “exquisite”, https://www.merriam-webster.com/dictionary/exquisite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-023",
+    "anchor": "His incognito",
+    "layer": "vocab",
+    "note": "An incognito is a hidden identity, used to avoid being recognized.",
+    "source": "Merriam-Webster, “incognito”, https://www.merriam-webster.com/dictionary/incognito",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-024",
+    "anchor": "retreated in good order",
+    "layer": "vocab",
+    "note": "A military phrase: an army that retreats “in good order” withdraws without panic, keeping its ranks.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-025",
+    "anchor": "Bombay",
+    "layer": "place",
+    "note": "Now Mumbai: a large port city on the west coast of India, then under British rule. It is the first and westernmost of the ports in this list.",
+    "source": "Encyclopaedia Britannica, “Mumbai”, https://www.britannica.com/place/Mumbai",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-026",
+    "anchor": "Calcutta",
+    "layer": "place",
+    "note": "Now Kolkata: a port city in eastern India, on the Hooghly River. It was the capital of British India from 1772 to 1911.",
+    "source": "Encyclopaedia Britannica, “Kolkata”, https://www.britannica.com/place/Kolkata",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-027",
+    "anchor": "Rangoon",
+    "layer": "place",
+    "note": "Now Yangon: the chief port of Burma (now Myanmar), which was then ruled by Britain. It later became the capital of British Burma.",
+    "source": "Encyclopaedia Britannica, “Yangon”, https://www.britannica.com/place/Yangon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-028",
+    "anchor": "Penang",
+    "layer": "place",
+    "note": "An island off the northwest coast of the Malay Peninsula, now part of Malaysia. The British founded a settlement there in 1786; from 1826 it was part of the British colony of the Straits Settlements.",
+    "source": "Encyclopaedia Britannica, “Penang”, https://www.britannica.com/place/Penang",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-029",
+    "anchor": "Batavia",
+    "layer": "place",
+    "note": "Now Jakarta, on the island of Java. The Dutch built Batavia in 1619 as headquarters of the Dutch East India Company; it was the chief Dutch city in the East Indies. It is the farthest east of the ports listed.",
+    "source": "Encyclopaedia Britannica, “Jakarta”, https://www.britannica.com/place/Jakarta",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-030",
+    "anchor": "halting-places",
+    "layer": "vocab",
+    "note": "Stopping places on a journey.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-031",
+    "anchor": "virgin forest",
+    "layer": "vocab",
+    "note": "Forest that has never been cut or cleared by people.",
+    "source": "Merriam-Webster, “virgin forest”, https://www.merriam-webster.com/dictionary/virgin%20forest",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-032",
+    "anchor": "the Malays",
+    "layer": "vocab",
+    "note": "The Malay people, native to the Malay Peninsula and nearby islands of Southeast Asia.",
+    "source": "Merriam-Webster, “Malay”, https://www.merriam-webster.com/dictionary/Malay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-033",
+    "anchor": "he had elected",
+    "layer": "vocab",
+    "note": "Elected: chosen, decided of his own will.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-034",
+    "anchor": "monosyllable",
+    "layer": "vocab",
+    "note": "A word of one syllable; here, the name “Jim.”",
+    "source": "Merriam-Webster, “monosyllable”, https://www.merriam-webster.com/dictionary/monosyllable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-035",
+    "anchor": "Tuan Jim",
+    "layer": "vocab",
+    "note": "Tuan is a Malay title of respect, meaning “sir,” “master,” or “lord.”",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “tuan”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-036",
+    "anchor": "from a parsonage",
+    "layer": "vocab",
+    "note": "A parsonage is the house provided for a parish clergyman (a parson).",
+    "source": "Merriam-Webster, “parsonage”, https://www.merriam-webster.com/dictionary/parsonage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-037",
+    "anchor": "fine merchant-ships",
+    "layer": "vocab",
+    "note": "Ships that carry cargo or passengers for trade, not warships.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-038",
+    "anchor": "abodes of piety",
+    "layer": "vocab",
+    "note": "Abodes: homes. Piety: devotion to religion.",
+    "source": "Merriam-Webster, “abode”, https://www.merriam-webster.com/dictionary/abode",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-039",
+    "anchor": "the Unknowable",
+    "layer": "vocab",
+    "note": "Whatever lies beyond human knowledge; here, God and the truths of religion.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-040",
+    "anchor": "unerring Providence",
+    "layer": "vocab",
+    "note": "Providence: God, thought of as guiding and caring for the world. Unerring: never making a mistake.",
+    "source": "Merriam-Webster, “providence”, https://www.merriam-webster.com/dictionary/providence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-041",
+    "anchor": "the rectory",
+    "layer": "vocab",
+    "note": "The house of a rector, the clergyman in charge of a parish.",
+    "source": "Merriam-Webster, “rectory”, https://www.merriam-webster.com/dictionary/rectory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-042",
+    "anchor": "grass-plots",
+    "layer": "vocab",
+    "note": "Small patches of lawn in a garden.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-043",
+    "anchor": "The living had belonged",
+    "layer": "vocab",
+    "note": "A church post that comes with a house and income (a benefice), not “a way of earning money.”",
+    "source": "Merriam-Webster, “living”, https://www.merriam-webster.com/dictionary/living",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-044",
+    "anchor": "light holiday literature",
+    "layer": "vocab",
+    "note": "Easy, entertaining reading, such as adventure stories, read for fun.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-045",
+    "anchor": "his vocation",
+    "layer": "vocab",
+    "note": "A vocation is a strong feeling of being called to a particular career.",
+    "source": "Merriam-Webster, “vocation”, https://www.merriam-webster.com/dictionary/vocation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-046",
+    "anchor": "training-ship for officers",
+    "layer": "history",
+    "note": "A ship, often an old warship moored in a river, used as a boarding school for boys training to be ship’s officers. A well-known example was HMS Conway, moored in the River Mersey near Liverpool, which opened as a school in 1859.",
+    "source": "HMS Conway history site, Mersey history page, https://hmsconway.org/history_mersey.html; National Museums Liverpool, “Records of HMS Conway, training ship”, https://www.liverpoolmuseums.org.uk/artifact/records-of-hms-conway-training-ship",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-047",
+    "anchor": "mercantile marine",
+    "layer": "vocab",
+    "note": "The mercantile marine is the merchant navy: a nation’s trading ships and their crews.",
+    "source": "Merriam-Webster, “mercantile”, https://www.merriam-webster.com/dictionary/mercantile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-048",
+    "anchor": "cross top-gallant yards",
+    "layer": "vocab",
+    "note": "Hoist the top-gallant yards (crossbars for sails, third level above deck) and fix them across the mast.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cross”, https://www.gutenberg.org/ebooks/26000; same, “Top-gallant”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-049",
+    "anchor": "third place in navigation",
+    "layer": "vocab",
+    "note": "Third best in his class at navigation, the skill of working out a ship’s position and course.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-050",
+    "anchor": "pulled stroke",
+    "layer": "vocab",
+    "note": "Rowed as stroke oar: the rower nearest the stern, who sets the pace the other rowers follow.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stroke”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-051",
+    "anchor": "first cutter",
+    "layer": "vocab",
+    "note": "One of a ship’s boats, rowed with oars and able to carry a sail. “First” is its number.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cutter”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-052",
+    "anchor": "very smart aloft",
+    "layer": "vocab",
+    "note": "Smart: quick and skilful. Aloft: up in the masts and rigging.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Aloft”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-053",
+    "anchor": "fore-top",
+    "layer": "vocab",
+    "note": "A platform at the head of the lower foremast (the front mast), where sailors work the sails above.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Top”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-054",
+    "anchor": "perpendicular",
+    "layer": "vocab",
+    "note": "Straight up and down; vertical.",
+    "source": "Merriam-Webster, “perpendicular”, https://www.merriam-webster.com/dictionary/perpendicular",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-055",
+    "anchor": "broad-beamed",
+    "layer": "vocab",
+    "note": "Wide. A ship’s beam is its width at the widest point.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Beam”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-056",
+    "anchor": "On the lower deck",
+    "layer": "vocab",
+    "note": "A deck below the upper decks. On this training ship it is where the boys spend their time below.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-057",
+    "anchor": "babel",
+    "layer": "allusion",
+    "note": "From the Tower of Babel in the Bible, where God makes the builders speak different languages so they cannot understand each other. A “babel” is a noisy confusion of voices.",
+    "source": "The Bible (King James Version), Genesis 11:1–9; Merriam-Webster, “babel”, https://www.merriam-webster.com/dictionary/babel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-058",
+    "anchor": "cutting away masts",
+    "layer": "vocab",
+    "note": "In a severe storm a crew might chop down the masts to save the ship from capsizing.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cut away”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-059",
+    "anchor": "with a line",
+    "layer": "vocab",
+    "note": "A line is a rope. Carrying one ashore from a wreck lets others be pulled to safety.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-060",
+    "anchor": "castaway",
+    "layer": "vocab",
+    "note": "A person left stranded, usually after a shipwreck.",
+    "source": "Merriam-Webster, “castaway”, https://www.merriam-webster.com/dictionary/castaway",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-061",
+    "anchor": "stave off",
+    "layer": "vocab",
+    "note": "Keep away; hold off for a while.",
+    "source": "Merriam-Webster, “stave off”, https://www.merriam-webster.com/dictionary/stave%20off",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-062",
+    "anchor": "savages",
+    "layer": "vocab",
+    "note": "A word, now offensive, that Europeans then used for peoples they considered uncivilized.",
+    "source": "Merriam-Webster, “savage”, https://www.merriam-webster.com/dictionary/savage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-063",
+    "anchor": "quelled mutinies",
+    "layer": "vocab",
+    "note": "Quelled: put down. A mutiny is a revolt by sailors against their officers.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Mutiny”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-064",
+    "anchor": "up the ladders",
+    "layer": "vocab",
+    "note": "On a ship, the steep stairs between decks are called ladders.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Ladder”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-065",
+    "anchor": "the hatchway",
+    "layer": "vocab",
+    "note": "An opening in a deck leading to the deck below.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Hatchway”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-066",
+    "anchor": "as if confounded",
+    "layer": "vocab",
+    "note": "Confounded here means confused and astonished.",
+    "source": "Merriam-Webster, “confound”, https://www.merriam-webster.com/dictionary/confound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-067",
+    "anchor": "The gale had freshened",
+    "layer": "vocab",
+    "note": "A gale is a very strong wind. When wind freshens, it grows stronger.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Freshen”, https://www.gutenberg.org/ebooks/26000; same, “Gale”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-068",
+    "anchor": "salvoes",
+    "layer": "vocab",
+    "note": "Salvoes: several guns fired at the same moment.",
+    "source": "Merriam-Webster, “salvo”, https://www.merriam-webster.com/dictionary/salvo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-069",
+    "anchor": "the small craft",
+    "layer": "vocab",
+    "note": "Craft: boats and other small vessels.",
+    "source": "Merriam-Webster, “craft”, https://www.merriam-webster.com/dictionary/craft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-070",
+    "anchor": "pitching ponderously",
+    "layer": "vocab",
+    "note": "Pitching: a ship’s front and back rising and falling in turn as it meets the waves. Ponderously: heavily.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Pitching”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-071",
+    "anchor": "vast landing-stages",
+    "layer": "vocab",
+    "note": "Floating platforms where passengers get on and off boats. They rise and fall with the tide.",
+    "source": "Merriam-Webster, “landing stage”, https://www.merriam-webster.com/dictionary/landing%20stage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-072",
+    "anchor": "He was jostled",
+    "layer": "vocab",
+    "note": "Jostled: pushed roughly in a crowd.",
+    "source": "Merriam-Webster, “jostle”, https://www.merriam-webster.com/dictionary/jostle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-073",
+    "anchor": "Man the cutter",
+    "layer": "vocab",
+    "note": "An order for the boat’s crew to take their places in the cutter.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-074",
+    "anchor": "A coaster",
+    "layer": "vocab",
+    "note": "A ship that trades along a coast, between nearby ports.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Coaster”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-075",
+    "anchor": "running in for shelter",
+    "layer": "vocab",
+    "note": "Sailing into the river to escape the storm.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-076",
+    "anchor": "schooner",
+    "layer": "vocab",
+    "note": "A sailing vessel with two or more masts, rigged mainly with fore-and-aft sails (sails set lengthwise along the ship).",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Schooner”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-077",
+    "anchor": "on the rails",
+    "layer": "vocab",
+    "note": "The rail is the top edge of a ship’s side.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Rail”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-078",
+    "anchor": "davits",
+    "layer": "vocab",
+    "note": "Small cranes sticking out over a ship’s side, used to raise and lower its boats.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Davits”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-079",
+    "anchor": "mizzen-mast",
+    "layer": "vocab",
+    "note": "On a ship with three masts, the mast nearest the stern (back).",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Mizen-mast”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-080",
+    "anchor": "chained to her moorings",
+    "layer": "vocab",
+    "note": "Moorings are anchors and heavy chains fixed in the riverbed, to which a ship is made fast.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Moorings”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-081",
+    "anchor": "head to wind",
+    "layer": "vocab",
+    "note": "With her bow (front) pointing into the wind.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-082",
+    "anchor": "scanty",
+    "layer": "vocab",
+    "note": "Scanty: small in amount; less than enough.",
+    "source": "Merriam-Webster, “scanty”, https://www.merriam-webster.com/dictionary/scanty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-083",
+    "anchor": "rigging",
+    "layer": "vocab",
+    "note": "The ropes that hold up a ship’s masts and work its sails.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Rigging”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-084",
+    "anchor": "Lower away",
+    "layer": "vocab",
+    "note": "The order to lower the boat into the water.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-085",
+    "anchor": "clear the falls",
+    "layer": "vocab",
+    "note": "The falls are the tackle ropes that lower a boat from the davits; once afloat, the crew frees it.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Falls”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-086",
+    "anchor": "seethed",
+    "layer": "vocab",
+    "note": "Seethed: churned and foamed, like boiling water.",
+    "source": "Merriam-Webster, “seethe”, https://www.merriam-webster.com/dictionary/seethe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-087",
+    "anchor": "abreast of the ship",
+    "layer": "vocab",
+    "note": "Level with the ship, side by side.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Abreast”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-088",
+    "anchor": "Keep stroke, you",
+    "layer": "vocab",
+    "note": "An order to row together, in time with the stroke oar.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-089",
+    "anchor": "whelps",
+    "layer": "vocab",
+    "note": "Whelps: puppies. Here, a rough, scolding name for the boys.",
+    "source": "Merriam-Webster, “whelp”, https://www.merriam-webster.com/dictionary/whelp",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-090",
+    "anchor": "lifted high her bow",
+    "layer": "vocab",
+    "note": "The bow is the front end of a boat.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bow”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-091",
+    "anchor": "to be smart",
+    "layer": "vocab",
+    "note": "Smart here means quick and alert, not clever.",
+    "source": "Merriam-Webster, “smart”, https://www.merriam-webster.com/dictionary/smart",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-092",
+    "anchor": "bottom boards",
+    "layer": "vocab",
+    "note": "Loose boards laid in the bottom of a rowing boat to stand and sit on.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-093",
+    "anchor": "appeared very contemptible",
+    "layer": "vocab",
+    "note": "Contemptible: deserving scorn; not worth being afraid of.",
+    "source": "Merriam-Webster, “contemptible”, https://www.merriam-webster.com/dictionary/contemptible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-094",
+    "anchor": "inefficient menace",
+    "layer": "vocab",
+    "note": "Inefficient here means having no real effect; the danger did no harm.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-095",
+    "anchor": "affront greater perils",
+    "layer": "vocab",
+    "note": "Affront: face boldly. Perils: dangers.",
+    "source": "Merriam-Webster, “affront”, https://www.merriam-webster.com/dictionary/affront",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-096",
+    "anchor": "brooded apart",
+    "layer": "vocab",
+    "note": "Sat by himself, thinking gloomily.",
+    "source": "Merriam-Webster, “brood”, https://www.merriam-webster.com/dictionary/brood",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-097",
+    "anchor": "the bowman",
+    "layer": "vocab",
+    "note": "The rower nearest the bow, who handles the boat-hook.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bowman”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-098",
+    "anchor": "I dashed my boat-hook",
+    "layer": "vocab",
+    "note": "A boat-hook is a pole with a metal hook, used to push off, pull in, or grab things.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Boat-hook”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-099",
+    "anchor": "caught in his breeches",
+    "layer": "vocab",
+    "note": "Breeches: trousers, especially ones that end at the knee.",
+    "source": "Merriam-Webster, “breeches”, https://www.merriam-webster.com/dictionary/breeches",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-100",
+    "anchor": "let go the tiller",
+    "layer": "vocab",
+    "note": "The tiller is the handle used to turn the rudder and steer the boat.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Tiller”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-101",
+    "anchor": "the boat nearly swamped",
+    "layer": "vocab",
+    "note": "Swamped: filled with water, almost sinking.",
+    "source": "Merriam-Webster, “swamp”, https://www.merriam-webster.com/dictionary/swamp",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-102",
+    "anchor": "a fine old chap",
+    "layer": "vocab",
+    "note": "Chap: British slang for a man or fellow.",
+    "source": "Merriam-Webster, “chap”, https://www.merriam-webster.com/dictionary/chap",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-103",
+    "anchor": "awfully excitable",
+    "layer": "vocab",
+    "note": "Awfully: very; used in casual speech.",
+    "source": "Merriam-Webster, “awfully”, https://www.merriam-webster.com/dictionary/awfully",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-104",
+    "anchor": "Fancy such a big chap",
+    "layer": "vocab",
+    "note": "Fancy: imagine. Used to show surprise.",
+    "source": "Merriam-Webster, “fancy”, https://www.merriam-webster.com/dictionary/fancy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-105",
+    "anchor": "produced a sensation",
+    "layer": "vocab",
+    "note": "Caused great excitement among the listening boys.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-106",
+    "anchor": "ministered to",
+    "layer": "vocab",
+    "note": "Ministered to: served or fed.",
+    "source": "Merriam-Webster, “minister”, https://www.merriam-webster.com/dictionary/minister",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-107",
+    "anchor": "heroism as spurious",
+    "layer": "vocab",
+    "note": "Spurious: false; not genuine, only seeming real.",
+    "source": "Merriam-Webster, “spurious”, https://www.merriam-webster.com/dictionary/spurious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-108",
+    "anchor": "served the turn",
+    "layer": "vocab",
+    "note": "Was enough for the purpose.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-109",
+    "anchor": "all men flinched",
+    "layer": "vocab",
+    "note": "Flinched: drew back in fear.",
+    "source": "Merriam-Webster, “flinch”, https://www.merriam-webster.com/dictionary/flinch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-110",
+    "anchor": "dispassionately",
+    "layer": "vocab",
+    "note": "Calmly and coolly, without strong feeling.",
+    "source": "Merriam-Webster, “dispassionate”, https://www.merriam-webster.com/dictionary/dispassionate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-111",
+    "anchor": "exulted",
+    "layer": "vocab",
+    "note": "Exulted: felt great joy and triumph.",
+    "source": "Merriam-Webster, “exult”, https://www.merriam-webster.com/dictionary/exult",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-112",
+    "anchor": "fresh certitude",
+    "layer": "vocab",
+    "note": "Certitude: certainty; a feeling of being sure.",
+    "source": "Merriam-Webster, “certitude”, https://www.merriam-webster.com/dictionary/certitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-113",
+    "anchor": "avidity for adventure",
+    "layer": "vocab",
+    "note": "Avidity: eagerness; a strong, hungry desire.",
+    "source": "Merriam-Webster, “avidity”, https://www.merriam-webster.com/dictionary/avidity",
+    "status": "draft",
+    "checker": null
+  }
+]

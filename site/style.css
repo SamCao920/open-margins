@@ -1,0 +1,122 @@
+/* Scholia reader styles, layered on Tufte CSS (tufte/tufte.css).
+   Tufte CSS sets the type, colours, and proportions; this file adds the
+   reader's own pieces: layer toggles, anchors, and positioned margin notes. */
+
+:root {
+  --bg: #fffff8;
+  --ink: #111;
+  --muted: #777;
+  --rule: #ccc;
+  --mark: #f2eed8;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #151515;
+    --ink: #ddd;
+    --muted: #999;
+    --rule: #444;
+    --mark: #2c2a22;
+  }
+}
+
+.bar,
+.chapnav {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  letter-spacing: .03em;
+}
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+/* Index */
+.chapters li { margin-top: .25rem; }
+.foot { font-size: 1.1rem; color: var(--muted); }
+
+/* Top bar: a quiet line, not a toolbar */
+.bar {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem 1.4rem;
+  padding: .7rem 0;
+  background: var(--bg);
+  border-bottom: 1px solid var(--rule);
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+.home { text-decoration: none; font-variant: small-caps; letter-spacing: .08em; }
+.layers { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .2rem 1rem; }
+.layers label { cursor: pointer; white-space: nowrap; }
+.layers input { accent-color: var(--ink); margin: 0 .3rem 0 0; vertical-align: -1px; }
+
+/* Reader: text in Tufte's 55% column, notes in the margin to its right */
+article.chapter { padding-top: 3rem; }
+.reader { position: relative; }
+.text { width: 55%; }
+.text > p { width: auto; } /* Tufte sizes section > p; the section here is already the column */
+.margin { position: absolute; top: 0; left: 59%; right: 1.5rem; }
+
+.anchor {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .18em;
+}
+.anchor:hover, .anchor.active { text-decoration-color: var(--ink); }
+.anchor.active { background: var(--mark); }
+
+/* Notes use Tufte's margin-note type: same serif, 1.1rem, tight leading */
+.note {
+  font-size: 1rem;
+  line-height: 1.25;
+}
+.note .term { font-style: italic; }
+.note .layer-name, .draft-label {
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: .05em;
+  color: var(--muted);
+}
+.note .layer-name { margin-right: .35rem; }
+.note[data-layer="vocab"] .layer-name { display: none; } /* most notes are vocab; label the rest */
+.draft-label { margin-left: .35rem; }
+.note .source { display: block; color: var(--muted); font-size: 1rem; margin-top: .15rem; overflow-wrap: anywhere; }
+.margin .note { position: absolute; left: 0; right: 0; cursor: pointer; }
+.margin .note.active { background: var(--mark); box-shadow: 0 0 0 .3rem var(--mark); }
+/* Keep margin notes short; the source shows when a note is selected. */
+.margin .note .source { display: none; }
+.margin .note.active .source { display: block; }
+
+/* Hidden layers */
+body.hide-vocab    .anchor[data-layer="vocab"],
+body.hide-allusion .anchor[data-layer="allusion"],
+body.hide-history  .anchor[data-layer="history"],
+body.hide-place    .anchor[data-layer="place"] { text-decoration: none; cursor: auto; background: none; }
+body.hide-vocab    .note[data-layer="vocab"],
+body.hide-allusion .note[data-layer="allusion"],
+body.hide-history  .note[data-layer="history"],
+body.hide-place    .note[data-layer="place"] { display: none; }
+
+/* Inline notes follow Tufte's small-screen margin-note style */
+.inline-note {
+  display: block;
+  margin: -.4rem 2.5% 1.4rem;
+  padding-left: 1rem;
+  border-left: 1px solid var(--rule);
+}
+
+.chapnav {
+  display: flex; justify-content: space-between; gap: 1rem;
+  width: 55%;
+  margin-top: 3rem; padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-size: 1.1rem;
+}
+
+/* Below this width the margin is too narrow for the notes: hide it and open
+   notes under their paragraph instead. Matches NARROW in reader.js. */
+@media (max-width: 1150px) {
+  .text, .chapnav { width: 100%; }
+  .margin { display: none; }
+}
+@media (max-width: 760px) {
+  article.chapter { padding-top: 1.5rem; }
+  .chapters, .index section > p { width: 100%; }
+}
