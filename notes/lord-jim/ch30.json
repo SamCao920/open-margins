@@ -1,0 +1,401 @@
+[
+  {
+    "id": "ch30-001",
+    "anchor": "actual ill-usage",
+    "layer": "vocab",
+    "note": "Ill-usage: cruel treatment, physical abuse.",
+    "source": "Merriam-Webster, “ill-use”, https://www.merriam-webster.com/dictionary/ill-use",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-002",
+    "anchor": "he had not the pluck",
+    "layer": "vocab",
+    "note": "Pluck: courage, nerve, and boldness.",
+    "source": "Merriam-Webster, “pluck”, https://www.merriam-webster.com/dictionary/pluck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-003",
+    "anchor": "declaim filthy denunciations",
+    "layer": "vocab",
+    "note": "Declaim: speak loudly like an orator. Denunciations: fierce public accusations.",
+    "source": "Merriam-Webster, “denunciation”, https://www.merriam-webster.com/dictionary/denunciation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-004",
+    "anchor": "her face sombre and contracted",
+    "layer": "vocab",
+    "note": "Contracted: drawn tight, tense and pinched.",
+    "source": "Merriam-Webster, “contract”, https://www.merriam-webster.com/dictionary/contract",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-005",
+    "anchor": "Inchi ‘Nelyus",
+    "layer": "vocab",
+    "note": "Inchi: a Malay title like “Mr.” ’Nelyus is short for Cornelius.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “inche”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-006",
+    "anchor": "steal, and embezzle",
+    "layer": "vocab",
+    "note": "Embezzle: secretly steal money or goods one has been trusted with.",
+    "source": "Merriam-Webster, “embezzle”, https://www.merriam-webster.com/dictionary/embezzle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-007",
+    "anchor": "appropriate to himself",
+    "layer": "vocab",
+    "note": "Appropriate (verb): take for one’s own use without permission.",
+    "source": "Merriam-Webster, “appropriate”, https://www.merriam-webster.com/dictionary/appropriate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-008",
+    "anchor": "a fair equivalent",
+    "layer": "vocab",
+    "note": "Equivalent: something equal in value.",
+    "source": "Merriam-Webster, “equivalent”, https://www.merriam-webster.com/dictionary/equivalent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-009",
+    "anchor": "thrashing Cornelius within an inch of his life",
+    "layer": "vocab",
+    "note": "Thrashing: beating hard. Within an inch of his life: nearly to death.",
+    "source": "Merriam-Webster, “thrash”, https://www.merriam-webster.com/dictionary/thrash",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-010",
+    "anchor": "out of earshot",
+    "layer": "vocab",
+    "note": "Earshot: the distance within which one can hear.",
+    "source": "Merriam-Webster, “earshot”, https://www.merriam-webster.com/dictionary/earshot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-011",
+    "anchor": "Jim would lounge up",
+    "layer": "vocab",
+    "note": "Lounge: move in a lazy, relaxed way.",
+    "source": "Merriam-Webster, “lounge”, https://www.merriam-webster.com/dictionary/lounge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-012",
+    "anchor": "underhand glances",
+    "layer": "vocab",
+    "note": "Underhand: sly and secret, done dishonestly.",
+    "source": "Merriam-Webster, “underhand”, https://www.merriam-webster.com/dictionary/underhand",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-013",
+    "anchor": "a base desertion",
+    "layer": "vocab",
+    "note": "Base: low, dishonourable. Desertion: abandonment.",
+    "source": "Merriam-Webster, “base”, https://www.merriam-webster.com/dictionary/base",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-014",
+    "anchor": "to the verge",
+    "layer": "vocab",
+    "note": "Verge: the very edge, the brink.",
+    "source": "Merriam-Webster, “verge”, https://www.merriam-webster.com/dictionary/verge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-015",
+    "anchor": "People of every condition",
+    "layer": "vocab",
+    "note": "Condition here means social rank or class.",
+    "source": "Merriam-Webster, “condition”, https://www.merriam-webster.com/dictionary/condition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-016",
+    "anchor": "in the dead of night",
+    "layer": "vocab",
+    "note": "The dead of night: the darkest, quietest middle of the night.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-017",
+    "anchor": "professed himself",
+    "layer": "vocab",
+    "note": "Professed: declared, claimed to be.",
+    "source": "Merriam-Webster, “profess”, https://www.merriam-webster.com/dictionary/profess",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-018",
+    "anchor": "nay, probable",
+    "layer": "vocab",
+    "note": "Nay: no, or rather (an old word used to strengthen a statement).",
+    "source": "Merriam-Webster, “nay”, https://www.merriam-webster.com/dictionary/nay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-019",
+    "anchor": "Nothing more calculated to shake",
+    "layer": "vocab",
+    "note": "Calculated to: likely to, well suited to.",
+    "source": "Merriam-Webster, “calculated”, https://www.merriam-webster.com/dictionary/calculated",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-020",
+    "anchor": "a great apparatus of alarm and secrecy",
+    "layer": "vocab",
+    "note": "Apparatus: elaborate equipment; here, a big show.",
+    "source": "Merriam-Webster, “apparatus”, https://www.merriam-webster.com/dictionary/apparatus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-021",
+    "anchor": "solemn wheedling tones",
+    "layer": "vocab",
+    "note": "Wheedling: coaxing and flattering to get something.",
+    "source": "Merriam-Webster, “wheedle”, https://www.merriam-webster.com/dictionary/wheedle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-022",
+    "anchor": "would procure",
+    "layer": "vocab",
+    "note": "Procure: obtain, get with some effort.",
+    "source": "Merriam-Webster, “procure”, https://www.merriam-webster.com/dictionary/procure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-023",
+    "anchor": "cared a pin for his life",
+    "layer": "vocab",
+    "note": "Cared a pin: cared at all (a pin being nearly worthless).",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-024",
+    "anchor": "absolutely courting death",
+    "layer": "vocab",
+    "note": "Courting death: inviting danger, risking death.",
+    "source": "Merriam-Webster, “court”, https://www.merriam-webster.com/dictionary/court",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-025",
+    "anchor": "Your blood be on your own head",
+    "layer": "allusion",
+    "note": "A biblical formula meaning you are responsible for your own death; similar words appear in Joshua and 2 Samuel.",
+    "source": "The Bible (King James Version), 2 Samuel 1:16",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-026",
+    "anchor": "the bare rafters",
+    "layer": "vocab",
+    "note": "Rafters: the sloping beams that hold up a roof.",
+    "source": "Merriam-Webster, “rafter”, https://www.merriam-webster.com/dictionary/rafter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-027",
+    "anchor": "peered into the campong",
+    "layer": "vocab",
+    "note": "Campong (kampong): a Malay village or fenced compound.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “kampong”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-028",
+    "anchor": "he came forward prudently",
+    "layer": "vocab",
+    "note": "Prudently: carefully, with wary caution.",
+    "source": "Merriam-Webster, “prudent”, https://www.merriam-webster.com/dictionary/prudent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-029",
+    "anchor": "a pitcher",
+    "layer": "vocab",
+    "note": "Pitcher: a large jug for pouring liquids.",
+    "source": "Merriam-Webster, “pitcher”, https://www.merriam-webster.com/dictionary/pitcher",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-030",
+    "anchor": "A voice whispered tremulously",
+    "layer": "vocab",
+    "note": "Tremulously: in a trembling, shaky way.",
+    "source": "Merriam-Webster, “tremulous”, https://www.merriam-webster.com/dictionary/tremulous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-031",
+    "anchor": "Jim came out impetuously",
+    "layer": "vocab",
+    "note": "Impetuously: suddenly and rashly, without thinking.",
+    "source": "Merriam-Webster, “impetuous”, https://www.merriam-webster.com/dictionary/impetuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-032",
+    "anchor": "the broken banister",
+    "layer": "vocab",
+    "note": "Banister: a handrail on the side of a staircase.",
+    "source": "Merriam-Webster, “banister”, https://www.merriam-webster.com/dictionary/banister",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-033",
+    "anchor": "the cold fit of a fever",
+    "layer": "vocab",
+    "note": "Cold fit: the shivering chill of a fever such as malaria.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-034",
+    "anchor": "in a passion",
+    "layer": "vocab",
+    "note": "In a passion: in a fit of anger.",
+    "source": "Merriam-Webster, “passion”, https://www.merriam-webster.com/dictionary/passion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-035",
+    "anchor": "a sort of expiring voice",
+    "layer": "vocab",
+    "note": "Expiring: dying, fading away to nothing.",
+    "source": "Merriam-Webster, “expire”, https://www.merriam-webster.com/dictionary/expire",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-036",
+    "anchor": "so absurd and provoking",
+    "layer": "vocab",
+    "note": "Provoking: annoying, irritating, stirring anger.",
+    "source": "Merriam-Webster, “provoking”, https://www.merriam-webster.com/dictionary/provoking",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-037",
+    "anchor": "seen you tucked away",
+    "layer": "vocab",
+    "note": "Tucked away: here, buried, dead and gone.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-038",
+    "anchor": "the hateful embodiment",
+    "layer": "vocab",
+    "note": "Embodiment: a living form or example of an idea.",
+    "source": "Merriam-Webster, “embodiment”, https://www.merriam-webster.com/dictionary/embodiment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-039",
+    "anchor": "his nerves had been over-wrought",
+    "layer": "vocab",
+    "note": "Over-wrought: worked up, too tense and excited.",
+    "source": "Merriam-Webster, “overwrought”, https://www.merriam-webster.com/dictionary/overwrought",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-040",
+    "anchor": "swindler, liar, sorry rascal",
+    "layer": "vocab",
+    "note": "Swindler: a cheat who tricks people out of money.",
+    "source": "Merriam-Webster, “swindler”, https://www.merriam-webster.com/dictionary/swindler",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-041",
+    "anchor": "quite beside himself",
+    "layer": "vocab",
+    "note": "Beside himself: out of control with emotion.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-042",
+    "anchor": "dance to his own tune",
+    "layer": "vocab",
+    "note": "Dance to his own tune: do whatever he wanted.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-043",
+    "anchor": "Perfectly bombastic",
+    "layer": "vocab",
+    "note": "Bombastic: pompous, full of big empty words.",
+    "source": "Merriam-Webster, “bombastic”, https://www.merriam-webster.com/dictionary/bombastic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-044",
+    "anchor": "off his chump",
+    "layer": "vocab",
+    "note": "Off his chump: out of his mind, crazy (British slang).",
+    "source": "Merriam-Webster, “chump”, https://www.merriam-webster.com/dictionary/chump",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch30-045",
+    "anchor": "child-like solemnity",
+    "layer": "vocab",
+    "note": "Solemnity: deep and grave seriousness.",
+    "source": "Merriam-Webster, “solemnity”, https://www.merriam-webster.com/dictionary/solemnity",
+    "status": "draft",
+    "checker": null
+  }
+]

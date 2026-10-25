@@ -6,7 +6,7 @@
 (function () {
   'use strict';
 
-  const BOOKS = { 'lord-jim': { title: 'Lord Jim', chapters: 10 } };
+  const BOOKS = { 'lord-jim': { title: 'Lord Jim', chapters: 45 } };
   const LAYERS = ['vocab', 'allusion', 'history', 'place'];
   const LAYER_NAMES = { vocab: 'Vocab', allusion: 'Allusion', history: 'History', place: 'Place' };
   // Vocabulary goes on the right; references to the wider world on the left.

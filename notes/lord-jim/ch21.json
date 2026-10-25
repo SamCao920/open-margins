@@ -1,0 +1,476 @@
+[
+  {
+    "id": "ch21-001",
+    "anchor": "many a heavenly body",
+    "layer": "vocab",
+    "note": "Heavenly body: a star, planet, or moon in the sky.",
+    "source": "Merriam-Webster, “heavenly body”, https://www.merriam-webster.com/dictionary/heavenly%20body",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-002",
+    "anchor": "the aberrations of its light",
+    "layer": "vocab",
+    "note": "Aberrations: departures from the normal; in astronomy, apparent shifts in a star’s position.",
+    "source": "Merriam-Webster, “aberration”, https://www.merriam-webster.com/dictionary/aberration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-003",
+    "anchor": "scientific scandal-mongering",
+    "layer": "vocab",
+    "note": "Scandal-mongering: spreading gossip and scandal about others.",
+    "source": "Merriam-Webster, “scandalmonger”, https://www.merriam-webster.com/dictionary/scandalmonger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-004",
+    "anchor": "in Batavia",
+    "layer": "place",
+    "note": "Batavia, now Jakarta, on the island of Java, was the capital of the Dutch East Indies and seat of its colonial government.",
+    "source": "Encyclopaedia Britannica, “Jakarta”, https://www.britannica.com/place/Jakarta",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-005",
+    "anchor": "the mercantile world",
+    "layer": "vocab",
+    "note": "Mercantile: having to do with trade and merchants.",
+    "source": "Merriam-Webster, “mercantile”, https://www.merriam-webster.com/dictionary/mercantile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-006",
+    "anchor": "his earthly emoluments",
+    "layer": "vocab",
+    "note": "Emoluments: salary, pay, and other benefits from a job.",
+    "source": "Merriam-Webster, “emolument”, https://www.merriam-webster.com/dictionary/emolument",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-007",
+    "anchor": "a star of the fifth magnitude",
+    "layer": "vocab",
+    "note": "Magnitude: a star’s brightness; fifth magnitude stars are barely visible to the naked eye.",
+    "source": "Merriam-Webster, “magnitude”, https://www.merriam-webster.com/dictionary/magnitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-008",
+    "anchor": "his imaginative faculty",
+    "layer": "vocab",
+    "note": "Faculty: a natural power of the mind, such as imagination.",
+    "source": "Merriam-Webster, “faculty”, https://www.merriam-webster.com/dictionary/faculty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-009",
+    "anchor": "his incorrigible way",
+    "layer": "vocab",
+    "note": "Incorrigible: impossible to change or cure of a habit.",
+    "source": "Merriam-Webster, “incorrigible”, https://www.merriam-webster.com/dictionary/incorrigible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-010",
+    "anchor": "Schon.",
+    "layer": "vocab",
+    "note": "German: “All right then,” “well.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-011",
+    "anchor": "some sin, transgression, or misfortune",
+    "layer": "vocab",
+    "note": "Transgression: breaking a law or moral rule.",
+    "source": "Merriam-Webster, “transgression”, https://www.merriam-webster.com/dictionary/transgression",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-012",
+    "anchor": "in moments of expansion",
+    "layer": "vocab",
+    "note": "Expansion here means opening up, talking more freely and warmly.",
+    "source": "Merriam-Webster, “expansion”, https://www.merriam-webster.com/dictionary/expansion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-013",
+    "anchor": "a Malacca Portuguese",
+    "layer": "history",
+    "note": "The Portuguese ruled Malacca, a port on the Malay Peninsula, from 1511 to 1641; their descendants, of mixed Portuguese and Malay ancestry, stayed on as a distinct community.",
+    "source": "Encyclopaedia Britannica, “Malacca”, https://www.britannica.com/search?query=Malacca",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-014",
+    "anchor": "ill-used person",
+    "layer": "vocab",
+    "note": "Ill-used: treated badly or unfairly.",
+    "source": "Merriam-Webster, “ill-use”, https://www.merriam-webster.com/dictionary/ill-use",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-015",
+    "anchor": "This man Jim would have to relieve",
+    "layer": "vocab",
+    "note": "Relieve here means take over the post from someone.",
+    "source": "Merriam-Webster, “relieve”, https://www.merriam-webster.com/dictionary/relieve",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-016",
+    "anchor": "a deep fissure",
+    "layer": "vocab",
+    "note": "Fissure: a long, narrow crack or split.",
+    "source": "Merriam-Webster, “fissure”, https://www.merriam-webster.com/dictionary/fissure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-017",
+    "anchor": "the cleavage of some mighty stroke",
+    "layer": "vocab",
+    "note": "Cleavage: a split made by cutting, as with an axe.",
+    "source": "Merriam-Webster, “cleavage”, https://www.merriam-webster.com/dictionary/cleavage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-018",
+    "anchor": "a narrow ravine",
+    "layer": "vocab",
+    "note": "Ravine: a deep, narrow valley with steep sides.",
+    "source": "Merriam-Webster, “ravine”, https://www.merriam-webster.com/dictionary/ravine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-019",
+    "anchor": "irregularly conical hill",
+    "layer": "vocab",
+    "note": "Conical: shaped like a cone.",
+    "source": "Merriam-Webster, “conical”, https://www.merriam-webster.com/dictionary/conical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-020",
+    "anchor": "its diffused light",
+    "layer": "vocab",
+    "note": "Diffused: spread out widely and softly.",
+    "source": "Merriam-Webster, “diffuse”, https://www.merriam-webster.com/dictionary/diffuse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-021",
+    "anchor": "intensely black relief",
+    "layer": "vocab",
+    "note": "In relief: standing out sharply against the background.",
+    "source": "Merriam-Webster, “relief”, https://www.merriam-webster.com/dictionary/relief",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-022",
+    "anchor": "glowing ruddily",
+    "layer": "vocab",
+    "note": "Ruddily: with a reddish glow.",
+    "source": "Merriam-Webster, “ruddy”, https://www.merriam-webster.com/dictionary/ruddy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-023",
+    "anchor": "tumbled him unwittingly",
+    "layer": "vocab",
+    "note": "Unwittingly: without knowing or meaning to.",
+    "source": "Merriam-Webster, “unwitting”, https://www.merriam-webster.com/dictionary/unwitting",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-024",
+    "anchor": "all its hearthstones",
+    "layer": "vocab",
+    "note": "Hearthstone: the stone floor of a fireplace; a symbol of home.",
+    "source": "Merriam-Webster, “hearthstone”, https://www.merriam-webster.com/dictionary/hearthstone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-025",
+    "anchor": "the illustrious and the obscure",
+    "layer": "vocab",
+    "note": "Illustrious: famous and admired. Obscure: unknown.",
+    "source": "Merriam-Webster, “illustrious”, https://www.merriam-webster.com/dictionary/illustrious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-026",
+    "anchor": "going to render an account",
+    "layer": "vocab",
+    "note": "Render an account: explain and answer for one’s conduct.",
+    "source": "Merriam-Webster, “render”, https://www.merriam-webster.com/dictionary/render",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-027",
+    "anchor": "our kindred",
+    "layer": "vocab",
+    "note": "Kindred: one’s relatives, one’s family and kin.",
+    "source": "Merriam-Webster, “kindred”, https://www.merriam-webster.com/dictionary/kindred",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-028",
+    "anchor": "bereft of ties",
+    "layer": "vocab",
+    "note": "Bereft of: deprived of, without.",
+    "source": "Merriam-Webster, “bereft”, https://www.merriam-webster.com/dictionary/bereft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-029",
+    "anchor": "sheer sentimentalism",
+    "layer": "vocab",
+    "note": "Sentimentalism: indulging too much in tender feelings.",
+    "source": "Merriam-Webster, “sentimentalism”, https://www.merriam-webster.com/dictionary/sentimentalism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-030",
+    "anchor": "its secular right to our fidelity",
+    "layer": "vocab",
+    "note": "Secular here means age-old, lasting for centuries. Fidelity: loyalty.",
+    "source": "Merriam-Webster, “fidelity”, https://www.merriam-webster.com/dictionary/fidelity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-031",
+    "anchor": "picturesque manifestations",
+    "layer": "vocab",
+    "note": "Picturesque: striking and dramatic. Manifestations: outward displays of feeling.",
+    "source": "Merriam-Webster, “picturesque”, https://www.merriam-webster.com/dictionary/picturesque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-032",
+    "anchor": "pouted lips",
+    "layer": "vocab",
+    "note": "Pouted: pushed out, as in sulking.",
+    "source": "Merriam-Webster, “pout”, https://www.merriam-webster.com/dictionary/pout",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-033",
+    "anchor": "those candid blue eyes",
+    "layer": "vocab",
+    "note": "Candid: open, frank, and honest.",
+    "source": "Merriam-Webster, “candid”, https://www.merriam-webster.com/dictionary/candid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-034",
+    "anchor": "glowering darkly",
+    "layer": "vocab",
+    "note": "Glowering: staring with an angry frown.",
+    "source": "Merriam-Webster, “glower”, https://www.merriam-webster.com/dictionary/glower",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-035",
+    "anchor": "the white cliffs of Dover",
+    "layer": "place",
+    "note": "The chalk cliffs at Dover, on England’s southeast coast, are the first sight of England for those arriving by sea from the Continent.",
+    "source": "Encyclopaedia Britannica, “Dover”, https://www.britannica.com/search?query=Dover",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-036",
+    "anchor": "Woe to the stragglers!",
+    "layer": "vocab",
+    "note": "Stragglers: those who fall behind the main group.",
+    "source": "Merriam-Webster, “straggler”, https://www.merriam-webster.com/dictionary/straggler",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-037",
+    "anchor": "being waylaid",
+    "layer": "vocab",
+    "note": "Waylaid: stopped and accosted by someone lying in wait.",
+    "source": "Merriam-Webster, “waylay”, https://www.merriam-webster.com/dictionary/waylay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-038",
+    "anchor": "besmirched loafer",
+    "layer": "vocab",
+    "note": "Besmirched: dirtied, stained. Loafer: idle good-for-nothing.",
+    "source": "Merriam-Webster, “besmirch”, https://www.merriam-webster.com/dictionary/besmirch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-039",
+    "anchor": "jaunty bearing",
+    "layer": "vocab",
+    "note": "Jaunty: lively and self-confident in manner.",
+    "source": "Merriam-Webster, “jaunty”, https://www.merriam-webster.com/dictionary/jaunty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-040",
+    "anchor": "the rasping careless voice",
+    "layer": "vocab",
+    "note": "Rasping: harsh and grating, like a file.",
+    "source": "Merriam-Webster, “rasp”, https://www.merriam-webster.com/dictionary/rasp",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-041",
+    "anchor": "half-averted impudent glances",
+    "layer": "vocab",
+    "note": "Half-averted: half turned away. Impudent: rudely bold.",
+    "source": "Merriam-Webster, “impudent”, https://www.merriam-webster.com/dictionary/impudent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-042",
+    "anchor": "an impenitent death-bed",
+    "layer": "vocab",
+    "note": "Impenitent: not sorry for one’s sins.",
+    "source": "Merriam-Webster, “impenitent”, https://www.merriam-webster.com/dictionary/impenitent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-043",
+    "anchor": "a longer scope of cable",
+    "layer": "vocab",
+    "note": "Scope: the length of anchor cable let out, which allows a ship to swing.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Scope”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-044",
+    "anchor": "belittling him",
+    "layer": "vocab",
+    "note": "Belittling: making someone seem less important.",
+    "source": "Merriam-Webster, “belittle”, https://www.merriam-webster.com/dictionary/belittle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-045",
+    "anchor": "bemused reflections",
+    "layer": "vocab",
+    "note": "Bemused: puzzled, lost in thought.",
+    "source": "Merriam-Webster, “bemused”, https://www.merriam-webster.com/dictionary/bemused",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-046",
+    "anchor": "the onlookers see most of the game",
+    "layer": "vocab",
+    "note": "A proverb: people watching often see more clearly than those playing.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-047",
+    "anchor": "they were superfluous",
+    "layer": "vocab",
+    "note": "Superfluous: unnecessary, more than needed.",
+    "source": "Merriam-Webster, “superfluous”, https://www.merriam-webster.com/dictionary/superfluous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-048",
+    "anchor": "straight as a die",
+    "layer": "vocab",
+    "note": "Straight as a die: perfectly straight; also honest and direct.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-049",
+    "anchor": "he could stay as well as spurt",
+    "layer": "vocab",
+    "note": "Racing terms: he had endurance (stay) as well as bursts of speed (spurt).",
+    "source": "Merriam-Webster, “spurt”, https://www.merriam-webster.com/dictionary/spurt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-050",
+    "anchor": "yearning inconsolably",
+    "layer": "vocab",
+    "note": "Inconsolably: so sadly that nothing can comfort him.",
+    "source": "Merriam-Webster, “inconsolable”, https://www.merriam-webster.com/dictionary/inconsolable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-051",
+    "anchor": "our only and abiding intention",
+    "layer": "vocab",
+    "note": "Abiding: lasting, enduring, permanent, never fading.",
+    "source": "Merriam-Webster, “abiding”, https://www.merriam-webster.com/dictionary/abiding",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-052",
+    "anchor": "I could be eloquent",
+    "layer": "vocab",
+    "note": "Eloquent: speaking powerfully and persuasively.",
+    "source": "Merriam-Webster, “eloquent”, https://www.merriam-webster.com/dictionary/eloquent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-053",
+    "anchor": "the shock of trifles",
+    "layer": "vocab",
+    "note": "Trifles: small things of little importance.",
+    "source": "Merriam-Webster, “trifle”, https://www.merriam-webster.com/dictionary/trifle",
+    "status": "draft",
+    "checker": null
+  }
+]

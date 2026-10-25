@@ -1,0 +1,531 @@
+[
+  {
+    "id": "ch22-001",
+    "anchor": "the externals of such a success",
+    "layer": "vocab",
+    "note": "Externals: outward appearances and show.",
+    "source": "Merriam-Webster, “external”, https://www.merriam-webster.com/dictionary/external",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-002",
+    "anchor": "the white surf",
+    "layer": "vocab",
+    "note": "Surf: waves breaking in white foam on the shore.",
+    "source": "Merriam-Webster, “surf”, https://www.merriam-webster.com/dictionary/surf",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-003",
+    "anchor": "on a headland",
+    "layer": "vocab",
+    "note": "Headland: a high point of land jutting out into the sea.",
+    "source": "Merriam-Webster, “headland”, https://www.merriam-webster.com/dictionary/headland",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-004",
+    "anchor": "collections of old voyages",
+    "layer": "history",
+    "note": "Collections such as those of Richard Hakluyt and Samuel Purchas, around 1600, printed the narratives of English sea voyages and trading ventures.",
+    "source": "Encyclopaedia Britannica, “Richard Hakluyt”, https://www.britannica.com/search?query=Richard+Hakluyt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-005",
+    "anchor": "went there for pepper",
+    "layer": "history",
+    "note": "Pepper and other spices from the East Indies were so valuable in the 1600s that the Dutch and English East India Companies fought to control their trade.",
+    "source": "Encyclopaedia Britannica, “spice trade”, https://www.britannica.com/search?query=spice+trade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-006",
+    "anchor": "James the First",
+    "layer": "history",
+    "note": "James I ruled England from 1603 to 1625, years when English and Dutch East India Company ships fought for the spice trade of the East Indies.",
+    "source": "Encyclopaedia Britannica, “James I of England”, https://www.britannica.com/search?query=James+I+of+England",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-007",
+    "anchor": "would forswear their souls",
+    "layer": "vocab",
+    "note": "Forswear: give up, renounce, or swear falsely.",
+    "source": "Merriam-Webster, “forswear”, https://www.merriam-webster.com/dictionary/forswear",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-008",
+    "anchor": "the bizarre obstinacy",
+    "layer": "vocab",
+    "note": "Bizarre: very strange. Obstinacy: stubbornness.",
+    "source": "Merriam-Webster, “obstinacy”, https://www.merriam-webster.com/dictionary/obstinacy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-009",
+    "anchor": "loathsome and strange diseases",
+    "layer": "vocab",
+    "note": "Loathsome: disgusting, hateful, and sickening.",
+    "source": "Merriam-Webster, “loathsome”, https://www.merriam-webster.com/dictionary/loathsome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-010",
+    "anchor": "hunger, pestilence",
+    "layer": "vocab",
+    "note": "Pestilence: a deadly epidemic disease, such as plague.",
+    "source": "Merriam-Webster, “pestilence”, https://www.merriam-webster.com/dictionary/pestilence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-011",
+    "anchor": "levying its toll",
+    "layer": "vocab",
+    "note": "Levying its toll: collecting its payment, here in lives.",
+    "source": "Merriam-Webster, “levy”, https://www.merriam-webster.com/dictionary/levy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-012",
+    "anchor": "such a steadfastness of purpose",
+    "layer": "vocab",
+    "note": "Steadfastness: firm, unwavering, steady determination.",
+    "source": "Merriam-Webster, “steadfast”, https://www.merriam-webster.com/dictionary/steadfast",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-013",
+    "anchor": "those who adventured their persons",
+    "layer": "vocab",
+    "note": "Adventured: risked, put in danger.",
+    "source": "Merriam-Webster, “adventure”, https://www.merriam-webster.com/dictionary/adventure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-014",
+    "anchor": "their less tried successors",
+    "layer": "vocab",
+    "note": "Less tried: less tested by hardship.",
+    "source": "Merriam-Webster, “tried”, https://www.merriam-webster.com/dictionary/tried",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-015",
+    "anchor": "recorded it complacently",
+    "layer": "vocab",
+    "note": "Complacently: with calm, untroubled self-satisfaction.",
+    "source": "Merriam-Webster, “complacent”, https://www.merriam-webster.com/dictionary/complacent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-016",
+    "anchor": "chequered intercourse",
+    "layer": "vocab",
+    "note": "Chequered: with ups and downs. Intercourse: dealings, trade.",
+    "source": "Merriam-Webster, “checkered”, https://www.merriam-webster.com/dictionary/checkered",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-017",
+    "anchor": "an imbecile youth",
+    "layer": "vocab",
+    "note": "Imbecile: very foolish, weak-minded (an old, now offensive medical term).",
+    "source": "Merriam-Webster, “imbecile”, https://www.merriam-webster.com/dictionary/imbecile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-018",
+    "anchor": "beggarly revenue",
+    "layer": "vocab",
+    "note": "Beggarly: miserably small. Revenue: income.",
+    "source": "Merriam-Webster, “beggarly”, https://www.merriam-webster.com/dictionary/beggarly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-019",
+    "anchor": "extorted from a miserable population",
+    "layer": "vocab",
+    "note": "Extorted: taken by force or threats.",
+    "source": "Merriam-Webster, “extort”, https://www.merriam-webster.com/dictionary/extort",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-020",
+    "anchor": "by special permit from the Dutch authorities",
+    "layer": "history",
+    "note": "The Dutch colonial government controlled trade in the East Indies and often licensed only one firm to deal with a native state.",
+    "source": "Encyclopaedia Britannica, “Dutch East Indies”, https://www.britannica.com/search?query=Dutch+East+Indies",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-021",
+    "anchor": "trusted his discretion",
+    "layer": "vocab",
+    "note": "Discretion: good judgement and the ability to keep matters quiet.",
+    "source": "Merriam-Webster, “discretion”, https://www.merriam-webster.com/dictionary/discretion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-022",
+    "anchor": "antagonistic forces",
+    "layer": "vocab",
+    "note": "Antagonistic: opposed, hostile to one another.",
+    "source": "Merriam-Webster, “antagonistic”, https://www.merriam-webster.com/dictionary/antagonistic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-023",
+    "anchor": "ground down to the point of extinction",
+    "layer": "vocab",
+    "note": "Ground down: oppressed. Extinction: being wiped out.",
+    "source": "Merriam-Webster, “extinction”, https://www.merriam-webster.com/dictionary/extinction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-024",
+    "anchor": "the resource of emigrating",
+    "layer": "vocab",
+    "note": "Emigrating: leaving one’s country to settle elsewhere.",
+    "source": "Merriam-Webster, “emigrate”, https://www.merriam-webster.com/dictionary/emigrate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-025",
+    "anchor": "circumscribed by lofty impassable mountains",
+    "layer": "vocab",
+    "note": "Circumscribed: enclosed, hemmed in. Impassable: impossible to cross.",
+    "source": "Merriam-Webster, “circumscribe”, https://www.merriam-webster.com/dictionary/circumscribe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-026",
+    "anchor": "swallowed an opium pill",
+    "layer": "history",
+    "note": "Opium, a drug from poppies, was widely sold and used across the region in the 1800s; it is habit-forming.",
+    "source": "Encyclopaedia Britannica, “opium”, https://www.britannica.com/search?query=opium",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-027",
+    "anchor": "his wizened grimy face",
+    "layer": "vocab",
+    "note": "Wizened: shrivelled and wrinkled with age.",
+    "source": "Merriam-Webster, “wizened”, https://www.merriam-webster.com/dictionary/wizened",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-028",
+    "anchor": "When giving audience",
+    "layer": "vocab",
+    "note": "Giving audience: formally receiving visitors, as a ruler does.",
+    "source": "Merriam-Webster, “audience”, https://www.merriam-webster.com/dictionary/audience",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-029",
+    "anchor": "heaps of refuse",
+    "layer": "vocab",
+    "note": "Refuse (REF-yooss): rubbish, waste, and garbage.",
+    "source": "Merriam-Webster, “refuse”, https://www.merriam-webster.com/dictionary/refuse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-030",
+    "anchor": "a visit of ceremony",
+    "layer": "vocab",
+    "note": "A visit of ceremony: a formal, official visit.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-031",
+    "anchor": "so self-possessed",
+    "layer": "vocab",
+    "note": "Self-possessed: calm and in control of oneself.",
+    "source": "Merriam-Webster, “self-possessed”, https://www.merriam-webster.com/dictionary/self-possessed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-032",
+    "anchor": "an impenetrable, impressive way",
+    "layer": "vocab",
+    "note": "Impenetrable: impossible to see into or understand.",
+    "source": "Merriam-Webster, “impenetrable”, https://www.merriam-webster.com/dictionary/impenetrable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-033",
+    "anchor": "his stalwart figure in white apparel",
+    "layer": "vocab",
+    "note": "Stalwart: strong and sturdy. Apparel: clothing.",
+    "source": "Merriam-Webster, “stalwart”, https://www.merriam-webster.com/dictionary/stalwart",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-034",
+    "anchor": "a roof of thatch",
+    "layer": "vocab",
+    "note": "Thatch: a roof covering of dried straw, reeds, or palm leaves.",
+    "source": "Merriam-Webster, “thatch”, https://www.merriam-webster.com/dictionary/thatch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-035",
+    "anchor": "of another essence",
+    "layer": "vocab",
+    "note": "Essence: the basic nature of a thing.",
+    "source": "Merriam-Webster, “essence”, https://www.merriam-webster.com/dictionary/essence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-036",
+    "anchor": "a crazy dug-out",
+    "layer": "vocab",
+    "note": "Dug-out: a canoe made by hollowing out a tree trunk. Crazy: rickety.",
+    "source": "Merriam-Webster, “dugout”, https://www.merriam-webster.com/dictionary/dugout",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-037",
+    "anchor": "a revolver of the Navy pattern",
+    "layer": "vocab",
+    "note": "Navy pattern: of the type issued to the Royal Navy.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-038",
+    "anchor": "an interposition of Providence",
+    "layer": "vocab",
+    "note": "Interposition: stepping in. Providence: God’s care.",
+    "source": "Merriam-Webster, “interposition”, https://www.merriam-webster.com/dictionary/interposition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-039",
+    "anchor": "instinctive sagacity",
+    "layer": "vocab",
+    "note": "Sagacity: wisdom and good judgement.",
+    "source": "Merriam-Webster, “sagacity”, https://www.merriam-webster.com/dictionary/sagacity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-040",
+    "anchor": "this fatality",
+    "layer": "vocab",
+    "note": "Fatality here means a fate one cannot escape.",
+    "source": "Merriam-Webster, “fatality”, https://www.merriam-webster.com/dictionary/fatality",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-041",
+    "anchor": "metaphorically speaking",
+    "layer": "vocab",
+    "note": "Metaphorically: not literally, as a figure of speech.",
+    "source": "Merriam-Webster, “metaphorical”, https://www.merriam-webster.com/dictionary/metaphorical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-042",
+    "anchor": "hove him over the wall",
+    "layer": "vocab",
+    "note": "Hove: heaved, threw with effort.",
+    "source": "Merriam-Webster, “heave”, https://www.merriam-webster.com/dictionary/heave",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-043",
+    "anchor": "with scant ceremony",
+    "layer": "vocab",
+    "note": "Scant: very little, hardly any.",
+    "source": "Merriam-Webster, “scant”, https://www.merriam-webster.com/dictionary/scant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-044",
+    "anchor": "paying off (in kind",
+    "layer": "vocab",
+    "note": "In kind: in the same form as received, not in money.",
+    "source": "Merriam-Webster, “in kind”, https://www.merriam-webster.com/dictionary/in%20kind",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-045",
+    "anchor": "His late benefactor",
+    "layer": "vocab",
+    "note": "Benefactor: someone who gives help or money.",
+    "source": "Merriam-Webster, “benefactor”, https://www.merriam-webster.com/dictionary/benefactor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-046",
+    "anchor": "south of the Tweed",
+    "layer": "place",
+    "note": "The River Tweed forms part of the border between England and Scotland; south of it means England.",
+    "source": "Encyclopaedia Britannica, “River Tweed”, https://www.britannica.com/search?query=River+Tweed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-047",
+    "anchor": "looks foreshortened",
+    "layer": "vocab",
+    "note": "Foreshortened: shrunk in appearance by distance.",
+    "source": "Merriam-Webster, “foreshorten”, https://www.merriam-webster.com/dictionary/foreshorten",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-048",
+    "anchor": "had condescended to load",
+    "layer": "vocab",
+    "note": "Condescended: lowered himself to do something.",
+    "source": "Merriam-Webster, “condescend”, https://www.merriam-webster.com/dictionary/condescend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-049",
+    "anchor": "how he merited",
+    "layer": "vocab",
+    "note": "Merited: deserved, had earned by his worth.",
+    "source": "Merriam-Webster, “merit”, https://www.merriam-webster.com/dictionary/merit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-050",
+    "anchor": "He was not articulate",
+    "layer": "vocab",
+    "note": "Articulate: able to express oneself clearly in words.",
+    "source": "Merriam-Webster, “articulate”, https://www.merriam-webster.com/dictionary/articulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-051",
+    "anchor": "he remarked bashfully",
+    "layer": "vocab",
+    "note": "Bashfully: shyly and with embarrassment.",
+    "source": "Merriam-Webster, “bashful”, https://www.merriam-webster.com/dictionary/bashful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-052",
+    "anchor": "Do not misapprehend",
+    "layer": "vocab",
+    "note": "Misapprehend: misunderstand, get the wrong idea.",
+    "source": "Merriam-Webster, “misapprehend”, https://www.merriam-webster.com/dictionary/misapprehend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-053",
+    "anchor": "not to be dense",
+    "layer": "vocab",
+    "note": "Dense here means slow to understand, stupid.",
+    "source": "Merriam-Webster, “dense”, https://www.merriam-webster.com/dictionary/dense",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-054",
+    "anchor": "becoming hermits in a wilderness",
+    "layer": "vocab",
+    "note": "Hermits: people who live alone, away from society, often for religion.",
+    "source": "Merriam-Webster, “hermit”, https://www.merriam-webster.com/dictionary/hermit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-055",
+    "anchor": "engaging impulsiveness",
+    "layer": "vocab",
+    "note": "Engaging: charming. Impulsiveness: acting suddenly without thought.",
+    "source": "Merriam-Webster, “impulsive”, https://www.merriam-webster.com/dictionary/impulsive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-056",
+    "anchor": "I continued inflexibly",
+    "layer": "vocab",
+    "note": "Inflexibly: firmly, without giving way.",
+    "source": "Merriam-Webster, “inflexible”, https://www.merriam-webster.com/dictionary/inflexible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-057",
+    "anchor": "a strange access of gloom",
+    "layer": "vocab",
+    "note": "Access here means a sudden fit or attack of a feeling.",
+    "source": "Merriam-Webster, “access”, https://www.merriam-webster.com/dictionary/access",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-058",
+    "anchor": "with a vengeance",
+    "layer": "vocab",
+    "note": "With a vengeance: thoroughly, to an extreme degree.",
+    "source": "Merriam-Webster, “with a vengeance”, https://www.merriam-webster.com/dictionary/with%20a%20vengeance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch22-059",
+    "anchor": "the first gharry",
+    "layer": "vocab",
+    "note": "Gharry: a horse-drawn cab used in India and Southeast Asia.",
+    "source": "Merriam-Webster, “gharry”, https://www.merriam-webster.com/dictionary/gharry",
+    "status": "draft",
+    "checker": null
+  }
+]

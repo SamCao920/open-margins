@@ -1,0 +1,514 @@
+[
+  {
+    "id": "ch33-001",
+    "anchor": "the delicate vigour of a wild-flower",
+    "layer": "vocab",
+    "note": "Vigour: strength and healthy energy.",
+    "source": "Merriam-Webster, “vigor”, https://www.merriam-webster.com/dictionary/vigor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-002",
+    "anchor": "the teeming earth",
+    "layer": "vocab",
+    "note": "Teeming: crowded, swarming with life.",
+    "source": "Merriam-Webster, “teem”, https://www.merriam-webster.com/dictionary/teem",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-003",
+    "anchor": "unsealed my lips",
+    "layer": "vocab",
+    "note": "Unsealed my lips: made me finally speak.",
+    "source": "Merriam-Webster, “unseal”, https://www.merriam-webster.com/dictionary/unseal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-004",
+    "anchor": "her piety wreathed",
+    "layer": "vocab",
+    "note": "Piety: religious devotion; also loving respect for family.",
+    "source": "Merriam-Webster, “piety”, https://www.merriam-webster.com/dictionary/piety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-005",
+    "anchor": "a predestined victim",
+    "layer": "vocab",
+    "note": "Predestined: fated in advance, doomed beforehand.",
+    "source": "Merriam-Webster, “predestined”, https://www.merriam-webster.com/dictionary/predestined",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-006",
+    "anchor": "in extenuation of the shady part",
+    "layer": "vocab",
+    "note": "Extenuation: an excuse that makes a fault seem less serious. Shady: dishonest.",
+    "source": "Merriam-Webster, “extenuation”, https://www.merriam-webster.com/dictionary/extenuation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-007",
+    "anchor": "infinitely meritorious",
+    "layer": "vocab",
+    "note": "Meritorious: deserving praise or reward.",
+    "source": "Merriam-Webster, “meritorious”, https://www.merriam-webster.com/dictionary/meritorious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-008",
+    "anchor": "Cornelius concurred",
+    "layer": "vocab",
+    "note": "Concurred: agreed with an opinion.",
+    "source": "Merriam-Webster, “concur”, https://www.merriam-webster.com/dictionary/concur",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-009",
+    "anchor": "He grovelled in spirit",
+    "layer": "vocab",
+    "note": "Grovelled: humbled himself in a creeping, servile way.",
+    "source": "Merriam-Webster, “grovel”, https://www.merriam-webster.com/dictionary/grovel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-010",
+    "anchor": "doubled up insinuatingly",
+    "layer": "vocab",
+    "note": "Insinuatingly: in a creeping, ingratiating way to win favour.",
+    "source": "Merriam-Webster, “insinuate”, https://www.merriam-webster.com/dictionary/insinuate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-011",
+    "anchor": "But I anticipate",
+    "layer": "vocab",
+    "note": "Anticipate: tell something before its proper time in the story.",
+    "source": "Merriam-Webster, “anticipate”, https://www.merriam-webster.com/dictionary/anticipate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-012",
+    "anchor": "foremost in her thoughts",
+    "layer": "vocab",
+    "note": "Foremost: first, the most important of all.",
+    "source": "Merriam-Webster, “foremost”, https://www.merriam-webster.com/dictionary/foremost",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-013",
+    "anchor": "the promptings of youth",
+    "layer": "vocab",
+    "note": "Promptings: urges or impulses pushing one to act.",
+    "source": "Merriam-Webster, “prompting”, https://www.merriam-webster.com/dictionary/prompting",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-014",
+    "anchor": "like knight and maiden",
+    "layer": "vocab",
+    "note": "Knight and maiden: the hero and young lady of medieval romance tales.",
+    "source": "Merriam-Webster, “knight”, https://www.merriam-webster.com/dictionary/knight",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-015",
+    "anchor": "as black as Styx",
+    "layer": "allusion",
+    "note": "In Greek myth the Styx is the dark river that the dead must cross to reach the underworld.",
+    "source": "Encyclopaedia Britannica, “Styx”, https://www.britannica.com/topic/Styx-Greek-mythology",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-016",
+    "anchor": "heard aright",
+    "layer": "vocab",
+    "note": "Aright: correctly, in the right way.",
+    "source": "Merriam-Webster, “aright”, https://www.merriam-webster.com/dictionary/aright",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-017",
+    "anchor": "ground around us, imperceptibly",
+    "layer": "vocab",
+    "note": "Imperceptibly: so slowly or slightly that it can hardly be noticed.",
+    "source": "Merriam-Webster, “imperceptible”, https://www.merriam-webster.com/dictionary/imperceptible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-018",
+    "anchor": "obliterating the familiar landmarks",
+    "layer": "vocab",
+    "note": "Obliterating: wiping out completely, leaving no trace.",
+    "source": "Merriam-Webster, “obliterate”, https://www.merriam-webster.com/dictionary/obliterate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-019",
+    "anchor": "only desisting now and again",
+    "layer": "vocab",
+    "note": "Desisting: stopping, ceasing for a while.",
+    "source": "Merriam-Webster, “desist”, https://www.merriam-webster.com/dictionary/desist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-020",
+    "anchor": "the moribund woman",
+    "layer": "vocab",
+    "note": "Moribund: dying, close to death.",
+    "source": "Merriam-Webster, “moribund”, https://www.merriam-webster.com/dictionary/moribund",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-021",
+    "anchor": "the white statuesque immobility",
+    "layer": "vocab",
+    "note": "Statuesque: still and dignified like a statue.",
+    "source": "Merriam-Webster, “statuesque”, https://www.merriam-webster.com/dictionary/statuesque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-022",
+    "anchor": "irremediable horror",
+    "layer": "vocab",
+    "note": "Irremediable: impossible to cure or put right.",
+    "source": "Merriam-Webster, “irremediable”, https://www.merriam-webster.com/dictionary/irremediable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-023",
+    "anchor": "as a tortoise withdraws within its shell",
+    "layer": "vocab",
+    "note": "Tortoise: a slow land turtle that hides inside its shell.",
+    "source": "Merriam-Webster, “tortoise”, https://www.merriam-webster.com/dictionary/tortoise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-024",
+    "anchor": "beyond the pale",
+    "layer": "vocab",
+    "note": "Beyond the pale: outside the limits of what is safe or acceptable.",
+    "source": "Merriam-Webster, “pale”, https://www.merriam-webster.com/dictionary/pale",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-025",
+    "anchor": "sincerely reproachful",
+    "layer": "vocab",
+    "note": "Reproachful: expressing blame or disappointment.",
+    "source": "Merriam-Webster, “reproachful”, https://www.merriam-webster.com/dictionary/reproachful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-026",
+    "anchor": "Wherefore this craving",
+    "layer": "vocab",
+    "note": "Wherefore: why (an old word).",
+    "source": "Merriam-Webster, “wherefore”, https://www.merriam-webster.com/dictionary/wherefore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-027",
+    "anchor": "the safeguards of her love",
+    "layer": "vocab",
+    "note": "Safeguards: protections that keep something from harm.",
+    "source": "Merriam-Webster, “safeguard”, https://www.merriam-webster.com/dictionary/safeguard",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-028",
+    "anchor": "inexpugnable peace",
+    "layer": "vocab",
+    "note": "Inexpugnable: impossible to capture or overthrow.",
+    "source": "Merriam-Webster, “inexpugnable”, https://www.merriam-webster.com/dictionary/inexpugnable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-029",
+    "anchor": "The night had come on apace",
+    "layer": "vocab",
+    "note": "Apace: quickly, at a swift pace.",
+    "source": "Merriam-Webster, “apace”, https://www.merriam-webster.com/dictionary/apace",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-030",
+    "anchor": "wistful and perverse spirit",
+    "layer": "vocab",
+    "note": "Perverse: stubbornly contrary, going against reason.",
+    "source": "Merriam-Webster, “perverse”, https://www.merriam-webster.com/dictionary/perverse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-031",
+    "anchor": "an inaudible breath",
+    "layer": "vocab",
+    "note": "Inaudible: too quiet to be heard.",
+    "source": "Merriam-Webster, “inaudible”, https://www.merriam-webster.com/dictionary/inaudible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-032",
+    "anchor": "liberated slaves",
+    "layer": "vocab",
+    "note": "Liberated: set free from slavery.",
+    "source": "Merriam-Webster, “liberate”, https://www.merriam-webster.com/dictionary/liberate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-033",
+    "anchor": "in lingering accents",
+    "layer": "vocab",
+    "note": "Lingering: slow, drawn out. Accents: tones of voice.",
+    "source": "Merriam-Webster, “linger”, https://www.merriam-webster.com/dictionary/linger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-034",
+    "anchor": "wringing her hands",
+    "layer": "vocab",
+    "note": "Wringing her hands: twisting them together in distress.",
+    "source": "Merriam-Webster, “wring”, https://www.merriam-webster.com/dictionary/wring",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-035",
+    "anchor": "her supplicating tone",
+    "layer": "vocab",
+    "note": "Supplicating: humbly and earnestly begging.",
+    "source": "Merriam-Webster, “supplicate”, https://www.merriam-webster.com/dictionary/supplicate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-036",
+    "anchor": "a poor mortal",
+    "layer": "vocab",
+    "note": "Mortal: a human being, one who must die.",
+    "source": "Merriam-Webster, “mortal”, https://www.merriam-webster.com/dictionary/mortal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-037",
+    "anchor": "spirits evoked by our fears",
+    "layer": "vocab",
+    "note": "Evoked: called up, summoned into being.",
+    "source": "Merriam-Webster, “evoke”, https://www.merriam-webster.com/dictionary/evoke",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-038",
+    "anchor": "to vouch for each other’s constancy",
+    "layer": "vocab",
+    "note": "Vouch for: guarantee. Constancy: faithfulness.",
+    "source": "Merriam-Webster, “vouch”, https://www.merriam-webster.com/dictionary/vouch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-039",
+    "anchor": "a spurned stone",
+    "layer": "vocab",
+    "note": "Spurned: kicked aside, rejected with scorn.",
+    "source": "Merriam-Webster, “spurn”, https://www.merriam-webster.com/dictionary/spurn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-040",
+    "anchor": "their two benighted lives",
+    "layer": "vocab",
+    "note": "Benighted: lost in darkness; ignorant.",
+    "source": "Merriam-Webster, “benighted”, https://www.merriam-webster.com/dictionary/benighted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-041",
+    "anchor": "I chafed silently",
+    "layer": "vocab",
+    "note": "Chafed: felt irritated and impatient.",
+    "source": "Merriam-Webster, “chafe”, https://www.merriam-webster.com/dictionary/chafe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-042",
+    "anchor": "at my impotence",
+    "layer": "vocab",
+    "note": "Impotence: powerlessness, being unable to act.",
+    "source": "Merriam-Webster, “impotence”, https://www.merriam-webster.com/dictionary/impotence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-043",
+    "anchor": "clearly expectant",
+    "layer": "vocab",
+    "note": "Expectant: waiting eagerly for something.",
+    "source": "Merriam-Webster, “expectant”, https://www.merriam-webster.com/dictionary/expectant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-044",
+    "anchor": "shoot a spectre",
+    "layer": "vocab",
+    "note": "Spectre: a ghost or phantom.",
+    "source": "Merriam-Webster, “specter”, https://www.merriam-webster.com/dictionary/specter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-045",
+    "anchor": "the blade not forged",
+    "layer": "vocab",
+    "note": "Forged: shaped by heating and hammering metal.",
+    "source": "Merriam-Webster, “forge”, https://www.merriam-webster.com/dictionary/forge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-046",
+    "anchor": "the winged words of truth",
+    "layer": "allusion",
+    "note": "“Winged words” is a phrase from Homer’s epics for words that fly swiftly from the speaker.",
+    "source": "Merriam-Webster, “winged words”, https://www.merriam-webster.com/dictionary/winged%20words",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-047",
+    "anchor": "an enchanted and poisoned shaft",
+    "layer": "vocab",
+    "note": "Shaft: an arrow or the shaft of a spear.",
+    "source": "Merriam-Webster, “shaft”, https://www.merriam-webster.com/dictionary/shaft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-048",
+    "anchor": "my masters",
+    "layer": "vocab",
+    "note": "My masters: an old form of address, like “gentlemen.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-049",
+    "anchor": "I began my exorcism",
+    "layer": "vocab",
+    "note": "Exorcism: driving out an evil spirit by prayers or charms.",
+    "source": "Merriam-Webster, “exorcism”, https://www.merriam-webster.com/dictionary/exorcism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-050",
+    "anchor": "a sort of sullen anger",
+    "layer": "vocab",
+    "note": "Sullen: gloomy, bad-tempered, and silent.",
+    "source": "Merriam-Webster, “sullen”, https://www.merriam-webster.com/dictionary/sullen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-051",
+    "anchor": "reproving the carelessness",
+    "layer": "vocab",
+    "note": "Reproving: scolding, criticizing someone’s fault.",
+    "source": "Merriam-Webster, “reprove”, https://www.merriam-webster.com/dictionary/reprove",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-052",
+    "anchor": "an inexplicable ardour",
+    "layer": "vocab",
+    "note": "Ardour: strong enthusiasm and passion.",
+    "source": "Merriam-Webster, “ardor”, https://www.merriam-webster.com/dictionary/ardor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-053",
+    "anchor": "the mysterious conjunctions of the planets",
+    "layer": "vocab",
+    "note": "Conjunctions: times when planets appear close together, thought by astrologers to shape events.",
+    "source": "Merriam-Webster, “conjunction”, https://www.merriam-webster.com/dictionary/conjunction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-054",
+    "anchor": "dogged fierceness",
+    "layer": "vocab",
+    "note": "Dogged: stubbornly determined, refusing to give up.",
+    "source": "Merriam-Webster, “dogged”, https://www.merriam-webster.com/dictionary/dogged",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-055",
+    "anchor": "I remained confounded",
+    "layer": "vocab",
+    "note": "Confounded: confused and at a loss.",
+    "source": "Merriam-Webster, “confound”, https://www.merriam-webster.com/dictionary/confound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-056",
+    "anchor": "scathing contempt",
+    "layer": "vocab",
+    "note": "Scathing: bitterly harsh and wounding.",
+    "source": "Merriam-Webster, “scathing”, https://www.merriam-webster.com/dictionary/scathing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch33-057",
+    "anchor": "the native dialect",
+    "layer": "vocab",
+    "note": "Dialect: the local form of a language.",
+    "source": "Merriam-Webster, “dialect”, https://www.merriam-webster.com/dictionary/dialect",
+    "status": "draft",
+    "checker": null
+  }
+]

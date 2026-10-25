@@ -47,14 +47,15 @@
   <p class="foot">Text: Project Gutenberg eBook #5658, public domain. The Author’s Note (1917) is not included in the reader. <a href="sources.html?book=lord-jim">Sources for the notes</a> · <a href="index.html">Back to the library</a>.</p>
 </main>
 <script>
-  const roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
+  const CHAPTERS = 45;
+  const roman = n => { let s = ''; for (const [v, r] of [[40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']]) while (n >= v) { s += r; n -= v; } return s; };
   const toc = document.getElementById('toc');
-  roman.forEach((r, i) => {
-    const n = i + 1;
+  for (let n = 1; n <= CHAPTERS; n++) {
+    const r = roman(n);
     const li = document.createElement('li');
-    li.innerHTML = '<span class="num">' + r + '.</span><span class="what"><a href="chapter.html?book=lord-jim&amp;ch=' + n + '">Chapter ' + r + '</a></span>';
+    li.innerHTML = '<span class="what"><a href="chapter.html?book=lord-jim&amp;ch=' + n + '">Chapter ' + r + '</a></span>';
     toc.appendChild(li);
-  });
+  }
 </script>
 </body>
 </html>

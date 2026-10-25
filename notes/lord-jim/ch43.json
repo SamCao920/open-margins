@@ -1,0 +1,366 @@
+[
+  {
+    "id": "ch43-001",
+    "anchor": "was thunderstruck",
+    "layer": "vocab",
+    "note": "Thunderstruck: utterly astonished, as if struck by lightning.",
+    "source": "Merriam-Webster, “thunderstruck”, https://www.merriam-webster.com/dictionary/thunderstruck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-002",
+    "anchor": "an immense sensation",
+    "layer": "vocab",
+    "note": "Sensation here means great excitement and surprise among people.",
+    "source": "Merriam-Webster, “sensation”, https://www.merriam-webster.com/dictionary/sensation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-003",
+    "anchor": "he consented",
+    "layer": "vocab",
+    "note": "Consented: agreed, gave his permission.",
+    "source": "Merriam-Webster, “consent”, https://www.merriam-webster.com/dictionary/consent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-004",
+    "anchor": "their creed",
+    "layer": "vocab",
+    "note": "Creed: a set of beliefs one lives by.",
+    "source": "Merriam-Webster, “creed”, https://www.merriam-webster.com/dictionary/creed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-005",
+    "anchor": "that ardent and clinging affection",
+    "layer": "vocab",
+    "note": "Ardent: passionate, burning with feeling.",
+    "source": "Merriam-Webster, “ardent”, https://www.merriam-webster.com/dictionary/ardent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-006",
+    "anchor": "the dole of tears",
+    "layer": "vocab",
+    "note": "Dole: a small share given out; here, the tears owed to the dead.",
+    "source": "Merriam-Webster, “dole”, https://www.merriam-webster.com/dictionary/dole",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-007",
+    "anchor": "carries the day",
+    "layer": "vocab",
+    "note": "Carries the day: wins, comes out victorious.",
+    "source": "Merriam-Webster, “carry the day”, https://www.merriam-webster.com/dictionary/carry%20the%20day",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-008",
+    "anchor": "seemed warranted",
+    "layer": "vocab",
+    "note": "Warranted: justified, made trustworthy, guaranteed.",
+    "source": "Merriam-Webster, “warrant”, https://www.merriam-webster.com/dictionary/warrant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-009",
+    "anchor": "a sort of virile sincerity",
+    "layer": "vocab",
+    "note": "Virile: manly, strong and forceful.",
+    "source": "Merriam-Webster, “virile”, https://www.merriam-webster.com/dictionary/virile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-010",
+    "anchor": "inconceivable egotism",
+    "layer": "vocab",
+    "note": "Egotism: thinking only of oneself and one’s own importance.",
+    "source": "Merriam-Webster, “egotism”, https://www.merriam-webster.com/dictionary/egotism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-011",
+    "anchor": "a thwarted autocrat",
+    "layer": "vocab",
+    "note": "Thwarted: blocked, frustrated. Autocrat: a ruler with total power.",
+    "source": "Merriam-Webster, “autocrat”, https://www.merriam-webster.com/dictionary/autocrat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-012",
+    "anchor": "her remonstrating",
+    "layer": "vocab",
+    "note": "Remonstrating: protesting, arguing against something.",
+    "source": "Merriam-Webster, “remonstrate”, https://www.merriam-webster.com/dictionary/remonstrate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-013",
+    "anchor": "on the score of his fatigue",
+    "layer": "vocab",
+    "note": "On the score of: because of, on account of.",
+    "source": "Merriam-Webster, “score”, https://www.merriam-webster.com/dictionary/score",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-014",
+    "anchor": "the dinner-service",
+    "layer": "vocab",
+    "note": "Dinner-service: a full matching set of plates and dishes.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-015",
+    "anchor": "a night of Ramadan",
+    "layer": "history",
+    "note": "Ramadan is the Muslim holy month of fasting from dawn to sunset; at night people eat, gather, and light lamps.",
+    "source": "Encyclopaedia Britannica, “Ramadan”, https://www.britannica.com/search?query=Ramadan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-016",
+    "anchor": "a detachment",
+    "layer": "vocab",
+    "note": "Detachment: a small group of soldiers sent on a special task.",
+    "source": "Merriam-Webster, “detachment”, https://www.merriam-webster.com/dictionary/detachment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-017",
+    "anchor": "a tributary stream",
+    "layer": "vocab",
+    "note": "Tributary: a smaller stream that flows into a larger river.",
+    "source": "Merriam-Webster, “tributary”, https://www.merriam-webster.com/dictionary/tributary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-018",
+    "anchor": "diligent activity",
+    "layer": "vocab",
+    "note": "Diligent: hard-working, busy, and careful.",
+    "source": "Merriam-Webster, “diligent”, https://www.merriam-webster.com/dictionary/diligent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-019",
+    "anchor": "considerably cold-shouldered",
+    "layer": "vocab",
+    "note": "Cold-shouldered: treated in a cold, unfriendly way.",
+    "source": "Merriam-Webster, “cold-shoulder”, https://www.merriam-webster.com/dictionary/cold-shoulder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-020",
+    "anchor": "accosting",
+    "layer": "vocab",
+    "note": "Accosting: going up to and speaking to someone boldly.",
+    "source": "Merriam-Webster, “accost”, https://www.merriam-webster.com/dictionary/accost",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-021",
+    "anchor": "a loud, gratified tone",
+    "layer": "vocab",
+    "note": "Gratified: pleased, satisfied, and grateful.",
+    "source": "Merriam-Webster, “gratify”, https://www.merriam-webster.com/dictionary/gratify",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-022",
+    "anchor": "a little folding-stool",
+    "layer": "vocab",
+    "note": "Folding-stool: a small seat that folds flat to carry.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-023",
+    "anchor": "pass out unmolested",
+    "layer": "vocab",
+    "note": "Unmolested: not attacked or disturbed.",
+    "source": "Merriam-Webster, “unmolested”, https://www.merriam-webster.com/dictionary/unmolested",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-024",
+    "anchor": "a matter of form",
+    "layer": "vocab",
+    "note": "A matter of form: something done only because it is the custom.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-025",
+    "anchor": "which he habitually wore",
+    "layer": "vocab",
+    "note": "Habitually: usually, as a regular habit.",
+    "source": "Merriam-Webster, “habitual”, https://www.merriam-webster.com/dictionary/habitual",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-026",
+    "anchor": "said jeeringly",
+    "layer": "vocab",
+    "note": "Jeeringly: in a mocking, scornful way.",
+    "source": "Merriam-Webster, “jeer”, https://www.merriam-webster.com/dictionary/jeer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-027",
+    "anchor": "completely sold",
+    "layer": "vocab",
+    "note": "Sold here means betrayed, tricked (slang).",
+    "source": "Merriam-Webster, “sold”, https://www.merriam-webster.com/dictionary/sold",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-028",
+    "anchor": "an even undertone",
+    "layer": "vocab",
+    "note": "Undertone: a low, quiet voice.",
+    "source": "Merriam-Webster, “undertone”, https://www.merriam-webster.com/dictionary/undertone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-029",
+    "anchor": "Brown observed nonchalantly",
+    "layer": "vocab",
+    "note": "Nonchalantly: in a calm, casual, unconcerned way.",
+    "source": "Merriam-Webster, “nonchalant”, https://www.merriam-webster.com/dictionary/nonchalant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-030",
+    "anchor": "a backwater",
+    "layer": "vocab",
+    "note": "Backwater: a side channel of a river where the water is still.",
+    "source": "Merriam-Webster, “backwater”, https://www.merriam-webster.com/dictionary/backwater",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-031",
+    "anchor": "Cornelius stipulated",
+    "layer": "vocab",
+    "note": "Stipulated: demanded as a condition of an agreement.",
+    "source": "Merriam-Webster, “stipulate”, https://www.merriam-webster.com/dictionary/stipulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-032",
+    "anchor": "illusive grey light",
+    "layer": "vocab",
+    "note": "Illusive: deceptive, seeming real but not.",
+    "source": "Merriam-Webster, “illusive”, https://www.merriam-webster.com/dictionary/illusive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-033",
+    "anchor": "constantly eluding the eye",
+    "layer": "vocab",
+    "note": "Eluding: escaping, slipping away from.",
+    "source": "Merriam-Webster, “elude”, https://www.merriam-webster.com/dictionary/elude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-034",
+    "anchor": "owner of the prau",
+    "layer": "vocab",
+    "note": "Prau (perahu): a Malay sailing boat or canoe.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “perahu”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-035",
+    "anchor": "fading spectrally",
+    "layer": "vocab",
+    "note": "Spectrally: like a ghost, faintly.",
+    "source": "Merriam-Webster, “spectral”, https://www.merriam-webster.com/dictionary/spectral",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-036",
+    "anchor": "the water-dust",
+    "layer": "vocab",
+    "note": "Water-dust: fine droplets of mist.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-037",
+    "anchor": "lolling back",
+    "layer": "vocab",
+    "note": "Lolling: leaning or lying back lazily.",
+    "source": "Merriam-Webster, “loll”, https://www.merriam-webster.com/dictionary/loll",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-038",
+    "anchor": "invisible sweeps against invisible thole-pins",
+    "layer": "vocab",
+    "note": "Sweeps: long oars. Thole-pins: pegs in a boat’s side that hold the oars.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Thole”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-039",
+    "anchor": "a balloon car",
+    "layer": "vocab",
+    "note": "Balloon car: the basket hanging beneath a hot-air or gas balloon.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-040",
+    "anchor": "ask querulously",
+    "layer": "vocab",
+    "note": "Querulously: in a complaining, whining way.",
+    "source": "Merriam-Webster, “querulous”, https://www.merriam-webster.com/dictionary/querulous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch43-041",
+    "anchor": "became luminous",
+    "layer": "vocab",
+    "note": "Luminous: glowing softly with light.",
+    "source": "Merriam-Webster, “luminous”, https://www.merriam-webster.com/dictionary/luminous",
+    "status": "draft",
+    "checker": null
+  }
+]

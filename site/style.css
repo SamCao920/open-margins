@@ -568,3 +568,7 @@ body.hide-place    :is(.note, .tick)[data-layer="place"] { display: none; }
   .running .chapter-crumb { display: none; }
   .reader { padding-top: 1.8rem; }
 }
+
+/* Long contents lists run in columns on wide screens. */
+#toc { columns: 3 11rem; column-gap: 2rem; }
+#toc li { break-inside: avoid; }

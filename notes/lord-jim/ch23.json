@@ -1,0 +1,584 @@
+[
+  {
+    "id": "ch23-001",
+    "anchor": "going to get the sack",
+    "layer": "vocab",
+    "note": "Get the sack: be dismissed from one’s job (slang).",
+    "source": "Merriam-Webster, “sack”, https://www.merriam-webster.com/dictionary/sack",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-002",
+    "anchor": "he exhibited with glee",
+    "layer": "vocab",
+    "note": "Glee: great delight and excitement.",
+    "source": "Merriam-Webster, “glee”, https://www.merriam-webster.com/dictionary/glee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-003",
+    "anchor": "faint traces of chasing",
+    "layer": "vocab",
+    "note": "Chasing: decorative patterns engraved or hammered into metal.",
+    "source": "Merriam-Webster, “chasing”, https://www.merriam-webster.com/dictionary/chasing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-004",
+    "anchor": "a big pot",
+    "layer": "vocab",
+    "note": "A big pot: an important person (slang, short for “big pot-belly”).",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-005",
+    "anchor": "an accent--a twang",
+    "layer": "vocab",
+    "note": "Twang: a nasal or distinctive way of speaking.",
+    "source": "Merriam-Webster, “twang”, https://www.merriam-webster.com/dictionary/twang",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-006",
+    "anchor": "a sort of credential",
+    "layer": "vocab",
+    "note": "Credential: something that proves who you are and that you can be trusted.",
+    "source": "Merriam-Webster, “credential”, https://www.merriam-webster.com/dictionary/credential",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-007",
+    "anchor": "gone off the hooks",
+    "layer": "vocab",
+    "note": "Gone off the hooks: died (slang).",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-008",
+    "anchor": "an all-fired row",
+    "layer": "vocab",
+    "note": "All-fired: tremendous (American slang). Row: a noisy quarrel.",
+    "source": "Merriam-Webster, “all-fired”, https://www.merriam-webster.com/dictionary/all-fired",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-009",
+    "anchor": "his elated rattle",
+    "layer": "vocab",
+    "note": "Elated: overjoyed. Rattle: fast, excited chatter.",
+    "source": "Merriam-Webster, “elated”, https://www.merriam-webster.com/dictionary/elated",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-010",
+    "anchor": "He was voluble",
+    "layer": "vocab",
+    "note": "Voluble: talking a great deal, fluently and fast.",
+    "source": "Merriam-Webster, “voluble”, https://www.merriam-webster.com/dictionary/voluble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-011",
+    "anchor": "something phenomenal",
+    "layer": "vocab",
+    "note": "Phenomenal: extraordinary, remarkable, out of the ordinary.",
+    "source": "Merriam-Webster, “phenomenal”, https://www.merriam-webster.com/dictionary/phenomenal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-012",
+    "anchor": "It would be the deuce",
+    "layer": "vocab",
+    "note": "The deuce: the devil; here, a disaster.",
+    "source": "Merriam-Webster, “deuce”, https://www.merriam-webster.com/dictionary/deuce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-013",
+    "anchor": "a naive gravity",
+    "layer": "vocab",
+    "note": "Naive: innocent and simple. Gravity: seriousness.",
+    "source": "Merriam-Webster, “gravity”, https://www.merriam-webster.com/dictionary/gravity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-014",
+    "anchor": "to that token",
+    "layer": "vocab",
+    "note": "Token: an object that stands for something, such as friendship.",
+    "source": "Merriam-Webster, “token”, https://www.merriam-webster.com/dictionary/token",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-015",
+    "anchor": "my disclaiming gesture",
+    "layer": "vocab",
+    "note": "Disclaiming: refusing credit or responsibility.",
+    "source": "Merriam-Webster, “disclaim”, https://www.merriam-webster.com/dictionary/disclaim",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-016",
+    "anchor": "a fickle companion",
+    "layer": "vocab",
+    "note": "Fickle: changeable, not loyal or steady.",
+    "source": "Merriam-Webster, “fickle”, https://www.merriam-webster.com/dictionary/fickle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-017",
+    "anchor": "an invisible halt in his gait",
+    "layer": "vocab",
+    "note": "Halt: a limp. Gait: one’s way of walking.",
+    "source": "Merriam-Webster, “gait”, https://www.merriam-webster.com/dictionary/gait",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-018",
+    "anchor": "Why these vapourings?",
+    "layer": "vocab",
+    "note": "Vapourings: boastful, empty, showy talk.",
+    "source": "Merriam-Webster, “vapor”, https://www.merriam-webster.com/dictionary/vapor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-019",
+    "anchor": "stumping about the room",
+    "layer": "vocab",
+    "note": "Stumping: walking heavily and noisily.",
+    "source": "Merriam-Webster, “stump”, https://www.merriam-webster.com/dictionary/stump",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-020",
+    "anchor": "hurl defiance at the universe",
+    "layer": "vocab",
+    "note": "Defiance: bold refusal to obey or give in.",
+    "source": "Merriam-Webster, “defiance”, https://www.merriam-webster.com/dictionary/defiance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-021",
+    "anchor": "something insolent",
+    "layer": "vocab",
+    "note": "Insolent: rude and disrespectful, insultingly bold.",
+    "source": "Merriam-Webster, “insolent”, https://www.merriam-webster.com/dictionary/insolent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-022",
+    "anchor": "figuratively speaking, turned to rend me",
+    "layer": "vocab",
+    "note": "Rend: tear apart. Figuratively: not literally.",
+    "source": "Merriam-Webster, “rend”, https://www.merriam-webster.com/dictionary/rend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-023",
+    "anchor": "silent and languid",
+    "layer": "vocab",
+    "note": "Languid: weak, tired, without energy.",
+    "source": "Merriam-Webster, “languid”, https://www.merriam-webster.com/dictionary/languid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-024",
+    "anchor": "he began again, composedly",
+    "layer": "vocab",
+    "note": "Composedly: calmly, in a collected way.",
+    "source": "Merriam-Webster, “composed”, https://www.merriam-webster.com/dictionary/composed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-025",
+    "anchor": "Don’t be foolhardy",
+    "layer": "vocab",
+    "note": "Foolhardy: recklessly bold, taking silly risks.",
+    "source": "Merriam-Webster, “foolhardy”, https://www.merriam-webster.com/dictionary/foolhardy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-026",
+    "anchor": "A brigantine of Stein’s",
+    "layer": "vocab",
+    "note": "Brigantine: a two-masted ship, square-rigged on the foremast only.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Brigantine”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-027",
+    "anchor": "a small leather valise",
+    "layer": "vocab",
+    "note": "Valise: a small travelling bag or suitcase.",
+    "source": "Merriam-Webster, “valise”, https://www.merriam-webster.com/dictionary/valise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-028",
+    "anchor": "damp-tight",
+    "layer": "vocab",
+    "note": "Damp-tight: sealed well enough to keep out moisture.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-029",
+    "anchor": "a half-crown complete Shakespeare",
+    "layer": "history",
+    "note": "A half-crown was a British coin worth two shillings and sixpence; cheap one-volume editions of Shakespeare sold for about that price.",
+    "source": "Merriam-Webster, “half crown”, https://www.merriam-webster.com/dictionary/half%20crown",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-030",
+    "anchor": "cartridges were lying on the cuddy-table",
+    "layer": "vocab",
+    "note": "Cuddy: a cabin or saloon at the stern of a merchant ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cuddy”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-031",
+    "anchor": "I corrected myself remorsefully",
+    "layer": "vocab",
+    "note": "Remorsefully: with deep regret for a mistake.",
+    "source": "Merriam-Webster, “remorseful”, https://www.merriam-webster.com/dictionary/remorseful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-032",
+    "anchor": "thanked me effusively",
+    "layer": "vocab",
+    "note": "Effusively: with an overflowing show of feeling.",
+    "source": "Merriam-Webster, “effusive”, https://www.merriam-webster.com/dictionary/effusive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-033",
+    "anchor": "to give way",
+    "layer": "vocab",
+    "note": "Give way: the order to start rowing hard.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Give way”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-034",
+    "anchor": "the stern-port",
+    "layer": "vocab",
+    "note": "Stern-port: an opening or window in a ship’s stern.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stern-ports”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-035",
+    "anchor": "rounding under the counter",
+    "layer": "vocab",
+    "note": "Counter: the overhanging curved part of a ship’s stern.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Counter”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-036",
+    "anchor": "I ordered my gig manned",
+    "layer": "vocab",
+    "note": "Gig: a light, narrow boat kept for the captain’s use.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gig”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-037",
+    "anchor": "the windlass",
+    "layer": "vocab",
+    "note": "Windlass: a winch turned to haul up the anchor.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Windlass”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-038",
+    "anchor": "a dapper little",
+    "layer": "vocab",
+    "note": "Dapper: neat, trim, and smartly dressed.",
+    "source": "Merriam-Webster, “dapper”, https://www.merriam-webster.com/dictionary/dapper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-039",
+    "anchor": "came forward smirking",
+    "layer": "vocab",
+    "note": "Smirking: smiling in a smug, silly way.",
+    "source": "Merriam-Webster, “smirk”, https://www.merriam-webster.com/dictionary/smirk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-040",
+    "anchor": "a careworn temperament",
+    "layer": "vocab",
+    "note": "Careworn: worn down by worries.",
+    "source": "Merriam-Webster, “careworn”, https://www.merriam-webster.com/dictionary/careworn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-041",
+    "anchor": "“reverentially”",
+    "layer": "vocab",
+    "note": "Reverentially: with deep respect (he means “respectfully”).",
+    "source": "Merriam-Webster, “reverential”, https://www.merriam-webster.com/dictionary/reverential",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-042",
+    "anchor": "“propitiated many offertories”",
+    "layer": "vocab",
+    "note": "His mangled English for “made many gifts to win favour.”",
+    "source": "Merriam-Webster, “propitiate”, https://www.merriam-webster.com/dictionary/propitiate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-043",
+    "anchor": "“a snare and ashes in the mouth,”",
+    "layer": "vocab",
+    "note": "Snare: a trap. Ashes in the mouth: bitter disappointment.",
+    "source": "Merriam-Webster, “snare”, https://www.merriam-webster.com/dictionary/snare",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-044",
+    "anchor": "at the bar",
+    "layer": "vocab",
+    "note": "Bar: a ridge of sand across a river mouth that blocks ships.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bar”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-045",
+    "anchor": "the pride of his fluency",
+    "layer": "vocab",
+    "note": "Fluency: easy, smooth command of a language.",
+    "source": "Merriam-Webster, “fluency”, https://www.merriam-webster.com/dictionary/fluency",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-046",
+    "anchor": "her fore-topsail to the mast",
+    "layer": "vocab",
+    "note": "With a sail pressed back against the mast, so the ship barely moves.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Aback”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-047",
+    "anchor": "her main-boom amidships",
+    "layer": "vocab",
+    "note": "Main-boom: the spar along the bottom of the mainsail. Amidships: centred.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Boom”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-048",
+    "anchor": "amongst the cat’s-paws",
+    "layer": "vocab",
+    "note": "Cat’s-paws: light puffs of wind that ripple the sea’s surface.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cat's-paw”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-049",
+    "anchor": "a “laughable hyaena”",
+    "layer": "vocab",
+    "note": "Hyaena: a scavenging animal of Africa and Asia known for its laugh-like cry.",
+    "source": "Merriam-Webster, “hyena”, https://www.merriam-webster.com/dictionary/hyena",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-050",
+    "anchor": "his volubility",
+    "layer": "vocab",
+    "note": "Volubility: a flood of fast, fluent talk.",
+    "source": "Merriam-Webster, “voluble”, https://www.merriam-webster.com/dictionary/voluble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-051",
+    "anchor": "made ravenous",
+    "layer": "vocab",
+    "note": "Ravenous: extremely hungry, wildly greedy.",
+    "source": "Merriam-Webster, “ravenous”, https://www.merriam-webster.com/dictionary/ravenous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-052",
+    "anchor": "I fancy he meant impunity",
+    "layer": "vocab",
+    "note": "Impunity: freedom from punishment, so one can do wrong safely.",
+    "source": "Merriam-Webster, “impunity”, https://www.merriam-webster.com/dictionary/impunity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-053",
+    "anchor": "catting the anchor",
+    "layer": "vocab",
+    "note": "Catting: hoisting the anchor up to the cathead, a beam at the bow.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cat”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-054",
+    "anchor": "so indiscreet",
+    "layer": "vocab",
+    "note": "Indiscreet: careless in speech or action, unwise.",
+    "source": "Merriam-Webster, “indiscreet”, https://www.merriam-webster.com/dictionary/indiscreet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-055",
+    "anchor": "a rattan halter",
+    "layer": "vocab",
+    "note": "Rattan: a tough climbing palm stem. Halter: a rope for leading animals.",
+    "source": "Merriam-Webster, “rattan”, https://www.merriam-webster.com/dictionary/rattan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-056",
+    "anchor": "that unwholesome situation",
+    "layer": "vocab",
+    "note": "Unwholesome: bad for one’s health.",
+    "source": "Merriam-Webster, “unwholesome”, https://www.merriam-webster.com/dictionary/unwholesome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-057",
+    "anchor": "to speak judicially",
+    "layer": "vocab",
+    "note": "Judicially: calmly and fairly, like a judge.",
+    "source": "Merriam-Webster, “judicial”, https://www.merriam-webster.com/dictionary/judicial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-058",
+    "anchor": "“in the similitude of a corpse.”",
+    "layer": "vocab",
+    "note": "In the similitude of: in the likeness of, looking like.",
+    "source": "Merriam-Webster, “similitude”, https://www.merriam-webster.com/dictionary/similitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-059",
+    "anchor": "the body of one deported",
+    "layer": "vocab",
+    "note": "He means “departed,” that is, dead; deported means sent out of a country.",
+    "source": "Merriam-Webster, “deport”, https://www.merriam-webster.com/dictionary/deport",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-060",
+    "anchor": "the insufferably conceited air",
+    "layer": "vocab",
+    "note": "Insufferably: unbearably. Conceited: vain, too proud of oneself.",
+    "source": "Merriam-Webster, “conceited”, https://www.merriam-webster.com/dictionary/conceited",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-061",
+    "anchor": "the yards swung creaking",
+    "layer": "vocab",
+    "note": "Yards: the long spars across a mast from which square sails hang.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Yard”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-062",
+    "anchor": "profound intimacy",
+    "layer": "vocab",
+    "note": "Intimacy: close, warm friendship and understanding.",
+    "source": "Merriam-Webster, “intimacy”, https://www.merriam-webster.com/dictionary/intimacy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-063",
+    "anchor": "the westering sun",
+    "layer": "vocab",
+    "note": "Westering: moving toward the west, setting.",
+    "source": "Merriam-Webster, “westering”, https://www.merriam-webster.com/dictionary/westering",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-064",
+    "anchor": "that half-caste croaker",
+    "layer": "vocab",
+    "note": "Croaker: someone who always predicts disaster.",
+    "source": "Merriam-Webster, “croaker”, https://www.merriam-webster.com/dictionary/croaker",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch23-065",
+    "anchor": "Absit omen!",
+    "layer": "vocab",
+    "note": "Latin: “May the omen be absent!”, that is, heaven forbid.",
+    "source": "Merriam-Webster, “absit omen”, https://www.merriam-webster.com/dictionary/absit%20omen",
+    "status": "draft",
+    "checker": null
+  }
+]

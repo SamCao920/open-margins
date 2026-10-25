@@ -1,0 +1,493 @@
+[
+  {
+    "id": "ch27-001",
+    "anchor": "gifted him with supernatural powers",
+    "layer": "vocab",
+    "note": "Supernatural: beyond the laws of nature, magical.",
+    "source": "Merriam-Webster, “supernatural”, https://www.merriam-webster.com/dictionary/supernatural",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-002",
+    "anchor": "many ropes cunningly disposed",
+    "layer": "vocab",
+    "note": "Cunningly: cleverly, skilfully. Disposed: arranged.",
+    "source": "Merriam-Webster, “cunning”, https://www.merriam-webster.com/dictionary/cunning",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-003",
+    "anchor": "a strange contrivance",
+    "layer": "vocab",
+    "note": "Contrivance: a clever device or machine.",
+    "source": "Merriam-Webster, “contrivance”, https://www.merriam-webster.com/dictionary/contrivance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-004",
+    "anchor": "powerful charms and incantations",
+    "layer": "vocab",
+    "note": "Incantations: magic spells, chanted words meant to have power.",
+    "source": "Merriam-Webster, “incantation”, https://www.merriam-webster.com/dictionary/incantation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-005",
+    "anchor": "a professional sorcerer",
+    "layer": "vocab",
+    "note": "Sorcerer: a magician believed to control spirits.",
+    "source": "Merriam-Webster, “sorcerer”, https://www.merriam-webster.com/dictionary/sorcerer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-006",
+    "anchor": "the rice sowings and reapings",
+    "layer": "vocab",
+    "note": "Sowings: plantings of seed. Reapings: harvests.",
+    "source": "Merriam-Webster, “reap”, https://www.merriam-webster.com/dictionary/reap",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-007",
+    "anchor": "subduing the stubborn souls of things",
+    "layer": "vocab",
+    "note": "Subduing: bringing under control, taming.",
+    "source": "Merriam-Webster, “subdue”, https://www.merriam-webster.com/dictionary/subdue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-008",
+    "anchor": "outlying villages",
+    "layer": "vocab",
+    "note": "Outlying: far from the centre, remote.",
+    "source": "Merriam-Webster, “outlying”, https://www.merriam-webster.com/dictionary/outlying",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-009",
+    "anchor": "an exasperated little laugh",
+    "layer": "vocab",
+    "note": "Exasperated: irritated beyond all patience.",
+    "source": "Merriam-Webster, “exasperate”, https://www.merriam-webster.com/dictionary/exasperate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-010",
+    "anchor": "bally rot",
+    "layer": "vocab",
+    "note": "Rot: nonsense, rubbish (British slang). Bally: a mild swear word.",
+    "source": "Merriam-Webster, “rot”, https://www.merriam-webster.com/dictionary/rot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-011",
+    "anchor": "a Homeric peal of laughter",
+    "layer": "allusion",
+    "note": "“Homeric laughter” is huge, uncontrollable laughter, after the “unquenchable laughter” of the gods in Homer’s Iliad.",
+    "source": "Merriam-Webster, “Homeric”, https://www.merriam-webster.com/dictionary/Homeric",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-012",
+    "anchor": "the battery",
+    "layer": "vocab",
+    "note": "Battery: a group of cannon placed together for firing.",
+    "source": "Merriam-Webster, “battery”, https://www.merriam-webster.com/dictionary/battery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-013",
+    "anchor": "the storming party",
+    "layer": "vocab",
+    "note": "Storming party: the troops chosen to charge and capture a fort.",
+    "source": "Merriam-Webster, “storm”, https://www.merriam-webster.com/dictionary/storm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-014",
+    "anchor": "In the small hours",
+    "layer": "vocab",
+    "note": "The small hours: the early hours after midnight.",
+    "source": "Merriam-Webster, “small hours”, https://www.merriam-webster.com/dictionary/small%20hours",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-015",
+    "anchor": "impatient anguishing emotion",
+    "layer": "vocab",
+    "note": "Anguishing: causing great mental suffering.",
+    "source": "Merriam-Webster, “anguish”, https://www.merriam-webster.com/dictionary/anguish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-016",
+    "anchor": "‘Pon my word",
+    "layer": "vocab",
+    "note": "’Pon my word: upon my word, truly.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-017",
+    "anchor": "streaming with perspiration",
+    "layer": "vocab",
+    "note": "Perspiration: sweat, moisture given off by the skin.",
+    "source": "Merriam-Webster, “perspiration”, https://www.merriam-webster.com/dictionary/perspiration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-018",
+    "anchor": "trusted him implicitly",
+    "layer": "vocab",
+    "note": "Implicitly: completely, without any doubt.",
+    "source": "Merriam-Webster, “implicit”, https://www.merriam-webster.com/dictionary/implicit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-019",
+    "anchor": "as glum as an undertaker",
+    "layer": "vocab",
+    "note": "Glum: gloomy and silent. Undertaker: a person who arranges funerals.",
+    "source": "Merriam-Webster, “glum”, https://www.merriam-webster.com/dictionary/glum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-020",
+    "anchor": "that dashed conundrum",
+    "layer": "vocab",
+    "note": "Conundrum: a puzzling, difficult question.",
+    "source": "Merriam-Webster, “conundrum”, https://www.merriam-webster.com/dictionary/conundrum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-021",
+    "anchor": "His enemies jeered",
+    "layer": "vocab",
+    "note": "Jeered: mocked loudly and rudely.",
+    "source": "Merriam-Webster, “jeer”, https://www.merriam-webster.com/dictionary/jeer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-022",
+    "anchor": "his face was utterly blackened",
+    "layer": "vocab",
+    "note": "His face was blackened: he was publicly shamed, had lost face.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-023",
+    "anchor": "lost in coaxing",
+    "layer": "vocab",
+    "note": "Coaxing: gently and patiently persuading people.",
+    "source": "Merriam-Webster, “coax”, https://www.merriam-webster.com/dictionary/coax",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-024",
+    "anchor": "a sanguinary shindy",
+    "layer": "vocab",
+    "note": "Sanguinary: bloody. Shindy: a noisy brawl.",
+    "source": "Merriam-Webster, “sanguinary”, https://www.merriam-webster.com/dictionary/sanguinary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-025",
+    "anchor": "pacified all hands",
+    "layer": "vocab",
+    "note": "Pacified: calmed down, made peaceful.",
+    "source": "Merriam-Webster, “pacify”, https://www.merriam-webster.com/dictionary/pacify",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-026",
+    "anchor": "crooking his little finger",
+    "layer": "vocab",
+    "note": "Crooking his little finger: with the smallest possible effort.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-027",
+    "anchor": "Child’s play",
+    "layer": "vocab",
+    "note": "Child’s play: something very easy to do.",
+    "source": "Merriam-Webster, “child's play”, https://www.merriam-webster.com/dictionary/child's%20play",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-028",
+    "anchor": "from strife to peace",
+    "layer": "vocab",
+    "note": "Strife: bitter conflict and fighting.",
+    "source": "Merriam-Webster, “strife”, https://www.merriam-webster.com/dictionary/strife",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-029",
+    "anchor": "inscrutable",
+    "layer": "vocab",
+    "note": "Inscrutable: impossible to understand or read.",
+    "source": "Merriam-Webster, “inscrutable”, https://www.merriam-webster.com/dictionary/inscrutable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-030",
+    "anchor": "wreathed itself",
+    "layer": "vocab",
+    "note": "Wreathed: wrapped around, encircled as by a wreath.",
+    "source": "Merriam-Webster, “wreathe”, https://www.merriam-webster.com/dictionary/wreathe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-031",
+    "anchor": "with heavy reports",
+    "layer": "vocab",
+    "note": "Reports here means loud bangs of guns firing.",
+    "source": "Merriam-Webster, “report”, https://www.merriam-webster.com/dictionary/report",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-032",
+    "anchor": "anxious to disclaim this achievement",
+    "layer": "vocab",
+    "note": "Disclaim: deny any credit for.",
+    "source": "Merriam-Webster, “disclaim”, https://www.merriam-webster.com/dictionary/disclaim",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-033",
+    "anchor": "the inaccessible position",
+    "layer": "vocab",
+    "note": "Inaccessible: impossible or very hard to reach.",
+    "source": "Merriam-Webster, “inaccessible”, https://www.merriam-webster.com/dictionary/inaccessible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-034",
+    "anchor": "a pock-marked tattooed vagabond",
+    "layer": "vocab",
+    "note": "Pock-marked: scarred by smallpox. Vagabond: a wandering ruffian.",
+    "source": "Merriam-Webster, “pockmark”, https://www.merriam-webster.com/dictionary/pockmark",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-035",
+    "anchor": "a baulk of timber",
+    "layer": "vocab",
+    "note": "Baulk (balk): a large squared beam of wood.",
+    "source": "Merriam-Webster, “balk”, https://www.merriam-webster.com/dictionary/balk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-036",
+    "anchor": "forcibly detained",
+    "layer": "vocab",
+    "note": "Forcibly detained: held against his will.",
+    "source": "Merriam-Webster, “detain”, https://www.merriam-webster.com/dictionary/detain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-037",
+    "anchor": "a precarious refuge",
+    "layer": "vocab",
+    "note": "Precarious: uncertain and unsafe, likely to fail.",
+    "source": "Merriam-Webster, “precarious”, https://www.merriam-webster.com/dictionary/precarious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-038",
+    "anchor": "injected with bile",
+    "layer": "vocab",
+    "note": "Injected with bile: yellowish and bloodshot.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-039",
+    "anchor": "almost fanatical",
+    "layer": "vocab",
+    "note": "Fanatical: extremely, even unreasonably, devoted.",
+    "source": "Merriam-Webster, “fanatical”, https://www.merriam-webster.com/dictionary/fanatical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-040",
+    "anchor": "a morose shadow",
+    "layer": "vocab",
+    "note": "Morose: gloomy, sullen, and silent.",
+    "source": "Merriam-Webster, “morose”, https://www.merriam-webster.com/dictionary/morose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-041",
+    "anchor": "the haft of his kriss",
+    "layer": "vocab",
+    "note": "Haft: the handle of a dagger or knife.",
+    "source": "Merriam-Webster, “haft”, https://www.merriam-webster.com/dictionary/haft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-042",
+    "anchor": "his truculent brooding glances",
+    "layer": "vocab",
+    "note": "Truculent: fierce, aggressive, eager to fight.",
+    "source": "Merriam-Webster, “truculent”, https://www.merriam-webster.com/dictionary/truculent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-043",
+    "anchor": "courted him",
+    "layer": "vocab",
+    "note": "Courted: tried to win the favour of.",
+    "source": "Merriam-Webster, “court”, https://www.merriam-webster.com/dictionary/court",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-044",
+    "anchor": "the methodical ferocity",
+    "layer": "vocab",
+    "note": "Methodical: orderly and systematic. Ferocity: fierceness.",
+    "source": "Merriam-Webster, “methodical”, https://www.merriam-webster.com/dictionary/methodical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-045",
+    "anchor": "the panic of the garrison",
+    "layer": "vocab",
+    "note": "Garrison: the soldiers stationed in a fort.",
+    "source": "Merriam-Webster, “garrison”, https://www.merriam-webster.com/dictionary/garrison",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-046",
+    "anchor": "The rout",
+    "layer": "vocab",
+    "note": "Rout: a total defeat followed by a disorderly flight.",
+    "source": "Merriam-Webster, “rout”, https://www.merriam-webster.com/dictionary/rout",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-047",
+    "anchor": "held up reverently",
+    "layer": "vocab",
+    "note": "Reverently: with deep, almost religious respect.",
+    "source": "Merriam-Webster, “reverent”, https://www.merriam-webster.com/dictionary/reverent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-048",
+    "anchor": "its embers",
+    "layer": "vocab",
+    "note": "Embers: glowing bits of coal or wood in a dying fire.",
+    "source": "Merriam-Webster, “ember”, https://www.merriam-webster.com/dictionary/ember",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-049",
+    "anchor": "a seething rush",
+    "layer": "vocab",
+    "note": "Seething: churning, crowded and excited.",
+    "source": "Merriam-Webster, “seethe”, https://www.merriam-webster.com/dictionary/seethe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-050",
+    "anchor": "the tremendous din of gongs",
+    "layer": "vocab",
+    "note": "Din: a loud, continuous noise. Gongs: metal discs struck to ring.",
+    "source": "Merriam-Webster, “din”, https://www.merriam-webster.com/dictionary/din",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-051",
+    "anchor": "A lot of streamers",
+    "layer": "vocab",
+    "note": "Streamers: long, narrow flags or ribbons.",
+    "source": "Merriam-Webster, “streamer”, https://www.merriam-webster.com/dictionary/streamer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-052",
+    "anchor": "added to his stature",
+    "layer": "vocab",
+    "note": "Stature: height; here, importance and reputation.",
+    "source": "Merriam-Webster, “stature”, https://www.merriam-webster.com/dictionary/stature",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-053",
+    "anchor": "paddle, pole, or track",
+    "layer": "vocab",
+    "note": "Track: tow a boat with a rope from the riverbank.",
+    "source": "Merriam-Webster, “track”, https://www.merriam-webster.com/dictionary/track",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-054",
+    "anchor": "the disreputable goddess",
+    "layer": "allusion",
+    "note": "Fame, or Rumour, pictured as a goddess blowing a trumpet; in Virgil’s Aeneid she is a monster who spreads truth and lies alike.",
+    "source": "Virgil, Aeneid, Book 4, lines 173–197",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch27-055",
+    "anchor": "not blatant--not brazen",
+    "layer": "vocab",
+    "note": "Blatant: loud and obvious. Brazen: bold and shameless, like brass.",
+    "source": "Merriam-Webster, “brazen”, https://www.merriam-webster.com/dictionary/brazen",
+    "status": "draft",
+    "checker": null
+  }
+]

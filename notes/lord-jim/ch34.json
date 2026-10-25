@@ -1,0 +1,603 @@
+[
+  {
+    "id": "ch34-001",
+    "anchor": "a disordered array",
+    "layer": "vocab",
+    "note": "Array: an arrangement or display of many things in order.",
+    "source": "Merriam-Webster, “array”, https://www.merriam-webster.com/dictionary/array",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-002",
+    "anchor": "The bodies prone",
+    "layer": "vocab",
+    "note": "Prone: lying flat; here, lying back stretched out.",
+    "source": "Merriam-Webster, “prone”, https://www.merriam-webster.com/dictionary/prone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-003",
+    "anchor": "startled out of their torpor",
+    "layer": "vocab",
+    "note": "Torpor: sluggish, sleepy, heavy inactivity.",
+    "source": "Merriam-Webster, “torpor”, https://www.merriam-webster.com/dictionary/torpor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-004",
+    "anchor": "Magna est veritas el",
+    "layer": "allusion",
+    "note": "Marlow starts the Latin proverb “Magna est veritas et praevalebit”: “Great is truth, and it shall prevail,” from the Latin Bible’s Book of Esdras.",
+    "source": "The Bible (Vulgate), 3 Esdras 4:41; Merriam-Webster, “magna est veritas”, https://www.merriam-webster.com/dictionary/magna%20est%20veritas",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-005",
+    "anchor": "accident, hazard, Fortune",
+    "layer": "vocab",
+    "note": "Hazard: chance. Fortune: luck, pictured as a goddess.",
+    "source": "Merriam-Webster, “hazard”, https://www.merriam-webster.com/dictionary/hazard",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-006",
+    "anchor": "a little cowed",
+    "layer": "vocab",
+    "note": "Cowed: frightened into giving way, intimidated.",
+    "source": "Merriam-Webster, “cow”, https://www.merriam-webster.com/dictionary/cow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-007",
+    "anchor": "I had tried a fall with fear itself",
+    "layer": "vocab",
+    "note": "Tried a fall: wrestled, as in a wrestling bout.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-008",
+    "anchor": "some mysterious collusion",
+    "layer": "vocab",
+    "note": "Collusion: a secret agreement to deceive someone.",
+    "source": "Merriam-Webster, “collusion”, https://www.merriam-webster.com/dictionary/collusion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-009",
+    "anchor": "the implacable destiny",
+    "layer": "vocab",
+    "note": "Implacable: impossible to calm or turn aside.",
+    "source": "Merriam-Webster, “implacable”, https://www.merriam-webster.com/dictionary/implacable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-010",
+    "anchor": "a fateful sound",
+    "layer": "vocab",
+    "note": "Fateful: having grave, often disastrous, consequences.",
+    "source": "Merriam-Webster, “fateful”, https://www.merriam-webster.com/dictionary/fateful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-011",
+    "anchor": "the bit of swagger",
+    "layer": "vocab",
+    "note": "Swagger: a bold, cocky, showing-off manner.",
+    "source": "Merriam-Webster, “swagger”, https://www.merriam-webster.com/dictionary/swagger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-012",
+    "anchor": "die out prematurely",
+    "layer": "vocab",
+    "note": "Prematurely: too early, before the proper time.",
+    "source": "Merriam-Webster, “premature”, https://www.merriam-webster.com/dictionary/premature",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-013",
+    "anchor": "a coffee-plantation",
+    "layer": "history",
+    "note": "Coffee was widely grown on plantations in the Dutch East Indies in the 1800s, especially on Java, and was a major export.",
+    "source": "Encyclopaedia Britannica, “coffee”, https://www.britannica.com/search?query=coffee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-014",
+    "anchor": "rearing its double summit",
+    "layer": "vocab",
+    "note": "Rearing: rising up high and steep.",
+    "source": "Merriam-Webster, “rear”, https://www.merriam-webster.com/dictionary/rear",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-015",
+    "anchor": "his enterprise, and his shrewdness",
+    "layer": "vocab",
+    "note": "Enterprise: bold readiness to try new things. Shrewdness: sharp good sense.",
+    "source": "Merriam-Webster, “enterprise”, https://www.merriam-webster.com/dictionary/enterprise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-016",
+    "anchor": "a leisurely rebound",
+    "layer": "vocab",
+    "note": "Leisurely: slow and unhurried. Rebound: a bounce back.",
+    "source": "Merriam-Webster, “leisurely”, https://www.merriam-webster.com/dictionary/leisurely",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-017",
+    "anchor": "it disengaged itself",
+    "layer": "vocab",
+    "note": "Disengaged: freed itself, came loose.",
+    "source": "Merriam-Webster, “disengage”, https://www.merriam-webster.com/dictionary/disengage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-018",
+    "anchor": "the bare contorted limb",
+    "layer": "vocab",
+    "note": "Contorted: twisted out of its normal shape.",
+    "source": "Merriam-Webster, “contort”, https://www.merriam-webster.com/dictionary/contort",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-019",
+    "anchor": "mournful eclipse-like light",
+    "layer": "vocab",
+    "note": "Eclipse-like: dim, as when the moon or sun is blotted out.",
+    "source": "Merriam-Webster, “eclipse”, https://www.merriam-webster.com/dictionary/eclipse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-020",
+    "anchor": "perpetually garlanded with flowers",
+    "layer": "vocab",
+    "note": "Garlanded: decorated with rings of flowers and leaves.",
+    "source": "Merriam-Webster, “garland”, https://www.merriam-webster.com/dictionary/garland",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-021",
+    "anchor": "interlaced blossoms",
+    "layer": "vocab",
+    "note": "Interlaced: woven together, crossed over each other.",
+    "source": "Merriam-Webster, “interlace”, https://www.merriam-webster.com/dictionary/interlace",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-022",
+    "anchor": "colours indefinable",
+    "layer": "vocab",
+    "note": "Indefinable: impossible to describe or name exactly.",
+    "source": "Merriam-Webster, “indefinable”, https://www.merriam-webster.com/dictionary/indefinable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-023",
+    "anchor": "the fumes of incense",
+    "layer": "vocab",
+    "note": "Incense: a substance burned for its sweet-smelling smoke, often in worship.",
+    "source": "Merriam-Webster, “incense”, https://www.merriam-webster.com/dictionary/incense",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-024",
+    "anchor": "like a chaplet of bleached skulls",
+    "layer": "vocab",
+    "note": "Chaplet: a wreath for the head, or a string of beads.",
+    "source": "Merriam-Webster, “chaplet”, https://www.merriam-webster.com/dictionary/chaplet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-025",
+    "anchor": "tragic or grotesque miseries",
+    "layer": "vocab",
+    "note": "Grotesque: strange, ugly, and absurd.",
+    "source": "Merriam-Webster, “grotesque”, https://www.merriam-webster.com/dictionary/grotesque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-026",
+    "anchor": "It is valiant",
+    "layer": "vocab",
+    "note": "Valiant: brave, courageous, and bold.",
+    "source": "Merriam-Webster, “valiant”, https://www.merriam-webster.com/dictionary/valiant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-027",
+    "anchor": "evolved half-consciously",
+    "layer": "vocab",
+    "note": "Evolved: developed gradually, little by little.",
+    "source": "Merriam-Webster, “evolve”, https://www.merriam-webster.com/dictionary/evolve",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-028",
+    "anchor": "remote unattainable truth",
+    "layer": "vocab",
+    "note": "Unattainable: impossible to reach or achieve.",
+    "source": "Merriam-Webster, “unattainable”, https://www.merriam-webster.com/dictionary/unattainable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-029",
+    "anchor": "passed into oblivion",
+    "layer": "vocab",
+    "note": "Oblivion: the state of being completely forgotten.",
+    "source": "Merriam-Webster, “oblivion”, https://www.merriam-webster.com/dictionary/oblivion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-030",
+    "anchor": "He bolted out, vermin-like",
+    "layer": "vocab",
+    "note": "Vermin: pests such as rats; vile, sneaking creatures.",
+    "source": "Merriam-Webster, “vermin”, https://www.merriam-webster.com/dictionary/vermin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-031",
+    "anchor": "a depression of the ground",
+    "layer": "vocab",
+    "note": "Depression here means a hollow or sunken place in the ground.",
+    "source": "Merriam-Webster, “depression”, https://www.merriam-webster.com/dictionary/depression",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-032",
+    "anchor": "shod in dirty white shoes",
+    "layer": "vocab",
+    "note": "Shod: wearing shoes on the feet.",
+    "source": "Merriam-Webster, “shod”, https://www.merriam-webster.com/dictionary/shod",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-033",
+    "anchor": "whine and cringe",
+    "layer": "vocab",
+    "note": "Cringe: shrink back and bow in a cowardly, servile way.",
+    "source": "Merriam-Webster, “cringe”, https://www.merriam-webster.com/dictionary/cringe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-034",
+    "anchor": "a tall stove-pipe hat",
+    "layer": "vocab",
+    "note": "Stove-pipe hat: a very tall, cylindrical top hat.",
+    "source": "Merriam-Webster, “stovepipe hat”, https://www.merriam-webster.com/dictionary/stovepipe%20hat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-035",
+    "anchor": "dried-up little carcass",
+    "layer": "vocab",
+    "note": "Carcass: a dead body; here, scornfully, his body.",
+    "source": "Merriam-Webster, “carcass”, https://www.merriam-webster.com/dictionary/carcass",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-036",
+    "anchor": "black broadcloth",
+    "layer": "vocab",
+    "note": "Broadcloth: a fine, dense black wool cloth for formal suits.",
+    "source": "Merriam-Webster, “broadcloth”, https://www.merriam-webster.com/dictionary/broadcloth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-037",
+    "anchor": "his timidity",
+    "layer": "vocab",
+    "note": "Timidity: shyness and lack of courage.",
+    "source": "Merriam-Webster, “timidity”, https://www.merriam-webster.com/dictionary/timidity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-038",
+    "anchor": "moving off deviously",
+    "layer": "vocab",
+    "note": "Deviously: indirectly, in a sly, roundabout way.",
+    "source": "Merriam-Webster, “devious”, https://www.merriam-webster.com/dictionary/devious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-039",
+    "anchor": "a woe-begone, piteous, mute aspect",
+    "layer": "vocab",
+    "note": "Woe-begone: looking miserable and full of sorrow.",
+    "source": "Merriam-Webster, “woebegone”, https://www.merriam-webster.com/dictionary/woebegone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-040",
+    "anchor": "this innate irremediable abjectness",
+    "layer": "vocab",
+    "note": "Innate: inborn, part of one’s nature from birth.",
+    "source": "Merriam-Webster, “innate”, https://www.merriam-webster.com/dictionary/innate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-041",
+    "anchor": "monstrous deformity",
+    "layer": "vocab",
+    "note": "Deformity: a part of the body that is misshapen.",
+    "source": "Merriam-Webster, “deformity”, https://www.merriam-webster.com/dictionary/deformity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-042",
+    "anchor": "the demoralisation",
+    "layer": "vocab",
+    "note": "Demoralisation: loss of confidence and spirit.",
+    "source": "Merriam-Webster, “demoralize”, https://www.merriam-webster.com/dictionary/demoralize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-043",
+    "anchor": "the recipient of confidences",
+    "layer": "vocab",
+    "note": "Recipient: the one who receives something.",
+    "source": "Merriam-Webster, “recipient”, https://www.merriam-webster.com/dictionary/recipient",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-044",
+    "anchor": "his obsequious shadow",
+    "layer": "vocab",
+    "note": "Obsequious: too eager to please, fawning.",
+    "source": "Merriam-Webster, “obsequious”, https://www.merriam-webster.com/dictionary/obsequious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-045",
+    "anchor": "to gloat serenely",
+    "layer": "vocab",
+    "note": "Gloat: look on with smug or spiteful pleasure.",
+    "source": "Merriam-Webster, “gloat”, https://www.merriam-webster.com/dictionary/gloat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-046",
+    "anchor": "a matter of expediency",
+    "layer": "vocab",
+    "note": "Expediency: doing what is useful at the moment, not what is right.",
+    "source": "Merriam-Webster, “expediency”, https://www.merriam-webster.com/dictionary/expediency",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-047",
+    "anchor": "in dulcet tones",
+    "layer": "vocab",
+    "note": "Dulcet: sweet and soothing to hear.",
+    "source": "Merriam-Webster, “dulcet”, https://www.merriam-webster.com/dictionary/dulcet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-048",
+    "anchor": "a sort of tittering",
+    "layer": "vocab",
+    "note": "Tittering: nervous, sly, half-suppressed giggling.",
+    "source": "Merriam-Webster, “titter”, https://www.merriam-webster.com/dictionary/titter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-049",
+    "anchor": "He throws dust into everybody’s eyes",
+    "layer": "vocab",
+    "note": "Throws dust in their eyes: deceives them, blinds them to the truth.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-050",
+    "anchor": "abjectly lachrymose",
+    "layer": "vocab",
+    "note": "Lachrymose: tearful, inclined to weep.",
+    "source": "Merriam-Webster, “lachrymose”, https://www.merriam-webster.com/dictionary/lachrymose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-051",
+    "anchor": "a rambling, ejaculatory, craven fashion",
+    "layer": "vocab",
+    "note": "Ejaculatory: made of sudden short exclamations. Craven: cowardly.",
+    "source": "Merriam-Webster, “ejaculatory”, https://www.merriam-webster.com/dictionary/ejaculatory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-052",
+    "anchor": "to intercede with Jim",
+    "layer": "vocab",
+    "note": "Intercede: speak to someone on another’s behalf.",
+    "source": "Merriam-Webster, “intercede”, https://www.merriam-webster.com/dictionary/intercede",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-053",
+    "anchor": "“Moderate provision--suitable present.”",
+    "layer": "vocab",
+    "note": "Provision: money set aside for someone’s support.",
+    "source": "Merriam-Webster, “provision”, https://www.merriam-webster.com/dictionary/provision",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-054",
+    "anchor": "The gist of the affair",
+    "layer": "vocab",
+    "note": "Gist: the main point, the essence.",
+    "source": "Merriam-Webster, “gist”, https://www.merriam-webster.com/dictionary/gist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-055",
+    "anchor": "think him extortionate",
+    "layer": "vocab",
+    "note": "Extortionate: demanding far too much, greedy.",
+    "source": "Merriam-Webster, “extortionate”, https://www.merriam-webster.com/dictionary/extortionate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-056",
+    "anchor": "to make a concession",
+    "layer": "vocab",
+    "note": "Concession: something given up to reach an agreement.",
+    "source": "Merriam-Webster, “concession”, https://www.merriam-webster.com/dictionary/concession",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-057",
+    "anchor": "eager avarice",
+    "layer": "vocab",
+    "note": "Avarice: extreme greed for money.",
+    "source": "Merriam-Webster, “avarice”, https://www.merriam-webster.com/dictionary/avarice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-058",
+    "anchor": "whined coaxingly",
+    "layer": "vocab",
+    "note": "Coaxingly: in a gently persuading, wheedling way.",
+    "source": "Merriam-Webster, “coax”, https://www.merriam-webster.com/dictionary/coax",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-059",
+    "anchor": "evidently a vocation",
+    "layer": "vocab",
+    "note": "Vocation: a calling, one’s natural line of work.",
+    "source": "Merriam-Webster, “vocation”, https://www.merriam-webster.com/dictionary/vocation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-060",
+    "anchor": "without a trace of humility",
+    "layer": "vocab",
+    "note": "Humility: being humble, not proud.",
+    "source": "Merriam-Webster, “humility”, https://www.merriam-webster.com/dictionary/humility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-061",
+    "anchor": "quite extinct",
+    "layer": "vocab",
+    "note": "Extinct here means died away, gone silent.",
+    "source": "Merriam-Webster, “extinct”, https://www.merriam-webster.com/dictionary/extinct",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-062",
+    "anchor": "surpassing love",
+    "layer": "vocab",
+    "note": "Surpassing: greater than all others.",
+    "source": "Merriam-Webster, “surpassing”, https://www.merriam-webster.com/dictionary/surpassing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-063",
+    "anchor": "the most cruel of spoliations",
+    "layer": "vocab",
+    "note": "Spoliations: acts of robbing or plundering.",
+    "source": "Merriam-Webster, “spoliation”, https://www.merriam-webster.com/dictionary/spoliation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-064",
+    "anchor": "an infamous word",
+    "layer": "vocab",
+    "note": "Infamous: shameful, wicked, and disgraceful.",
+    "source": "Merriam-Webster, “infamous”, https://www.merriam-webster.com/dictionary/infamous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-065",
+    "anchor": "horrible blasphemies in Portuguese",
+    "layer": "vocab",
+    "note": "Blasphemies: words that insult God or holy things.",
+    "source": "Merriam-Webster, “blasphemy”, https://www.merriam-webster.com/dictionary/blasphemy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-066",
+    "anchor": "miserable plaints",
+    "layer": "vocab",
+    "note": "Plaints: complaints, laments, sad cries.",
+    "source": "Merriam-Webster, “plaint”, https://www.merriam-webster.com/dictionary/plaint",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch34-067",
+    "anchor": "Some disparagement of Jim",
+    "layer": "vocab",
+    "note": "Disparagement: speaking of someone as worthless.",
+    "source": "Merriam-Webster, “disparagement”, https://www.merriam-webster.com/dictionary/disparagement",
+    "status": "draft",
+    "checker": null
+  }
+]
