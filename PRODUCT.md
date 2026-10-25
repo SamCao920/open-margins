@@ -10,7 +10,7 @@ web
 Primary: curious adults reading classic books on their own, who want to understand every word, place, and reference without leaving the page. Important secondary use: high school and college students working through an assigned classic, who need the vocabulary glossed most of all.
 
 ## Product Purpose
-Scholia publishes free annotated editions of public-domain classics. A short note sits beside each word, allusion, historical detail, or place a modern reader is likely to stumble on, so the reader keeps reading instead of searching. Success is a reader finishing a hard chapter without opening another tab.
+Open Margins publishes free annotated editions of public-domain classics. A short note sits beside each word, allusion, historical detail, or place a modern reader is likely to stumble on, so the reader keeps reading instead of searching. Success is a reader finishing a hard chapter without opening another tab.
 
 ## Positioning
 Detailed annotations, including student-friendly vocabulary glosses that most annotated editions skip, released under an open license (CC BY 4.0) so teachers and other projects can reuse every note.
@@ -26,7 +26,7 @@ Long-form reading of one chapter at a time, on laptops and phones. Notes are gro
 - Reader preferences (theme, font, text size, line length, layer toggles) persist in localStorage.
 
 ## Brand Commitments
-- Name: Scholia, after the explanatory notes written in the margins of Greek and Latin manuscripts.
+- Name: Open Margins, after the notes readers have always written in the margins of books; here the margins are open to everyone. Logo: an overlapping O and M monogram cut from EB Garamond.
 - The feel should stay classic and antique, in a distinctive way. The user ruled out theme-park antique (fake parchment textures, wax seals, quills), anything that makes long reading tiring, and generic web-app styling (cards, pill buttons, dashboards).
 
 ## Evidence on Hand

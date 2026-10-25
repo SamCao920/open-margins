@@ -1,8 +1,8 @@
-# scholia
+# Open Margins
 
 Free, open annotated editions of classic books for high school and college students.
 
-Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Scholia puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
+Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Open Margins puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
 
 **First edition:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters.
 
@@ -122,5 +122,5 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 ## License
 
 - **Text:** public domain. Source edition: [Project Gutenberg](https://www.gutenberg.org/).
-- **Annotations:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse freely with credit to scholia.
+- **Annotations:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse freely with credit to Open Margins.
 - **Code:** MIT.

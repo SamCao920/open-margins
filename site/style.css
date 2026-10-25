@@ -1,4 +1,4 @@
-/* Scholia: a Victorian literary magazine. The frame (wrapper, running head,
+/* Open Margins: a Victorian literary magazine. The frame (wrapper, running head,
    rules, contents) carries the period; the reading column stays plain book
    type. Old Standard TT throughout, black ink, a buff wrapper, no colour
    accent. Square corners and hairlines everywhere. */
@@ -196,7 +196,7 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .settings-panel .hint { color: var(--muted); font-size: .85rem; line-height: 1.4; margin: .35rem 0 0; font-style: italic; }
 .settings-panel [data-prefs-reset] { font: inherit; font-size: .85rem; color: var(--muted); background: none; border: 0; padding: 0; text-decoration: underline; text-decoration-color: var(--faint); cursor: pointer; }
 
-/* ----- Logo: the S-with-asterisk mark, drawn in the current text colour ----- */
+/* ----- Logo: the overlapping O-and-M monogram, drawn in the current text colour ----- */
 .logo {
   display: inline-block; width: 1em; height: 1em; flex: none;
   background: currentColor;
