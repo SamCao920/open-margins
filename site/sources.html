@@ -60,9 +60,8 @@
 (async function () {
   // Gathers every note's source at load time, so this page never drifts
   // from the note files.
-  const books = [{ id: 'lord-jim', title: 'Lord Jim', chapters: 10 }];
-  const roman = n => ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X',
-    'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX'][n] || String(n);
+  const books = [{ id: 'lord-jim', title: 'Lord Jim', chapters: 45 }];
+  const roman = n => { let s = ''; for (const [v, r] of [[40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']]) while (n >= v) { s += r; n -= v; } return s; };
   const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const linkify = s => esc(s).replace(/https?:\/\/[^\s;]+/g, u => '<a href="' + u + '">' + u.replace(/^https?:\/\/(www\.)?/, '') + '</a>');
 
@@ -86,8 +85,9 @@
   const uncited = [];
 
   for (const b of books) {
+    const all = await Promise.all(Array.from({ length: b.chapters }, (_, i) => load('notes/' + b.id + '/ch' + (i + 1) + '.json')));
     for (let ch = 1; ch <= b.chapters; ch++) {
-      const notes = await load('notes/' + b.id + '/ch' + ch + '.json');
+      const notes = all[ch - 1];
       for (const n of notes) {
         if (n.status === 'cut') continue;
         const row = { book: b.title, ch, n };
