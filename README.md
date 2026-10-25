@@ -66,6 +66,6 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 
 ## License
 
-- **Text:** public domain. Source edition: [Standard Ebooks](https://standardebooks.org/).
-- **Annotations:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse freely with credit to Open Margins.
+- **Text:** public domain. Source edition: [Project Gutenberg]((https://www.gutenberg.org/)).
+- **Annotations:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse freely with credit to scholia.
 - **Code:** MIT.
