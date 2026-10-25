@@ -2,7 +2,7 @@
 
 Free, open annotated editions of classic books for high school and college students.
 
-Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Open Margins puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
+Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Scholia puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
 
 **First edition:** *Lord Jim* by Joseph Conrad (1900), chapters 1 to 10.
 
@@ -15,11 +15,16 @@ Classic books are free to read online, but they are full of words, places, peopl
 ## Repository layout
 
 ```
-text/            Public domain text, one file per chapter
-notes/           Annotations, one JSON file per chapter
-notes/SCHEMA.md  Annotation format
-site/            Static reader (deployed with GitHub Pages)
+texts/lord_jim.txt         Full public domain text (Project Gutenberg boilerplate removed)
+texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch10.txt
+notes/SCHEMA.md            Annotation format
+notes/lord-jim/ch1.json    Annotations, one JSON file per chapter
+site/                      Static reader: plain HTML, CSS, and JavaScript
+scripts/check_notes.py     Checks notes against the schema and the chapter text
+.github/workflows/pages.yml  Deploys site/, texts/, and notes/ to GitHub Pages
 ```
+
+To preview locally, run `python3 -m http.server` in the repository root and open `http://localhost:8000/site/`.
 
 ## Annotation format
 

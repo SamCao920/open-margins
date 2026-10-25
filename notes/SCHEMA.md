@@ -1,6 +1,6 @@
 # Annotation schema
 
-One file per chapter: `notes/ch1.json`, `notes/ch2.json`, and so on. Each file is a JSON array of notes.
+One file per chapter: `notes/lord-jim/ch1.json`, `notes/lord-jim/ch2.json`, and so on. Each file is a JSON array of notes.
 
 ## Fields
 

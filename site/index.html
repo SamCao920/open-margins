@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scholia: Lord Jim</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="index">
+<main class="index-main">
+  <p class="eyebrow">Scholia</p>
+  <h1>Lord Jim</h1>
+  <p class="byline">Joseph Conrad, 1900</p>
+  <p class="intro">An annotated reader for students. Notes appear in the margin; turn layers on or off at the top of each chapter. Notes marked <span class="draft-label">unverified</span> have not yet been checked by a person.</p>
+  <ol class="chapters" id="chapters"></ol>
+  <p class="foot">Text: public domain (Project Gutenberg). Notes: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. <a href="https://github.com/samcao920/scholia">Source on GitHub</a>.</p>
+</main>
+<script>
+  const list = document.getElementById('chapters');
+  for (let n = 1; n <= 10; n++) {
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = 'chapter.html?ch=' + n;
+    a.textContent = 'Chapter ' + n;
+    li.appendChild(a);
+    list.appendChild(li);
+  }
+</script>
+</body>
+</html>
