@@ -3,30 +3,56 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Scholia: Lord Jim</title>
+<title>Scholia: free annotated classics</title>
+<meta name="description" content="Free, open annotated editions of classic books for high school and college students.">
+<script src="prefs.js"></script>
 <link rel="stylesheet" href="tufte/tufte.css">
 <link rel="stylesheet" href="style.css">
 </head>
-<body class="index">
+<body class="home-page">
+<header class="bar">
+  <nav class="crumbs"><a class="home" href="index.html">Scholia</a></nav>
+  <span class="bar-spacer"></span>
+  <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
+</header>
 <article>
-  <h1>Lord Jim</h1>
-  <p class="subtitle">Joseph Conrad, 1900</p>
+  <h1>Scholia</h1>
+  <p class="subtitle">Free, open annotated editions of classic books</p>
+
   <section>
-    <p><span class="newthought">An annotated reader</span> for students, from Scholia. Notes appear in the margin; turn layers on or off at the top of each chapter. Notes marked <span class="draft-label">unverified</span> have not yet been checked by a person.</p>
-    <ol class="chapters" id="chapters"></ol>
-    <p class="foot">Text: public domain (Project Gutenberg). Notes: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Styled with <a href="https://edwardtufte.github.io/tufte-css/">Tufte CSS</a>. <a href="https://github.com/samcao920/scholia">Source on GitHub</a>.</p>
+    <p><span class="newthought">Classic books are free</span> to read online, but they are full of words, places, people, and events that modern readers don’t know. Scholia puts a short note in the margin wherever a high school or college reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.</p>
+    <p>The name comes from the <em>scholia</em> (singular <em>scholium</em>) that readers once wrote in the margins of Greek and Latin manuscripts to explain hard words and references.</p>
+  </section>
+
+  <section>
+    <h2>The library</h2>
+    <ul class="books">
+      <li class="book-card">
+        <a class="book-title" href="book.html?book=lord-jim">Lord Jim</a>
+        <span class="meta">Joseph Conrad, 1900 · chapters 1 to 10</span>
+        <span class="meta">Chapter 1 notes drafted, <span class="draft-label">unverified</span>; chapters 2 to 10 not yet annotated.</span>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>How it works</h2>
+    <p><span class="newthought">Layers you can toggle.</span> Notes come in four layers: vocabulary, allusions, history, and places. A 10th grader can turn everything on; a college reader can hide vocabulary.</p>
+    <p><span class="newthought">AI-drafted, human-verified.</span> Notes are drafted with AI, then checked by a person against a cited source before they are marked verified. Until then they carry an <span class="draft-label">unverified</span> label. A missing note is better than a wrong one.</p>
+    <p><span class="newthought">Audited.</span> Once notes are verified, we recheck a random sample and publish the error rate.</p>
+  </section>
+
+  <section>
+    <h2>Reading</h2>
+    <p>On a wide screen the text stays at a comfortable line length in the middle of the page. Small marks beside it show where notes are. Move the pointer toward the right margin for vocabulary, or the left margin for allusions, history, and places. Click an underlined phrase to keep its note open.</p>
+    <p>On a phone, tap an underlined phrase and its note opens below the paragraph. Use <strong>Aa</strong> at the top of a chapter to change the theme, font, text size, and line length.</p>
+  </section>
+
+  <section>
+    <h2>Help check notes</h2>
+    <p>We need checkers. Pick a chapter, check each unverified note against a reliable source, then fix it, cut it, or mark it verified and open a pull request. Instructions are in the <a href="https://github.com/samcao920/scholia">project’s GitHub repository</a>.</p>
+    <p class="foot">Text: public domain, from Project Gutenberg. Notes: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Code: MIT. Typography: <a href="https://edwardtufte.github.io/tufte-css/">Tufte CSS</a>.</p>
   </section>
 </article>
-<script>
-  const list = document.getElementById('chapters');
-  for (let n = 1; n <= 10; n++) {
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = 'chapter.html?ch=' + n;
-    a.textContent = 'Chapter ' + n;
-    li.appendChild(a);
-    list.appendChild(li);
-  }
-</script>
 </body>
 </html>

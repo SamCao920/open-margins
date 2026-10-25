@@ -1,56 +1,138 @@
-/* Scholia reader styles, layered on Tufte CSS (tufte/tufte.css).
-   Tufte CSS sets the type, colours, and proportions; this file adds the
-   reader's own pieces: layer toggles, anchors, and positioned margin notes. */
+/* Scholia styles, layered on Tufte CSS (tufte/tufte.css).
+   Tufte CSS sets the type and proportions; this file adds themes, reader
+   settings, the top bar, anchors, and the two note panels. */
 
+/* ----- Theme tokens ----- */
 :root {
   --bg: #fffff8;
   --ink: #111;
-  --muted: #777;
+  --muted: #6f6f6f;
   --rule: #ccc;
+  --tick: #b9b5a6;
   --mark: #f2eed8;
+  --shadow: rgba(0, 0, 0, .10);
+  --font: et-book, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --scale: 1;
+  --measure: 33em;
+  color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #151515;
     --ink: #ddd;
     --muted: #999;
     --rule: #444;
+    --tick: #5a5850;
     --mark: #2c2a22;
+    --shadow: rgba(0, 0, 0, .5);
+    color-scheme: dark;
   }
 }
+:root[data-theme="dark"] {
+  --bg: #151515;
+  --ink: #ddd;
+  --muted: #999;
+  --rule: #444;
+  --tick: #5a5850;
+  --mark: #2c2a22;
+  --shadow: rgba(0, 0, 0, .5);
+  color-scheme: dark;
+}
 
+body {
+  background-color: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+}
+
+.sans,
 .bar,
-.chapnav {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+.chapnav,
+.settings-panel {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, system-ui, sans-serif;
   letter-spacing: .03em;
 }
-.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
-/* Index */
-.chapters li { margin-top: .25rem; }
-.foot { font-size: 1.1rem; color: var(--muted); }
-
-/* Top bar: a quiet line, not a toolbar */
+/* ----- Top bar ----- */
 .bar {
-  position: sticky; top: 0; z-index: 5;
-  display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem 1.4rem;
-  padding: .7rem 0;
+  position: sticky; top: 0; z-index: 20;
+  display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem;
+  padding: .6rem 0;
   background: var(--bg);
   border-bottom: 1px solid var(--rule);
   font-size: 1.1rem;
   line-height: 1.4;
 }
-.home { text-decoration: none; font-variant: small-caps; letter-spacing: .08em; }
+.crumbs a { text-decoration: none; }
+.crumbs .home { font-variant: small-caps; letter-spacing: .08em; }
+.crumbs .sep { color: var(--muted); margin: 0 .3rem; }
+.bar-spacer { flex: 1; }
 .layers { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .2rem 1rem; }
 .layers label { cursor: pointer; white-space: nowrap; }
 .layers input { accent-color: var(--ink); margin: 0 .3rem 0 0; vertical-align: -1px; }
+.bar-button,
+.settings > summary {
+  font: inherit; color: inherit; letter-spacing: inherit;
+  background: none; border: 1px solid var(--rule); border-radius: 3px;
+  padding: .1rem .55rem; cursor: pointer;
+}
+.bar-button:hover, .settings > summary:hover { border-color: var(--ink); }
 
-/* Reader: text in Tufte's 55% column, notes in the margin to its right */
-article.chapter { padding-top: 3rem; }
-.reader { position: relative; }
-.text { width: 55%; }
-.text > p { width: auto; } /* Tufte sizes section > p; the section here is already the column */
-.margin { position: absolute; top: 0; left: 59%; right: 1.5rem; }
+/* ----- Settings popover ----- */
+.settings { position: relative; }
+.settings > summary { list-style: none; }
+.settings > summary::-webkit-details-marker { display: none; }
+.settings-panel {
+  position: absolute; right: 0; top: calc(100% + .5rem); z-index: 30;
+  width: 18rem; max-width: calc(100vw - 2rem);
+  padding: .9rem 1rem;
+  background: var(--bg); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 4px;
+  box-shadow: 0 6px 24px var(--shadow);
+  font-size: 1rem;
+}
+.settings-panel .row { margin: 0 0 .8rem; }
+.settings-panel .row > .label { display: block; color: var(--muted); font-size: .9rem; margin-bottom: .25rem; }
+.seg { display: flex; border: 1px solid var(--rule); border-radius: 3px; overflow: hidden; }
+.seg label { flex: 1; text-align: center; cursor: pointer; padding: .2rem 0; }
+.seg label + label { border-left: 1px solid var(--rule); }
+.seg input { position: absolute; opacity: 0; pointer-events: none; }
+.seg label:has(input:checked) { background: var(--ink); color: var(--bg); }
+.seg label:has(input:focus-visible) { outline: 2px solid var(--ink); outline-offset: -3px; }
+.settings-panel select { width: 100%; font: inherit; color: inherit; background: var(--bg); border: 1px solid var(--rule); border-radius: 3px; padding: .2rem; }
+.stepper { display: flex; align-items: center; gap: .6rem; }
+.stepper button { font: inherit; color: inherit; background: none; border: 1px solid var(--rule); border-radius: 3px; width: 2.4rem; cursor: pointer; }
+.stepper button:disabled { opacity: .35; cursor: default; }
+.stepper output { min-width: 3rem; text-align: center; }
+.settings-panel .hint { color: var(--muted); font-size: .85rem; line-height: 1.35; margin: .2rem 0 0; }
+.settings-panel [data-prefs-reset] { font: inherit; color: var(--muted); background: none; border: 0; padding: 0; text-decoration: underline; cursor: pointer; }
+
+/* ----- Home and book pages (Tufte's standard layout) ----- */
+.home-page .bar { padding-right: 1.5rem; }
+.books { list-style: none; -webkit-padding-start: 0 !important; padding-left: 0; }
+.book-card { border-top: 1px solid var(--rule); padding-top: .8rem; }
+.book-card .book-title { font-size: 1.8rem; font-style: italic; }
+.book-card .meta { color: var(--muted); font-size: 1.1rem; display: block; }
+.chapters li { margin-top: .25rem; }
+.foot { font-size: 1.1rem; color: var(--muted); }
+.draft-label {
+  font-variant: small-caps; text-transform: lowercase; letter-spacing: .05em;
+  color: var(--muted);
+}
+
+/* ----- Chapter reader ----- */
+body.reader-page { width: auto; max-width: none; padding: 0 16px; margin: 0; }
+body.reader-page .bar { padding-left: 0; padding-right: 0; }
+.reader { position: relative; padding: 3rem 0 4rem; }
+.column {
+  position: relative; z-index: 1;
+  width: min(100%, var(--measure));
+  margin: 0 auto;
+  font-size: calc(1.4rem * var(--scale));
+}
+.column h1 { font-size: 2em; margin: 0 0 1.2em; }
+.column p { font-size: 1em; line-height: 1.45; width: auto; margin: 0 0 1em; }
 
 .anchor {
   cursor: pointer;
@@ -59,64 +141,74 @@ article.chapter { padding-top: 3rem; }
   text-decoration-thickness: 1px;
   text-underline-offset: .18em;
 }
-.anchor:hover, .anchor.active { text-decoration-color: var(--ink); }
+.anchor:hover, .anchor.hover, .anchor.active { text-decoration-color: var(--ink); }
 .anchor.active { background: var(--mark); }
 
-/* Notes use Tufte's margin-note type: same serif, 1.1rem, tight leading */
-.note {
-  font-size: 1rem;
-  line-height: 1.25;
-}
+/* Notes use Tufte's margin-note type: the text face, small, tight leading */
+.note { font-size: calc(1rem * var(--scale)); line-height: 1.3; }
 .note .term { font-style: italic; }
-.note .layer-name, .draft-label {
-  font-variant: small-caps;
-  text-transform: lowercase;
-  letter-spacing: .05em;
-  color: var(--muted);
+.note .layer-name {
+  font-variant: small-caps; text-transform: lowercase; letter-spacing: .05em;
+  color: var(--muted); margin-right: .35rem;
 }
-.note .layer-name { margin-right: .35rem; }
-.note[data-layer="vocab"] .layer-name { display: none; } /* most notes are vocab; label the rest */
-.draft-label { margin-left: .35rem; }
-.note .source { display: block; color: var(--muted); font-size: 1rem; margin-top: .15rem; overflow-wrap: anywhere; }
-.margin .note { position: absolute; left: 0; right: 0; cursor: pointer; }
-.margin .note.active { background: var(--mark); box-shadow: 0 0 0 .3rem var(--mark); }
-/* Keep margin notes short; the source shows when a note is selected. */
-.margin .note .source { display: none; }
-.margin .note.active .source { display: block; }
+.note[data-layer="vocab"] .layer-name { display: none; } /* the right panel is all vocab */
+.note .draft-label { margin-left: .35rem; }
+.note .source { display: block; color: var(--muted); font-size: .92em; margin-top: .15rem; overflow-wrap: anywhere; }
+
+/* Panels: notes for one side. Closed, only tick marks beside the text show
+   where notes are; moving the pointer toward a side opens that panel. */
+.panel {
+  position: absolute; top: 0; z-index: 2;
+  opacity: 0; pointer-events: none; visibility: hidden;
+  transition: opacity .18s ease, transform .18s ease, visibility 0s linear .18s;
+}
+.panel-left { transform: translateX(-10px); }
+.panel-right { transform: translateX(10px); }
+.panel.open {
+  opacity: 1; pointer-events: auto; visibility: visible; transform: none;
+  transition: opacity .18s ease, transform .18s ease;
+}
+/* When both panels don't fit, opening one slides the text (and its tick
+   marks) toward the other side by --shift, set in reader.js. */
+.column, .ticks { transform: translateX(var(--shift, 0)); transition: transform .2s ease; }
+.panel .note { position: absolute; left: .75rem; right: .75rem; cursor: pointer; }
+.panel .note .source { display: none; }
+.panel .note.active .source { display: block; }
+.panel .note.hover, .panel .note.active { background: var(--mark); box-shadow: 0 0 0 .3rem var(--mark); }
+
+.ticks { position: absolute; top: 0; width: 8px; z-index: 1; }
+.tick { position: absolute; left: 0; width: 8px; height: 2px; margin-top: -1px; background: var(--tick); }
+.tick.hover, .tick.active { background: var(--ink); }
+
+.inline-note {
+  margin: -.3em 0 1.2em;
+  padding-left: .9rem;
+  border-left: 1px solid var(--rule);
+}
+
+/* Narrow screens: no panels; notes open under the paragraph */
+body.inline-mode .panel,
+body.inline-mode .ticks { display: none; }
 
 /* Hidden layers */
 body.hide-vocab    .anchor[data-layer="vocab"],
 body.hide-allusion .anchor[data-layer="allusion"],
 body.hide-history  .anchor[data-layer="history"],
 body.hide-place    .anchor[data-layer="place"] { text-decoration: none; cursor: auto; background: none; }
-body.hide-vocab    .note[data-layer="vocab"],
-body.hide-allusion .note[data-layer="allusion"],
-body.hide-history  .note[data-layer="history"],
-body.hide-place    .note[data-layer="place"] { display: none; }
-
-/* Inline notes follow Tufte's small-screen margin-note style */
-.inline-note {
-  display: block;
-  margin: -.4rem 2.5% 1.4rem;
-  padding-left: 1rem;
-  border-left: 1px solid var(--rule);
-}
+body.hide-vocab    :is(.note, .tick)[data-layer="vocab"],
+body.hide-allusion :is(.note, .tick)[data-layer="allusion"],
+body.hide-history  :is(.note, .tick)[data-layer="history"],
+body.hide-place    :is(.note, .tick)[data-layer="place"] { display: none; }
 
 .chapnav {
   display: flex; justify-content: space-between; gap: 1rem;
-  width: 55%;
   margin-top: 3rem; padding-top: 1rem;
   border-top: 1px solid var(--rule);
   font-size: 1.1rem;
 }
 
-/* Below this width the margin is too narrow for the notes: hide it and open
-   notes under their paragraph instead. Matches NARROW in reader.js. */
-@media (max-width: 1150px) {
-  .text, .chapnav { width: 100%; }
-  .margin { display: none; }
-}
 @media (max-width: 760px) {
-  article.chapter { padding-top: 1.5rem; }
-  .chapters, .index section > p { width: 100%; }
+  .reader { padding-top: 1.5rem; }
+  .bar { gap: .4rem .9rem; }
+  .books, .chapters, .home-page section > p { width: 100%; }
 }

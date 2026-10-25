@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lord Jim · Scholia</title>
+<script src="prefs.js"></script>
+<link rel="stylesheet" href="tufte/tufte.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="home-page">
+<header class="bar">
+  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a><span class="sep">/</span><span>Lord Jim</span></nav>
+  <span class="bar-spacer"></span>
+  <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
+</header>
+<article>
+  <h1>Lord Jim</h1>
+  <p class="subtitle">Joseph Conrad, 1900</p>
+  <section>
+    <p><span class="newthought">A parson’s son</span> trains for a life of adventure at sea. Scholia annotates the first ten chapters. Notes marked <span class="draft-label">unverified</span> have not yet been checked by a person.</p>
+    <ol class="chapters" id="chapters"></ol>
+    <p class="foot">Text: Project Gutenberg eBook #5658, public domain. The Author’s Note (1917) is not included in the reader.</p>
+  </section>
+</article>
+<script>
+  const list = document.getElementById('chapters');
+  for (let n = 1; n <= 10; n++) {
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.href = 'chapter.html?book=lord-jim&ch=' + n;
+    a.textContent = 'Chapter ' + n;
+    li.appendChild(a);
+    list.appendChild(li);
+  }
+</script>
+</body>
+</html>
