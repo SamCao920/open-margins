@@ -152,7 +152,7 @@
   // Place margin notes as close to their anchors as possible. Notes that would
   // overlap are grouped, and each group is centred on its anchors, so a
   // crowded passage spreads notes both above and below instead of only down.
-  const GAP = 6;
+  const GAP = 5;
   function layoutMargin() {
     if (NARROW.matches) return;
     const base = marginEl.getBoundingClientRect().top;

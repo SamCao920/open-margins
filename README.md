@@ -20,6 +20,7 @@ texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch10.txt
 notes/SCHEMA.md            Annotation format
 notes/lord-jim/ch1.json    Annotations, one JSON file per chapter
 site/                      Static reader: plain HTML, CSS, and JavaScript
+site/tufte/                Tufte CSS 1.9.0 and ET Book fonts, vendored unchanged (MIT)
 scripts/check_notes.py     Checks notes against the schema and the chapter text
 .github/workflows/pages.yml  Deploys site/, texts/, and notes/ to GitHub Pages
 ```
@@ -73,4 +74,4 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 
 - **Text:** public domain. Source edition: [Project Gutenberg](https://www.gutenberg.org/).
 - **Annotations:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse freely with credit to scholia.
-- **Code:** MIT.
+- **Code:** MIT. Styling uses [Tufte CSS](https://edwardtufte.github.io/tufte-css/) (MIT, see `site/tufte/LICENSE`).
