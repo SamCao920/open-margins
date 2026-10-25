@@ -1,0 +1,625 @@
+[
+  {
+    "id": "ch12-001",
+    "anchor": "rifts of the immaterial veil",
+    "layer": "vocab",
+    "note": "Rifts: gaps or splits. Immaterial: without physical substance.",
+    "source": "Merriam-Webster, “immaterial”, https://www.merriam-webster.com/dictionary/immaterial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-002",
+    "anchor": "pregnant with vague appeal",
+    "layer": "vocab",
+    "note": "Pregnant with: full of, heavy with meaning.",
+    "source": "Merriam-Webster, “pregnant”, https://www.merriam-webster.com/dictionary/pregnant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-003",
+    "anchor": "that oppressive silence",
+    "layer": "vocab",
+    "note": "Oppressive: heavy, weighing painfully on the mind.",
+    "source": "Merriam-Webster, “oppressive”, https://www.merriam-webster.com/dictionary/oppressive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-004",
+    "anchor": "Ascertained the damage",
+    "layer": "vocab",
+    "note": "Ascertained: found out for certain.",
+    "source": "Merriam-Webster, “ascertain”, https://www.merriam-webster.com/dictionary/ascertain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-005",
+    "anchor": "he asked, dismayed",
+    "layer": "vocab",
+    "note": "Dismayed: alarmed and upset, losing courage.",
+    "source": "Merriam-Webster, “dismay”, https://www.merriam-webster.com/dictionary/dismay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-006",
+    "anchor": "close to the balustrade",
+    "layer": "vocab",
+    "note": "Balustrade: a railing held up by a row of short posts.",
+    "source": "Merriam-Webster, “balustrade”, https://www.merriam-webster.com/dictionary/balustrade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-007",
+    "anchor": "towed successfully to Aden",
+    "layer": "place",
+    "note": "Aden, a port at the southern tip of Arabia near the mouth of the Red Sea, was then held by Britain and used as a coaling station for steamers.",
+    "source": "Encyclopaedia Britannica, “Aden”, https://www.britannica.com/place/Aden",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-008",
+    "anchor": "board and lodging",
+    "layer": "vocab",
+    "note": "Board and lodging: meals and a room to sleep in.",
+    "source": "Merriam-Webster, “board”, https://www.merriam-webster.com/dictionary/board",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-009",
+    "anchor": "had affirmed the same thing",
+    "layer": "vocab",
+    "note": "Affirmed: stated firmly that it was true.",
+    "source": "Merriam-Webster, “affirm”, https://www.merriam-webster.com/dictionary/affirm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-010",
+    "anchor": "One old skipper",
+    "layer": "vocab",
+    "note": "Skipper: the captain of a ship.",
+    "source": "Merriam-Webster, “skipper”, https://www.merriam-webster.com/dictionary/skipper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-011",
+    "anchor": "his liver in such a state",
+    "layer": "vocab",
+    "note": "A diseased liver, here from heavy drinking, believed to affect mood and senses.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-012",
+    "anchor": "cast about for",
+    "layer": "vocab",
+    "note": "Cast about for: search around for.",
+    "source": "Merriam-Webster, “cast about”, https://www.merriam-webster.com/dictionary/cast%20about",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-013",
+    "anchor": "her stern canted high",
+    "layer": "vocab",
+    "note": "Canted: tilted to one side or end.",
+    "source": "Merriam-Webster, “cant”, https://www.merriam-webster.com/dictionary/cant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-014",
+    "anchor": "the fore-compartment",
+    "layer": "vocab",
+    "note": "The front section of the hull, walled off from the rest by the bulkhead.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Compartments”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-015",
+    "anchor": "out of trim",
+    "layer": "vocab",
+    "note": "Out of trim: not floating level in the water as a ship should.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Trim”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-016",
+    "anchor": "a little on the quarter",
+    "layer": "vocab",
+    "note": "Quarter: the side of a ship near the stern.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Quarter”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-017",
+    "anchor": "swung head to wind",
+    "layer": "vocab",
+    "note": "Swung head to wind: turned so her bow pointed into the wind.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-018",
+    "anchor": "the boat to leeward",
+    "layer": "vocab",
+    "note": "Leeward (said “LOO-erd”): on the side away from the wind.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Leeward”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-019",
+    "anchor": "a mute appeal",
+    "layer": "vocab",
+    "note": "Mute: silent, without any words or sound.",
+    "source": "Merriam-Webster, “mute”, https://www.merriam-webster.com/dictionary/mute",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-020",
+    "anchor": "in disdain of",
+    "layer": "vocab",
+    "note": "Disdain: scorn, the feeling that something is beneath notice.",
+    "source": "Merriam-Webster, “disdain”, https://www.merriam-webster.com/dictionary/disdain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-021",
+    "anchor": "a breaking-up yard",
+    "layer": "vocab",
+    "note": "A yard where old ships are taken apart and sold for scrap.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-022",
+    "anchor": "a French gunboat",
+    "layer": "vocab",
+    "note": "Gunboat: a small, lightly armed navy ship used for patrol work.",
+    "source": "Merriam-Webster, “gunboat”, https://www.merriam-webster.com/dictionary/gunboat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-023",
+    "anchor": "homeward bound from Reunion",
+    "layer": "place",
+    "note": "Réunion, a volcanic island in the Indian Ocean east of Madagascar, has been a French possession since the 1600s, so French warships called there.",
+    "source": "Encyclopaedia Britannica, “Reunion”, https://www.britannica.com/search?query=Reunion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-024",
+    "anchor": "was public property",
+    "layer": "vocab",
+    "note": "Public property: known to everybody.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-025",
+    "anchor": "floating dangerously by the head",
+    "layer": "vocab",
+    "note": "By the head: lower in the water at the bow than at the stern.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “By the head”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-026",
+    "anchor": "an ensign, union down",
+    "layer": "history",
+    "note": "A ship’s flag flown upside down (union down) was a recognized signal of distress at sea: it told passing ships that help was needed.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Union-down”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-027",
+    "anchor": "at her main gaff",
+    "layer": "vocab",
+    "note": "Gaff: a spar above a fore-and-aft sail, from which a flag can fly.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gaff”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-028",
+    "anchor": "the serang had the sense",
+    "layer": "vocab",
+    "note": "Serang: the leader or boatswain of an Asian crew.",
+    "source": "Merriam-Webster, “serang”, https://www.merriam-webster.com/dictionary/serang",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-029",
+    "anchor": "the gunboat ranged abreast",
+    "layer": "vocab",
+    "note": "Ranged abreast: came up alongside, level with the other ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Abreast”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-030",
+    "anchor": "The Frenchman hailed",
+    "layer": "vocab",
+    "note": "Hailed: called out to another ship.",
+    "source": "Merriam-Webster, “hail”, https://www.merriam-webster.com/dictionary/hail",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-031",
+    "anchor": "did not look plague-stricken",
+    "layer": "vocab",
+    "note": "Plague-stricken: struck by plague, a deadly infectious disease.",
+    "source": "Merriam-Webster, “plague”, https://www.merriam-webster.com/dictionary/plague",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-032",
+    "anchor": "make head or tail of it",
+    "layer": "vocab",
+    "note": "Make head or tail of: understand at all.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-033",
+    "anchor": "Fort intrigues par ce cadavre",
+    "layer": "vocab",
+    "note": "French: “Very puzzled by that corpse.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-034",
+    "anchor": "in Sydney",
+    "layer": "place",
+    "note": "Sydney, on the southeast coast of Australia, was the capital of the colony of New South Wales and the busiest port in the South Pacific.",
+    "source": "Encyclopaedia Britannica, “Sydney”, https://www.britannica.com/place/Sydney",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-035",
+    "anchor": "uncanny vitality",
+    "layer": "vocab",
+    "note": "Uncanny: strange and eerie. Vitality: lively energy, life.",
+    "source": "Merriam-Webster, “uncanny”, https://www.merriam-webster.com/dictionary/uncanny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-036",
+    "anchor": "over a tumbler",
+    "layer": "vocab",
+    "note": "Tumbler: a flat-bottomed drinking glass without a stem.",
+    "source": "Merriam-Webster, “tumbler”, https://www.merriam-webster.com/dictionary/tumbler",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-037",
+    "anchor": "shoulder-straps were a bit tarnished",
+    "layer": "vocab",
+    "note": "Shoulder-straps: strips on a uniform showing rank. Tarnished: dulled.",
+    "source": "Merriam-Webster, “tarnish”, https://www.merriam-webster.com/dictionary/tarnish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-038",
+    "anchor": "large and sallow",
+    "layer": "vocab",
+    "note": "Sallow: of a sickly yellowish colour.",
+    "source": "Merriam-Webster, “sallow”, https://www.merriam-webster.com/dictionary/sallow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-039",
+    "anchor": "taking snuff",
+    "layer": "history",
+    "note": "Snuff is powdered tobacco sniffed up the nose. It was a common habit in the 1700s and 1800s, especially among older men and clergy.",
+    "source": "Merriam-Webster, “snuff”, https://www.merriam-webster.com/dictionary/snuff",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-040",
+    "anchor": "I said “Merci.”",
+    "layer": "vocab",
+    "note": "Merci: French for “thank you.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-041",
+    "anchor": "cassis a l’eau",
+    "layer": "vocab",
+    "note": "French: blackcurrant liqueur mixed with water.",
+    "source": "Merriam-Webster, “cassis”, https://www.merriam-webster.com/dictionary/cassis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-042",
+    "anchor": "Impossible de comprendre--vous concevez",
+    "layer": "vocab",
+    "note": "French: “Impossible to understand, you see.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-043",
+    "anchor": "Parbleu",
+    "layer": "vocab",
+    "note": "A French exclamation: “Why, of course!”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-044",
+    "anchor": "philosophic indulgence",
+    "layer": "vocab",
+    "note": "Philosophic: calm in the face of trouble. Indulgence: tolerant patience.",
+    "source": "Merriam-Webster, “philosophic”, https://www.merriam-webster.com/dictionary/philosophic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-045",
+    "anchor": "As to the bulkhead",
+    "layer": "vocab",
+    "note": "Bulkhead: an upright wall dividing a ship’s hull into compartments.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bulk-heads”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-046",
+    "anchor": "two hawsers",
+    "layer": "vocab",
+    "note": "Hawsers: thick heavy ropes used for towing or mooring.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Hawser”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-047",
+    "anchor": "stern foremost",
+    "layer": "vocab",
+    "note": "Backwards, with the stern leading.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-048",
+    "anchor": "he expounded with stolid glibness",
+    "layer": "vocab",
+    "note": "Expounded: explained. Stolid: calm and unexcitable. Glibness: smooth, easy talk.",
+    "source": "Merriam-Webster, “stolid”, https://www.merriam-webster.com/dictionary/stolid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-049",
+    "anchor": "snuffy, quiet village priests",
+    "layer": "vocab",
+    "note": "Snuffy: smelling of or stained with snuff.",
+    "source": "Merriam-Webster, “snuffy”, https://www.merriam-webster.com/dictionary/snuffy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-050",
+    "anchor": "threadbare black soutane",
+    "layer": "vocab",
+    "note": "Threadbare: worn thin. Soutane: a long black robe worn by Catholic priests.",
+    "source": "Merriam-Webster, “soutane”, https://www.merriam-webster.com/dictionary/soutane",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-051",
+    "anchor": "a frock-coat",
+    "layer": "vocab",
+    "note": "Frock-coat: a man’s long, close-fitting coat reaching to the knees.",
+    "source": "Merriam-Webster, “frock coat”, https://www.merriam-webster.com/dictionary/frock%20coat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-052",
+    "anchor": "pursing his shaved lips",
+    "layer": "vocab",
+    "note": "Pursing: pressing the lips together into a small round shape.",
+    "source": "Merriam-Webster, “purse”, https://www.merriam-webster.com/dictionary/purse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-053",
+    "anchor": "naturellement",
+    "layer": "vocab",
+    "note": "French: “naturally,” that is, “of course.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-054",
+    "anchor": "Dieu merci",
+    "layer": "vocab",
+    "note": "French: “thank God,” said with relief.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-055",
+    "anchor": "two quartermasters stationed",
+    "layer": "vocab",
+    "note": "Quartermasters: petty officers who steer the ship and keep watch.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Quarter-master”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-056",
+    "anchor": "invest his ponderous immobility",
+    "layer": "vocab",
+    "note": "Invest: clothe or fill. Ponderous: heavy and slow. Immobility: stillness.",
+    "source": "Merriam-Webster, “ponderous”, https://www.merriam-webster.com/dictionary/ponderous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-057",
+    "anchor": "the cut of a sabre",
+    "layer": "vocab",
+    "note": "Sabre: a heavy curved sword used by cavalry.",
+    "source": "Merriam-Webster, “saber”, https://www.merriam-webster.com/dictionary/saber",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-058",
+    "anchor": "C’est bien ca",
+    "layer": "vocab",
+    "note": "French: “That’s it, that’s right.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-059",
+    "anchor": "It is droll",
+    "layer": "vocab",
+    "note": "Droll: odd in an amusing way.",
+    "source": "Merriam-Webster, “droll”, https://www.merriam-webster.com/dictionary/droll",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-060",
+    "anchor": "lifting his eyebrows dispassionately",
+    "layer": "vocab",
+    "note": "Dispassionately: calmly, without showing any feeling.",
+    "source": "Merriam-Webster, “dispassionate”, https://www.merriam-webster.com/dictionary/dispassionate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-061",
+    "anchor": "Enfin!",
+    "layer": "vocab",
+    "note": "French: “Well, anyway!” or “In short!”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-062",
+    "anchor": "go and whistle for it",
+    "layer": "vocab",
+    "note": "Whistle for it: wish in vain; there was none to be had.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-063",
+    "anchor": "his inert attitude",
+    "layer": "vocab",
+    "note": "Inert: motionless, not moving at all.",
+    "source": "Merriam-Webster, “inert”, https://www.merriam-webster.com/dictionary/inert",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-064",
+    "anchor": "enlarge upon the grievance",
+    "layer": "vocab",
+    "note": "Enlarge upon: talk at length about. Grievance: a complaint.",
+    "source": "Merriam-Webster, “grievance”, https://www.merriam-webster.com/dictionary/grievance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-065",
+    "anchor": "a sack of meal",
+    "layer": "vocab",
+    "note": "Meal: grain, such as oats or corn, coarsely ground.",
+    "source": "Merriam-Webster, “meal”, https://www.merriam-webster.com/dictionary/meal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-066",
+    "anchor": "a man-of-war",
+    "layer": "vocab",
+    "note": "Man-of-war: a warship belonging to a navy.",
+    "source": "Merriam-Webster, “man-of-war”, https://www.merriam-webster.com/dictionary/man-of-war",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-067",
+    "anchor": "an Indian Marine steamer",
+    "layer": "history",
+    "note": "The Indian Marine (renamed the Royal Indian Marine in 1892) was the government naval service of British India, which carried troops and policed the coasts.",
+    "source": "Encyclopaedia Britannica, “Royal Indian Navy”, https://www.britannica.com/search?query=Royal+Indian+Navy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-068",
+    "anchor": "his torpid demeanour",
+    "layer": "vocab",
+    "note": "Torpid: sluggish, inactive. Demeanour: outward manner.",
+    "source": "Merriam-Webster, “torpid”, https://www.merriam-webster.com/dictionary/torpid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-069",
+    "anchor": "watch in hand",
+    "layer": "vocab",
+    "note": "Timing it with a watch held in the hand.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-070",
+    "anchor": "eminently worth having",
+    "layer": "vocab",
+    "note": "Eminently: highly, to a great degree.",
+    "source": "Merriam-Webster, “eminently”, https://www.merriam-webster.com/dictionary/eminently",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-071",
+    "anchor": "their way to Toulon",
+    "layer": "place",
+    "note": "Toulon, a port on France’s Mediterranean coast, is the main base of the French navy.",
+    "source": "Encyclopaedia Britannica, “Toulon”, https://www.britannica.com/place/Toulon",
+    "status": "draft",
+    "checker": null
+  }
+]

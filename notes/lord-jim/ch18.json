@@ -1,0 +1,520 @@
+[
+  {
+    "id": "ch18-001",
+    "anchor": "a cynical, more than middle-aged bachelor",
+    "layer": "vocab",
+    "note": "Cynical: distrusting people’s motives, expecting the worst of them.",
+    "source": "Merriam-Webster, “cynical”, https://www.merriam-webster.com/dictionary/cynical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-002",
+    "anchor": "a reputation for eccentricity",
+    "layer": "vocab",
+    "note": "Eccentricity: odd, unusual, unconventional behaviour.",
+    "source": "Merriam-Webster, “eccentricity”, https://www.merriam-webster.com/dictionary/eccentricity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-003",
+    "anchor": "owned a rice-mill",
+    "layer": "vocab",
+    "note": "Rice-mill: a mill where rice is husked and cleaned for sale.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-004",
+    "anchor": "a resigned toleration",
+    "layer": "vocab",
+    "note": "Resigned: accepting without complaint. Toleration: putting up with.",
+    "source": "Merriam-Webster, “toleration”, https://www.merriam-webster.com/dictionary/toleration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-005",
+    "anchor": "this steaming climate",
+    "layer": "vocab",
+    "note": "Steaming: hot and very humid.",
+    "source": "Merriam-Webster, “steaming”, https://www.merriam-webster.com/dictionary/steaming",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-006",
+    "anchor": "these blatant tropical flowers",
+    "layer": "vocab",
+    "note": "Blatant: loud and showy, very obvious.",
+    "source": "Merriam-Webster, “blatant”, https://www.merriam-webster.com/dictionary/blatant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-007",
+    "anchor": "a superannuated fossil",
+    "layer": "vocab",
+    "note": "Superannuated: too old for use. Fossil: an out-of-date old person.",
+    "source": "Merriam-Webster, “superannuated”, https://www.merriam-webster.com/dictionary/superannuated",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-008",
+    "anchor": "the exasperating young man’s chatter",
+    "layer": "vocab",
+    "note": "Exasperating: extremely annoying, trying one’s patience.",
+    "source": "Merriam-Webster, “exasperate”, https://www.merriam-webster.com/dictionary/exasperate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-009",
+    "anchor": "quietly appreciative",
+    "layer": "vocab",
+    "note": "Appreciative: showing that one values or enjoys something.",
+    "source": "Merriam-Webster, “appreciative”, https://www.merriam-webster.com/dictionary/appreciative",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-010",
+    "anchor": "his naiveness",
+    "layer": "vocab",
+    "note": "Naiveness: innocence, lack of worldly experience.",
+    "source": "Merriam-Webster, “naive”, https://www.merriam-webster.com/dictionary/naive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-011",
+    "anchor": "terribly heinous",
+    "layer": "vocab",
+    "note": "Heinous (HAY-nus): shockingly evil and wicked.",
+    "source": "Merriam-Webster, “heinous”, https://www.merriam-webster.com/dictionary/heinous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-012",
+    "anchor": "I was trebly pleased",
+    "layer": "vocab",
+    "note": "Trebly: three times over, in three ways.",
+    "source": "Merriam-Webster, “treble”, https://www.merriam-webster.com/dictionary/treble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-013",
+    "anchor": "reposing in a deck-chair",
+    "layer": "vocab",
+    "note": "Reposing: resting, lying at ease.",
+    "source": "Merriam-Webster, “repose”, https://www.merriam-webster.com/dictionary/repose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-014",
+    "anchor": "my own poop awning",
+    "layer": "vocab",
+    "note": "Poop: the raised deck at the stern. Awning: a canvas sunshade.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Poop”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-015",
+    "anchor": "Hong-Kong harbour",
+    "layer": "place",
+    "note": "Hong Kong, an island off southern China, was a British colony from 1842 and one of the busiest ports in Asia.",
+    "source": "Encyclopaedia Britannica, “Hong Kong”, https://www.britannica.com/search?query=Hong+Kong",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-016",
+    "anchor": "a castle in Spain",
+    "layer": "vocab",
+    "note": "A castle in Spain: a daydream, a hopeless fantasy.",
+    "source": "Merriam-Webster, “castle in Spain”, https://www.merriam-webster.com/dictionary/castle%20in%20Spain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-017",
+    "anchor": "There are no spoons missing",
+    "layer": "vocab",
+    "note": "A sarcastic joke: the guest at least did not steal the silver.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-018",
+    "anchor": "care a hang",
+    "layer": "vocab",
+    "note": "Not care a hang: not care at all.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-019",
+    "anchor": "a plausible lie",
+    "layer": "vocab",
+    "note": "Plausible: believable, sounding true and reasonable.",
+    "source": "Merriam-Webster, “plausible”, https://www.merriam-webster.com/dictionary/plausible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-020",
+    "anchor": "in a more or less destitute state",
+    "layer": "vocab",
+    "note": "Destitute: completely without money or means.",
+    "source": "Merriam-Webster, “destitute”, https://www.merriam-webster.com/dictionary/destitute",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-021",
+    "anchor": "in clover",
+    "layer": "vocab",
+    "note": "In clover: living in comfort and plenty.",
+    "source": "Merriam-Webster, “in clover”, https://www.merriam-webster.com/dictionary/in%20clover",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-022",
+    "anchor": "their--well--runner",
+    "layer": "vocab",
+    "note": "Runner: an agent who goes out to bring in customers.",
+    "source": "Merriam-Webster, “runner”, https://www.merriam-webster.com/dictionary/runner",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-023",
+    "anchor": "my new charter",
+    "layer": "vocab",
+    "note": "Charter: a contract hiring a ship for a voyage or period.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Charter-party”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-024",
+    "anchor": "ready for a tussle",
+    "layer": "vocab",
+    "note": "Tussle: a short, rough struggle or argument.",
+    "source": "Merriam-Webster, “tussle”, https://www.merriam-webster.com/dictionary/tussle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-025",
+    "anchor": "Did the fellow blab",
+    "layer": "vocab",
+    "note": "Blab: tell a secret carelessly.",
+    "source": "Merriam-Webster, “blab”, https://www.merriam-webster.com/dictionary/blab",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-026",
+    "anchor": "Infernally fawning",
+    "layer": "vocab",
+    "note": "Fawning: flattering in a creeping, servile way.",
+    "source": "Merriam-Webster, “fawning”, https://www.merriam-webster.com/dictionary/fawning",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-027",
+    "anchor": "had the cheek",
+    "layer": "vocab",
+    "note": "Cheek: rude boldness, cheeky impudence.",
+    "source": "Merriam-Webster, “cheek”, https://www.merriam-webster.com/dictionary/cheek",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-028",
+    "anchor": "Patna racket",
+    "layer": "vocab",
+    "note": "Racket: a dishonest scheme or business.",
+    "source": "Merriam-Webster, “racket”, https://www.merriam-webster.com/dictionary/racket",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-029",
+    "anchor": "to the bungalow",
+    "layer": "vocab",
+    "note": "Bungalow: a one-storey house, often with a verandah, common in India.",
+    "source": "Merriam-Webster, “bungalow”, https://www.merriam-webster.com/dictionary/bungalow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-030",
+    "anchor": "He began to chaff me",
+    "layer": "vocab",
+    "note": "Chaff: tease in a friendly way.",
+    "source": "Merriam-Webster, “chaff”, https://www.merriam-webster.com/dictionary/chaff",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-031",
+    "anchor": "Blake upbraiding Egstrom",
+    "layer": "vocab",
+    "note": "Upbraiding: scolding angrily and at length.",
+    "source": "Merriam-Webster, “upbraid”, https://www.merriam-webster.com/dictionary/upbraid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-032",
+    "anchor": "sleek, jetty hair",
+    "layer": "vocab",
+    "note": "Jetty: jet-black, deep shiny black.",
+    "source": "Merriam-Webster, “jetty”, https://www.merriam-webster.com/dictionary/jetty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-033",
+    "anchor": "rowing his partner incessantly",
+    "layer": "vocab",
+    "note": "Rowing (rhymes with “cowing”): scolding. Incessantly: without stopping.",
+    "source": "Merriam-Webster, “row”, https://www.merriam-webster.com/dictionary/row",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-034",
+    "anchor": "scathing and plaintive fury",
+    "layer": "vocab",
+    "note": "Scathing: harshly critical. Plaintive: sad and complaining.",
+    "source": "Merriam-Webster, “plaintive”, https://www.merriam-webster.com/dictionary/plaintive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-035",
+    "anchor": "a raw-boned, heavy Scandinavian",
+    "layer": "vocab",
+    "note": "Raw-boned: big-boned and gaunt. Scandinavian: from Norway, Sweden, or Denmark.",
+    "source": "Merriam-Webster, “rawboned”, https://www.merriam-webster.com/dictionary/rawboned",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-036",
+    "anchor": "comported himself",
+    "layer": "vocab",
+    "note": "Comported himself: behaved, conducted himself.",
+    "source": "Merriam-Webster, “comport”, https://www.merriam-webster.com/dictionary/comport",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-037",
+    "anchor": "perfunctory “Sssh,”",
+    "layer": "vocab",
+    "note": "Perfunctory: done only as a routine, without real effort.",
+    "source": "Merriam-Webster, “perfunctory”, https://www.merriam-webster.com/dictionary/perfunctory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-038",
+    "anchor": "a little cad",
+    "layer": "vocab",
+    "note": "Cad: a man who behaves dishonourably.",
+    "source": "Merriam-Webster, “cad”, https://www.merriam-webster.com/dictionary/cad",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-039",
+    "anchor": "pointed at the roadstead",
+    "layer": "vocab",
+    "note": "Roadstead: an open anchorage off a shore, less sheltered than a harbour.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Road”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-040",
+    "anchor": "has been becalmed",
+    "layer": "vocab",
+    "note": "Becalmed: unable to move because there is no wind.",
+    "source": "Merriam-Webster, “becalm”, https://www.merriam-webster.com/dictionary/becalm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-041",
+    "anchor": "an outraged cockatoo",
+    "layer": "vocab",
+    "note": "Cockatoo: a crested parrot with a harsh, screeching cry.",
+    "source": "Merriam-Webster, “cockatoo”, https://www.merriam-webster.com/dictionary/cockatoo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-042",
+    "anchor": "as the voice of one scolding desperately in a wilderness",
+    "layer": "allusion",
+    "note": "An echo of the Bible’s “the voice of one crying in the wilderness,” said of John the Baptist.",
+    "source": "The Bible (King James Version), Matthew 3:3",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-043",
+    "anchor": "standing bewhiskered",
+    "layer": "vocab",
+    "note": "Bewhiskered: wearing whiskers, bushy side-beards.",
+    "source": "Merriam-Webster, “bewhiskered”, https://www.merriam-webster.com/dictionary/bewhiskered",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-044",
+    "anchor": "a rucked-up blue serge waistcoat",
+    "layer": "vocab",
+    "note": "Rucked-up: creased and bunched. Serge: a strong twilled wool cloth.",
+    "source": "Merriam-Webster, “serge”, https://www.merriam-webster.com/dictionary/serge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-045",
+    "anchor": "that pronouncement",
+    "layer": "vocab",
+    "note": "Pronouncement: a firm, formal statement.",
+    "source": "Merriam-Webster, “pronouncement”, https://www.merriam-webster.com/dictionary/pronouncement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-046",
+    "anchor": "two blades of her propeller",
+    "layer": "vocab",
+    "note": "Propeller: the spinning screw that drives a steamship.",
+    "source": "Merriam-Webster, “propeller”, https://www.merriam-webster.com/dictionary/propeller",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-047",
+    "anchor": "a sorcerer",
+    "layer": "vocab",
+    "note": "Sorcerer: a magician with supernatural powers.",
+    "source": "Merriam-Webster, “sorcerer”, https://www.merriam-webster.com/dictionary/sorcerer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-048",
+    "anchor": "he let drive suddenly",
+    "layer": "vocab",
+    "note": "Let drive: struck out hard.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-049",
+    "anchor": "under short canvas",
+    "layer": "vocab",
+    "note": "Short canvas: with only a few sails set, for caution.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Canvas”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-050",
+    "anchor": "right under my forefoot",
+    "layer": "vocab",
+    "note": "Forefoot: the lowest front part of a ship’s bow, at the waterline.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Fore-foot”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-051",
+    "anchor": "a yelling fiend at the tiller",
+    "layer": "vocab",
+    "note": "Tiller: the handle used to turn a boat’s rudder.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Tiller”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-052",
+    "anchor": "out reefs",
+    "layer": "vocab",
+    "note": "Out reefs: untie the reefs to make the sails larger again.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Reef”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-053",
+    "anchor": "to nab a ship",
+    "layer": "vocab",
+    "note": "Nab: catch or grab quickly (slang).",
+    "source": "Merriam-Webster, “nab”, https://www.merriam-webster.com/dictionary/nab",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-054",
+    "anchor": "blooming joke",
+    "layer": "vocab",
+    "note": "Blooming: a mild British swear word, like “confounded.”",
+    "source": "Merriam-Webster, “blooming”, https://www.merriam-webster.com/dictionary/blooming",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-055",
+    "anchor": "slanged him till all was blue",
+    "layer": "vocab",
+    "note": "Slanged: scolded abusively. Till all was blue: endlessly.",
+    "source": "Merriam-Webster, “slang”, https://www.merriam-webster.com/dictionary/slang",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-056",
+    "anchor": "a better berth",
+    "layer": "vocab",
+    "note": "Berth: here, a job or position aboard or ashore.",
+    "source": "Merriam-Webster, “berth”, https://www.merriam-webster.com/dictionary/berth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-057",
+    "anchor": "one auburn whisker",
+    "layer": "vocab",
+    "note": "Auburn: of a reddish-brown colour.",
+    "source": "Merriam-Webster, “auburn”, https://www.merriam-webster.com/dictionary/auburn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-058",
+    "anchor": "his caper",
+    "layer": "vocab",
+    "note": "Caper: a wild, foolish escapade.",
+    "source": "Merriam-Webster, “caper”, https://www.merriam-webster.com/dictionary/caper",
+    "status": "draft",
+    "checker": null
+  }
+]
