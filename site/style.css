@@ -280,23 +280,45 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .primary-action:hover { background: transparent; color: var(--ink); }
 .imprint { margin: 1.4rem 0 0; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
 
-.folio { max-width: 46rem; margin: 0 auto; padding: 0 24px 3rem; display: flow-root; }
-.folio h2 {
-  font-size: .82rem; letter-spacing: .22em; text-transform: uppercase;
-  margin: 0 0 1.1rem; padding-top: 2.2rem; border-top: 1px solid var(--hair);
+/* Folios share the spread's 72rem measure: a text column beside a plate
+   or pull quote, alternating sides down the page. */
+.folio {
+  box-sizing: border-box; max-width: 72rem; margin: 0 auto; padding: 0 24px 3.5rem;
+  display: grid; grid-template-columns: minmax(0, 1fr) min(40%, 27rem);
+  grid-template-areas: "head aside" "body aside"; grid-template-rows: auto 1fr;
+  column-gap: clamp(2rem, 5vw, 4.5rem);
 }
-.folio p { margin: 0 0 .9rem; line-height: 1.6; }
-.plate-inline { float: right; width: min(42%, 300px); margin: 2.2rem 0 1rem 2.2rem; text-align: center; }
-.folio-alt .plate-inline { float: left; margin: 2.2rem 2.2rem 1rem 0; }
-.plate-inline .plate-mount { padding: 12px; }
+.folio-alt { grid-template-columns: min(40%, 27rem) minmax(0, 1fr); grid-template-areas: "aside head" "aside body"; }
+.folio::before {
+  content: ""; grid-column: 1 / -1; grid-row: 1; align-self: start;
+  border-top: 1px solid var(--hair); margin-top: 0;
+}
+.folio h2 {
+  grid-area: head;
+  font-size: .82rem; letter-spacing: .22em; text-transform: uppercase;
+  margin: 0 0 1.1rem; padding-top: 2.4rem;
+}
+.folio-body { grid-area: body; max-width: 38rem; }
+.folio-alt .folio-body { justify-self: end; }
+.folio-body p { margin: 0 0 .9rem; line-height: 1.6; }
+.folio-plate { grid-area: aside; margin: 2.4rem 0 0; text-align: center; }
+.folio-plate .plate-mount { padding: clamp(12px, 1.4vw, 18px); }
+.folio-quote {
+  grid-area: aside; align-self: center; margin: 2.4rem 0 0; padding: 1.4rem 0 0;
+  border-top: 3px double var(--ink);
+}
+.folio-quote p {
+  margin: 0; font-size: clamp(1.5rem, 2.4vw, 2rem); line-height: 1.3; font-style: italic;
+}
+.folio-quote em { font-style: normal; }
 
 .colophon {
-  max-width: 46rem; margin: 1rem auto 0; padding: 1.4rem 24px 3rem;
+  box-sizing: border-box; max-width: 72rem; margin: 1rem auto 0; padding: 1.4rem 24px 3rem;
   color: var(--muted); font-size: .86rem; text-align: center;
 }
 .colophon .rule-double { margin-bottom: 1.4rem; }
 .colophon .logo { width: 1.6rem; height: 1.6rem; color: var(--ink); margin-bottom: .6rem; }
-.colophon p { margin: 0 0 .5rem; }
+.colophon p { margin: 0 auto .5rem; max-width: 46rem; }
 
 @media (max-width: 860px) {
   .home-spread { flex-direction: column; gap: 2rem; }
@@ -304,9 +326,15 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
   .plate-front { width: min(100%, calc(62vh * .537 + 48px)); margin: 0 auto; }
 }
 @media (max-width: 600px) {
-  .folio { display: flex; flex-direction: column; }
-  .folio h2 { order: -1; }
-  .plate-inline, .folio-alt .plate-inline { float: none; width: auto; max-width: 260px; margin: .5rem auto 1.5rem; }
+  .book-line { flex-wrap: wrap; row-gap: 0; }
+  .book-line .leader { display: none; }
+  .book-line .author { flex-basis: 100%; }
+}
+@media (max-width: 760px) {
+  .folio, .folio-alt { grid-template-columns: 1fr; grid-template-areas: "head" "aside" "body"; grid-template-rows: auto; }
+  .folio-alt .folio-body { justify-self: start; }
+  .folio-plate { max-width: 260px; margin: .5rem auto 1.5rem; }
+  .folio-quote { margin: 0 0 1.5rem; }
 }
 
 /* ----- Covers: a publisher's cloth binding, one --cloth colour per book ----- */

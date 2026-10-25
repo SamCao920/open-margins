@@ -8,12 +8,12 @@ Classic books are free to read online, but they are full of words, places, peopl
 
 ## Why?
 
-- A lot of people aren’t reading classical literature days, especially people in high school and college.
-- Yet, reading is something that trains us to think, trains us to be articulate, and trains us to understand other people better. And these works have faced intense selection pressures, with only the works of highest literary merit being read today. Naturally, I think we can conclude that there must be _something_ to these books that makes them worth reading.
-- Students nowadays often turn to SparkNotes or LitCharts, which provide summaries of texts often taught in schools.
-- I think this worsening people’s ability to read and think well.
-- And it seems that part of the reason for people turning to these tools is that reading the text by itself is difficult for them, so they take the easy way out.
-- This tool is meant to rectify this concern and provide people with a smoother and more interactive experience with classic texts.
+- A lot of people aren’t reading classic literature these days, especially people in high school and college.
+- Yet reading trains us to think, to be articulate, and to understand other people better. And these works have faced intense selection pressure: only the works of the highest literary merit are still read today. Naturally, I think we can conclude that there must be _something_ in these books that makes them worth reading.
+- Students nowadays often turn to SparkNotes or LitCharts, which summarize the texts most often taught in schools.
+- I think this is worsening people’s ability to read and think well.
+- And it seems that part of the reason people turn to these tools is that reading the text by itself is difficult for them, so they take the easy way out.
+- This tool is meant to address that concern and give people a smoother, more interactive experience with classic texts.
 
 ## How it works
 

@@ -28,7 +28,7 @@
     <div>
       <h1>Lord Jim</h1>
       <p class="by">A Tale · by <em>Joseph Conrad</em> · 1900</p>
-      <p class="blurb">A parson’s son trains for a life of adventure at sea. All ten chapters are annotated.</p>
+      <p class="blurb">A parson’s son trains for a life of adventure at sea.</p>
     </div>
   </header>
 
@@ -47,16 +47,12 @@
   <p class="foot">Text: Project Gutenberg eBook #5658, public domain. The Author’s Note (1917) is not included in the reader. <a href="sources.html?book=lord-jim">Sources for the notes</a> · <a href="index.html">Back to the library</a>.</p>
 </main>
 <script>
-  // Chapters with notes so far; update as chapters are annotated.
-  const annotated = { 1: 'annotated', 2: 'annotated', 3: 'annotated', 4: 'annotated', 5: 'annotated',
-    6: 'annotated', 7: 'annotated', 8: 'annotated', 9: 'annotated', 10: 'annotated' };
   const roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
   const toc = document.getElementById('toc');
   roman.forEach((r, i) => {
     const n = i + 1;
     const li = document.createElement('li');
-    li.innerHTML = '<span class="num">' + r + '.</span><span class="what"><a href="chapter.html?book=lord-jim&amp;ch=' + n + '">Chapter ' + r + '</a></span>' +
-      '<span class="leader" aria-hidden="true"></span><span class="status">' + (annotated[n] || 'text only') + '</span>';
+    li.innerHTML = '<span class="num">' + r + '.</span><span class="what"><a href="chapter.html?book=lord-jim&amp;ch=' + n + '">Chapter ' + r + '</a></span>';
     toc.appendChild(li);
   });
 </script>
