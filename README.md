@@ -4,7 +4,7 @@ Free, open annotated editions of classic books for high school and college stude
 
 Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Scholia puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
 
-**First edition:** *Lord Jim* by Joseph Conrad (1900), chapters 1 to 10.
+**First edition:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters.
 
 ## Why?
 
@@ -25,7 +25,7 @@ Classic books are free to read online, but they are full of words, places, peopl
 
 ```
 texts/lord_jim.txt         Full public domain text (Project Gutenberg boilerplate removed)
-texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch10.txt
+texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch45.txt
 notes/SCHEMA.md            Annotation format
 notes/lord-jim/ch1.json    Annotations, one JSON file per chapter
 site/                      Static site: home page (index.html), book contents (book.html), chapter reader (chapter.html), sources (sources.html)
@@ -82,6 +82,42 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 | 8 | 91 | 0 |
 | 9 | 65 | 0 |
 | 10 | 77 | 0 |
+| 11 | 40 | 0 |
+| 12 | 71 | 0 |
+| 13 | 119 | 0 |
+| 14 | 113 | 0 |
+| 15 | 32 | 0 |
+| 16 | 45 | 0 |
+| 17 | 30 | 0 |
+| 18 | 58 | 0 |
+| 19 | 67 | 0 |
+| 20 | 95 | 0 |
+| 21 | 53 | 0 |
+| 22 | 59 | 0 |
+| 23 | 65 | 0 |
+| 24 | 47 | 0 |
+| 25 | 73 | 0 |
+| 26 | 46 | 0 |
+| 27 | 55 | 0 |
+| 28 | 54 | 0 |
+| 29 | 56 | 0 |
+| 30 | 45 | 0 |
+| 31 | 55 | 0 |
+| 32 | 27 | 0 |
+| 33 | 57 | 0 |
+| 34 | 67 | 0 |
+| 35 | 36 | 0 |
+| 36 | 49 | 0 |
+| 37 | 48 | 0 |
+| 38 | 78 | 0 |
+| 39 | 43 | 0 |
+| 40 | 48 | 0 |
+| 41 | 40 | 0 |
+| 42 | 31 | 0 |
+| 43 | 41 | 0 |
+| 44 | 26 | 0 |
+| 45 | 33 | 0 |
+| **Total** | **2,961** | **0** |
 
 ## License
 
