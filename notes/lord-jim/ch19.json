@@ -1,0 +1,600 @@
+[
+  {
+    "id": "ch19-001",
+    "anchor": "equally tinged",
+    "layer": "vocab",
+    "note": "Tinged: lightly coloured or touched by something.",
+    "source": "Merriam-Webster, “tinge”, https://www.merriam-webster.com/dictionary/tinge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-002",
+    "anchor": "high-minded absurdity",
+    "layer": "vocab",
+    "note": "High-minded: having noble ideals. Absurdity: foolishness.",
+    "source": "Merriam-Webster, “high-minded”, https://www.merriam-webster.com/dictionary/high-minded",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-003",
+    "anchor": "prosaic heroism",
+    "layer": "vocab",
+    "note": "Prosaic: ordinary and dull, not poetic or exciting.",
+    "source": "Merriam-Webster, “prosaic”, https://www.merriam-webster.com/dictionary/prosaic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-004",
+    "anchor": "makes an outcast",
+    "layer": "vocab",
+    "note": "Outcast: someone rejected and driven out by society.",
+    "source": "Merriam-Webster, “outcast”, https://www.merriam-webster.com/dictionary/outcast",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-005",
+    "anchor": "the creditable folly",
+    "layer": "vocab",
+    "note": "Creditable: deserving praise. Folly: foolishness.",
+    "source": "Merriam-Webster, “creditable”, https://www.merriam-webster.com/dictionary/creditable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-006",
+    "anchor": "lay the ghost of a fact",
+    "layer": "vocab",
+    "note": "Lay a ghost: make it stop haunting, put it to rest.",
+    "source": "Merriam-Webster, “lay”, https://www.merriam-webster.com/dictionary/lay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-007",
+    "anchor": "the complexion of all our actions",
+    "layer": "vocab",
+    "note": "Complexion here means general character or appearance.",
+    "source": "Merriam-Webster, “complexion”, https://www.merriam-webster.com/dictionary/complexion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-008",
+    "anchor": "a rolling stone",
+    "layer": "vocab",
+    "note": "From the proverb “a rolling stone gathers no moss”: someone who never settles.",
+    "source": "Merriam-Webster, “rolling stone”, https://www.merriam-webster.com/dictionary/rolling%20stone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-009",
+    "anchor": "in Bankok, where",
+    "layer": "place",
+    "note": "Bangkok, on the Menam (Chao Phraya) River, was the capital and chief port of the kingdom of Siam, now Thailand.",
+    "source": "Encyclopaedia Britannica, “Bangkok”, https://www.britannica.com/search?query=Bangkok",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-010",
+    "anchor": "charterers and teak merchants",
+    "layer": "history",
+    "note": "Teak, a hard, rot-resistant timber prized for shipbuilding, was felled in Siam’s northern forests and floated down the rivers to Bangkok for export.",
+    "source": "Encyclopaedia Britannica, “teak”, https://www.britannica.com/search?query=teak",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-011",
+    "anchor": "the very up-country logs",
+    "layer": "vocab",
+    "note": "Up-country: from the inland regions, far from the coast.",
+    "source": "Merriam-Webster, “up-country”, https://www.merriam-webster.com/dictionary/up-country",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-012",
+    "anchor": "a hirsute Alsatian",
+    "layer": "history",
+    "note": "Hirsute: hairy. Alsatian: from Alsace, a region on the French–German border that Germany took from France in 1871.",
+    "source": "Encyclopaedia Britannica, “Alsace”, https://www.britannica.com/search?query=Alsace",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-013",
+    "anchor": "an irrepressible retailer",
+    "layer": "vocab",
+    "note": "Retailer here means someone who passes on stories to others.",
+    "source": "Merriam-Webster, “retail”, https://www.merriam-webster.com/dictionary/retail",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-014",
+    "anchor": "impart an adorned version",
+    "layer": "vocab",
+    "note": "Impart: pass on, tell. Adorned: decorated, made fancier.",
+    "source": "Merriam-Webster, “impart”, https://www.merriam-webster.com/dictionary/impart",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-015",
+    "anchor": "cared to imbibe knowledge",
+    "layer": "vocab",
+    "note": "Imbibe: drink in, take in and absorb.",
+    "source": "Merriam-Webster, “imbibe”, https://www.merriam-webster.com/dictionary/imbibe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-016",
+    "anchor": "frequented",
+    "layer": "vocab",
+    "note": "Frequented: visited often, as regular customers.",
+    "source": "Merriam-Webster, “frequent”, https://www.merriam-webster.com/dictionary/frequent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-017",
+    "anchor": "ravaged by a cruel dyspepsia",
+    "layer": "vocab",
+    "note": "Ravaged: badly damaged. Dyspepsia: chronic indigestion.",
+    "source": "Merriam-Webster, “dyspepsia”, https://www.merriam-webster.com/dictionary/dyspepsia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-018",
+    "anchor": "of great gabasidy",
+    "layer": "vocab",
+    "note": "Yucker’s accented way of saying “of great capacity,” that is, very able.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-019",
+    "anchor": "a mere question of cubic contents",
+    "layer": "vocab",
+    "note": "Cubic contents: how much a container holds; Marlow jokes on “capacity.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-020",
+    "anchor": "had concessions and teak forests",
+    "layer": "vocab",
+    "note": "Concessions: rights granted by a government to use land or resources.",
+    "source": "Merriam-Webster, “concession”, https://www.merriam-webster.com/dictionary/concession",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-021",
+    "anchor": "muttering, “Es ist ein’ Idee",
+    "layer": "vocab",
+    "note": "German: “It is an idea.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-022",
+    "anchor": "the lamentable species of bar-room scuffles",
+    "layer": "vocab",
+    "note": "Lamentable: regrettable. Scuffles: short, confused fights.",
+    "source": "Merriam-Webster, “scuffle”, https://www.merriam-webster.com/dictionary/scuffle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-023",
+    "anchor": "his misbegotten name",
+    "layer": "vocab",
+    "note": "Misbegotten: badly made, worthless, contemptible.",
+    "source": "Merriam-Webster, “misbegotten”, https://www.merriam-webster.com/dictionary/misbegotten",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-024",
+    "anchor": "the Royal Siamese Navy",
+    "layer": "history",
+    "note": "Siam, now Thailand, hired European officers to build its modern navy in the late 1800s, many of them Danes.",
+    "source": "Encyclopaedia Britannica, “Siam”, https://www.britannica.com/search?query=Siam",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-025",
+    "anchor": "at billiards",
+    "layer": "vocab",
+    "note": "Billiards: a game played with cues and balls on a cloth-covered table.",
+    "source": "Merriam-Webster, “billiards”, https://www.merriam-webster.com/dictionary/billiards",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-026",
+    "anchor": "the Menam",
+    "layer": "place",
+    "note": "The Menam, now called the Chao Phraya, is the great river of Thailand that flows through Bangkok to the Gulf of Siam.",
+    "source": "Encyclopaedia Britannica, “Chao Phraya River”, https://www.britannica.com/search?query=Chao+Phraya+River",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-027",
+    "anchor": "the King of Siam",
+    "layer": "history",
+    "note": "Siam was ruled at this time by King Chulalongkorn (Rama V, reigned 1868–1910), who modernized the country while keeping it independent.",
+    "source": "Encyclopaedia Britannica, “Chulalongkorn”, https://www.britannica.com/search?query=Chulalongkorn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-028",
+    "anchor": "no option",
+    "layer": "vocab",
+    "note": "No option: no choice, no other possible way.",
+    "source": "Merriam-Webster, “option”, https://www.merriam-webster.com/dictionary/option",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-029",
+    "anchor": "so unbecoming a man",
+    "layer": "vocab",
+    "note": "Unbecoming: not suitable or proper for someone.",
+    "source": "Merriam-Webster, “unbecoming”, https://www.merriam-webster.com/dictionary/unbecoming",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-030",
+    "anchor": "his want of tact",
+    "layer": "vocab",
+    "note": "Want of tact: lack of skill in handling people delicately.",
+    "source": "Merriam-Webster, “tact”, https://www.merriam-webster.com/dictionary/tact",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-031",
+    "anchor": "he said argumentatively",
+    "layer": "vocab",
+    "note": "Argumentatively: in a way that starts an argument.",
+    "source": "Merriam-Webster, “argumentative”, https://www.merriam-webster.com/dictionary/argumentative",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-032",
+    "anchor": "my table d’hote",
+    "layer": "vocab",
+    "note": "Table d’hôte: a set meal served to all guests at a fixed price.",
+    "source": "Merriam-Webster, “table d'hôte”, https://www.merriam-webster.com/dictionary/table%20d'hôte",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-033",
+    "anchor": "a billiard-cue broken",
+    "layer": "vocab",
+    "note": "Billiard-cue: the long stick used to strike balls in billiards.",
+    "source": "Merriam-Webster, “cue”, https://www.merriam-webster.com/dictionary/cue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-034",
+    "anchor": "Nobody could deplore it",
+    "layer": "vocab",
+    "note": "Deplore: regret deeply and disapprove of.",
+    "source": "Merriam-Webster, “deplore”, https://www.merriam-webster.com/dictionary/deplore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-035",
+    "anchor": "knocked about a good deal",
+    "layer": "vocab",
+    "note": "Knocked about: travelled and lived roughly in many places.",
+    "source": "Merriam-Webster, “knock about”, https://www.merriam-webster.com/dictionary/knock%20about",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-036",
+    "anchor": "exquisite sensibilities",
+    "layer": "vocab",
+    "note": "Exquisite: very fine and delicate. Sensibilities: feelings.",
+    "source": "Merriam-Webster, “exquisite”, https://www.merriam-webster.com/dictionary/exquisite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-037",
+    "anchor": "pot-house shindies",
+    "layer": "vocab",
+    "note": "Pot-house: a low tavern. Shindies: noisy brawls.",
+    "source": "Merriam-Webster, “shindy”, https://www.merriam-webster.com/dictionary/shindy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-038",
+    "anchor": "if aggravating, fool",
+    "layer": "vocab",
+    "note": "Aggravating: annoying, irritating, trying one’s patience.",
+    "source": "Merriam-Webster, “aggravating”, https://www.merriam-webster.com/dictionary/aggravating",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-039",
+    "anchor": "a common loafer",
+    "layer": "vocab",
+    "note": "Loafer: an idle person who avoids work.",
+    "source": "Merriam-Webster, “loafer”, https://www.merriam-webster.com/dictionary/loafer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-040",
+    "anchor": "washing my hands of him",
+    "layer": "allusion",
+    "note": "To wash one’s hands of: refuse further responsibility, as Pontius Pilate washed his hands at Jesus’s trial.",
+    "source": "The Bible (King James Version), Matthew 27:24",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-041",
+    "anchor": "skulked down below",
+    "layer": "vocab",
+    "note": "Skulked: hid or moved about in a sneaking way.",
+    "source": "Merriam-Webster, “skulk”, https://www.merriam-webster.com/dictionary/skulk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-042",
+    "anchor": "a stowaway",
+    "layer": "vocab",
+    "note": "Stowaway: someone who hides aboard a ship to travel secretly.",
+    "source": "Merriam-Webster, “stowaway”, https://www.merriam-webster.com/dictionary/stowaway",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-043",
+    "anchor": "glad enough to dispose of him",
+    "layer": "vocab",
+    "note": "Dispose of: find a place for, get rid of.",
+    "source": "Merriam-Webster, “dispose”, https://www.merriam-webster.com/dictionary/dispose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-044",
+    "anchor": "that elasticity",
+    "layer": "vocab",
+    "note": "Elasticity: the ability to spring back into shape.",
+    "source": "Merriam-Webster, “elasticity”, https://www.merriam-webster.com/dictionary/elasticity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-045",
+    "anchor": "his uncompromising position",
+    "layer": "vocab",
+    "note": "Uncompromising: refusing to give way at all.",
+    "source": "Merriam-Webster, “uncompromising”, https://www.merriam-webster.com/dictionary/uncompromising",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-046",
+    "anchor": "the sea in the offing",
+    "layer": "vocab",
+    "note": "Offing: the part of the sea visible far out from the shore.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Offing”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-047",
+    "anchor": "he was not alluding to his duties",
+    "layer": "vocab",
+    "note": "Alluding to: referring to indirectly.",
+    "source": "Merriam-Webster, “allude”, https://www.merriam-webster.com/dictionary/allude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-048",
+    "anchor": "try California or the West Coast",
+    "layer": "place",
+    "note": "California and the west coast of North America, across the Pacific, were a place for a fresh start.",
+    "source": "Encyclopaedia Britannica, “California”, https://www.britannica.com/search?query=California",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-049",
+    "anchor": "Brierly’s saying recurred",
+    "layer": "vocab",
+    "note": "Recurred: came back, happened again.",
+    "source": "Merriam-Webster, “recur”, https://www.merriam-webster.com/dictionary/recur",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-050",
+    "anchor": "looked after the Moluccas",
+    "layer": "place",
+    "note": "The Moluccas (Maluku), the famous Spice Islands of eastern Indonesia, were then part of the Dutch East Indies.",
+    "source": "Encyclopaedia Britannica, “Moluccas”, https://www.britannica.com/search?query=Moluccas",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-051",
+    "anchor": "a large inter-island business",
+    "layer": "vocab",
+    "note": "Inter-island: carried on between many islands.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-052",
+    "anchor": "collecting the produce",
+    "layer": "vocab",
+    "note": "Produce: goods grown or gathered, such as crops and forest products.",
+    "source": "Merriam-Webster, “produce”, https://www.merriam-webster.com/dictionary/produce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-053",
+    "anchor": "unwearied",
+    "layer": "vocab",
+    "note": "Unwearied: never tired, tireless and patient.",
+    "source": "Merriam-Webster, “unwearied”, https://www.merriam-webster.com/dictionary/unwearied",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-054",
+    "anchor": "illumined his long hairless face",
+    "layer": "vocab",
+    "note": "Illumined: lit up, made bright.",
+    "source": "Merriam-Webster, “illumine”, https://www.merriam-webster.com/dictionary/illumine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-055",
+    "anchor": "a sedentary life",
+    "layer": "vocab",
+    "note": "Sedentary: spent mostly sitting, with little activity.",
+    "source": "Merriam-Webster, “sedentary”, https://www.merriam-webster.com/dictionary/sedentary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-056",
+    "anchor": "at threescore",
+    "layer": "vocab",
+    "note": "Threescore: sixty (a score is twenty).",
+    "source": "Merriam-Webster, “threescore”, https://www.merriam-webster.com/dictionary/threescore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-057",
+    "anchor": "tall and loose-jointed",
+    "layer": "vocab",
+    "note": "Loose-jointed: moving loosely and freely, rather gangly.",
+    "source": "Merriam-Webster, “loose-jointed”, https://www.merriam-webster.com/dictionary/loose-jointed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-058",
+    "anchor": "appear benevolently ready",
+    "layer": "vocab",
+    "note": "Benevolently: kindly, wishing well to others.",
+    "source": "Merriam-Webster, “benevolent”, https://www.merriam-webster.com/dictionary/benevolent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-059",
+    "anchor": "in conjunction with",
+    "layer": "vocab",
+    "note": "In conjunction with: together with, combined with.",
+    "source": "Merriam-Webster, “conjunction”, https://www.merriam-webster.com/dictionary/conjunction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-060",
+    "anchor": "an intrepidity of spirit",
+    "layer": "vocab",
+    "note": "Intrepidity: fearlessness, bold and steady courage.",
+    "source": "Merriam-Webster, “intrepid”, https://www.merriam-webster.com/dictionary/intrepid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-061",
+    "anchor": "carries his life in his hand",
+    "layer": "vocab",
+    "note": "Carries his life in his hand: is always ready to risk his life.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-062",
+    "anchor": "a naturalist of some distinction",
+    "layer": "vocab",
+    "note": "Naturalist: someone who studies plants and animals. Distinction: excellence, fame.",
+    "source": "Merriam-Webster, “naturalist”, https://www.merriam-webster.com/dictionary/naturalist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-063",
+    "anchor": "Entomology",
+    "layer": "vocab",
+    "note": "Entomology: the scientific study of insects.",
+    "source": "Merriam-Webster, “entomology”, https://www.merriam-webster.com/dictionary/entomology",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-064",
+    "anchor": "Buprestidae and Longicorns",
+    "layer": "history",
+    "note": "Two large families of beetles: Buprestidae are metallic “jewel beetles,” and longicorns are longhorn beetles with very long antennae.",
+    "source": "Encyclopaedia Britannica, “beetle”, https://www.britannica.com/search?query=beetle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-065",
+    "anchor": "a Malay sultan",
+    "layer": "vocab",
+    "note": "Sultan: a Muslim ruler or king.",
+    "source": "Merriam-Webster, “sultan”, https://www.merriam-webster.com/dictionary/sultan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-066",
+    "anchor": "a few bushels of dead insects",
+    "layer": "vocab",
+    "note": "Bushel: a large measure for grain, about 8 gallons.",
+    "source": "Merriam-Webster, “bushel”, https://www.merriam-webster.com/dictionary/bushel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch19-067",
+    "anchor": "receive my confidences",
+    "layer": "vocab",
+    "note": "Confidences: private matters told in trust.",
+    "source": "Merriam-Webster, “confidence”, https://www.merriam-webster.com/dictionary/confidence",
+    "status": "draft",
+    "checker": null
+  }
+]

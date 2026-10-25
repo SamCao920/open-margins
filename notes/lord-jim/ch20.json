@@ -1,0 +1,847 @@
+[
+  {
+    "id": "ch20-001",
+    "anchor": "after traversing an imposing",
+    "layer": "vocab",
+    "note": "Traversing: crossing, going through. Imposing: grand and impressive.",
+    "source": "Merriam-Webster, “traverse”, https://www.merriam-webster.com/dictionary/traverse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-002",
+    "anchor": "grim Javanese servant",
+    "layer": "vocab",
+    "note": "Javanese: from Java, the most populous island of the Dutch East Indies.",
+    "source": "Merriam-Webster, “Javanese”, https://www.merriam-webster.com/dictionary/Javanese",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-003",
+    "anchor": "a sort of livery",
+    "layer": "vocab",
+    "note": "Livery: a special uniform worn by servants of a household.",
+    "source": "Merriam-Webster, “livery”, https://www.merriam-webster.com/dictionary/livery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-004",
+    "anchor": "yellow sarong",
+    "layer": "vocab",
+    "note": "Sarong: a long cloth wrapped around the waist like a skirt, worn in Southeast Asia.",
+    "source": "Merriam-Webster, “sarong”, https://www.merriam-webster.com/dictionary/sarong",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-005",
+    "anchor": "Catacombs of beetles",
+    "layer": "vocab",
+    "note": "Catacombs: underground burial chambers with rows of tombs.",
+    "source": "Merriam-Webster, “catacomb”, https://www.merriam-webster.com/dictionary/catacomb",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-006",
+    "anchor": "the word Coleoptera",
+    "layer": "vocab",
+    "note": "Coleoptera: the scientific name for the order of beetles.",
+    "source": "Merriam-Webster, “Coleoptera”, https://www.merriam-webster.com/dictionary/Coleoptera",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-007",
+    "anchor": "was bestrewn with oblong slips",
+    "layer": "vocab",
+    "note": "Bestrewn: scattered over, covered untidily.",
+    "source": "Merriam-Webster, “bestrew”, https://www.merriam-webster.com/dictionary/bestrew",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-008",
+    "anchor": "solitary grandeur",
+    "layer": "vocab",
+    "note": "Solitary grandeur: magnificence standing alone, with nothing like it nearby.",
+    "source": "Merriam-Webster, “grandeur”, https://www.merriam-webster.com/dictionary/grandeur",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-009",
+    "anchor": "I shall bequeath",
+    "layer": "vocab",
+    "note": "Bequeath: leave to someone in a will.",
+    "source": "Merriam-Webster, “bequeath”, https://www.merriam-webster.com/dictionary/bequeath",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-010",
+    "anchor": "born in Bavaria",
+    "layer": "place",
+    "note": "Bavaria, in southern Germany, was then an independent kingdom with its capital at Munich; it joined the German Empire in 1871.",
+    "source": "Encyclopaedia Britannica, “Bavaria”, https://www.britannica.com/search?query=Bavaria",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-011",
+    "anchor": "the revolutionary movement of 1848",
+    "layer": "history",
+    "note": "In 1848 revolutions swept across Europe, including the German states, demanding constitutions, freedoms, and national unity; most were crushed within a year and many rebels fled abroad.",
+    "source": "Encyclopaedia Britannica, “Revolutions of 1848”, https://www.britannica.com/search?query=Revolutions+of+1848",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-012",
+    "anchor": "Heavily compromised",
+    "layer": "vocab",
+    "note": "Compromised: exposed to danger or suspicion by his actions.",
+    "source": "Merriam-Webster, “compromise”, https://www.merriam-webster.com/dictionary/compromise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-013",
+    "anchor": "a poor republican watchmaker",
+    "layer": "vocab",
+    "note": "Republican: someone who wants government without a king.",
+    "source": "Merriam-Webster, “republican”, https://www.merriam-webster.com/dictionary/republican",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-014",
+    "anchor": "in Trieste",
+    "layer": "place",
+    "note": "Trieste, a port at the head of the Adriatic Sea, then belonged to the Austrian Empire; it is now in Italy.",
+    "source": "Encyclopaedia Britannica, “Trieste”, https://www.britannica.com/search?query=Trieste",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-015",
+    "anchor": "to Tripoli",
+    "layer": "place",
+    "note": "Tripoli, on the coast of North Africa, was then a province of the Ottoman Empire; it is now the capital of Libya.",
+    "source": "Encyclopaedia Britannica, “Tripoli Libya”, https://www.britannica.com/search?query=Tripoli+Libya",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-016",
+    "anchor": "cheap watches to hawk about",
+    "layer": "vocab",
+    "note": "Hawk: sell goods by carrying them about and calling out.",
+    "source": "Merriam-Webster, “hawk”, https://www.merriam-webster.com/dictionary/hawk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-017",
+    "anchor": "travelled in the Archipelago",
+    "layer": "place",
+    "note": "The Archipelago here means the Malay Archipelago, the huge chain of islands between Asia and Australia, including present-day Indonesia.",
+    "source": "Encyclopaedia Britannica, “Malay Archipelago”, https://www.britannica.com/search?query=Malay+Archipelago",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-018",
+    "anchor": "the interior of Celebes",
+    "layer": "place",
+    "note": "Celebes, now Sulawesi, is a large, oddly shaped island of eastern Indonesia, with mountains and long narrow arms; hence the joke about its “interior.”",
+    "source": "Encyclopaedia Britannica, “Sulawesi”, https://www.britannica.com/search?query=Sulawesi",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-019",
+    "anchor": "Wajo States",
+    "layer": "place",
+    "note": "Wajo was a kingdom of the Bugis people in the south of Celebes (Sulawesi), famous for its traders and seafarers.",
+    "source": "Encyclopaedia Britannica, “Bugis”, https://www.britannica.com/search?query=Bugis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-020",
+    "anchor": "a patriarchal white beard",
+    "layer": "vocab",
+    "note": "Patriarchal: like that of a venerable old father or chief.",
+    "source": "Merriam-Webster, “patriarchal”, https://www.merriam-webster.com/dictionary/patriarchal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-021",
+    "anchor": "rajahs, pangerans, and headmen",
+    "layer": "vocab",
+    "note": "Rajahs: princes or chiefs. Pangerans: Malay and Javanese noblemen. Headmen: village leaders.",
+    "source": "Merriam-Webster, “rajah”, https://www.merriam-webster.com/dictionary/rajah",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-022",
+    "anchor": "reclining on a high couch",
+    "layer": "vocab",
+    "note": "Reclining: lying back at ease.",
+    "source": "Merriam-Webster, “recline”, https://www.merriam-webster.com/dictionary/recline",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-023",
+    "anchor": "a stentorian voice",
+    "layer": "allusion",
+    "note": "Stentorian: very loud, after Stentor, a herald in Homer’s Iliad whose voice was as loud as fifty men.",
+    "source": "Merriam-Webster, “stentorian”, https://www.merriam-webster.com/dictionary/stentorian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-024",
+    "anchor": "stock-in-trade",
+    "layer": "vocab",
+    "note": "Stock-in-trade: the goods and equipment a trader uses in his business.",
+    "source": "Merriam-Webster, “stock-in-trade”, https://www.merriam-webster.com/dictionary/stock-in-trade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-025",
+    "anchor": "the only navigable river",
+    "layer": "vocab",
+    "note": "Navigable: deep and wide enough for boats to travel on.",
+    "source": "Merriam-Webster, “navigable”, https://www.merriam-webster.com/dictionary/navigable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-026",
+    "anchor": "various pretenders to the throne",
+    "layer": "vocab",
+    "note": "Pretenders: people claiming a right to a throne.",
+    "source": "Merriam-Webster, “pretender”, https://www.merriam-webster.com/dictionary/pretender",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-027",
+    "anchor": "innumerable exploits",
+    "layer": "vocab",
+    "note": "Innumerable: countless. Exploits: daring, adventurous deeds.",
+    "source": "Merriam-Webster, “exploit”, https://www.merriam-webster.com/dictionary/exploit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-028",
+    "anchor": "stood a siege",
+    "layer": "vocab",
+    "note": "Siege: a long attack in which enemies surround a place and try to capture it.",
+    "source": "Merriam-Webster, “siege”, https://www.merriam-webster.com/dictionary/siege",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-029",
+    "anchor": "never failed to annex",
+    "layer": "vocab",
+    "note": "Annex: take possession of, add to one’s own.",
+    "source": "Merriam-Webster, “annex”, https://www.merriam-webster.com/dictionary/annex",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-030",
+    "anchor": "false truces",
+    "layer": "vocab",
+    "note": "Truces: agreements to stop fighting for a time.",
+    "source": "Merriam-Webster, “truce”, https://www.merriam-webster.com/dictionary/truce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-031",
+    "anchor": "reconciliation, treachery",
+    "layer": "vocab",
+    "note": "Reconciliation: making peace again. Treachery: betrayal of trust.",
+    "source": "Merriam-Webster, “treachery”, https://www.merriam-webster.com/dictionary/treachery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-032",
+    "anchor": "was assassinated",
+    "layer": "vocab",
+    "note": "Assassinated: murdered for political reasons, usually a leader.",
+    "source": "Merriam-Webster, “assassinate”, https://www.merriam-webster.com/dictionary/assassinate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-033",
+    "anchor": "This event rendered",
+    "layer": "vocab",
+    "note": "Rendered: made, caused to become.",
+    "source": "Merriam-Webster, “render”, https://www.merriam-webster.com/dictionary/render",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-034",
+    "anchor": "his servants and dependants",
+    "layer": "vocab",
+    "note": "Dependants: people who rely on someone for food and support.",
+    "source": "Merriam-Webster, “dependent”, https://www.merriam-webster.com/dictionary/dependent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-035",
+    "anchor": "drove in his buggy",
+    "layer": "vocab",
+    "note": "Buggy: a light, horse-drawn carriage.",
+    "source": "Merriam-Webster, “buggy”, https://www.merriam-webster.com/dictionary/buggy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-036",
+    "anchor": "a small fleet of schooners",
+    "layer": "vocab",
+    "note": "Schooners: sailing vessels with two or more masts and fore-and-aft sails.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Schooner”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-037",
+    "anchor": "but not misanthropic",
+    "layer": "vocab",
+    "note": "Misanthropic: disliking and avoiding other people.",
+    "source": "Merriam-Webster, “misanthropic”, https://www.merriam-webster.com/dictionary/misanthropic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-038",
+    "anchor": "corresponding with entomologists",
+    "layer": "vocab",
+    "note": "Entomologists: scientists who study insects.",
+    "source": "Merriam-Webster, “entomologist”, https://www.merriam-webster.com/dictionary/entomologist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-039",
+    "anchor": "as perishable",
+    "layer": "vocab",
+    "note": "Perishable: likely to decay or be destroyed.",
+    "source": "Merriam-Webster, “perishable”, https://www.merriam-webster.com/dictionary/perishable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-040",
+    "anchor": "a splendour unmarred by death",
+    "layer": "vocab",
+    "note": "Unmarred: unspoiled, not damaged in any way.",
+    "source": "Merriam-Webster, “mar”, https://www.merriam-webster.com/dictionary/mar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-041",
+    "anchor": "the mighty Kosmos",
+    "layer": "vocab",
+    "note": "Kosmos (cosmos): the universe seen as an ordered, harmonious whole.",
+    "source": "Merriam-Webster, “cosmos”, https://www.merriam-webster.com/dictionary/cosmos",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-042",
+    "anchor": "perfect equilibrium",
+    "layer": "vocab",
+    "note": "Equilibrium: a state of perfect balance between opposing forces.",
+    "source": "Merriam-Webster, “equilibrium”, https://www.merriam-webster.com/dictionary/equilibrium",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-043",
+    "anchor": "I chimed in",
+    "layer": "vocab",
+    "note": "Chimed in: joined in the conversation.",
+    "source": "Merriam-Webster, “chime in”, https://www.merriam-webster.com/dictionary/chime%20in",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-044",
+    "anchor": "he narrated",
+    "layer": "vocab",
+    "note": "Narrated: told the story of, related in order.",
+    "source": "Merriam-Webster, “narrate”, https://www.merriam-webster.com/dictionary/narrate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-045",
+    "anchor": "the “residenz”",
+    "layer": "vocab",
+    "note": "Residenz: German for a royal residence, the ruler’s palace.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-046",
+    "anchor": "a bridle-path",
+    "layer": "vocab",
+    "note": "Bridle-path: a track wide enough only for horses, not carts.",
+    "source": "Merriam-Webster, “bridle path”, https://www.merriam-webster.com/dictionary/bridle%20path",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-047",
+    "anchor": "I cantered",
+    "layer": "vocab",
+    "note": "Cantered: rode at a smooth, easy pace between trot and gallop.",
+    "source": "Merriam-Webster, “canter”, https://www.merriam-webster.com/dictionary/canter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-048",
+    "anchor": "fires a volley",
+    "layer": "vocab",
+    "note": "Volley: many shots fired at the same time.",
+    "source": "Merriam-Webster, “volley”, https://www.merriam-webster.com/dictionary/volley",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-049",
+    "anchor": "a little intrigue",
+    "layer": "vocab",
+    "note": "Intrigue: a secret plot or scheme.",
+    "source": "Merriam-Webster, “intrigue”, https://www.merriam-webster.com/dictionary/intrigue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-050",
+    "anchor": "laid that ambush",
+    "layer": "vocab",
+    "note": "Ambush: a surprise attack by people lying in wait.",
+    "source": "Merriam-Webster, “ambush”, https://www.merriam-webster.com/dictionary/ambush",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-051",
+    "anchor": "This is not yet gelungen",
+    "layer": "vocab",
+    "note": "Gelungen: German for “succeeded,” “come off.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-052",
+    "anchor": "bleibt ganz ruhig",
+    "layer": "vocab",
+    "note": "German: “stays quite still,” as Stein translates.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-053",
+    "anchor": "underwent great privations",
+    "layer": "vocab",
+    "note": "Privations: hardships, lack of basic comforts.",
+    "source": "Merriam-Webster, “privation”, https://www.merriam-webster.com/dictionary/privation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-054",
+    "anchor": "So halt’ ich’s endlich denn in meinen Handen",
+    "layer": "allusion",
+    "note": "From Goethe’s verse play Torquato Tasso (1790): “So I hold it at last in my hands, and call it in a certain sense mine.”",
+    "source": "Johann Wolfgang von Goethe, Torquato Tasso, Act 1, Scene 3",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-055",
+    "anchor": "charge a long-stemmed pipe",
+    "layer": "vocab",
+    "note": "Charge here means fill a pipe with tobacco.",
+    "source": "Merriam-Webster, “charge”, https://www.merriam-webster.com/dictionary/charge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-056",
+    "anchor": "the orifice of the bowl",
+    "layer": "vocab",
+    "note": "Orifice: an opening or hole.",
+    "source": "Merriam-Webster, “orifice”, https://www.merriam-webster.com/dictionary/orifice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-057",
+    "anchor": "my principal enemy",
+    "layer": "vocab",
+    "note": "Principal: chief, the most important one.",
+    "source": "Merriam-Webster, “principal”, https://www.merriam-webster.com/dictionary/principal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-058",
+    "anchor": "feeling suddenly dispirited",
+    "layer": "vocab",
+    "note": "Dispirited: discouraged, in low spirits.",
+    "source": "Merriam-Webster, “dispirited”, https://www.merriam-webster.com/dictionary/dispirited",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-059",
+    "anchor": "Ach so!",
+    "layer": "vocab",
+    "note": "German: “Oh, I see!”, “Is that so!”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-060",
+    "anchor": "make a scrupulous man hesitate",
+    "layer": "vocab",
+    "note": "Scrupulous: careful to do what is right and honest.",
+    "source": "Merriam-Webster, “scrupulous”, https://www.merriam-webster.com/dictionary/scrupulous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-061",
+    "anchor": "He had diagnosed the case",
+    "layer": "vocab",
+    "note": "Diagnosed: identified an illness from its signs.",
+    "source": "Merriam-Webster, “diagnose”, https://www.merriam-webster.com/dictionary/diagnose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-062",
+    "anchor": "adapting the words of your great poet",
+    "layer": "allusion",
+    "note": "Stein adapts Hamlet’s famous line “To be, or not to be: that is the question.”",
+    "source": "William Shakespeare, Hamlet, Act 3, Scene 1",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-063",
+    "anchor": "bore it religiously away",
+    "layer": "vocab",
+    "note": "Religiously: with great care, as if in a sacred rite.",
+    "source": "Merriam-Webster, “religiously”, https://www.merriam-webster.com/dictionary/religiously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-064",
+    "anchor": "this concrete and perplexed world",
+    "layer": "vocab",
+    "note": "Concrete: real and solid. Perplexed: confused, tangled.",
+    "source": "Merriam-Webster, “concrete”, https://www.merriam-webster.com/dictionary/concrete",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-065",
+    "anchor": "roll voluminous and grave",
+    "layer": "vocab",
+    "note": "Voluminous: large and full, filling space.",
+    "source": "Merriam-Webster, “voluminous”, https://www.merriam-webster.com/dictionary/voluminous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-066",
+    "anchor": "mellowed by distance",
+    "layer": "vocab",
+    "note": "Mellowed: softened, made gentler and warmer.",
+    "source": "Merriam-Webster, “mellow”, https://www.merriam-webster.com/dictionary/mellow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-067",
+    "anchor": "the heart pain--the world pain",
+    "layer": "allusion",
+    "note": "“World pain” translates the German Weltschmerz: sorrow at the gap between how the world is and how it ought to be, a mood of Romantic writers.",
+    "source": "Merriam-Webster, “Weltschmerz”, https://www.merriam-webster.com/dictionary/Weltschmerz",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-068",
+    "anchor": "Wie? Was? Gott im Himmel!",
+    "layer": "vocab",
+    "note": "German: “How? What? God in heaven!”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-069",
+    "anchor": "laughed boisterously",
+    "layer": "vocab",
+    "note": "Boisterously: noisily and roughly, with high spirits.",
+    "source": "Merriam-Webster, “boisterous”, https://www.merriam-webster.com/dictionary/boisterous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-070",
+    "anchor": "nicht wahr?",
+    "layer": "vocab",
+    "note": "German: “isn’t it so?”, “don’t you agree?”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-071",
+    "anchor": "the destructive element submit",
+    "layer": "vocab",
+    "note": "Destructive element: here, the sea, the element that can drown you.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-072",
+    "anchor": "with the exertions of your hands and feet",
+    "layer": "vocab",
+    "note": "Exertions: hard, tiring physical efforts.",
+    "source": "Merriam-Webster, “exertion”, https://www.merriam-webster.com/dictionary/exertion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-073",
+    "anchor": "the austere exaltation of a certitude",
+    "layer": "vocab",
+    "note": "Austere: stern. Exaltation: intense joy. Certitude: certainty.",
+    "source": "Merriam-Webster, “certitude”, https://www.merriam-webster.com/dictionary/certitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-074",
+    "anchor": "immerse",
+    "layer": "vocab",
+    "note": "Immerse: plunge right into, as into water.",
+    "source": "Merriam-Webster, “immerse”, https://www.merriam-webster.com/dictionary/immerse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-075",
+    "anchor": "ewig--usque ad finem",
+    "layer": "vocab",
+    "note": "Ewig: German, “forever.” Usque ad finem: Latin, “right to the end.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-076",
+    "anchor": "a crepuscular horizon",
+    "layer": "vocab",
+    "note": "Crepuscular: of twilight, dim like dusk or dawn.",
+    "source": "Merriam-Webster, “crepuscular”, https://www.merriam-webster.com/dictionary/crepuscular",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-077",
+    "anchor": "perchance",
+    "layer": "vocab",
+    "note": "Perchance: perhaps, maybe (an old-fashioned word).",
+    "source": "Merriam-Webster, “perchance”, https://www.merriam-webster.com/dictionary/perchance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-078",
+    "anchor": "impalpable poesy of its dimness",
+    "layer": "vocab",
+    "note": "Impalpable: impossible to grasp. Poesy: poetry, poetic beauty.",
+    "source": "Merriam-Webster, “poesy”, https://www.merriam-webster.com/dictionary/poesy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-079",
+    "anchor": "over pitfalls",
+    "layer": "vocab",
+    "note": "Pitfalls: hidden pits used as traps; hidden dangers.",
+    "source": "Merriam-Webster, “pitfall”, https://www.merriam-webster.com/dictionary/pitfall",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-080",
+    "anchor": "an abyss full of flames",
+    "layer": "vocab",
+    "note": "Abyss: a bottomless pit or deep chasm.",
+    "source": "Merriam-Webster, “abyss”, https://www.merriam-webster.com/dictionary/abyss",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-081",
+    "anchor": "an erring spirit",
+    "layer": "vocab",
+    "note": "Erring: wandering, straying, going wrong.",
+    "source": "Merriam-Webster, “err”, https://www.merriam-webster.com/dictionary/err",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-082",
+    "anchor": "“Na!” said Stein",
+    "layer": "vocab",
+    "note": "German: “Well!”, used to begin a remark.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-083",
+    "anchor": "flashed perpendicularly",
+    "layer": "vocab",
+    "note": "Perpendicularly: straight up and down.",
+    "source": "Merriam-Webster, “perpendicular”, https://www.merriam-webster.com/dictionary/perpendicular",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-084",
+    "anchor": "a crystalline void",
+    "layer": "vocab",
+    "note": "Crystalline: clear like crystal. Void: an empty space.",
+    "source": "Merriam-Webster, “crystalline”, https://www.merriam-webster.com/dictionary/crystalline",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-085",
+    "anchor": "a listening, quietude",
+    "layer": "vocab",
+    "note": "Quietude: a calm, peaceful stillness.",
+    "source": "Merriam-Webster, “quietude”, https://www.merriam-webster.com/dictionary/quietude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-086",
+    "anchor": "the long flaxen locks",
+    "layer": "vocab",
+    "note": "Flaxen: pale yellow, like flax fibre.",
+    "source": "Merriam-Webster, “flaxen”, https://www.merriam-webster.com/dictionary/flaxen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-087",
+    "anchor": "I queried",
+    "layer": "vocab",
+    "note": "Queried: asked, raised a question.",
+    "source": "Merriam-Webster, “query”, https://www.merriam-webster.com/dictionary/query",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-088",
+    "anchor": "Gewiss",
+    "layer": "vocab",
+    "note": "German: “certainly,” “of course,” “surely.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-089",
+    "anchor": "holding up the candelabrum",
+    "layer": "vocab",
+    "note": "Candelabrum: a branched candlestick holding several candles.",
+    "source": "Merriam-Webster, “candelabrum”, https://www.merriam-webster.com/dictionary/candelabrum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-090",
+    "anchor": "a country parsonage",
+    "layer": "vocab",
+    "note": "Parsonage: the house a parish clergyman lives in.",
+    "source": "Merriam-Webster, “parsonage”, https://www.merriam-webster.com/dictionary/parsonage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-091",
+    "anchor": "unfathomable and pellucid depths",
+    "layer": "vocab",
+    "note": "Unfathomable: too deep to measure. Pellucid: perfectly clear.",
+    "source": "Merriam-Webster, “unfathomable”, https://www.merriam-webster.com/dictionary/unfathomable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-092",
+    "anchor": "loud reverberation",
+    "layer": "vocab",
+    "note": "Reverberation: an echo, sound bouncing back.",
+    "source": "Merriam-Webster, “reverberation”, https://www.merriam-webster.com/dictionary/reverberation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-093",
+    "anchor": "afternoon receptions",
+    "layer": "vocab",
+    "note": "Receptions: formal social gatherings for welcoming guests.",
+    "source": "Merriam-Webster, “reception”, https://www.merriam-webster.com/dictionary/reception",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-094",
+    "anchor": "unfaltering footsteps",
+    "layer": "vocab",
+    "note": "Unfaltering: steady, never hesitating or stumbling.",
+    "source": "Merriam-Webster, “unfaltering”, https://www.merriam-webster.com/dictionary/unfaltering",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-095",
+    "anchor": "on the threshold",
+    "layer": "vocab",
+    "note": "Threshold: the doorway, the place where one enters a room.",
+    "source": "Merriam-Webster, “threshold”, https://www.merriam-webster.com/dictionary/threshold",
+    "status": "draft",
+    "checker": null
+  }
+]
