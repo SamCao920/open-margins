@@ -13,11 +13,12 @@
   const STORE_KEY = 'scholia.layers';
 
   const GAP = 24;          // space between the text and a panel
+  const EDGE = 12;         // space between a panel and the window edge
   const MIN_PANEL = 240;
   const MAX_PANEL = 360;
   // Below this gutter width there is no room for a panel even with the text
   // slid aside, so notes open under the paragraph instead.
-  const MIN_GUTTER = (MIN_PANEL + GAP) / 2;
+  const MIN_GUTTER = (MIN_PANEL + GAP + EDGE) / 2;
   const NOTE_GAP = 6;
 
   const params = new URLSearchParams(location.search);
@@ -32,8 +33,14 @@
   const panels = { left: document.getElementById('panel-left'), right: document.getElementById('panel-right') };
   const ticks = { left: document.getElementById('ticks-left'), right: document.getElementById('ticks-right') };
 
-  document.getElementById('title').textContent = 'Chapter ' + ch;
-  document.title = book.title + ', Chapter ' + ch + ' · Scholia';
+  const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV',
+    'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI', 'XXII', 'XXIII', 'XXIV', 'XXV', 'XXVI', 'XXVII', 'XXVIII', 'XXIX', 'XXX',
+    'XXXI', 'XXXII', 'XXXIII', 'XXXIV', 'XXXV', 'XXXVI', 'XXXVII', 'XXXVIII', 'XXXIX', 'XL', 'XLI', 'XLII', 'XLIII', 'XLIV', 'XLV'];
+  const chName = n => 'Chapter ' + (ROMAN[n - 1] || n);
+  document.getElementById('title').textContent = chName(ch);
+  document.getElementById('eyebrow').textContent = book.title;
+  document.getElementById('crumb-chapter').textContent = chName(ch);
+  document.title = book.title + ', ' + chName(ch) + ' · Scholia';
   const bookLink = document.getElementById('book-link');
   bookLink.textContent = book.title;
   bookLink.href = 'book.html?book=' + bookId;
@@ -43,7 +50,8 @@
     // checkout served from the repo root has them one level up.
     for (const p of paths) {
       try {
-        const r = await fetch(p);
+        // no-cache: revalidate, so edited notes show up right after a deploy.
+        const r = await fetch(p, { cache: 'no-cache' });
         if (r.ok) return parse(r);
       } catch (e) { /* try next */ }
     }
@@ -85,9 +93,9 @@
   // ----- Chapter navigation -----
   const chapterHref = n => 'chapter.html?book=' + bookId + '&ch=' + n;
   document.getElementById('chapnav').innerHTML =
-    (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '">&larr; Chapter ' + (ch - 1) + '</a>' : '<span></span>') +
+    (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '">&larr; ' + chName(ch - 1) + '</a>' : '<span></span>') +
     '<a href="book.html?book=' + bookId + '">Contents</a>' +
-    (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '">Chapter ' + (ch + 1) + ' &rarr;</a>' : '<span></span>');
+    (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '">' + chName(ch + 1) + ' &rarr;</a>' : '<span></span>');
 
   // ----- Rendering -----
   function noteHtml(n) {
@@ -189,14 +197,14 @@
     document.body.classList.toggle('inline-mode', inline);
     if (inline) { applyOpen(); return; }
 
-    const room = gutter - GAP;
+    const room = gutter - GAP - EDGE;
     geo.fits = room >= MIN_PANEL;
     document.body.dataset.fits = geo.fits ? 'yes' : 'no';
     const width = Math.max(MIN_PANEL, Math.min(MAX_PANEL, room));
     panels.left.style.width = panels.right.style.width = width + 'px';
-    panels.left.style.left = Math.max(0, geo.textLeft - GAP - width) + 'px';
-    panels.right.style.left = Math.min(geo.textRight + GAP, rr.width - width) + 'px';
-    geo.shift = Math.max(0, width + GAP - geo.textLeft);
+    panels.left.style.left = Math.max(EDGE, geo.textLeft - GAP - width) + 'px';
+    panels.right.style.left = Math.min(geo.textRight + GAP, rr.width - width - EDGE) + 'px';
+    geo.shift = Math.max(0, width + GAP + EDGE - geo.textLeft);
     ticks.left.style.left = (geo.textLeft - 16) + 'px';
     ticks.right.style.left = (geo.textRight + 8) + 'px';
 
