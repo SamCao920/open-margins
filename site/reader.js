@@ -16,12 +16,13 @@
   const STORE_KEY = 'scholia.layers';
 
   const GAP = 24;          // space between the text and a panel
-  const EDGE = 12;         // space between a panel and the window edge
+  const EDGE = 24;         // space between a panel and the window edge
+  const MIN_FOCUS = 200;   // narrowest a single note may be set in the margin
   const MIN_PANEL = 300;
   const MAX_PANEL = 440;
-  // Below this gutter width there is no room for a panel even with the text
-  // slid aside, so notes open under the paragraph instead.
-  const MIN_GUTTER = (MIN_PANEL + GAP + EDGE) / 2;
+  // Below this gutter width a single note can't sit in the margin without
+  // covering the text, so notes open under the paragraph instead.
+  const MIN_GUTTER = MIN_FOCUS + GAP + EDGE;
   const NOTE_GAP = 6;
 
   const params = new URLSearchParams(location.search);
@@ -40,7 +41,7 @@
     'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI', 'XXII', 'XXIII', 'XXIV', 'XXV', 'XXVI', 'XXVII', 'XXVIII', 'XXIX', 'XXX',
     'XXXI', 'XXXII', 'XXXIII', 'XXXIV', 'XXXV', 'XXXVI', 'XXXVII', 'XXXVIII', 'XXXIX', 'XL', 'XLI', 'XLII', 'XLIII', 'XLIV', 'XLV'];
   const chName = n => 'Chapter ' + (ROMAN[n - 1] || n);
-  document.getElementById('title').textContent = chName(ch);
+  document.getElementById('title').textContent = chName(ch) + '.';
   document.getElementById('crumb-chapter').textContent = chName(ch);
   document.title = book.title + ', ' + chName(ch) + ' · Scholia';
   const bookLink = document.getElementById('book-link');
@@ -95,9 +96,9 @@
   // ----- Chapter navigation -----
   const chapterHref = n => 'chapter.html?book=' + bookId + '&ch=' + n;
   document.getElementById('chapnav').innerHTML =
-    (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '">&larr; ' + chName(ch - 1) + '</a>' : '<span></span>') +
-    '<a href="book.html?book=' + bookId + '">Contents</a>' +
-    (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '">' + chName(ch + 1) + ' &rarr;</a>' : '<span></span>');
+    '<span class="prev">' + (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '" rel="prev"><span class="dir">Previous</span> ' + chName(ch - 1) + '</a>' : '') + '</span>' +
+    '<span class="toc-link"><a href="book.html?book=' + bookId + '">Contents</a></span>' +
+    '<span class="next">' + (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '" rel="next"><span class="dir">Next</span> ' + chName(ch + 1) + '</a>' : '') + '</span>';
 
   // ----- Rendering -----
   function noteHtml(n) {
@@ -171,12 +172,6 @@
       r.placed.forEach(n => {
         const side = SIDE[n.layer];
         panels[side].appendChild(makeNote(n));
-        const tick = document.createElement('span');
-        tick.className = 'tick';
-        tick.dataset.layer = n.layer;
-        tick.dataset.ref = REF[n.layer];
-        tick.dataset.id = n.id;
-        ticks[side].appendChild(tick);
       });
     });
     notes.filter(n => !used.has(n.id)).forEach(n =>
@@ -187,7 +182,9 @@
   // ----- Layout -----
   // fits: both panels fit beside the text. Otherwise an open panel slides
   // the text toward the other side by `shift`, so the text is never covered.
-  const geo = { inline: true, fits: false, textLeft: 0, textRight: 0, shift: 0, panelWidth: 0, panelLeft: {} };
+  const geo = { inline: true, fits: false, textLeft: 0, textRight: 0, shift: 0, room: 0, panelWidth: 0, panelLeft: {} };
+  // An anchor's own line: the first line box it sits on (it may wrap).
+  const lineOf = a => a.getClientRects()[0] || a.getBoundingClientRect();
   const anchorFor = id => textEl.querySelector('.anchor[data-id="' + id + '"]');
 
   function layout() {
@@ -202,6 +199,7 @@
     if (inline) { applyOpen(); return; }
 
     const room = gutter - GAP - EDGE;
+    geo.room = Math.min(MAX_PANEL, room);
     geo.fits = room >= MIN_PANEL;
     document.body.dataset.fits = geo.fits ? 'yes' : 'no';
     const width = Math.max(MIN_PANEL, Math.min(MAX_PANEL, room));
@@ -214,57 +212,76 @@
     panels.left.style.left = geo.panelLeft.left + 'px';
     panels.right.style.left = geo.panelLeft.right + 'px';
     geo.shift = Math.max(0, width + GAP + EDGE - geo.textLeft);
-    ticks.left.style.left = (geo.textLeft - 16) + 'px';
-    ticks.right.style.left = (geo.textRight + 8) + 'px';
+    ticks.left.style.left = (geo.textLeft - 10 - ticks.left.offsetWidth) + 'px';
+    ticks.right.style.left = (geo.textRight + 10) + 'px';
 
-    let bottom = 0;
     ['left', 'right'].forEach(side => {
-      bottom = Math.max(bottom, placeNotes(side, rr.top));
+      placeNotes(side, rr.top);
+      placeTicks(side, rr.top);
     });
-    readerEl.style.minHeight = '';
-    const height = Math.max(bottom, readerEl.offsetHeight);
-    readerEl.style.minHeight = height + 'px';
-    panels.left.style.height = panels.right.style.height = height + 'px';
+    panels.left.style.height = panels.right.style.height = readerEl.offsetHeight + 'px';
     applyOpen();
   }
 
-  // Place one side's notes as close to their anchors as possible. Notes that
-  // would overlap are grouped, and each group is centred on its anchors.
+  // Place one side's notes level with their anchors' lines. A note never
+  // rises above its own line; it only moves down to clear the one before.
+  // Only notes for lines on screen are set, so a dense chapter's margin
+  // never drifts far from the text being read; scrolling re-sets them.
   function placeNotes(side, top) {
-    const items = [];
+    let floor = 0;
+    const viewTop = -40, viewBottom = window.innerHeight;
     panels[side].querySelectorAll('.note').forEach(el => {
       if (getComputedStyle(el).display === 'none') return;
       const a = anchorFor(el.dataset.id);
       if (!a) return;
-      const r = a.getBoundingClientRect();
-      items.push({ el, want: r.top - top, h: el.offsetHeight });
-      const tick = ticks[side].querySelector('.tick[data-id="' + el.dataset.id + '"]');
-      if (tick) tick.style.top = (r.top - top + r.height / 2) + 'px';
+      const line = lineOf(a);
+      const onScreen = line.top >= viewTop && line.top <= viewBottom;
+      el.classList.toggle('offscreen', !onScreen);
+      if (!onScreen) return;
+      const y = Math.max(line.top - top, floor);
+      el.style.top = y + 'px';
+      floor = y + el.offsetHeight + NOTE_GAP;
     });
-    const groups = [];
-    items.forEach(it => {
-      let g = { items: [it], h: it.h, offsetSum: it.want, top: Math.max(0, it.want) };
-      while (groups.length) {
-        const prev = groups[groups.length - 1];
-        if (prev.top + prev.h + NOTE_GAP <= g.top) break;
-        groups.pop();
-        let offsetSum = prev.offsetSum;
-        let off = prev.h + NOTE_GAP;
-        g.items.forEach(x => { offsetSum += x.want - off; off += x.h + NOTE_GAP; });
-        const n = prev.items.length + g.items.length;
-        g = { items: prev.items.concat(g.items), h: prev.h + NOTE_GAP + g.h, offsetSum, top: 0 };
-        g.top = Math.max(0, offsetSum / n);
-      }
-      groups.push(g);
-    });
-    let bottom = 0;
-    groups.forEach(g => {
-      let y = g.top;
-      g.items.forEach(x => { x.el.style.top = y + 'px'; y += x.h + NOTE_GAP; });
-      bottom = y;
-    });
-    return bottom;
+    return floor;
   }
+  let scrollFrame = 0;
+  window.addEventListener('scroll', () => {
+    if (geo.inline || scrollFrame) return;
+    scrollFrame = requestAnimationFrame(() => {
+      scrollFrame = 0;
+      const top = readerEl.getBoundingClientRect().top;
+      ['left', 'right'].forEach(side => placeNotes(side, top));
+    });
+  }, { passive: true });
+
+  // One reference mark per annotated line in each gutter, on that line.
+  // When several notes share a line their marks sit side by side.
+  function placeTicks(side, top) {
+    const lines = new Map();
+    panels[side].querySelectorAll('.note').forEach(el => {
+      const n = notesById[el.dataset.id];
+      const a = anchorFor(el.dataset.id);
+      if (!n || !a || !layersOn[n.layer]) return;
+      const r = lineOf(a);
+      const key = Math.round(r.top);
+      if (!lines.has(key)) lines.set(key, { top: r.top - top, height: r.height, ids: [], marks: [] });
+      const line = lines.get(key);
+      line.ids.push(n.id);
+      if (!line.marks.includes(REF[n.layer])) line.marks.push(REF[n.layer]);
+    });
+    ticks[side].innerHTML = '';
+    lines.forEach(line => {
+      const t = document.createElement('span');
+      t.className = 'tick';
+      t.dataset.ids = line.ids.join(' ');
+      t.textContent = line.marks.join('');
+      t.style.top = line.top + 'px';
+      t.style.height = t.style.lineHeight = line.height + 'px';
+      if (state.pinId && line.ids.includes(state.pinId)) t.classList.add('active');
+      ticks[side].appendChild(t);
+    });
+  }
+  const ticksFor = id => document.querySelectorAll('.tick[data-ids~="' + id + '"]');
 
   // ----- Opening panels and single notes -----
   // hover: the pointer is in that side's gutter or inside its open panel;
@@ -316,12 +333,13 @@
     }
     const side = SIDE[n.layer];
     const rr = readerEl.getBoundingClientRect();
-    const r = a.getBoundingClientRect();
-    focusEl.style.width = geo.panelWidth + 'px';
-    focusEl.style.left = geo.panelLeft[side] + 'px';
-    // In the margin it lines up with the anchor; when the margin is too
-    // narrow it overlaps the text, so it sits just below the anchor's line.
-    focusEl.style.top = (geo.fits ? r.top - rr.top : r.bottom - rr.top + 6) + 'px';
+    // It always sits in the free margin beside the anchor's line, narrowed
+    // to the margin when the margin is narrower than a panel: it never
+    // covers the text.
+    const width = geo.fits ? geo.panelWidth : geo.room;
+    focusEl.style.width = width + 'px';
+    focusEl.style.left = (side === 'left' ? geo.textLeft - GAP - width : geo.textRight + GAP) + 'px';
+    focusEl.style.top = (lineOf(a).top - rr.top) + 'px';
     focusEl.classList.add('shown');
   }
 
@@ -359,7 +377,8 @@
   function setHover(id, on) {
     const a = anchorFor(id);
     if (a) a.classList.toggle('hover', on);
-    document.querySelectorAll('.panel .note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.toggle('hover', on));
+    document.querySelectorAll('.panel .note[data-id="' + id + '"]').forEach(el => el.classList.toggle('hover', on));
+    ticksFor(id).forEach(el => el.classList.toggle('hover', on));
   }
 
   function activate(anchor) {
@@ -382,7 +401,8 @@
     clearActive();
     if (wasPinned) { applyOpen(); return; }
     anchor.classList.add('active');
-    document.querySelectorAll('.panel .note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.add('active'));
+    document.querySelectorAll('.panel .note[data-id="' + id + '"]').forEach(el => el.classList.add('active'));
+    ticksFor(id).forEach(el => el.classList.add('active'));
     state.pinId = id;
     layout(); // the active panel note shows its source, so heights change
   }
