@@ -4,53 +4,44 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Scholia: free annotated classics</title>
-<meta name="description" content="Free, open annotated editions of classic books for high school and college students.">
+<meta name="description" content="Free, open annotated editions of classic books, with notes on every hard word, place, and reference.">
 <script src="prefs.js?v=dev"></script>
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
 <body>
-<header class="bar">
-  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a></nav>
-  <span class="bar-spacer"></span>
-  <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
+<header class="masthead">
+  <h1>Scholia</h1>
+  <p class="subtitle">Free annotated editions of the classics</p>
+  <div class="issue"><span>Notes open under CC BY 4.0</span><span>First book: Lord Jim</span></div>
+  <div class="rule-double"></div>
 </header>
+<div class="bar-float"><button type="button" class="bar-button" data-theme-toggle>Dark mode</button></div>
 <main class="page">
-  <header class="page-head">
-    <p class="eyebrow">An open library</p>
-    <h1>Scholia</h1>
-    <p class="subtitle">Free annotated editions of classic books</p>
-    <div class="ornament" aria-hidden="true"></div>
-  </header>
+  <p class="lede">Classic books are free to read online, but they are full of words, places, people, and events that modern readers don’t know. Scholia sets a short note in the margin wherever a reader is likely to stop, so you can keep reading instead of searching.</p>
+  <p>The name comes from the <em>scholia</em> that readers once wrote in the margins of Greek and Latin manuscripts to explain hard words and references.</p>
 
-  <p>Classic books are free to read online, but they are full of words, places, people, and events that modern readers don’t know. Scholia puts a short note in the margin wherever a high school or college reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.</p>
-  <p>The name comes from the <em>scholia</em> (singular <em>scholium</em>) that readers once wrote in the margins of Greek and Latin manuscripts to explain hard words and references.</p>
+  <h2>Contents</h2>
+  <ul class="contents contents-book">
+    <li>
+      <span class="what"><a class="title" href="book.html?book=lord-jim">Lord Jim</a><span class="meta">Joseph Conrad, 1900. Chapter I annotated; II to X to follow.</span></span>
+      <span class="leader" aria-hidden="true"></span>
+      <span class="status">I–X</span>
+    </li>
+  </ul>
 
-  <h2>The library</h2>
-  <a class="book-entry" href="book.html?book=lord-jim">
-    <span class="book-title">Lord Jim</span>
-    <span class="meta">Joseph Conrad, 1900 · chapters I to X</span>
-    <span class="meta">Chapter I annotated <span class="draft-label">unverified</span></span>
-    <span class="go">Open the book &rarr;</span>
-  </a>
-
-  <h2>How it works</h2>
-  <dl>
-    <dt>Layers you can toggle</dt>
-    <dd>Notes come in four layers: vocabulary, allusions, history, and places. A 10th grader can turn everything on; a college reader can hide vocabulary.</dd>
-    <dt>AI-drafted, human-verified</dt>
-    <dd>Notes are drafted with AI, then checked by a person against a cited source before they are marked verified. Until then they carry an <span class="draft-label">unverified</span> label. A missing note is better than a wrong one.</dd>
-    <dt>Audited</dt>
-    <dd>Once notes are verified, we recheck a random sample and publish the error rate.</dd>
-  </dl>
+  <h2>How the notes work</h2>
+  <p><span class="runin">Four kinds.</span>Notes come in four layers, each with its own printer’s mark in the margin: * vocabulary, † allusions, § history, ¶ places. Turn any layer off; a confident reader might hide vocabulary.</p>
+  <p><span class="runin">Checked.</span>Notes are drafted with AI, then checked by a person against a cited source before they are marked verified. Until then they say <span class="draft-label">unverified</span>. A missing note is better than a wrong one.</p>
+  <p><span class="runin">Audited.</span>Once notes are verified, we recheck a random sample and publish the error rate.</p>
+  <p><span class="runin">Open.</span>Every note is released under CC BY 4.0. Teachers, students, and other projects may copy and reuse them with credit.</p>
 
   <h2>Reading</h2>
-  <p>On a wide screen the text keeps a comfortable line length in the middle of the page, and small marks beside it show where notes are. Move the pointer toward the right margin for vocabulary, or the left for allusions, history, and places. Click an underlined phrase to keep its note open.</p>
-  <p>On a phone, tap an underlined phrase and its note opens below the paragraph. In a chapter, <em>Aa</em> changes the theme, font, text size, and line length.</p>
+  <p>Hover over an underlined phrase and its note appears in the margin beside it; click to keep it there with its source. Move the pointer into either margin to see every note on that side. On a phone, tap a phrase and the note opens below the paragraph.</p>
 
-  <h2>Help check notes</h2>
-  <p>We need checkers. Pick a chapter, check each unverified note against a reliable source, then fix it, cut it, or mark it verified and open a pull request. Instructions are in the <a href="https://github.com/samcao920/scholia">project’s GitHub repository</a>.</p>
+  <h2>Help check the notes</h2>
+  <p>We need checkers. Pick a chapter, check each unverified note against a reliable source, then fix it, cut it, or mark it verified and open a pull request on <a href="https://github.com/samcao920/scholia">GitHub</a>.</p>
 
-  <p class="foot">Text: public domain, from Project Gutenberg. Notes: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Code: MIT. Type: EB Garamond (SIL Open Font License).</p>
+  <p class="foot">Text: public domain, from Project Gutenberg. Notes: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Code: MIT. Type: Old Standard TT (SIL Open Font License).</p>
 </main>
 </body>
 </html>

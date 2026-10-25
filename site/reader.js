@@ -11,6 +11,8 @@
   const LAYER_NAMES = { vocab: 'Vocab', allusion: 'Allusion', history: 'History', place: 'Place' };
   // Vocabulary goes on the right; references to the wider world on the left.
   const SIDE = { vocab: 'right', allusion: 'left', history: 'left', place: 'left' };
+  // Each layer has a printer's reference mark, shown in the margin and notes.
+  const REF = { vocab: '*', allusion: '\u2020', history: '\u00a7', place: '\u00b6' };
   const STORE_KEY = 'scholia.layers';
 
   const GAP = 24;          // space between the text and a panel
@@ -39,7 +41,6 @@
     'XXXI', 'XXXII', 'XXXIII', 'XXXIV', 'XXXV', 'XXXVI', 'XXXVII', 'XXXVIII', 'XXXIX', 'XL', 'XLI', 'XLII', 'XLIII', 'XLIV', 'XLV'];
   const chName = n => 'Chapter ' + (ROMAN[n - 1] || n);
   document.getElementById('title').textContent = chName(ch);
-  document.getElementById('eyebrow').textContent = book.title;
   document.getElementById('crumb-chapter').textContent = chName(ch);
   document.title = book.title + ', ' + chName(ch) + ' · Scholia';
   const bookLink = document.getElementById('book-link');
@@ -100,10 +101,11 @@
 
   // ----- Rendering -----
   function noteHtml(n) {
-    return '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
+    return '<span class="ref" aria-hidden="true">' + REF[n.layer] + '</span>' +
+      '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
       '<span class="term">' + escapeHtml(n.anchor) + '</span>' +
-      (n.status === 'draft' ? '<span class="draft-label">unverified</span>' : '') +
-      ' ' + escapeHtml(n.note) +
+      escapeHtml(n.note) +
+      (n.status === 'draft' ? ' <span class="draft-label">(unverified)</span>' : '') +
       (n.source ? '<span class="source">Source: ' + linkify(n.source) + '</span>' : '');
   }
 
@@ -172,6 +174,7 @@
         const tick = document.createElement('span');
         tick.className = 'tick';
         tick.dataset.layer = n.layer;
+        tick.dataset.ref = REF[n.layer];
         tick.dataset.id = n.id;
         ticks[side].appendChild(tick);
       });

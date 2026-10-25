@@ -5,6 +5,7 @@
 
   const KEY = 'scholia.prefs';
   const FONTS = {
+    oldstandard: '"Old Standard", "Century Schoolbook", "New Century Schoolbook", Georgia, serif',
     garamond: '"EB Garamond", Garamond, "Iowan Old Style", Georgia, serif',
     georgia: 'Georgia, "Times New Roman", serif',
     palatino: '"Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", serif',
@@ -12,7 +13,7 @@
     sans: 'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
   };
   // Line length is in ems of the text size, so the column grows with the type.
-  const DEFAULTS = { theme: 'auto', font: 'garamond', size: 100, width: 36, notes: 'approach' };
+  const DEFAULTS = { theme: 'auto', font: 'oldstandard', size: 100, width: 36, notes: 'approach' };
   const SIZE_MIN = 80, SIZE_MAX = 150;
   const WIDTH_MIN = 26, WIDTH_MAX = 46;
   const ALLOWED = {

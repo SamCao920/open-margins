@@ -2,3 +2,5 @@
 .claude/skills/impeccable/scripts/bin/
 .claude/skills/impeccable/scripts/.impeccable/
 .claude/skills/impeccable/scripts/config.json
+# Impeccable working captures
+.impeccable/review/

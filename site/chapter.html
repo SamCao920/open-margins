@@ -9,13 +9,15 @@
 </head>
 <body class="inline-mode">
 <header class="bar">
-  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a><span class="sep">/</span><a id="book-link" href="book.html">Book</a><span class="sep">/</span><em id="crumb-chapter">Chapter</em></nav>
+  <div class="bar-inner">
+  <a class="bar-title" href="index.html">Scholia</a>
+  <nav class="running" aria-label="Breadcrumb"><a id="book-link" href="book.html">Book</a><span class="chapter-crumb"><span class="sep">·</span><span id="crumb-chapter">Chapter</span></span></nav>
   <fieldset class="layers" id="layers">
     <legend class="sr-only">Note layers</legend>
-    <label><input type="checkbox" value="vocab">Vocab</label>
-    <label><input type="checkbox" value="allusion">Allusion</label>
-    <label><input type="checkbox" value="history">History</label>
-    <label><input type="checkbox" value="place">Place</label>
+    <label><input type="checkbox" value="vocab"><span class="ref" aria-hidden="true">*</span>Vocab</label>
+    <label><input type="checkbox" value="allusion"><span class="ref" aria-hidden="true">†</span>Allusion</label>
+    <label><input type="checkbox" value="history"><span class="ref" aria-hidden="true">§</span>History</label>
+    <label><input type="checkbox" value="place"><span class="ref" aria-hidden="true">¶</span>Place</label>
   </fieldset>
   <span class="bar-spacer"></span>
   <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
@@ -33,6 +35,7 @@
       <div class="row">
         <label class="label" for="pref-font">Font</label>
         <select id="pref-font" data-pref="font">
+          <option value="oldstandard">Old Standard</option>
           <option value="garamond">EB Garamond</option>
           <option value="georgia">Georgia</option>
           <option value="palatino">Palatino</option>
@@ -58,20 +61,21 @@
           <label><input type="radio" name="pref-notes" data-pref="notes" value="approach">On approach</label>
           <label><input type="radio" name="pref-notes" data-pref="notes" value="always">Always</label>
         </div>
-        <p class="hint">Vocabulary notes are on the right; allusions, history, and places on the left. Hover a phrase to see its note; move the pointer into a margin to see every note on that side. “Always” keeps both sides open when the window is wide enough.</p>
+        <p class="hint">Vocabulary (*) notes are on the right; allusions (†), history (§), and places (¶) on the left. Hover a phrase to see its note; move the pointer into a margin to see every note on that side. “Always” keeps both sides open when the window is wide enough.</p>
       </div>
       <button type="button" data-prefs-reset>Reset to defaults</button>
     </div>
   </details>
+  </div>
+  <div class="rule-double"></div>
 </header>
 <main class="reader" id="reader">
   <div class="ticks ticks-left" id="ticks-left" aria-hidden="true"></div>
   <aside class="panel panel-left" id="panel-left" aria-label="Allusion, history, and place notes"></aside>
   <section class="column" id="column">
     <header class="chapter-head">
-      <p class="eyebrow" id="eyebrow">&nbsp;</p>
       <h1 id="title">Chapter</h1>
-      <div class="ornament" aria-hidden="true"></div>
+      <div class="rule-short" aria-hidden="true"></div>
     </header>
     <div id="text"><p class="status">Loading…</p></div>
     <nav class="chapnav" id="chapnav" aria-label="Chapters"></nav>
