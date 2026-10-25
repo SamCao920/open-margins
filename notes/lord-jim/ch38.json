@@ -1,0 +1,703 @@
+[
+  {
+    "id": "ch38-001",
+    "anchor": "the show ruffian",
+    "layer": "vocab",
+    "note": "Ruffian: a violent, lawless thug. Show: the one always pointed out.",
+    "source": "Merriam-Webster, “ruffian”, https://www.merriam-webster.com/dictionary/ruffian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-002",
+    "anchor": "always trotted out",
+    "layer": "vocab",
+    "note": "Trotted out: brought out again and again for show.",
+    "source": "Merriam-Webster, “trot out”, https://www.merriam-webster.com/dictionary/trot%20out",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-003",
+    "anchor": "Cape York",
+    "layer": "place",
+    "note": "Cape York is the northernmost tip of mainland Australia, in Queensland, facing the Torres Strait.",
+    "source": "Encyclopaedia Britannica, “Cape York Peninsula”, https://www.britannica.com/search?query=Cape+York+Peninsula",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-004",
+    "anchor": "the son of a baronet",
+    "layer": "vocab",
+    "note": "Baronet: a British title of honour, below a baron, passed from father to son.",
+    "source": "Merriam-Webster, “baronet”, https://www.merriam-webster.com/dictionary/baronet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-005",
+    "anchor": "the early gold-digging days",
+    "layer": "history",
+    "note": "Gold rushes in Australia began in 1851, drawing many sailors to desert their ships for the goldfields.",
+    "source": "Encyclopaedia Britannica, “Australian gold rushes”, https://www.britannica.com/search?query=Australian+gold+rushes",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-006",
+    "anchor": "in Polynesia",
+    "layer": "place",
+    "note": "Polynesia is the huge triangle of Pacific islands including Hawaii, New Zealand, Tahiti, and Samoa.",
+    "source": "Encyclopaedia Britannica, “Polynesia”, https://www.britannica.com/search?query=Polynesia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-007",
+    "anchor": "He would kidnap natives",
+    "layer": "history",
+    "note": "In the late 1800s ships kidnapped or tricked Pacific Islanders into labour on plantations, a trade called “blackbirding” that Britain tried to stop by law.",
+    "source": "Encyclopaedia Britannica, “blackbirding”, https://www.britannica.com/search?query=blackbirding",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-008",
+    "anchor": "a latter-day buccaneer",
+    "layer": "history",
+    "note": "Buccaneers were pirates who raided Spanish ships and towns in the Caribbean in the 1600s; latter-day means a modern version.",
+    "source": "Encyclopaedia Britannica, “buccaneer”, https://www.britannica.com/search?query=buccaneer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-009",
+    "anchor": "his more celebrated prototypes",
+    "layer": "vocab",
+    "note": "Prototypes: the first or original models of a type.",
+    "source": "Merriam-Webster, “prototype”, https://www.merriam-webster.com/dictionary/prototype",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-010",
+    "anchor": "his contemporary brother ruffians",
+    "layer": "vocab",
+    "note": "Contemporary: living at the same time.",
+    "source": "Merriam-Webster, “contemporary”, https://www.merriam-webster.com/dictionary/contemporary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-011",
+    "anchor": "Bully Hayes",
+    "layer": "history",
+    "note": "William “Bully” Hayes was an American ship captain notorious in the Pacific for fraud and blackbirding; he was killed at sea in 1877.",
+    "source": "Encyclopaedia Britannica, “Bully Hayes”, https://www.britannica.com/search?query=Bully+Hayes",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-012",
+    "anchor": "the mellifluous Pease",
+    "layer": "vocab",
+    "note": "Mellifluous: sweet-sounding, smooth and flowing in speech.",
+    "source": "Merriam-Webster, “mellifluous”, https://www.merriam-webster.com/dictionary/mellifluous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-013",
+    "anchor": "Dundreary-whiskered",
+    "layer": "history",
+    "note": "Dundreary whiskers were long, drooping side-whiskers named after Lord Dundreary, a foolish character in the popular play Our American Cousin (1858).",
+    "source": "Merriam-Webster, “dundrearies”, https://www.merriam-webster.com/dictionary/dundrearies",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-014",
+    "anchor": "dandified scoundrel",
+    "layer": "vocab",
+    "note": "Dandified: dressed like a dandy, overly smart and fussy.",
+    "source": "Merriam-Webster, “dandified”, https://www.merriam-webster.com/dictionary/dandified",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-015",
+    "anchor": "the shooting or maiming",
+    "layer": "vocab",
+    "note": "Maiming: wounding so badly that a body part is crippled.",
+    "source": "Merriam-Webster, “maim”, https://www.merriam-webster.com/dictionary/maim",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-016",
+    "anchor": "the most reckless of desperadoes",
+    "layer": "vocab",
+    "note": "Desperadoes: bold, reckless, dangerous outlaws.",
+    "source": "Merriam-Webster, “desperado”, https://www.merriam-webster.com/dictionary/desperado",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-017",
+    "anchor": "copra merchants",
+    "layer": "history",
+    "note": "Copra, dried coconut meat pressed for its oil, was a major trade of the Pacific islands in the late 1800s.",
+    "source": "Merriam-Webster, “copra”, https://www.merriam-webster.com/dictionary/copra",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-018",
+    "anchor": "the wife of a missionary",
+    "layer": "vocab",
+    "note": "Missionary: someone sent abroad to spread a religion.",
+    "source": "Merriam-Webster, “missionary”, https://www.merriam-webster.com/dictionary/missionary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-019",
+    "anchor": "from Clapham way",
+    "layer": "place",
+    "note": "Clapham is a district of south London, long associated with respectable middle-class and evangelical Christian families.",
+    "source": "Encyclopaedia Britannica, “Clapham”, https://www.britannica.com/search?query=Clapham",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-020",
+    "anchor": "transplanted to Melanesia",
+    "layer": "place",
+    "note": "Melanesia is the group of Pacific islands northeast of Australia, including New Guinea, the Solomon Islands, Vanuatu, and Fiji.",
+    "source": "Encyclopaedia Britannica, “Melanesia”, https://www.britannica.com/search?query=Melanesia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-021",
+    "anchor": "off Malaita",
+    "layer": "place",
+    "note": "Malaita is one of the main islands of the Solomon Islands in the southwest Pacific.",
+    "source": "Encyclopaedia Britannica, “Malaita”, https://www.britannica.com/search?query=Malaita",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-022",
+    "anchor": "at Nuka-Hiva",
+    "layer": "place",
+    "note": "Nuku Hiva is the largest of the Marquesas Islands in French Polynesia, taken by France in 1842.",
+    "source": "Encyclopaedia Britannica, “Nuku Hiva”, https://www.britannica.com/search?query=Nuku+Hiva",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-023",
+    "anchor": "High Commissioners, consuls",
+    "layer": "history",
+    "note": "From 1877 a British High Commissioner for the Western Pacific had power over British subjects in the islands, bringing more law to the region.",
+    "source": "Encyclopaedia Britannica, “Western Pacific High Commission”, https://www.britannica.com/search?query=Western+Pacific+High+Commission",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-024",
+    "anchor": "gentlemen of his kidney",
+    "layer": "vocab",
+    "note": "Of his kidney: of his sort or type.",
+    "source": "Merriam-Webster, “kidney”, https://www.merriam-webster.com/dictionary/kidney",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-025",
+    "anchor": "a serio-comic business",
+    "layer": "vocab",
+    "note": "Serio-comic: partly serious and partly comic.",
+    "source": "Merriam-Webster, “seriocomic”, https://www.merriam-webster.com/dictionary/seriocomic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-026",
+    "anchor": "in Manila Bay",
+    "layer": "place",
+    "note": "Manila Bay is the great harbour of Manila, capital of the Philippines, then a Spanish colony.",
+    "source": "Encyclopaedia Britannica, “Manila Bay”, https://www.britannica.com/search?query=Manila+Bay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-027",
+    "anchor": "a peculating governor and an absconding treasurer",
+    "layer": "vocab",
+    "note": "Peculating: stealing public money. Absconding: running off secretly.",
+    "source": "Merriam-Webster, “peculate”, https://www.merriam-webster.com/dictionary/peculate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-028",
+    "anchor": "an adverse fortune",
+    "layer": "vocab",
+    "note": "Adverse: unfavourable, working against one.",
+    "source": "Merriam-Webster, “adverse”, https://www.merriam-webster.com/dictionary/adverse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-029",
+    "anchor": "run a few guns for the insurgents",
+    "layer": "vocab",
+    "note": "Run guns: smuggling weapons. Insurgents: rebels.",
+    "source": "Merriam-Webster, “insurgent”, https://www.merriam-webster.com/dictionary/insurgent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-030",
+    "anchor": "the south coast of Mindanao",
+    "layer": "place",
+    "note": "Mindanao is the large southern island of the Philippines, home to many Muslim peoples who long resisted Spanish rule.",
+    "source": "Encyclopaedia Britannica, “Mindanao”, https://www.britannica.com/search?query=Mindanao",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-031",
+    "anchor": "he was blackmailing",
+    "layer": "vocab",
+    "note": "Blackmailing: getting money by threats.",
+    "source": "Merriam-Webster, “blackmail”, https://www.merriam-webster.com/dictionary/blackmail",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-032",
+    "anchor": "a good stout coasting schooner",
+    "layer": "vocab",
+    "note": "Coasting schooner: a sailing vessel used for trade along the coast.",
+    "source": "Merriam-Webster, “coaster”, https://www.merriam-webster.com/dictionary/coaster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-033",
+    "anchor": "a prize crew",
+    "layer": "vocab",
+    "note": "Prize crew: sailors put aboard a captured ship to sail it.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Prize-crew”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-034",
+    "anchor": "a Solomon Islander",
+    "layer": "place",
+    "note": "The Solomon Islands are a chain of islands in the southwest Pacific, east of New Guinea.",
+    "source": "Encyclopaedia Britannica, “Solomon Islands”, https://www.britannica.com/search?query=Solomon+Islands",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-035",
+    "anchor": "the end of a warp",
+    "layer": "vocab",
+    "note": "Warp: a rope used to haul a ship along.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Warp”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-036",
+    "anchor": "all the running gear unrove",
+    "layer": "vocab",
+    "note": "Running gear: ropes that move through blocks. Unrove: pulled out of them.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Running-rigging”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-037",
+    "anchor": "over the bulwarks",
+    "layer": "vocab",
+    "note": "Bulwarks: the solid sides of a ship above the deck.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bulwarks”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-038",
+    "anchor": "all Tagals",
+    "layer": "vocab",
+    "note": "Tagals (Tagalogs): the main people of the area around Manila in the Philippines.",
+    "source": "Encyclopaedia Britannica, “Tagalog”, https://www.britannica.com/search?query=Tagalog",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-039",
+    "anchor": "having a jollification",
+    "layer": "vocab",
+    "note": "Jollification: a merry party, a celebration.",
+    "source": "Merriam-Webster, “jollification”, https://www.merriam-webster.com/dictionary/jollification",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-040",
+    "anchor": "The two shipkeepers",
+    "layer": "vocab",
+    "note": "Shipkeepers: men left aboard to guard a ship in port.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-041",
+    "anchor": "in the caboose",
+    "layer": "vocab",
+    "note": "Caboose: a ship’s cooking galley on deck.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Caboose”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-042",
+    "anchor": "their orisons",
+    "layer": "vocab",
+    "note": "Orisons: prayers, especially spoken aloud.",
+    "source": "Merriam-Webster, “orison”, https://www.merriam-webster.com/dictionary/orison",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-043",
+    "anchor": "the coir cable",
+    "layer": "vocab",
+    "note": "Coir: rough fibre from coconut husks, used to make rope.",
+    "source": "Merriam-Webster, “coir”, https://www.merriam-webster.com/dictionary/coir",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-044",
+    "anchor": "two runaway blue-jackets",
+    "layer": "vocab",
+    "note": "Blue-jackets: sailors of the navy.",
+    "source": "Merriam-Webster, “bluejacket”, https://www.merriam-webster.com/dictionary/bluejacket",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-045",
+    "anchor": "a lanky deserter from a Yankee man-of-war",
+    "layer": "vocab",
+    "note": "Lanky: tall and thin. Yankee: American.",
+    "source": "Merriam-Webster, “Yankee”, https://www.merriam-webster.com/dictionary/Yankee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-046",
+    "anchor": "the rest of the nondescript spawn",
+    "layer": "vocab",
+    "note": "Nondescript: hard to describe, of no particular kind. Spawn: offspring.",
+    "source": "Merriam-Webster, “nondescript”, https://www.merriam-webster.com/dictionary/nondescript",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-047",
+    "anchor": "indifferent to gallows",
+    "layer": "vocab",
+    "note": "Gallows: a frame used for hanging criminals.",
+    "source": "Merriam-Webster, “gallows”, https://www.merriam-webster.com/dictionary/gallows",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-048",
+    "anchor": "to trans-ship enough provisions",
+    "layer": "vocab",
+    "note": "Trans-ship: move cargo from one ship to another.",
+    "source": "Merriam-Webster, “transship”, https://www.merriam-webster.com/dictionary/transship",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-049",
+    "anchor": "the Straits of Macassar",
+    "layer": "place",
+    "note": "The Makassar Strait lies between Borneo and Celebes (Sulawesi), linking the Celebes Sea with the Java Sea.",
+    "source": "Encyclopaedia Britannica, “Makassar Strait”, https://www.britannica.com/search?query=Makassar+Strait",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-050",
+    "anchor": "a harrowing and desperate story",
+    "layer": "vocab",
+    "note": "Harrowing: deeply distressing to hear.",
+    "source": "Merriam-Webster, “harrowing”, https://www.merriam-webster.com/dictionary/harrowing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-051",
+    "anchor": "off Poulo Laut",
+    "layer": "place",
+    "note": "Pulau Laut is an island off the southeast coast of Borneo, in what was then the Dutch East Indies.",
+    "source": "Encyclopaedia Britannica, “Laut Island”, https://www.britannica.com/search?query=Laut+Island",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-052",
+    "anchor": "across the Java Sea",
+    "layer": "place",
+    "note": "The Java Sea is the broad, shallow sea between Borneo, Java, and Sumatra, crossed by the main shipping routes of the Dutch East Indies.",
+    "source": "Encyclopaedia Britannica, “Java Sea”, https://www.britannica.com/search?query=Java+Sea",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-053",
+    "anchor": "well-found home ships",
+    "layer": "vocab",
+    "note": "Well-found: well equipped and supplied.",
+    "source": "Merriam-Webster, “well-found”, https://www.merriam-webster.com/dictionary/well-found",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-054",
+    "anchor": "a Dutch corvette",
+    "layer": "vocab",
+    "note": "Corvette: a small, fast warship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Corvette”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-055",
+    "anchor": "heavily sparred",
+    "layer": "vocab",
+    "note": "Sparred: fitted with masts and yards.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Spar”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-056",
+    "anchor": "a wan, sallow-faced band",
+    "layer": "vocab",
+    "note": "Wan: pale and sickly. Sallow: yellowish.",
+    "source": "Merriam-Webster, “wan”, https://www.merriam-webster.com/dictionary/wan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-057",
+    "anchor": "in Tamatave",
+    "layer": "place",
+    "note": "Tamatave, now Toamasina, is the chief port on the east coast of Madagascar, a busy trading town in the late 1800s.",
+    "source": "Encyclopaedia Britannica, “Toamasina”, https://www.britannica.com/search?query=Toamasina",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-058",
+    "anchor": "more or less forged papers",
+    "layer": "vocab",
+    "note": "Forged: faked to look genuine.",
+    "source": "Merriam-Webster, “forge”, https://www.merriam-webster.com/dictionary/forge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-059",
+    "anchor": "the ends of submarine cables",
+    "layer": "vocab",
+    "note": "Submarine cables: undersea telegraph cables.",
+    "source": "Merriam-Webster, “submarine”, https://www.merriam-webster.com/dictionary/submarine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-060",
+    "anchor": "bullocks--rice--sweet-potatoes",
+    "layer": "vocab",
+    "note": "Bullocks: young bulls or oxen raised for meat.",
+    "source": "Merriam-Webster, “bullock”, https://www.merriam-webster.com/dictionary/bullock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-061",
+    "anchor": "licked their chops",
+    "layer": "vocab",
+    "note": "Licked their chops: licked their lips in greedy anticipation.",
+    "source": "Merriam-Webster, “chop”, https://www.merriam-webster.com/dictionary/chop",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-062",
+    "anchor": "rather than be baulked",
+    "layer": "vocab",
+    "note": "Baulked: blocked, prevented from getting what one wants.",
+    "source": "Merriam-Webster, “balk”, https://www.merriam-webster.com/dictionary/balk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-063",
+    "anchor": "made ready wolfishly",
+    "layer": "vocab",
+    "note": "Wolfishly: fiercely and greedily, like wolves.",
+    "source": "Merriam-Webster, “wolfish”, https://www.merriam-webster.com/dictionary/wolfish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-064",
+    "anchor": "clearing the Sunda Straits",
+    "layer": "place",
+    "note": "The Sunda Strait is the channel between Java and Sumatra, linking the Java Sea with the Indian Ocean.",
+    "source": "Encyclopaedia Britannica, “Sunda Strait”, https://www.britannica.com/search?query=Sunda+Strait",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-065",
+    "anchor": "the schooner’s long-boat",
+    "layer": "vocab",
+    "note": "Long-boat: the largest boat carried by a sailing ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Long-boat”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-066",
+    "anchor": "the breech-blocks of cheap rifles",
+    "layer": "vocab",
+    "note": "Breech-block: the part that closes the rear of a rifle barrel.",
+    "source": "Merriam-Webster, “breechblock”, https://www.merriam-webster.com/dictionary/breechblock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-067",
+    "anchor": "the last of the flood",
+    "layer": "vocab",
+    "note": "Flood here means the rising tide.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Flood”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-068",
+    "anchor": "to effect a lodgment",
+    "layer": "vocab",
+    "note": "Effect a lodgment: gain a foothold, establish a position.",
+    "source": "Merriam-Webster, “lodgment”, https://www.merriam-webster.com/dictionary/lodgment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-069",
+    "anchor": "abreast of the mosque",
+    "layer": "vocab",
+    "note": "Mosque: a Muslim place of worship.",
+    "source": "Merriam-Webster, “mosque”, https://www.merriam-webster.com/dictionary/mosque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-070",
+    "anchor": "gables and roof finials",
+    "layer": "vocab",
+    "note": "Gables: the triangular ends of a roof. Finials: ornaments at the top.",
+    "source": "Merriam-Webster, “finial”, https://www.merriam-webster.com/dictionary/finial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-071",
+    "anchor": "the round-shot",
+    "layer": "vocab",
+    "note": "Round-shot: solid round iron cannonballs.",
+    "source": "Merriam-Webster, “round shot”, https://www.merriam-webster.com/dictionary/round%20shot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-072",
+    "anchor": "whipped athwart the current",
+    "layer": "vocab",
+    "note": "Athwart: across, from side to side.",
+    "source": "Merriam-Webster, “athwart”, https://www.merriam-webster.com/dictionary/athwart",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-073",
+    "anchor": "the deep snoring of drums",
+    "layer": "vocab",
+    "note": "Snoring here means a deep, rumbling, droning sound.",
+    "source": "Merriam-Webster, “snore”, https://www.merriam-webster.com/dictionary/snore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-074",
+    "anchor": "on a little knoll",
+    "layer": "vocab",
+    "note": "Knoll: a small, rounded hill.",
+    "source": "Merriam-Webster, “knoll”, https://www.merriam-webster.com/dictionary/knoll",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-075",
+    "anchor": "for a breastwork",
+    "layer": "vocab",
+    "note": "Breastwork: a low, quickly built wall for defence.",
+    "source": "Merriam-Webster, “breastwork”, https://www.merriam-webster.com/dictionary/breastwork",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-076",
+    "anchor": "fairly intrenched",
+    "layer": "vocab",
+    "note": "Intrenched: dug in and protected behind defences.",
+    "source": "Merriam-Webster, “entrench”, https://www.merriam-webster.com/dictionary/entrench",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-077",
+    "anchor": "curious neutrality",
+    "layer": "vocab",
+    "note": "Neutrality: not taking either side.",
+    "source": "Merriam-Webster, “neutrality”, https://www.merriam-webster.com/dictionary/neutrality",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch38-078",
+    "anchor": "The loom of the big fires",
+    "layer": "vocab",
+    "note": "Loom here means the glow seen in the sky from a distant light.",
+    "source": "Merriam-Webster, “loom”, https://www.merriam-webster.com/dictionary/loom",
+    "status": "draft",
+    "checker": null
+  }
+]

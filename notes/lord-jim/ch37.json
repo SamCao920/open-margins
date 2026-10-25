@@ -1,0 +1,432 @@
+[
+  {
+    "id": "ch37-001",
+    "anchor": "a small bay near Zamboanga",
+    "layer": "place",
+    "note": "Zamboanga is a port at the southwestern tip of Mindanao in the Philippines, which were then a Spanish colony.",
+    "source": "Encyclopaedia Britannica, “Zamboanga”, https://www.britannica.com/search?query=Zamboanga",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-002",
+    "anchor": "his arrogant ghost",
+    "layer": "vocab",
+    "note": "Arrogant: proud and scornful of others.",
+    "source": "Merriam-Webster, “arrogant”, https://www.merriam-webster.com/dictionary/arrogant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-003",
+    "anchor": "the choking fits of asthma",
+    "layer": "vocab",
+    "note": "Asthma: an illness that makes breathing hard, with wheezing fits.",
+    "source": "Merriam-Webster, “asthma”, https://www.merriam-webster.com/dictionary/asthma",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-004",
+    "anchor": "malicious exultation",
+    "layer": "vocab",
+    "note": "Malicious: meaning harm. Exultation: triumphant joy.",
+    "source": "Merriam-Webster, “exultation”, https://www.merriam-webster.com/dictionary/exultation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-005",
+    "anchor": "paid out the stuck-up beggar",
+    "layer": "vocab",
+    "note": "Paid out: taken revenge on. Stuck-up: snobbish, conceited.",
+    "source": "Merriam-Webster, “stuck-up”, https://www.merriam-webster.com/dictionary/stuck-up",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-006",
+    "anchor": "crow-footed eyes",
+    "layer": "vocab",
+    "note": "Crow-footed: with crow’s-feet, fine wrinkles at the corners of the eyes.",
+    "source": "Merriam-Webster, “crow's-foot”, https://www.merriam-webster.com/dictionary/crow's-foot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-007",
+    "anchor": "akin to madness",
+    "layer": "vocab",
+    "note": "Akin to: closely related to, similar to.",
+    "source": "Merriam-Webster, “akin”, https://www.merriam-webster.com/dictionary/akin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-008",
+    "anchor": "giving factitious vigour",
+    "layer": "vocab",
+    "note": "Factitious: artificial, not natural or genuine.",
+    "source": "Merriam-Webster, “factitious”, https://www.merriam-webster.com/dictionary/factitious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-009",
+    "anchor": "a hollow sham",
+    "layer": "vocab",
+    "note": "Sham: a fake, something that is not what it seems.",
+    "source": "Merriam-Webster, “sham”, https://www.merriam-webster.com/dictionary/sham",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-010",
+    "anchor": "a five-pound note",
+    "layer": "history",
+    "note": "A five-pound note was a large British banknote, worth more than many workers earned in a month.",
+    "source": "Merriam-Webster, “pound”, https://www.merriam-webster.com/dictionary/pound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-011",
+    "anchor": "a long, ravaged, brown face",
+    "layer": "vocab",
+    "note": "Ravaged: badly damaged and worn, as by illness.",
+    "source": "Merriam-Webster, “ravage”, https://www.merriam-webster.com/dictionary/ravage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-012",
+    "anchor": "a pepper-and-salt matted beard",
+    "layer": "vocab",
+    "note": "Pepper-and-salt: mixed black and grey. Matted: tangled.",
+    "source": "Merriam-Webster, “pepper-and-salt”, https://www.merriam-webster.com/dictionary/pepper-and-salt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-013",
+    "anchor": "that busybody Schomberg",
+    "layer": "vocab",
+    "note": "Busybody: a nosy person who meddles in others’ affairs.",
+    "source": "Merriam-Webster, “busybody”, https://www.merriam-webster.com/dictionary/busybody",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-014",
+    "anchor": "a sort of loafing, fuddled vagabond",
+    "layer": "vocab",
+    "note": "Fuddled: muddled and confused, usually from drink.",
+    "source": "Merriam-Webster, “fuddle”, https://www.merriam-webster.com/dictionary/fuddle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-015",
+    "anchor": "chewing betel stolidly",
+    "layer": "vocab",
+    "note": "Stolidly: calmly and without showing any feeling.",
+    "source": "Merriam-Webster, “stolid”, https://www.merriam-webster.com/dictionary/stolid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-016",
+    "anchor": "shooing a chicken",
+    "layer": "vocab",
+    "note": "Shooing: driving away with gestures and noises.",
+    "source": "Merriam-Webster, “shoo”, https://www.merriam-webster.com/dictionary/shoo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-017",
+    "anchor": "pot-bellied like a little heathen god",
+    "layer": "vocab",
+    "note": "Pot-bellied: with a round, bulging belly. Heathen: non-Christian (old usage).",
+    "source": "Merriam-Webster, “potbellied”, https://www.merriam-webster.com/dictionary/potbellied",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-018",
+    "anchor": "to talk interminably",
+    "layer": "vocab",
+    "note": "Interminably: endlessly, seeming never to stop.",
+    "source": "Merriam-Webster, “interminable”, https://www.merriam-webster.com/dictionary/interminable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-019",
+    "anchor": "their war reminiscences",
+    "layer": "vocab",
+    "note": "Reminiscences: stories of past experiences.",
+    "source": "Merriam-Webster, “reminiscence”, https://www.merriam-webster.com/dictionary/reminiscence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-020",
+    "anchor": "a respectable petty trader",
+    "layer": "vocab",
+    "note": "Petty: small-scale, minor, doing little business.",
+    "source": "Merriam-Webster, “petty”, https://www.merriam-webster.com/dictionary/petty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-021",
+    "anchor": "A drab sack-coat of alpaca",
+    "layer": "vocab",
+    "note": "Sack-coat: a loose jacket. Alpaca: a light cloth from alpaca wool.",
+    "source": "Merriam-Webster, “alpaca”, https://www.merriam-webster.com/dictionary/alpaca",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-022",
+    "anchor": "a Panama hat",
+    "layer": "vocab",
+    "note": "Panama hat: a light hat woven from palm-leaf straw.",
+    "source": "Merriam-Webster, “Panama”, https://www.merriam-webster.com/dictionary/Panama",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-023",
+    "anchor": "in great perturbation",
+    "layer": "vocab",
+    "note": "Perturbation: anxiety, being greatly upset.",
+    "source": "Merriam-Webster, “perturbation”, https://www.merriam-webster.com/dictionary/perturbation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-024",
+    "anchor": "sehen Sie",
+    "layer": "vocab",
+    "note": "German: “you see,” “do you understand.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-025",
+    "anchor": "dismal and angry conjectures",
+    "layer": "vocab",
+    "note": "Conjectures: guesses made without full information.",
+    "source": "Merriam-Webster, “conjecture”, https://www.merriam-webster.com/dictionary/conjecture",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-026",
+    "anchor": "he said interrogatively",
+    "layer": "vocab",
+    "note": "Interrogatively: in the tone of a question.",
+    "source": "Merriam-Webster, “interrogative”, https://www.merriam-webster.com/dictionary/interrogative",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-027",
+    "anchor": "uninhabited and uninhabitable",
+    "layer": "vocab",
+    "note": "Uninhabitable: not fit to be lived in.",
+    "source": "Merriam-Webster, “uninhabitable”, https://www.merriam-webster.com/dictionary/uninhabitable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-028",
+    "anchor": "the pendent crystals of a great chandelier",
+    "layer": "vocab",
+    "note": "Pendent: hanging down. Chandelier: a branched hanging light.",
+    "source": "Merriam-Webster, “chandelier”, https://www.merriam-webster.com/dictionary/chandelier",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-029",
+    "anchor": "the cold abode of despair",
+    "layer": "vocab",
+    "note": "Abode: a home, a dwelling place.",
+    "source": "Merriam-Webster, “abode”, https://www.merriam-webster.com/dictionary/abode",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-030",
+    "anchor": "hard, treacherous",
+    "layer": "vocab",
+    "note": "Treacherous: betraying trust, disloyal and false.",
+    "source": "Merriam-Webster, “treacherous”, https://www.merriam-webster.com/dictionary/treacherous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-031",
+    "anchor": "benumbing pain",
+    "layer": "vocab",
+    "note": "Benumbing: making numb, deadening all feeling.",
+    "source": "Merriam-Webster, “benumb”, https://www.merriam-webster.com/dictionary/benumb",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-032",
+    "anchor": "some accursed thing",
+    "layer": "vocab",
+    "note": "Accursed: under a curse, hateful.",
+    "source": "Merriam-Webster, “accursed”, https://www.merriam-webster.com/dictionary/accursed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-033",
+    "anchor": "pursued by distressful thoughts",
+    "layer": "vocab",
+    "note": "Distressful: causing distress, painful and upsetting.",
+    "source": "Merriam-Webster, “distressful”, https://www.merriam-webster.com/dictionary/distressful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-034",
+    "anchor": "the canalised stream",
+    "layer": "vocab",
+    "note": "Canalised: made into a canal with straight, built-up banks.",
+    "source": "Merriam-Webster, “canalize”, https://www.merriam-webster.com/dictionary/canalize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-035",
+    "anchor": "waterfowl with clipped wings",
+    "layer": "vocab",
+    "note": "Waterfowl: ducks, geese, and other swimming birds.",
+    "source": "Merriam-Webster, “waterfowl”, https://www.merriam-webster.com/dictionary/waterfowl",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-036",
+    "anchor": "casuarina trees",
+    "layer": "vocab",
+    "note": "Casuarina: a tropical tree with drooping, needle-like twigs.",
+    "source": "Merriam-Webster, “casuarina”, https://www.merriam-webster.com/dictionary/casuarina",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-037",
+    "anchor": "the soughing of fir trees",
+    "layer": "vocab",
+    "note": "Soughing (rhymes with “cowing”): a soft murmuring or sighing sound.",
+    "source": "Merriam-Webster, “sough”, https://www.merriam-webster.com/dictionary/sough",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-038",
+    "anchor": "compassionate and chivalrous deference",
+    "layer": "vocab",
+    "note": "Chivalrous: courteous and protective toward women.",
+    "source": "Merriam-Webster, “chivalrous”, https://www.merriam-webster.com/dictionary/chivalrous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-039",
+    "anchor": "“Schrecklich,”",
+    "layer": "vocab",
+    "note": "German for “terrible” or “dreadful.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-040",
+    "anchor": "an irresponsive deaf immensity",
+    "layer": "vocab",
+    "note": "Irresponsive: not responding or answering.",
+    "source": "Merriam-Webster, “unresponsive”, https://www.merriam-webster.com/dictionary/unresponsive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-041",
+    "anchor": "that spinney",
+    "layer": "vocab",
+    "note": "Spinney: a small group of trees or bushes, a copse.",
+    "source": "Merriam-Webster, “spinney”, https://www.merriam-webster.com/dictionary/spinney",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-042",
+    "anchor": "that fluted grove",
+    "layer": "vocab",
+    "note": "Fluted: grooved like a column; here, made of tall, ridged stems.",
+    "source": "Merriam-Webster, “fluted”, https://www.merriam-webster.com/dictionary/fluted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-043",
+    "anchor": "unperplexed luxuriating life",
+    "layer": "vocab",
+    "note": "Unperplexed: untroubled. Luxuriating: growing richly and freely.",
+    "source": "Merriam-Webster, “luxuriate”, https://www.merriam-webster.com/dictionary/luxuriate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-044",
+    "anchor": "overcast days",
+    "layer": "vocab",
+    "note": "Overcast: covered with cloud, dull and grey.",
+    "source": "Merriam-Webster, “overcast”, https://www.merriam-webster.com/dictionary/overcast",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-045",
+    "anchor": "almost loquacious",
+    "layer": "vocab",
+    "note": "Loquacious: very talkative, full of words.",
+    "source": "Merriam-Webster, “loquacious”, https://www.merriam-webster.com/dictionary/loquacious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-046",
+    "anchor": "a potent charm",
+    "layer": "vocab",
+    "note": "Potent: powerful. Charm: a magic spell or amulet.",
+    "source": "Merriam-Webster, “potent”, https://www.merriam-webster.com/dictionary/potent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-047",
+    "anchor": "over-awed",
+    "layer": "vocab",
+    "note": "Over-awed: filled with awe so that one is silenced.",
+    "source": "Merriam-Webster, “overawe”, https://www.merriam-webster.com/dictionary/overawe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch37-048",
+    "anchor": "the billowy roofs",
+    "layer": "vocab",
+    "note": "Billowy: rising and falling like great waves.",
+    "source": "Merriam-Webster, “billowy”, https://www.merriam-webster.com/dictionary/billowy",
+    "status": "draft",
+    "checker": null
+  }
+]
