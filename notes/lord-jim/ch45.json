@@ -39,8 +39,8 @@
     "id": "ch45-005",
     "anchor": "calling Dain Waris Panglima",
     "layer": "vocab",
-    "note": "Panglima: a Malay title for a war leader or commander.",
-    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “panglima”",
+    "note": "Panglima: a Malay title for a warrior or a leader in war.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “penglima”, https://archive.org/details/aeg2034.0001.001.umich.edu",
     "status": "draft",
     "checker": null
   },
@@ -48,7 +48,7 @@
     "id": "ch45-006",
     "anchor": "“May you live long,”",
     "layer": "vocab",
-    "note": "A polite formula used before giving someone bad news.",
+    "note": "A respectful wish for the listener, said here just before breaking terrible news.",
     "status": "draft",
     "checker": null
   },
@@ -128,8 +128,8 @@
     "id": "ch45-015",
     "anchor": "intoning the Koran",
     "layer": "history",
-    "note": "Verses of the Koran (Quran), the holy book of Islam, are chanted aloud by Muslims for the dead.",
-    "source": "Encyclopaedia Britannica, “Quran”, https://www.britannica.com/search?query=Quran",
+    "note": "The Koran (Quran) is the holy book of Islam; its name means “recitation,” and its verses are recited aloud.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Koran”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Koran",
     "status": "draft",
     "checker": null
   },
@@ -146,7 +146,7 @@
     "id": "ch45-017",
     "anchor": "under the visitation of God",
     "layer": "vocab",
-    "note": "Visitation of God: a sudden affliction, such as madness, thought to be sent by God.",
+    "note": "Visitation of God: an affliction thought to be sent by God, a sign of divine favour or wrath.",
     "source": "Merriam-Webster, “visitation”, https://www.merriam-webster.com/dictionary/visitation",
     "status": "draft",
     "checker": null
@@ -173,7 +173,7 @@
     "id": "ch45-020",
     "anchor": "a cyclone passed",
     "layer": "vocab",
-    "note": "Cyclone: a violent tropical storm with winds spinning round a centre.",
+    "note": "Cyclone: a violent storm of winds spinning round a centre of low pressure.",
     "source": "Merriam-Webster, “cyclone”, https://www.merriam-webster.com/dictionary/cyclone",
     "status": "draft",
     "checker": null
@@ -290,8 +290,8 @@
     "id": "ch45-033",
     "anchor": "September 1899--July 1900.",
     "layer": "history",
-    "note": "Conrad’s note of when he wrote the novel; it first appeared in monthly parts in Blackwood’s Magazine from October 1899 to November 1900.",
-    "source": "Encyclopaedia Britannica, “Lord Jim”, https://www.britannica.com/search?query=Lord+Jim",
+    "note": "Conrad’s note of when he wrote the novel; Lord Jim was published as a book in 1900.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Conrad, Joseph”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Conrad%2C_Joseph",
     "status": "draft",
     "checker": null
   }

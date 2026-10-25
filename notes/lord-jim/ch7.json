@@ -19,7 +19,7 @@
     "id": "ch7-003",
     "anchor": "looking domesticated",
     "layer": "vocab",
-    "note": "Domesticated: settled into home life; here, tamely bored together.",
+    "note": "Domesticated: tamed and settled into household life.",
     "source": "Merriam-Webster, “domesticated”, https://www.merriam-webster.com/dictionary/domesticated",
     "status": "draft",
     "checker": null
@@ -55,7 +55,7 @@
     "id": "ch7-007",
     "anchor": "on their portmanteaus",
     "layer": "vocab",
-    "note": "Portmanteaus: large travelling trunks that open into two halves.",
+    "note": "Portmanteaus: large suitcases for travelling.",
     "source": "Merriam-Webster, “portmanteau”, https://www.merriam-webster.com/dictionary/portmanteau",
     "status": "draft",
     "checker": null
@@ -92,6 +92,7 @@
     "anchor": "dressed up to kill",
     "layer": "vocab",
     "note": "Dressed to kill: dressed in their most showy clothes.",
+    "source": "Merriam-Webster, “dressed to kill”, https://www.merriam-webster.com/dictionary/dressed%20to%20kill",
     "status": "draft",
     "checker": null
   },
@@ -162,6 +163,7 @@
     "anchor": "their iced pudding",
     "layer": "vocab",
     "note": "Iced pudding: a frozen dessert, like an ice-cream cake.",
+    "source": "Merriam-Webster, “pudding”, https://www.merriam-webster.com/dictionary/pudding",
     "status": "draft",
     "checker": null
   },
@@ -179,7 +181,7 @@
     "anchor": "The riding lights of ships",
     "layer": "vocab",
     "note": "Riding lights: lamps a ship shows at night while lying at anchor.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Riding-light”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “riding light”, https://www.merriam-webster.com/dictionary/riding%20light; Merriam-Webster, “anchor light”, https://www.merriam-webster.com/dictionary/anchor%20light",
     "status": "draft",
     "checker": null
   },
@@ -250,6 +252,7 @@
     "anchor": "his own artful dodges",
     "layer": "vocab",
     "note": "Artful dodges: clever tricks to get out of something.",
+    "source": "Merriam-Webster, “dodge”, https://www.merriam-webster.com/dictionary/dodge",
     "status": "draft",
     "checker": null
   },
@@ -285,6 +288,7 @@
     "anchor": "the cap fitted",
     "layer": "vocab",
     "note": "From the saying “if the cap fits, wear it”: if a criticism is true, accept it.",
+    "source": "Merriam-Webster, “if the cap fits”, https://www.merriam-webster.com/dictionary/if%20the%20cap%20fits",
     "status": "draft",
     "checker": null
   },
@@ -382,7 +386,7 @@
     "id": "ch7-044",
     "anchor": "his place of sepulture",
     "layer": "vocab",
-    "note": "Sepulture: burial; his chair is like a grave.",
+    "note": "Sepulture: burial, or a burial place.",
     "source": "Merriam-Webster, “sepulture”, https://www.merriam-webster.com/dictionary/sepulture",
     "status": "draft",
     "checker": null
@@ -482,6 +486,7 @@
     "anchor": "like a spent arrow",
     "layer": "vocab",
     "note": "A spent arrow: one that has lost its force and falls harmless.",
+    "source": "Merriam-Webster, “spent”, https://www.merriam-webster.com/dictionary/spent",
     "status": "draft",
     "checker": null
   },
@@ -499,6 +504,7 @@
     "anchor": "Dash it all",
     "layer": "vocab",
     "note": "Dash it all: a mild British oath of frustration.",
+    "source": "Merriam-Webster, “dash it”, https://www.merriam-webster.com/dictionary/dash%20it",
     "status": "draft",
     "checker": null
   },
@@ -506,7 +512,7 @@
     "id": "ch7-058",
     "anchor": "along the angle-iron",
     "layer": "vocab",
-    "note": "Angle-iron: an L-shaped iron bar used to stiffen the ship’s frame.",
+    "note": "Angle-iron: a bar of iron or steel with an L-shaped cross-section, used in building structures.",
     "source": "Merriam-Webster, “angle iron”, https://www.merriam-webster.com/dictionary/angle%20iron",
     "status": "draft",
     "checker": null
@@ -542,8 +548,8 @@
     "id": "ch7-062",
     "anchor": "the tongue cleaving to the roof of the mouth",
     "layer": "allusion",
-    "note": "A phrase from the Bible. In Psalm 137 the exiled singer says, “let my tongue cleave to the roof of my mouth” if he forgets Jerusalem. It came to mean being struck speechless.",
-    "source": "The Bible (King James Version), Psalm 137:6",
+    "note": "A phrase from the Bible. In Psalm 137 the exiled singer says, “let my tongue cleave to the roof of my mouth” if he forgets Jerusalem. Here it means being unable to speak.",
+    "source": "The Bible (King James Version), Psalm 137:6, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -561,6 +567,7 @@
     "anchor": "through the number one hatch",
     "layer": "vocab",
     "note": "The hatch nearest the bow; hatches are numbered from front to back.",
+    "source": "Merriam-Webster, “hatch”, https://www.merriam-webster.com/dictionary/hatch",
     "status": "draft",
     "checker": null
   },
@@ -569,7 +576,7 @@
     "anchor": "A windsail rigged down there",
     "layer": "vocab",
     "note": "Windsail: a canvas tube that funnels fresh air down into the decks below.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Windsail”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Wind-sail”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -684,8 +691,8 @@
     "id": "ch7-078",
     "anchor": "the donkeys in Cairo",
     "layer": "place",
-    "note": "Cairo, the capital of Egypt on the Nile, was a regular stop for travellers on the Suez route. Tourists hired donkeys to ride through its streets to the sights.",
-    "source": "Encyclopaedia Britannica, “Cairo”, https://www.britannica.com/place/Cairo",
+    "note": "Cairo is a city on the Nile River in northern Egypt and is the nation’s capital.",
+    "source": "Merriam-Webster, “Cairo”, https://www.merriam-webster.com/dictionary/Cairo",
     "status": "draft",
     "checker": null
   },
@@ -712,6 +719,7 @@
     "anchor": "been done to that extent",
     "layer": "vocab",
     "note": "Been done: been cheated or overcharged.",
+    "source": "Merriam-Webster, “do”, https://www.merriam-webster.com/dictionary/do",
     "status": "draft",
     "checker": null
   },
@@ -729,6 +737,7 @@
     "anchor": "they kept Kalashee watch",
     "layer": "vocab",
     "note": "A Kalashee watch: the whole crew sleeps at night except lookouts and steersmen (Kalashee: an Indian sailor).",
+    "source": "Henry Yule and A. C. Burnell, Hobson-Jobson (1903 ed.), “Classy”, https://dsal.uchicago.edu/cgi-bin/app/hobsonjobson_query.py?qs=classy&searchhws=yes",
     "status": "draft",
     "checker": null
   },

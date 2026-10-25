@@ -79,15 +79,6 @@
     "checker": null
   },
   {
-    "id": "ch13-010",
-    "anchor": "Rushcutters’ Bay",
-    "layer": "place",
-    "note": "Rushcutters Bay is a small bay on the south side of Sydney Harbour, Australia, near the city centre.",
-    "source": "Encyclopaedia Britannica, “Sydney Harbour”, https://www.britannica.com/search?query=Sydney+Harbour",
-    "status": "draft",
-    "checker": null
-  },
-  {
     "id": "ch13-011",
     "anchor": "very civil about it",
     "layer": "vocab",
@@ -124,9 +115,9 @@
   {
     "id": "ch13-015",
     "anchor": "a southerly buster",
-    "layer": "history",
-    "note": "The “southerly buster” is a sudden, violent south wind that sweeps along the coast of New South Wales after a hot day, bringing a sharp drop in temperature.",
-    "source": "Encyclopaedia Britannica, “southerly buster”, https://www.britannica.com/search?query=southerly+buster",
+    "layer": "vocab",
+    "note": "Southerly buster: a sudden, violent wind coming from the south.",
+    "source": "Merriam-Webster, “southerly buster”, https://www.merriam-webster.com/dictionary/southerly%20buster; Merriam-Webster, “buster”, https://www.merriam-webster.com/dictionary/buster",
     "status": "draft",
     "checker": null
   },
@@ -188,6 +179,7 @@
     "anchor": "Ah, bah!",
     "layer": "vocab",
     "note": "A French exclamation of mild scorn: “Oh, nonsense!”",
+    "source": "Merriam-Webster, “bah”, https://www.merriam-webster.com/dictionary/bah",
     "status": "draft",
     "checker": null
   },
@@ -429,6 +421,7 @@
     "anchor": "voila",
     "layer": "vocab",
     "note": "French: “there you are,” “that’s it.”",
+    "source": "Merriam-Webster, “voilà”, https://www.merriam-webster.com/dictionary/voil%C3%A0",
     "status": "draft",
     "checker": null
   },
@@ -436,7 +429,7 @@
     "id": "ch13-051",
     "anchor": "make good countenance",
     "layer": "vocab",
-    "note": "From French “faire bonne contenance”: keep a brave face, put on a bold front.",
+    "note": "Make good countenance: keep a calm, composed face; put a brave front on things.",
     "source": "Merriam-Webster, “countenance”, https://www.merriam-webster.com/dictionary/countenance",
     "status": "draft",
     "checker": null
@@ -515,9 +508,9 @@
   {
     "id": "ch13-060",
     "anchor": "two china dogs on a mantelpiece",
-    "layer": "history",
-    "note": "Pairs of china (porcelain) dogs facing each other were popular ornaments on Victorian mantelpieces, the shelf above a fireplace.",
-    "source": "Encyclopaedia Britannica, “Staffordshire figures”, https://www.britannica.com/search?query=Staffordshire+figures",
+    "layer": "vocab",
+    "note": "China dogs: ornamental dogs made of porcelain. A mantelpiece is the shelf above a fireplace.",
+    "source": "Merriam-Webster, “china”, https://www.merriam-webster.com/dictionary/china; Merriam-Webster, “mantelpiece”, https://www.merriam-webster.com/dictionary/mantelpiece",
     "status": "draft",
     "checker": null
   },
@@ -577,8 +570,8 @@
     "id": "ch13-067",
     "anchor": "from Samarang",
     "layer": "place",
-    "note": "Samarang (Semarang) is a port on the north coast of Java, in present-day Indonesia, then part of the Dutch East Indies.",
-    "source": "Encyclopaedia Britannica, “Semarang”, https://www.britannica.com/place/Semarang",
+    "note": "Samarang, now Semarang, is a port on the north coast of central Java, then part of the Dutch East Indies and now in Indonesia.",
+    "source": "Merriam-Webster, “Semarang”, https://www.merriam-webster.com/dictionary/Semarang; Encyclopædia Britannica, 11th ed. (1911), “Java”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Java",
     "status": "draft",
     "checker": null
   },
@@ -672,8 +665,8 @@
     "id": "ch13-078",
     "anchor": "Some cousin of his in Liverpool",
     "layer": "place",
-    "note": "Liverpool, on the River Mersey in northwest England, was one of Britain’s greatest ports and a centre of shipping business.",
-    "source": "Encyclopaedia Britannica, “Liverpool”, https://www.britannica.com/place/Liverpool-England",
+    "note": "Liverpool is a city and great seaport on the estuary of the River Mersey, in northwest England, about three miles from the open sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Liverpool”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Liverpool; Merriam-Webster, “Liverpool”, https://www.merriam-webster.com/dictionary/Liverpool",
     "status": "draft",
     "checker": null
   },
@@ -690,8 +683,7 @@
     "id": "ch13-080",
     "anchor": "you beggars",
     "layer": "vocab",
-    "note": "Beggars here is a friendly insult, like “you rascals.”",
-    "source": "Merriam-Webster, “beggar”, https://www.merriam-webster.com/dictionary/beggar",
+    "note": "Beggars here is a joking insult, like “you rascals.”",
     "status": "draft",
     "checker": null
   },
@@ -709,6 +701,7 @@
     "anchor": "keep body and soul together",
     "layer": "vocab",
     "note": "Keep body and soul together: earn just enough to stay alive.",
+    "source": "Merriam-Webster, “keep body and soul together”, https://www.merriam-webster.com/dictionary/keep%20body%20and%20soul%20together",
     "status": "draft",
     "checker": null
   },
@@ -752,7 +745,7 @@
     "id": "ch13-087",
     "anchor": "a costermonger’s donkey",
     "layer": "history",
-    "note": "Costermongers were street sellers of fruit and vegetables in British cities, often using a donkey to pull their cart.",
+    "note": "Costermongers were street sellers of fruit and vegetables, who sold from a stand or a cart; this one has a donkey.",
     "source": "Merriam-Webster, “costermonger”, https://www.merriam-webster.com/dictionary/costermonger",
     "status": "draft",
     "checker": null
@@ -787,7 +780,7 @@
     "id": "ch13-091",
     "anchor": "the Malabar House",
     "layer": "vocab",
-    "note": "The hotel where Marlow dined with Jim in Chapter VI; the name is fictional.",
+    "note": "The hotel where Marlow dined with Jim in Chapter VI.",
     "status": "draft",
     "checker": null
   },
@@ -859,7 +852,7 @@
     "anchor": "(in Rangoon)",
     "layer": "place",
     "note": "Rangoon (now Yangon) was the capital and chief port of Burma (now Myanmar), then ruled by Britain as part of its Indian empire.",
-    "source": "Encyclopaedia Britannica, “Yangon”, https://www.britannica.com/place/Yangon",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Rangoon”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Rangoon; Merriam-Webster, “Rangoon”, https://www.merriam-webster.com/dictionary/Rangoon",
     "status": "draft",
     "checker": null
   },
@@ -949,7 +942,7 @@
     "anchor": "I am dashed if I do",
     "layer": "vocab",
     "note": "Dashed: a mild swear word, a polite way of saying “damned.”",
-    "source": "Merriam-Webster, “dashed”, https://www.merriam-webster.com/dictionary/dashed",
+    "source": "Merriam-Webster, “dash”, https://www.merriam-webster.com/dictionary/dash",
     "status": "draft",
     "checker": null
   },

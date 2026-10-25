@@ -38,8 +38,8 @@
     "id": "ch18-005",
     "anchor": "this steaming climate",
     "layer": "vocab",
-    "note": "Steaming: hot and very humid.",
-    "source": "Merriam-Webster, “steaming”, https://www.merriam-webster.com/dictionary/steaming",
+    "note": "Steaming: hot and very humid, like steam.",
+    "source": "Merriam-Webster, “steamy”, https://www.merriam-webster.com/dictionary/steamy",
     "status": "draft",
     "checker": null
   },
@@ -128,8 +128,8 @@
     "id": "ch18-015",
     "anchor": "Hong-Kong harbour",
     "layer": "place",
-    "note": "Hong Kong, an island off southern China, was a British colony from 1842 and one of the busiest ports in Asia.",
-    "source": "Encyclopaedia Britannica, “Hong Kong”, https://www.britannica.com/search?query=Hong+Kong",
+    "note": "Hong Kong, an island off the southeast coast of China, was ceded to Britain in 1841–42 and was a British colony, with its harbour between the island and Kowloon.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hong-Kong”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hong-Kong; Merriam-Webster, “Hong Kong”, https://www.merriam-webster.com/dictionary/Hong%20Kong",
     "status": "draft",
     "checker": null
   },
@@ -190,7 +190,6 @@
     "anchor": "their--well--runner",
     "layer": "vocab",
     "note": "Runner: an agent who goes out to bring in customers.",
-    "source": "Merriam-Webster, “runner”, https://www.merriam-webster.com/dictionary/runner",
     "status": "draft",
     "checker": null
   },
@@ -252,7 +251,7 @@
     "id": "ch18-029",
     "anchor": "to the bungalow",
     "layer": "vocab",
-    "note": "Bungalow: a one-storey house, often with a verandah, common in India.",
+    "note": "Bungalow: a one-storey house with a low-pitched roof.",
     "source": "Merriam-Webster, “bungalow”, https://www.merriam-webster.com/dictionary/bungalow",
     "status": "draft",
     "checker": null
@@ -288,7 +287,7 @@
     "id": "ch18-033",
     "anchor": "rowing his partner incessantly",
     "layer": "vocab",
-    "note": "Rowing (rhymes with “cowing”): scolding. Incessantly: without stopping.",
+    "note": "Rowing (rhymes with “cowing”): quarrelling with, scolding. Incessantly: without stopping.",
     "source": "Merriam-Webster, “row”, https://www.merriam-webster.com/dictionary/row",
     "status": "draft",
     "checker": null
@@ -370,7 +369,7 @@
     "anchor": "as the voice of one scolding desperately in a wilderness",
     "layer": "allusion",
     "note": "An echo of the Bible’s “the voice of one crying in the wilderness,” said of John the Baptist.",
-    "source": "The Bible (King James Version), Matthew 3:3",
+    "source": "The Bible (King James Version), Matthew 3:1–3, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -476,7 +475,7 @@
     "id": "ch18-054",
     "anchor": "blooming joke",
     "layer": "vocab",
-    "note": "Blooming: a mild British swear word, like “confounded.”",
+    "note": "Blooming: a mild swear word used just for emphasis, like “confounded.”",
     "source": "Merriam-Webster, “blooming”, https://www.merriam-webster.com/dictionary/blooming",
     "status": "draft",
     "checker": null

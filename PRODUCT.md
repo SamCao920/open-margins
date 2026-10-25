@@ -22,7 +22,7 @@ Long-form reading of one chapter at a time, on laptops and phones. Notes are gro
 - Static site: plain HTML, CSS, and JavaScript, no framework, no build step, deployed to GitHub Pages from `site/`, `texts/`, and `notes/`.
 - The author's text is never altered: wording, spelling, and punctuation stay as in the Project Gutenberg source.
 - Notes state facts only: no interpretation of themes or symbols, no spoilers beyond the current chapter.
-- First edition: Lord Jim by Joseph Conrad (1900), all 45 chapters annotated (2,961 draft notes).
+- First edition: Lord Jim by Joseph Conrad (1900), all 45 chapters annotated (2,957 draft notes).
 - Reader preferences (theme, font, text size, line length, layer toggles) persist in localStorage.
 
 ## Brand Commitments
@@ -31,7 +31,7 @@ Long-form reading of one chapter at a time, on laptops and phones. Notes are gro
 
 ## Evidence on Hand
 - Text: `texts/lord-jim/ch01.txt` to `ch45.txt` (public domain).
-- Notes: `notes/lord-jim/ch1.json` to `ch45.json` (2,961 drafts, none verified yet). No verified notes, testimonials, usage numbers, or audit results exist yet; none may be invented.
+- Notes: `notes/lord-jim/ch1.json` to `ch45.json` (2,957 drafts, none verified yet). No verified notes, testimonials, usage numbers, or audit results exist yet; none may be invented.
 
 ## Product Principles
 1. Reading comes first: nothing competes with the text column for attention.

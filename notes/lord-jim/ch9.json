@@ -47,8 +47,8 @@
     "id": "ch9-006",
     "anchor": "funny enough to make angels weep",
     "layer": "allusion",
-    "note": "An echo of Shakespeare’s Measure for Measure, where Isabella says proud man “plays such fantastic tricks before high heaven / As make the angels weep.” Here, a scene so foolish it is both funny and dreadful.",
-    "source": "William Shakespeare, Measure for Measure, Act 2, Scene 2",
+    "note": "An echo of Shakespeare’s Measure for Measure, where Isabella says proud man “Plays such fantastic tricks before high heaven / As makes the angels weep.”",
+    "source": "William Shakespeare, Measure for Measure, Act 2, Scene 2, https://www.gutenberg.org/ebooks/100",
     "status": "draft",
     "checker": null
   },
@@ -165,6 +165,7 @@
     "anchor": "the ghost of a show",
     "layer": "vocab",
     "note": "Not the slightest chance of surviving.",
+    "source": "Merriam-Webster, “show”, https://www.merriam-webster.com/dictionary/show",
     "status": "draft",
     "checker": null
   },
@@ -227,7 +228,7 @@
     "anchor": "like chaff before the wind",
     "layer": "allusion",
     "note": "A phrase from the Bible. Chaff is the light husk blown away when grain is threshed; Psalm 35 asks that enemies be “as chaff before the wind,” scattered and helpless.",
-    "source": "The Bible (King James Version), Psalm 35:5",
+    "source": "The Bible (King James Version), Psalm 35:5, https://www.gutenberg.org/ebooks/10; Merriam-Webster, “chaff”, https://www.merriam-webster.com/dictionary/chaff",
     "status": "draft",
     "checker": null
   },
@@ -281,6 +282,7 @@
     "anchor": "driven to distraction",
     "layer": "vocab",
     "note": "Driven to distraction: made almost frantic with distress.",
+    "source": "Merriam-Webster, “distraction”, https://www.merriam-webster.com/dictionary/distraction",
     "status": "draft",
     "checker": null
   },
@@ -387,8 +389,8 @@
     "id": "ch9-044",
     "anchor": "That was the donkey-man",
     "layer": "vocab",
-    "note": "The engineer who runs the donkey engine, a small steam engine for winches and pumps.",
-    "source": "Merriam-Webster, “donkey engine”, https://www.merriam-webster.com/dictionary/donkey%20engine",
+    "note": "The donkey-man operates the donkey engine, a small auxiliary engine on board ship.",
+    "source": "Merriam-Webster, “donkeyman”, https://www.merriam-webster.com/dictionary/donkeyman; Merriam-Webster, “donkey engine”, https://www.merriam-webster.com/dictionary/donkey%20engine",
     "status": "draft",
     "checker": null
   },
@@ -414,6 +416,7 @@
     "anchor": "out of sorts",
     "layer": "vocab",
     "note": "Out of sorts: slightly unwell or in a bad mood.",
+    "source": "Merriam-Webster, “out of sorts”, https://www.merriam-webster.com/dictionary/out%20of%20sorts",
     "status": "draft",
     "checker": null
   },
@@ -431,6 +434,7 @@
     "anchor": "not fair game",
     "layer": "vocab",
     "note": "Fair game: someone it is fair to attack or tease.",
+    "source": "Merriam-Webster, “fair game”, https://www.merriam-webster.com/dictionary/fair%20game",
     "status": "draft",
     "checker": null
   },
@@ -493,6 +497,7 @@
     "anchor": "a swivel hook",
     "layer": "vocab",
     "note": "A hook on a turning joint, used to attach the boat to its lowering ropes.",
+    "source": "Merriam-Webster, “swivel”, https://www.merriam-webster.com/dictionary/swivel",
     "status": "draft",
     "checker": null
   },
@@ -501,6 +506,7 @@
     "anchor": "like a disturbed hive",
     "layer": "vocab",
     "note": "Hive: a beehive full of buzzing bees.",
+    "source": "Merriam-Webster, “hive”, https://www.merriam-webster.com/dictionary/hive",
     "status": "draft",
     "checker": null
   },
@@ -554,7 +560,7 @@
     "anchor": "fallen across a thwart",
     "layer": "vocab",
     "note": "Thwart: a plank seat running across a rowing boat.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Thwart”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Thwarts”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -563,6 +569,7 @@
     "anchor": "the red side-light",
     "layer": "vocab",
     "note": "The red lamp on a ship’s port (left) side, lit at night.",
+    "source": "Merriam-Webster, “sidelight”, https://www.merriam-webster.com/dictionary/sidelight",
     "status": "draft",
     "checker": null
   },

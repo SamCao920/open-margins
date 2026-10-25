@@ -76,6 +76,7 @@
     "anchor": "beaten silver",
     "layer": "vocab",
     "note": "Beaten silver: silver hammered thin and shining.",
+    "source": "Merriam-Webster, “beat”, https://www.merriam-webster.com/dictionary/beat",
     "status": "draft",
     "checker": null
   },
@@ -138,6 +139,7 @@
     "anchor": "might so often is right",
     "layer": "vocab",
     "note": "Twisting the saying “might is right”: here power is right because it makes peace.",
+    "source": "Merriam-Webster, “might is right”, https://www.merriam-webster.com/dictionary/might%20is%20right",
     "status": "draft",
     "checker": null
   },
@@ -272,15 +274,15 @@
     "anchor": "two rusty iron 7-pounders",
     "layer": "vocab",
     "note": "7-pounders: cannon that fire a 7-pound ball.",
+    "source": "Merriam-Webster, “pounder”, https://www.merriam-webster.com/dictionary/pounder",
     "status": "draft",
     "checker": null
   },
   {
     "id": "ch26-032",
     "anchor": "currency cannon",
-    "layer": "history",
-    "note": "Small brass cannon were made and traded in the Malay world as a store of wealth and a form of money, as well as for use as guns.",
-    "source": "Encyclopaedia Britannica, “lantaka”, https://www.britannica.com/search?query=lantaka",
+    "layer": "vocab",
+    "note": "Currency cannon: small brass cannon that served as a kind of money in trade.",
     "status": "draft",
     "checker": null
   },
@@ -324,8 +326,8 @@
     "id": "ch26-037",
     "anchor": "immense flintlock pistols",
     "layer": "history",
-    "note": "Flintlock pistols fired when a flint struck steel to spark the gunpowder; they were already old-fashioned by the late 1800s.",
-    "source": "Encyclopaedia Britannica, “flintlock”, https://www.britannica.com/search?query=flintlock",
+    "note": "Flintlock pistols fired when a flint in the hammer struck a spark to light the charge. Revolvers and breech-loading pistols came in during the 1800s.",
+    "source": "Merriam-Webster, “flintlock”, https://www.merriam-webster.com/dictionary/flintlock; Encyclopædia Britannica, 11th ed. (1911), “Pistol”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pistol",
     "status": "draft",
     "checker": null
   },
@@ -369,8 +371,8 @@
     "id": "ch26-042",
     "anchor": "the smouldering brier-wood",
     "layer": "vocab",
-    "note": "Brier-wood: a pipe made from the hard root of the brier, a heath shrub.",
-    "source": "Merriam-Webster, “brier”, https://www.merriam-webster.com/dictionary/brier",
+    "note": "Brier-wood: a pipe made from the root of a Mediterranean heath shrub, the brier.",
+    "source": "Merriam-Webster, “briar”, https://www.merriam-webster.com/dictionary/briar",
     "status": "draft",
     "checker": null
   },

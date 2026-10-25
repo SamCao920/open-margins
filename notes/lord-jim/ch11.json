@@ -13,7 +13,7 @@
     "anchor": "moved and had his being",
     "layer": "allusion",
     "note": "An echo of the Bible: in Acts, Paul tells the Athenians that in God “we live, and move, and have our being.” Here it simply means the world Jim lived in.",
-    "source": "The Bible (King James Version), Acts 17:28",
+    "source": "The Bible (King James Version), Acts 17:28, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -67,6 +67,7 @@
     "anchor": "make a clean breast of it",
     "layer": "vocab",
     "note": "To confess everything fully and honestly.",
+    "source": "Merriam-Webster, “make a clean breast of”, https://www.merriam-webster.com/dictionary/make%20a%20clean%20breast%20of",
     "status": "draft",
     "checker": null
   },
@@ -174,6 +175,7 @@
     "anchor": "in all conscience",
     "layer": "vocab",
     "note": "Certainly, by any fair judgement.",
+    "source": "Merriam-Webster, “in all conscience”, https://www.merriam-webster.com/dictionary/in%20all%20conscience",
     "status": "draft",
     "checker": null
   },

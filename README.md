@@ -84,8 +84,8 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 | 10 | 77 | 0 |
 | 11 | 40 | 0 |
 | 12 | 71 | 0 |
-| 13 | 119 | 0 |
-| 14 | 113 | 0 |
+| 13 | 118 | 0 |
+| 14 | 112 | 0 |
 | 15 | 32 | 0 |
 | 16 | 45 | 0 |
 | 17 | 30 | 0 |
@@ -99,7 +99,7 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 | 25 | 73 | 0 |
 | 26 | 46 | 0 |
 | 27 | 55 | 0 |
-| 28 | 54 | 0 |
+| 28 | 53 | 0 |
 | 29 | 56 | 0 |
 | 30 | 45 | 0 |
 | 31 | 55 | 0 |
@@ -109,7 +109,7 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 | 35 | 36 | 0 |
 | 36 | 49 | 0 |
 | 37 | 48 | 0 |
-| 38 | 78 | 0 |
+| 38 | 77 | 0 |
 | 39 | 43 | 0 |
 | 40 | 48 | 0 |
 | 41 | 40 | 0 |
@@ -117,7 +117,7 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 | 43 | 41 | 0 |
 | 44 | 26 | 0 |
 | 45 | 33 | 0 |
-| **Total** | **2,961** | **0** |
+| **Total** | **2,957** | **0** |
 
 ## License
 

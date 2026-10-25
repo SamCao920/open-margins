@@ -30,8 +30,8 @@
     "id": "ch22-004",
     "anchor": "collections of old voyages",
     "layer": "history",
-    "note": "Collections such as those of Richard Hakluyt and Samuel Purchas, around 1600, printed the narratives of English sea voyages and trading ventures.",
-    "source": "Encyclopaedia Britannica, “Richard Hakluyt”, https://www.britannica.com/search?query=Richard+Hakluyt",
+    "note": "Collections such as Richard Hakluyt’s (1598–1600) and Samuel Purchas’s Pilgrimes (1625) printed the narratives of English sea voyages and travels.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hakluyt, Richard”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hakluyt%2C_Richard; Encyclopædia Britannica, 11th ed. (1911), “Purchas, Samuel”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Purchas%2C_Samuel",
     "status": "draft",
     "checker": null
   },
@@ -39,8 +39,8 @@
     "id": "ch22-005",
     "anchor": "went there for pepper",
     "layer": "history",
-    "note": "Pepper and other spices from the East Indies were so valuable in the 1600s that the Dutch and English East India Companies fought to control their trade.",
-    "source": "Encyclopaedia Britannica, “spice trade”, https://www.britannica.com/search?query=spice+trade",
+    "note": "Pepper, one of the earliest spices known, was for ages a staple of trade between the East and Europe, and it drew traders to the East Indies.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Pepper”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pepper",
     "status": "draft",
     "checker": null
   },
@@ -48,8 +48,8 @@
     "id": "ch22-006",
     "anchor": "James the First",
     "layer": "history",
-    "note": "James I ruled England from 1603 to 1625, years when English and Dutch East India Company ships fought for the spice trade of the East Indies.",
-    "source": "Encyclopaedia Britannica, “James I of England”, https://www.britannica.com/search?query=James+I+of+England",
+    "note": "James I ruled England and Scotland, as king of Great Britain, from 1603 to 1625; he was already James VI of Scotland.",
+    "source": "Merriam-Webster, “James”, https://www.merriam-webster.com/dictionary/James",
     "status": "draft",
     "checker": null
   },
@@ -174,8 +174,8 @@
     "id": "ch22-020",
     "anchor": "by special permit from the Dutch authorities",
     "layer": "history",
-    "note": "The Dutch colonial government controlled trade in the East Indies and often licensed only one firm to deal with a native state.",
-    "source": "Encyclopaedia Britannica, “Dutch East Indies”, https://www.britannica.com/search?query=Dutch+East+Indies",
+    "note": "The Dutch governed the East Indies from Java, and spices were long the chief branch of Dutch commerce there; a trader needed their permission.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Java”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Java; Encyclopædia Britannica, 11th ed. (1911), “Malay Archipelago”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Malay_Archipelago",
     "status": "draft",
     "checker": null
   },
@@ -228,8 +228,8 @@
     "id": "ch22-026",
     "anchor": "swallowed an opium pill",
     "layer": "history",
-    "note": "Opium, a drug from poppies, was widely sold and used across the region in the 1800s; it is habit-forming.",
-    "source": "Encyclopaedia Britannica, “opium”, https://www.britannica.com/search?query=opium",
+    "note": "Opium is an addictive narcotic drug made from the opium poppy; it was widely smoked or eaten in the East.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Opium”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Opium; Merriam-Webster, “opium”, https://www.merriam-webster.com/dictionary/opium",
     "status": "draft",
     "checker": null
   },
@@ -265,6 +265,7 @@
     "anchor": "a visit of ceremony",
     "layer": "vocab",
     "note": "A visit of ceremony: a formal, official visit.",
+    "source": "Merriam-Webster, “ceremony”, https://www.merriam-webster.com/dictionary/ceremony",
     "status": "draft",
     "checker": null
   },
@@ -406,8 +407,8 @@
     "id": "ch22-046",
     "anchor": "south of the Tweed",
     "layer": "place",
-    "note": "The River Tweed forms part of the border between England and Scotland; south of it means England.",
-    "source": "Encyclopaedia Britannica, “River Tweed”, https://www.britannica.com/search?query=River+Tweed",
+    "note": "In its lower course the River Tweed runs between Scotland and England to the sea at Berwick, so “south of the Tweed” means England.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tweed”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tweed",
     "status": "draft",
     "checker": null
   },
@@ -523,7 +524,7 @@
     "id": "ch22-059",
     "anchor": "the first gharry",
     "layer": "vocab",
-    "note": "Gharry: a horse-drawn cab used in India and Southeast Asia.",
+    "note": "Gharry: a horse-drawn cab, used especially in India.",
     "source": "Merriam-Webster, “gharry”, https://www.merriam-webster.com/dictionary/gharry",
     "status": "draft",
     "checker": null

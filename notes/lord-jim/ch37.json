@@ -3,8 +3,8 @@
     "id": "ch37-001",
     "anchor": "a small bay near Zamboanga",
     "layer": "place",
-    "note": "Zamboanga is a port at the southwestern tip of Mindanao in the Philippines, which were then a Spanish colony.",
-    "source": "Encyclopaedia Britannica, “Zamboanga”, https://www.britannica.com/search?query=Zamboanga",
+    "note": "Zamboanga, a port at the southern tip of the western peninsula of Mindanao, in the Philippines, was one of the oldest Spanish settlements in the islands.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Zamboanga”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Zamboanga; Merriam-Webster, “Zamboanga”, https://www.merriam-webster.com/dictionary/Zamboanga",
     "status": "draft",
     "checker": null
   },
@@ -84,8 +84,8 @@
     "id": "ch37-010",
     "anchor": "a five-pound note",
     "layer": "history",
-    "note": "A five-pound note was a large British banknote, worth more than many workers earned in a month.",
-    "source": "Merriam-Webster, “pound”, https://www.merriam-webster.com/dictionary/pound",
+    "note": "A five-pound note: a British banknote for five pounds. A pound was then worth twenty shillings.",
+    "source": "Merriam-Webster, “pound”, https://www.merriam-webster.com/dictionary/pound; Encyclopædia Britannica, 11th ed. (1911), “Pound”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pound",
     "status": "draft",
     "checker": null
   },
@@ -370,7 +370,7 @@
     "id": "ch37-042",
     "anchor": "that fluted grove",
     "layer": "vocab",
-    "note": "Fluted: grooved like a column; here, made of tall, ridged stems.",
+    "note": "Fluted: marked with long grooves, like a column.",
     "source": "Merriam-Webster, “fluted”, https://www.merriam-webster.com/dictionary/fluted",
     "status": "draft",
     "checker": null

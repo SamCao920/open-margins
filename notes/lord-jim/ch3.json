@@ -21,7 +21,7 @@
     "anchor": "Arabian Sea",
     "layer": "place",
     "note": "The part of the Indian Ocean between India and the Arabian Peninsula. Ships bound from Asia for the Red Sea cross it to reach the Gulf of Aden.",
-    "source": "Encyclopaedia Britannica, “Arabian Sea”, https://www.britannica.com/place/Arabian-Sea",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Arabian Sea”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Arabian_Sea; Merriam-Webster, “Arabian Sea”, https://www.merriam-webster.com/dictionary/Arabian%20Sea",
     "status": "draft",
     "checker": null
   },
@@ -83,8 +83,8 @@
     "id": "ch3-010",
     "anchor": "death’s brother",
     "layer": "allusion",
-    "note": "An echo of Homer’s Iliad, where the goddess Hera meets Sleep (Hypnos), “the brother of Death” (Thanatos). Calling sleep the brother of death became a common saying in poetry.",
-    "source": "Homer, Iliad 14.231; Theoi Greek Mythology, “Hypnos”, https://theoi.com/Daimon/Hypnos.html",
+    "note": "An echo of Homer’s Iliad, where the goddess Hera meets “Sleep, the brother of Death” and asks him to put Zeus to sleep.",
+    "source": "Homer, Iliad 14.231, trans. Lang, Leaf, and Myers (1883), https://www.gutenberg.org/ebooks/3059",
     "status": "draft",
     "checker": null
   },
@@ -102,7 +102,7 @@
     "anchor": "high bulwarks",
     "layer": "vocab",
     "note": "Bulwarks: the ship’s sides rising above the deck, like a low wall.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bulwarks”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bulwark”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -120,6 +120,7 @@
     "anchor": "under the ridge-poles",
     "layer": "vocab",
     "note": "Ridge-poles: the horizontal poles holding up the middle of the awnings, like a tent’s roof beam.",
+    "source": "Merriam-Webster, “ridgepole”, https://www.merriam-webster.com/dictionary/ridgepole",
     "status": "draft",
     "checker": null
   },
@@ -146,6 +147,7 @@
     "anchor": "prayer-carpets",
     "layer": "vocab",
     "note": "Small rugs Muslims kneel on to pray.",
+    "source": "Merriam-Webster, “prayer rug”, https://www.merriam-webster.com/dictionary/prayer%20rug",
     "status": "draft",
     "checker": null
   },
@@ -288,6 +290,7 @@
     "anchor": "revolving spokes",
     "layer": "vocab",
     "note": "The handles sticking out from the rim of the steering wheel.",
+    "source": "Merriam-Webster, “spoke”, https://www.merriam-webster.com/dictionary/spoke",
     "status": "draft",
     "checker": null
   },
@@ -349,7 +352,7 @@
     "anchor": "lashed to a stanchion",
     "layer": "vocab",
     "note": "Lashed: tied tightly with rope. Stanchion: an upright post or support.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stanchion”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stanchions”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -358,6 +361,7 @@
     "anchor": "Parallel rulers with a pair of dividers",
     "layer": "vocab",
     "note": "Navigators’ instruments: rulers for drawing courses, and a two-pointed tool for measuring distance on a chart.",
+    "source": "Merriam-Webster, “dividers”, https://www.merriam-webster.com/dictionary/dividers",
     "status": "draft",
     "checker": null
   },
@@ -373,8 +377,8 @@
     "id": "ch3-043",
     "anchor": "as far as Perim",
     "layer": "place",
-    "note": "Perim is a small volcanic island in the strait at the southern entrance to the Red Sea. Britain occupied it in 1857 and kept a coaling station there for steamers. It now belongs to Yemen.",
-    "source": "Encyclopaedia Britannica, “Perim Island”, https://www.britannica.com/place/Perim-Island",
+    "note": "Perim is a small island in the strait of Bab-el-Mandeb, at the entrance to the Red Sea. Britain annexed it in 1857, and ships used it as a coaling station. It now belongs to Yemen.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Perim”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Perim; Merriam-Webster, “Perim”, https://www.merriam-webster.com/dictionary/Perim",
     "status": "draft",
     "checker": null
   },
@@ -382,8 +386,8 @@
     "id": "ch3-044",
     "anchor": "the Somali coast",
     "layer": "place",
-    "note": "The coast of the Horn of Africa, today Somalia, across the Gulf of Aden from Arabia. The Patna’s course passes near it on the way to the Red Sea.",
-    "source": "Encyclopaedia Britannica, “Somalia”, https://www.britannica.com/place/Somalia",
+    "note": "The coast of the Horn of Africa, along the south shore of the Gulf of Aden, now part of Somalia. The Patna passes it on the way to the Red Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Somaliland”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Somaliland; Merriam-Webster, “Somalia”, https://www.merriam-webster.com/dictionary/Somalia",
     "status": "draft",
     "checker": null
   },
@@ -445,6 +449,7 @@
     "anchor": "stoke-hold ventilators",
     "layer": "vocab",
     "note": "Air shafts to the stoke-hold, the room where stokers shovel coal into furnaces.",
+    "source": "Merriam-Webster, “stokehold”, https://www.merriam-webster.com/dictionary/stokehold",
     "status": "draft",
     "checker": null
   },
@@ -524,8 +529,8 @@
     "id": "ch3-060",
     "anchor": "dark spaces of ether",
     "layer": "history",
-    "note": "Nineteenth-century scientists believed space was filled with “ether,” an invisible substance through which light travelled. Experiments around 1900 led physicists to abandon the idea.",
-    "source": "Encyclopaedia Britannica, “ether (physics)”, https://www.britannica.com/science/ether-theoretical-substance",
+    "note": "Nineteenth-century scientists supposed that apparently empty space was filled with “ether,” a subtle material through which light waves travelled.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Aether”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aether; Merriam-Webster, “ether”, https://www.merriam-webster.com/dictionary/ether",
     "status": "draft",
     "checker": null
   },
@@ -578,6 +583,7 @@
     "anchor": "he would be blowed if he could see",
     "layer": "vocab",
     "note": "“I’ll be blowed”: a mild oath, meaning he could not see it at all.",
+    "source": "Merriam-Webster, “blow”, https://www.merriam-webster.com/dictionary/blow",
     "status": "draft",
     "checker": null
   },
@@ -610,7 +616,7 @@
     "id": "ch3-070",
     "anchor": "The durned, compound, surface-condensing",
     "layer": "vocab",
-    "note": "Durned: darned. Compound, surface-condensing: types of steam engine, here cursed as worn out.",
+    "note": "Durned: darned, damned. Compound, surface-condensing: types of steam engine, here cursed as worn out.",
     "status": "draft",
     "checker": null
   },
@@ -713,6 +719,7 @@
     "anchor": "prime brandy",
     "layer": "vocab",
     "note": "Prime: of the best quality. Brandy: a strong spirit distilled from wine.",
+    "source": "Merriam-Webster, “brandy”, https://www.merriam-webster.com/dictionary/brandy",
     "status": "draft",
     "checker": null
   },
@@ -763,8 +770,8 @@
     "id": "ch3-088",
     "anchor": "the venerable grey hairs of his pigtail",
     "layer": "history",
-    "note": "Under the Qing dynasty (1644–1912), Chinese men were required to shave the front of the head and wear the rest of the hair in a long braid, the queue or “pigtail.”",
-    "source": "Encyclopaedia Britannica, “queue”, https://www.britannica.com/topic/queue-hairstyle",
+    "note": "The Manchus who conquered China imposed the queue, or pigtail, on all Chinese men as a sign of loyalty and obedience.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Queue”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Queue",
     "status": "draft",
     "checker": null
   },
@@ -799,8 +806,8 @@
     "id": "ch3-092",
     "anchor": "in Canton",
     "layer": "place",
-    "note": "Canton, now Guangzhou, is the great port city of southern China on the Pearl River. For centuries it was the main place where Western merchants were allowed to trade with China.",
-    "source": "Encyclopaedia Britannica, “Guangzhou”, https://www.britannica.com/place/Guangzhou",
+    "note": "Canton, now Guangzhou, is the great port of southern China. It was long the only place where the British were allowed to trade with China.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Canton (China)”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Canton_%28China%29; Merriam-Webster, “Guangzhou”, https://www.merriam-webster.com/dictionary/Guangzhou",
     "status": "draft",
     "checker": null
   },
@@ -808,8 +815,8 @@
     "id": "ch3-093",
     "anchor": "in Shanghai",
     "layer": "place",
-    "note": "Shanghai, a port at the mouth of the Yangtze River, was opened to foreign trade in 1842 and became China’s busiest port, with large foreign settlements.",
-    "source": "Encyclopaedia Britannica, “Shanghai”, https://www.britannica.com/place/Shanghai",
+    "note": "Shanghai, the principal port of central China, was opened to foreign trade by the Treaty of Nanking (1842), and a British settlement grew up there.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Shanghai”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shanghai; Merriam-Webster, “Shanghai”, https://www.merriam-webster.com/dictionary/Shanghai",
     "status": "draft",
     "checker": null
   },
@@ -817,8 +824,8 @@
     "id": "ch3-094",
     "anchor": "in Yokohama",
     "layer": "place",
-    "note": "Yokohama, near Tokyo, was opened to foreign trade in 1859 and grew into Japan’s chief port for Western shipping.",
-    "source": "Encyclopaedia Britannica, “Yokohama”, https://www.britannica.com/place/Yokohama",
+    "note": "Yokohama, near Tokyo, was a fishing village until 1859, when Japan opened it to foreign trade; it grew rapidly into a port with a large foreign settlement.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Yokohama”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Yokohama; Merriam-Webster, “Yokohama”, https://www.merriam-webster.com/dictionary/Yokohama",
     "status": "draft",
     "checker": null
   },
@@ -860,8 +867,8 @@
     "id": "ch3-099",
     "anchor": "child of Wapping",
     "layer": "place",
-    "note": "Wapping is a riverside district of East London beside the Thames docks, long home to sailors, dockworkers, and ships’ suppliers. “A child of Wapping” means a man born there.",
-    "source": "Encyclopaedia Britannica, “Tower Hamlets”, https://www.britannica.com/place/Tower-Hamlets",
+    "note": "Wapping is a district of Stepney, in the East End of London, beside the Thames; its people were largely sailors and dock labourers. A “child of Wapping” is a man born there.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Stepney”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Stepney",
     "status": "draft",
     "checker": null
   },
@@ -924,6 +931,7 @@
     "anchor": "free-hearted",
     "layer": "vocab",
     "note": "Generous; giving things freely to others.",
+    "source": "Merriam-Webster, “freehearted”, https://www.merriam-webster.com/dictionary/freehearted",
     "status": "draft",
     "checker": null
   },
@@ -931,7 +939,7 @@
     "id": "ch3-107",
     "anchor": "peg for peg",
     "layer": "vocab",
-    "note": "Peg: a drink of whisky or brandy with soda (British India).",
+    "note": "Peg: a drink of liquor. “Peg for peg” means matching each other drink for drink.",
     "source": "Merriam-Webster, “peg”, https://www.merriam-webster.com/dictionary/peg",
     "status": "draft",
     "checker": null
@@ -957,7 +965,7 @@
     "id": "ch3-110",
     "anchor": "bloomin’",
     "layer": "vocab",
-    "note": "Blooming: a mild British swear word, like “darned.”",
+    "note": "Blooming: a mild swear word used just for emphasis, like “darned.”",
     "source": "Merriam-Webster, “blooming”, https://www.merriam-webster.com/dictionary/blooming",
     "status": "draft",
     "checker": null
@@ -992,6 +1000,7 @@
     "anchor": "A measly hundred and fifty dollars a month and find yourself",
     "layer": "vocab",
     "note": "Measly: miserably small. “Find yourself”: pay for your own food and keep.",
+    "source": "Merriam-Webster, “measly”, https://www.merriam-webster.com/dictionary/measly",
     "status": "draft",
     "checker": null
   },

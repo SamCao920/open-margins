@@ -30,7 +30,7 @@
     "id": "ch23-004",
     "anchor": "a big pot",
     "layer": "vocab",
-    "note": "A big pot: an important person (slang, short for “big pot-belly”).",
+    "note": "A big pot: an important person (slang).",
     "status": "draft",
     "checker": null
   },
@@ -64,7 +64,7 @@
     "id": "ch23-008",
     "anchor": "an all-fired row",
     "layer": "vocab",
-    "note": "All-fired: tremendous (American slang). Row: a noisy quarrel.",
+    "note": "All-fired: tremendous, extreme. Row: a noisy quarrel.",
     "source": "Merriam-Webster, “all-fired”, https://www.merriam-webster.com/dictionary/all-fired",
     "status": "draft",
     "checker": null
@@ -252,7 +252,7 @@
     "id": "ch23-029",
     "anchor": "a half-crown complete Shakespeare",
     "layer": "history",
-    "note": "A half-crown was a British coin worth two shillings and sixpence; cheap one-volume editions of Shakespeare sold for about that price.",
+    "note": "A half-crown was a British coin worth two shillings and sixpence; a “half-crown Shakespeare” is a cheap edition costing that much.",
     "source": "Merriam-Webster, “half crown”, https://www.merriam-webster.com/dictionary/half%20crown",
     "status": "draft",
     "checker": null
@@ -469,7 +469,7 @@
     "anchor": "catting the anchor",
     "layer": "vocab",
     "note": "Catting: hoisting the anchor up to the cathead, a beam at the bow.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cat”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cat the anchor”, “Cat-head”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -568,7 +568,6 @@
     "anchor": "that half-caste croaker",
     "layer": "vocab",
     "note": "Croaker: someone who always predicts disaster.",
-    "source": "Merriam-Webster, “croaker”, https://www.merriam-webster.com/dictionary/croaker",
     "status": "draft",
     "checker": null
   },

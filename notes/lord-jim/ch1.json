@@ -30,6 +30,7 @@
     "anchor": "various Eastern ports",
     "layer": "vocab",
     "note": "Ports in Asia. Europeans of the time called South and East Asia “the East.”",
+    "source": "Merriam-Webster, “east”, https://www.merriam-webster.com/dictionary/east",
     "status": "draft",
     "checker": null
   },
@@ -118,6 +119,7 @@
     "anchor": "three months’ passage out",
     "layer": "vocab",
     "note": "A voyage of three months outward, from a home port to a distant one.",
+    "source": "Merriam-Webster, “passage”, https://www.merriam-webster.com/dictionary/passage",
     "status": "draft",
     "checker": null
   },
@@ -125,8 +127,8 @@
     "id": "ch1-015",
     "anchor": "patience of Job",
     "layer": "allusion",
-    "note": "Job, in the Bible’s Book of Job, loses his wealth, children, and health but keeps his faith in God. “The patience of Job” became a common saying for endless patience.",
-    "source": "The Bible (King James Version), Book of Job; James 5:11, “Ye have heard of the patience of Job”",
+    "note": "Job, in the Bible’s Book of Job, loses his wealth, children, and health but keeps his faith in God. The Epistle of James speaks of “the patience of Job.”",
+    "source": "The Bible (King James Version), Job 1–2; James 5:11, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -171,6 +173,7 @@
     "anchor": "throw up the job",
     "layer": "vocab",
     "note": "Quit the job suddenly; give it up.",
+    "source": "Merriam-Webster, “throw up”, https://www.merriam-webster.com/dictionary/throw%20up",
     "status": "draft",
     "checker": null
   },
@@ -213,8 +216,8 @@
     "id": "ch1-025",
     "anchor": "Bombay",
     "layer": "place",
-    "note": "Now Mumbai: a large port city on the west coast of India, then under British rule. It is the first and westernmost of the ports in this list.",
-    "source": "Encyclopaedia Britannica, “Mumbai”, https://www.britannica.com/place/Mumbai",
+    "note": "Now Mumbai: the chief seaport of western India, then under British rule. It is the first and westernmost of the ports in this list.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bombay City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bombay_City; Merriam-Webster, “Bombay”, https://www.merriam-webster.com/dictionary/Bombay",
     "status": "draft",
     "checker": null
   },
@@ -222,8 +225,8 @@
     "id": "ch1-026",
     "anchor": "Calcutta",
     "layer": "place",
-    "note": "Now Kolkata: a port city in eastern India, on the Hooghly River. It was the capital of British India from 1772 to 1911.",
-    "source": "Encyclopaedia Britannica, “Kolkata”, https://www.britannica.com/place/Kolkata",
+    "note": "Now Kolkata: a port city in eastern India, on the Hooghly (Hugli) River. Around 1900 it was the capital of British India.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Calcutta”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calcutta; Merriam-Webster, “Calcutta”, https://www.merriam-webster.com/dictionary/Calcutta",
     "status": "draft",
     "checker": null
   },
@@ -231,8 +234,8 @@
     "id": "ch1-027",
     "anchor": "Rangoon",
     "layer": "place",
-    "note": "Now Yangon: the chief port of Burma (now Myanmar), which was then ruled by Britain. It later became the capital of British Burma.",
-    "source": "Encyclopaedia Britannica, “Yangon”, https://www.britannica.com/place/Yangon",
+    "note": "Now Yangon: the capital and chief port of Burma (now Myanmar), then ruled by Britain as part of British India.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Rangoon”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Rangoon; Merriam-Webster, “Rangoon”, https://www.merriam-webster.com/dictionary/Rangoon",
     "status": "draft",
     "checker": null
   },
@@ -241,7 +244,7 @@
     "anchor": "Penang",
     "layer": "place",
     "note": "An island off the northwest coast of the Malay Peninsula, now part of Malaysia. The British founded a settlement there in 1786; from 1826 it was part of the British colony of the Straits Settlements.",
-    "source": "Encyclopaedia Britannica, “Penang”, https://www.britannica.com/place/Penang",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Penang”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Penang; Merriam-Webster, “Penang”, https://www.merriam-webster.com/dictionary/Penang",
     "status": "draft",
     "checker": null
   },
@@ -249,8 +252,8 @@
     "id": "ch1-029",
     "anchor": "Batavia",
     "layer": "place",
-    "note": "Now Jakarta, on the island of Java. The Dutch built Batavia in 1619 as headquarters of the Dutch East India Company; it was the chief Dutch city in the East Indies. It is the farthest east of the ports listed.",
-    "source": "Encyclopaedia Britannica, “Jakarta”, https://www.britannica.com/place/Jakarta",
+    "note": "Now Jakarta, on the north coast of Java. The Dutch founded the city in 1619, and it was the capital of all the Dutch settlements in the East. It is the farthest east of the ports listed.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Batavia (city)”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Batavia_%28city%29; Merriam-Webster, “Batavia”, https://www.merriam-webster.com/dictionary/Batavia",
     "status": "draft",
     "checker": null
   },
@@ -285,6 +288,7 @@
     "anchor": "he had elected",
     "layer": "vocab",
     "note": "Elected: chosen, decided of his own will.",
+    "source": "Merriam-Webster, “elect”, https://www.merriam-webster.com/dictionary/elect",
     "status": "draft",
     "checker": null
   },
@@ -301,8 +305,8 @@
     "id": "ch1-035",
     "anchor": "Tuan Jim",
     "layer": "vocab",
-    "note": "Tuan is a Malay title of respect, meaning “sir,” “master,” or “lord.”",
-    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “tuan”",
+    "note": "Tuan is a Malay title of respect meaning “master” or “lord,” given to Europeans and to Malays of rank.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “tuwan”, https://archive.org/details/aeg2034.0001.001.umich.edu",
     "status": "draft",
     "checker": null
   },
@@ -320,6 +324,7 @@
     "anchor": "fine merchant-ships",
     "layer": "vocab",
     "note": "Ships that carry cargo or passengers for trade, not warships.",
+    "source": "Merriam-Webster, “merchant ship”, https://www.merriam-webster.com/dictionary/merchant%20ship",
     "status": "draft",
     "checker": null
   },
@@ -337,6 +342,7 @@
     "anchor": "the Unknowable",
     "layer": "vocab",
     "note": "Whatever lies beyond human knowledge; here, God and the truths of religion.",
+    "source": "Merriam-Webster, “unknowable”, https://www.merriam-webster.com/dictionary/unknowable",
     "status": "draft",
     "checker": null
   },
@@ -363,6 +369,7 @@
     "anchor": "grass-plots",
     "layer": "vocab",
     "note": "Small patches of lawn in a garden.",
+    "source": "Merriam-Webster, “grassplot”, https://www.merriam-webster.com/dictionary/grassplot",
     "status": "draft",
     "checker": null
   },
@@ -396,8 +403,8 @@
     "id": "ch1-046",
     "anchor": "training-ship for officers",
     "layer": "history",
-    "note": "A ship, often an old warship moored in a river, used as a boarding school for boys training to be ship’s officers. A well-known example was HMS Conway, moored in the River Mersey near Liverpool, which opened as a school in 1859.",
-    "source": "HMS Conway history site, Mersey history page, https://hmsconway.org/history_mersey.html; National Museums Liverpool, “Records of HMS Conway, training ship”, https://www.liverpoolmuseums.org.uk/artifact/records-of-hms-conway-training-ship",
+    "note": "A ship moored in a river and used as a school for boys training to be merchant officers. HMS Conway, an old navy frigate moored in the River Mersey, opened as such a school in 1859.",
+    "source": "National Museums Liverpool, “Records of HMS Conway, training ship”, https://www.liverpoolmuseums.org.uk/artifact/records-of-hms-conway-training-ship; HMS Conway history site, https://hmsconway.org/history_mersey.html",
     "status": "draft",
     "checker": null
   },
@@ -415,7 +422,7 @@
     "anchor": "cross top-gallant yards",
     "layer": "vocab",
     "note": "Hoist the top-gallant yards (crossbars for sails, third level above deck) and fix them across the mast.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cross”, https://www.gutenberg.org/ebooks/26000; same, “Top-gallant”",
+    "source": "Merriam-Webster, “topgallant”, https://www.merriam-webster.com/dictionary/topgallant; W. H. Smyth, The Sailor’s Word-Book (1867), “All”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -424,6 +431,7 @@
     "anchor": "third place in navigation",
     "layer": "vocab",
     "note": "Third best in his class at navigation, the skill of working out a ship’s position and course.",
+    "source": "Merriam-Webster, “navigation”, https://www.merriam-webster.com/dictionary/navigation",
     "status": "draft",
     "checker": null
   },
@@ -432,7 +440,7 @@
     "anchor": "pulled stroke",
     "layer": "vocab",
     "note": "Rowed as stroke oar: the rower nearest the stern, who sets the pace the other rowers follow.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stroke”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stroke-oar”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -441,7 +449,7 @@
     "anchor": "first cutter",
     "layer": "vocab",
     "note": "One of a ship’s boats, rowed with oars and able to carry a sail. “First” is its number.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cutter”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cutters of a ship”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -477,7 +485,7 @@
     "anchor": "broad-beamed",
     "layer": "vocab",
     "note": "Wide. A ship’s beam is its width at the widest point.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Beam”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “beam”, https://www.merriam-webster.com/dictionary/beam",
     "status": "draft",
     "checker": null
   },
@@ -486,6 +494,7 @@
     "anchor": "On the lower deck",
     "layer": "vocab",
     "note": "A deck below the upper decks. On this training ship it is where the boys spend their time below.",
+    "source": "Merriam-Webster, “lower deck”, https://www.merriam-webster.com/dictionary/lower%20deck",
     "status": "draft",
     "checker": null
   },
@@ -494,7 +503,7 @@
     "anchor": "babel",
     "layer": "allusion",
     "note": "From the Tower of Babel in the Bible, where God makes the builders speak different languages so they cannot understand each other. A “babel” is a noisy confusion of voices.",
-    "source": "The Bible (King James Version), Genesis 11:1–9; Merriam-Webster, “babel”, https://www.merriam-webster.com/dictionary/babel",
+    "source": "The Bible (King James Version), Genesis 11:1–9, https://www.gutenberg.org/ebooks/10; Merriam-Webster, “babel”, https://www.merriam-webster.com/dictionary/babel",
     "status": "draft",
     "checker": null
   },
@@ -503,7 +512,6 @@
     "anchor": "cutting away masts",
     "layer": "vocab",
     "note": "In a severe storm a crew might chop down the masts to save the ship from capsizing.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cut away”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -512,6 +520,7 @@
     "anchor": "with a line",
     "layer": "vocab",
     "note": "A line is a rope. Carrying one ashore from a wreck lets others be pulled to safety.",
+    "source": "Merriam-Webster, “line”, https://www.merriam-webster.com/dictionary/line",
     "status": "draft",
     "checker": null
   },
@@ -574,7 +583,7 @@
     "anchor": "The gale had freshened",
     "layer": "vocab",
     "note": "A gale is a very strong wind. When wind freshens, it grows stronger.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Freshen”, https://www.gutenberg.org/ebooks/26000; same, “Gale”",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Fresh”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -628,6 +637,7 @@
     "anchor": "Man the cutter",
     "layer": "vocab",
     "note": "An order for the boat’s crew to take their places in the cutter.",
+    "source": "Merriam-Webster, “man”, https://www.merriam-webster.com/dictionary/man",
     "status": "draft",
     "checker": null
   },
@@ -661,8 +671,8 @@
     "id": "ch1-077",
     "anchor": "on the rails",
     "layer": "vocab",
-    "note": "The rail is the top edge of a ship’s side.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Rail”, https://www.gutenberg.org/ebooks/26000",
+    "note": "The rail: the guard along the outer edge of a ship’s deck.",
+    "source": "Merriam-Webster, “rail”, https://www.merriam-webster.com/dictionary/rail",
     "status": "draft",
     "checker": null
   },
@@ -671,7 +681,7 @@
     "anchor": "davits",
     "layer": "vocab",
     "note": "Small cranes sticking out over a ship’s side, used to raise and lower its boats.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Davits”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Davit”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -698,6 +708,7 @@
     "anchor": "head to wind",
     "layer": "vocab",
     "note": "With her bow (front) pointing into the wind.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Head to wind”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -732,7 +743,7 @@
     "anchor": "clear the falls",
     "layer": "vocab",
     "note": "The falls are the tackle ropes that lower a boat from the davits; once afloat, the crew frees it.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Falls”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Fall”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -811,6 +822,7 @@
     "anchor": "inefficient menace",
     "layer": "vocab",
     "note": "Inefficient here means having no real effect; the danger did no harm.",
+    "source": "Merriam-Webster, “inefficient”, https://www.merriam-webster.com/dictionary/inefficient",
     "status": "draft",
     "checker": null
   },
@@ -909,6 +921,7 @@
     "anchor": "produced a sensation",
     "layer": "vocab",
     "note": "Caused great excitement among the listening boys.",
+    "source": "Merriam-Webster, “sensation”, https://www.merriam-webster.com/dictionary/sensation",
     "status": "draft",
     "checker": null
   },

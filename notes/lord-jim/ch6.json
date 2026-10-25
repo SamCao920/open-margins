@@ -49,6 +49,7 @@
     "anchor": "the constituted authorities",
     "layer": "vocab",
     "note": "The constituted authorities: the officials legally in charge.",
+    "source": "Merriam-Webster, “constitute”, https://www.merriam-webster.com/dictionary/constitute",
     "status": "draft",
     "checker": null
   },
@@ -101,7 +102,7 @@
     "anchor": "the sixteen-knot steel steamer",
     "layer": "vocab",
     "note": "A knot is a speed of one nautical mile an hour.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Knot”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “knot”, https://www.merriam-webster.com/dictionary/knot",
     "status": "draft",
     "checker": null
   },
@@ -172,7 +173,7 @@
     "id": "ch6-020",
     "anchor": "twelve hundred millions",
     "layer": "vocab",
-    "note": "Twelve hundred million: that is, 1.2 billion people, roughly everyone on earth then.",
+    "note": "Twelve hundred millions: 1.2 billion, Marlow’s round figure for all the people on earth.",
     "status": "draft",
     "checker": null
   },
@@ -226,6 +227,7 @@
     "anchor": "been writing in the chart-room",
     "layer": "vocab",
     "note": "The cabin near the bridge where charts are kept and studied.",
+    "source": "Merriam-Webster, “chart room”, https://www.merriam-webster.com/dictionary/chart%20room",
     "status": "draft",
     "checker": null
   },
@@ -260,6 +262,7 @@
     "anchor": "keep a civil tongue in my head",
     "layer": "vocab",
     "note": "To keep a civil tongue: to speak politely, holding back rudeness.",
+    "source": "Merriam-Webster, “civil”, https://www.merriam-webster.com/dictionary/civil",
     "status": "draft",
     "checker": null
   },
@@ -277,6 +280,7 @@
     "anchor": "By the standing orders",
     "layer": "vocab",
     "note": "Standing orders: permanent rules the officers always follow.",
+    "source": "Merriam-Webster, “standing order”, https://www.merriam-webster.com/dictionary/standing%20order",
     "status": "draft",
     "checker": null
   },
@@ -303,6 +307,7 @@
     "anchor": "Seventy-one on the log",
     "layer": "vocab",
     "note": "The patent log showed seventy-one miles run since it was last set.",
+    "source": "Merriam-Webster, “log”, https://www.merriam-webster.com/dictionary/log",
     "status": "draft",
     "checker": null
   },
@@ -319,6 +324,7 @@
     "anchor": "on the after-deck",
     "layer": "vocab",
     "note": "The after-deck: the deck at the back part of the ship.",
+    "source": "Merriam-Webster, “afterdeck”, https://www.merriam-webster.com/dictionary/afterdeck",
     "status": "draft",
     "checker": null
   },
@@ -353,7 +359,7 @@
     "anchor": "four iron belaying-pins",
     "layer": "vocab",
     "note": "Belaying-pins: removable iron or wooden pins around which ropes are made fast.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Belaying-pins”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Belaying pins”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -361,8 +367,8 @@
     "id": "ch6-042",
     "anchor": "round the mainmast",
     "layer": "vocab",
-    "note": "The mainmast: the tallest mast, usually the second from the front.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Main-mast”, https://www.gutenberg.org/ebooks/26000",
+    "note": "The mainmast: the principal mast of a sailing ship.",
+    "source": "Merriam-Webster, “mainmast”, https://www.merriam-webster.com/dictionary/mainmast",
     "status": "draft",
     "checker": null
   },
@@ -380,14 +386,15 @@
     "anchor": "before he was out of his time",
     "layer": "vocab",
     "note": "Out of his time: finished with his apprenticeship.",
+    "source": "Merriam-Webster, “time”, https://www.merriam-webster.com/dictionary/time",
     "status": "draft",
     "checker": null
   },
   {
     "id": "ch6-045",
     "anchor": "before he was fairly breeched",
-    "layer": "history",
-    "note": "Breeched: dressed in breeches (trousers) for the first time. Victorian boys wore dresses as small children and were “breeched” at about four to seven years old.",
+    "layer": "vocab",
+    "note": "Breeched: put into breeches (trousers) for the first time, as a small boy.",
     "source": "Merriam-Webster, “breech”, https://www.merriam-webster.com/dictionary/breech",
     "status": "draft",
     "checker": null
@@ -423,6 +430,7 @@
     "anchor": "a made man",
     "layer": "vocab",
     "note": "A made man: someone whose success and fortune are assured.",
+    "source": "Merriam-Webster, “made”, https://www.merriam-webster.com/dictionary/made",
     "status": "draft",
     "checker": null
   },
@@ -465,7 +473,7 @@
     "id": "ch6-054",
     "anchor": "Punch and Judy show",
     "layer": "history",
-    "note": "Punch and Judy is a traditional British puppet show. The puppeteer gives Mr Punch a harsh, squeaky voice using a small device held in the mouth.",
+    "note": "Punch and Judy is a traditional puppet show. Mr Punch’s ridiculous, squeaky voice comes from a reed placed at the back of the puppeteer’s mouth.",
     "source": "Victoria and Albert Museum, “That’s the way to do it! A history of Punch & Judy”, https://www.vam.ac.uk/articles/thats-the-way-to-do-it-a-history-of-punch-and-judy",
     "status": "draft",
     "checker": null
@@ -484,6 +492,7 @@
     "anchor": "a little fighting-cock",
     "layer": "vocab",
     "note": "Fighting-cock: a rooster bred to fight; a small, aggressive person.",
+    "source": "Merriam-Webster, “fighting cock”, https://www.merriam-webster.com/dictionary/fighting%20cock",
     "status": "draft",
     "checker": null
   },
@@ -510,6 +519,7 @@
     "anchor": "in the employ",
     "layer": "vocab",
     "note": "In the employ: working for the shipping company.",
+    "source": "Merriam-Webster, “employ”, https://www.merriam-webster.com/dictionary/employ",
     "status": "draft",
     "checker": null
   },
@@ -543,7 +553,7 @@
     "anchor": "all my dunnage",
     "layer": "vocab",
     "note": "Dunnage: a sailor’s personal baggage and belongings.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Dunnage”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “dunnage”, https://www.merriam-webster.com/dictionary/dunnage",
     "status": "draft",
     "checker": null
   },
@@ -560,7 +570,7 @@
     "id": "ch6-065",
     "anchor": "my half-pay",
     "layer": "vocab",
-    "note": "Half-pay: reduced pay sent home to a sailor’s family while he was at sea.",
+    "note": "Half-pay: here, the half of his wages paid to his family at home while he served at sea.",
     "status": "draft",
     "checker": null
   },
@@ -568,7 +578,7 @@
     "id": "ch6-066",
     "anchor": "his night-glasses",
     "layer": "vocab",
-    "note": "Night-glasses: binoculars made for seeing in poor light.",
+    "note": "Night-glasses: a telescope or glasses made to gather light for use at night.",
     "status": "draft",
     "checker": null
   },
@@ -585,8 +595,8 @@
     "id": "ch6-068",
     "anchor": "hang out in Hai-phong",
     "layer": "place",
-    "note": "Haiphong is the chief port of northern Vietnam, near the mouth of the Red River. In the 1870s and 1880s France took control of the region, called Tonkin, and Haiphong became a French-ruled port.",
-    "source": "Encyclopaedia Britannica, “Haiphong”, https://www.britannica.com/place/Haiphong",
+    "note": "Haiphong is a port in the Red River delta of Tonkin, in northern Vietnam. Tonkin was then a French protectorate, part of French Indo-China.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tongking”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tongking; Encyclopædia Britannica, 11th ed. (1911), “Hai-phong”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hai-phong; Merriam-Webster, “Haiphong”, https://www.merriam-webster.com/dictionary/Haiphong",
     "status": "draft",
     "checker": null
   },
@@ -694,6 +704,7 @@
     "anchor": "putting on side",
     "layer": "vocab",
     "note": "Putting on side: British slang for showing off, acting superior.",
+    "source": "Merriam-Webster, “side”, https://www.merriam-webster.com/dictionary/side",
     "status": "draft",
     "checker": null
   },
@@ -702,6 +713,7 @@
     "anchor": "the stupidest set-out",
     "layer": "vocab",
     "note": "Set-out: an affair or arrangement, a fuss.",
+    "source": "Merriam-Webster, “setout”, https://www.merriam-webster.com/dictionary/setout",
     "status": "draft",
     "checker": null
   },
@@ -753,6 +765,7 @@
     "anchor": "feathered his nest",
     "layer": "vocab",
     "note": "Feathered his nest: made himself rich, often dishonestly.",
+    "source": "Merriam-Webster, “feather one's nest”, https://www.merriam-webster.com/dictionary/feather%20one%27s%20nest",
     "status": "draft",
     "checker": null
   },
@@ -777,6 +790,7 @@
     "anchor": "care a snap for such courage",
     "layer": "vocab",
     "note": "Not care a snap: not care at all.",
+    "source": "Merriam-Webster, “snap”, https://www.merriam-webster.com/dictionary/snap",
     "status": "draft",
     "checker": null
   },
@@ -784,7 +798,7 @@
     "id": "ch6-091",
     "anchor": "put up two hundred rupees",
     "layer": "vocab",
-    "note": "Rupees: the money of India, used in many Eastern ports.",
+    "note": "Rupees: the basic unit of money of India.",
     "source": "Merriam-Webster, “rupee”, https://www.merriam-webster.com/dictionary/rupee",
     "status": "draft",
     "checker": null
@@ -801,8 +815,8 @@
     "id": "ch6-093",
     "anchor": "confounded natives, serangs, lascars, quartermasters",
     "layer": "vocab",
-    "note": "Serangs: leaders of Asian crews. Lascars: Asian sailors. Quartermasters: sailors who steer.",
-    "source": "Merriam-Webster, “lascar”, https://www.merriam-webster.com/dictionary/lascar",
+    "note": "Serangs: leaders of lascar crews. Lascars: Indian sailors. Quartermasters: petty officers who attend to a ship’s helm.",
+    "source": "Henry Yule and A. C. Burnell, Hobson-Jobson (1903 ed.), “Serang”, https://dsal.uchicago.edu/cgi-bin/app/hobsonjobson_query.py?qs=serang&searchhws=yes; Merriam-Webster, “lascar”, https://www.merriam-webster.com/dictionary/lascar; Merriam-Webster, “quartermaster”, https://www.merriam-webster.com/dictionary/quartermaster",
     "status": "draft",
     "checker": null
   },
@@ -828,7 +842,7 @@
     "id": "ch6-096",
     "anchor": "anointed scoundrels",
     "layer": "vocab",
-    "note": "Anointed: here, complete, utter. Scoundrels: dishonest rogues.",
+    "note": "Scoundrels: wicked, disreputable people; rascals.",
     "source": "Merriam-Webster, “scoundrel”, https://www.merriam-webster.com/dictionary/scoundrel",
     "status": "draft",
     "checker": null
@@ -837,7 +851,7 @@
     "id": "ch6-097",
     "anchor": "so many tinkers",
     "layer": "vocab",
-    "note": "Tinkers: travelling menders of pots, then thought of as vagrants.",
+    "note": "Tinkers: travelling menders of pots and pans.",
     "source": "Merriam-Webster, “tinker”, https://www.merriam-webster.com/dictionary/tinker",
     "status": "draft",
     "checker": null
@@ -864,8 +878,8 @@
     "id": "ch6-100",
     "anchor": "my cousin in Essex",
     "layer": "place",
-    "note": "Essex is a county in southeastern England, northeast of London, bordering the North Sea. It is the kind of quiet English countryside Jim’s family comes from.",
-    "source": "Encyclopaedia Britannica, “Essex”, https://www.britannica.com/place/Essex-county-England",
+    "note": "Essex is a county in southeastern England, northeast of London, bordering the North Sea. Brierly’s cousin lives there.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Essex”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Essex",
     "status": "draft",
     "checker": null
   },
@@ -1260,7 +1274,7 @@
     "id": "ch6-144",
     "anchor": "the down of his cheeks",
     "layer": "vocab",
-    "note": "Down: soft, fine hair, like a young man’s first beard.",
+    "note": "Down: something soft and fluffy; here, the fine first growth of a young man’s beard.",
     "source": "Merriam-Webster, “down”, https://www.merriam-webster.com/dictionary/down",
     "status": "draft",
     "checker": null

@@ -218,6 +218,7 @@
     "anchor": "sat on their heels",
     "layer": "vocab",
     "note": "Sat on their heels: squatted, crouched with bent knees.",
+    "source": "Merriam-Webster, “squat”, https://www.merriam-webster.com/dictionary/squat",
     "status": "draft",
     "checker": null
   },
@@ -225,7 +226,7 @@
     "id": "ch35-026",
     "anchor": "one colossal Presence",
     "layer": "vocab",
-    "note": "Presence: an invisible being felt to be near; here, nature itself.",
+    "note": "Presence: a spirit or being felt to be present.",
     "source": "Merriam-Webster, “presence”, https://www.merriam-webster.com/dictionary/presence",
     "status": "draft",
     "checker": null
@@ -298,7 +299,7 @@
     "anchor": "fall off and gather headway",
     "layer": "vocab",
     "note": "Fall off: turn away from the wind. Gather headway: start moving forward.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Headway”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Falling off”, “Head-way”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },

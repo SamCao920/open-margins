@@ -4,6 +4,7 @@
     "anchor": "haven’t left off wondering",
     "layer": "vocab",
     "note": "Left off: stopped. He still wonders about it today.",
+    "source": "Merriam-Webster, “leave off”, https://www.merriam-webster.com/dictionary/leave%20off",
     "status": "draft",
     "checker": null
   },
@@ -83,7 +84,7 @@
     "anchor": "by Jove! and loosens",
     "layer": "vocab",
     "note": "By Jove: a mild oath of surprise, from Jove (Jupiter), the Roman god.",
-    "source": "Merriam-Webster, “by Jove”, https://www.merriam-webster.com/dictionary/by%20Jove",
+    "source": "Merriam-Webster, “by Jove”, https://www.merriam-webster.com/dictionary/by%20Jove; Merriam-Webster, “Jove”, https://www.merriam-webster.com/dictionary/Jove",
     "status": "draft",
     "checker": null
   },
@@ -118,7 +119,7 @@
     "id": "ch5-014",
     "anchor": "a quiet rubber",
     "layer": "vocab",
-    "note": "A rubber: a set of games of whist or bridge (card games).",
+    "note": "A rubber: a match of card games, such as whist, won by the side taking two games out of three.",
     "source": "Merriam-Webster, “rubber”, https://www.merriam-webster.com/dictionary/rubber",
     "status": "draft",
     "checker": null
@@ -163,6 +164,7 @@
     "anchor": "dashed little help",
     "layer": "vocab",
     "note": "Dashed: a mild British oath, like “darned.”",
+    "source": "Merriam-Webster, “dash”, https://www.merriam-webster.com/dictionary/dash",
     "status": "draft",
     "checker": null
   },
@@ -188,8 +190,8 @@
     "id": "ch5-022",
     "anchor": "came from Aden",
     "layer": "place",
-    "note": "Aden is a port at the southwestern tip of Arabia, at the entrance to the Red Sea. Britain held it from 1839 as a coaling station on the route through the Suez Canal. It is now part of Yemen.",
-    "source": "Encyclopaedia Britannica, “Aden”, https://www.britannica.com/place/Aden",
+    "note": "Aden is a port at the southwestern tip of Arabia, near the entrance to the Red Sea. Britain captured it in 1839 and made it a coaling station for steamers. It is now part of Yemen.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Aden”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aden; Merriam-Webster, “Aden”, https://www.merriam-webster.com/dictionary/Aden",
     "status": "draft",
     "checker": null
   },
@@ -206,8 +208,8 @@
     "id": "ch5-024",
     "anchor": "my Parsee Dubash",
     "layer": "vocab",
-    "note": "Parsee: a Zoroastrian of the Parsi community of India. Dubash: an interpreter and agent handling a European’s business.",
-    "source": "Merriam-Webster, “Parsi”, https://www.merriam-webster.com/dictionary/Parsi",
+    "note": "Parsee: an Indian Zoroastrian descended from Persian refugees. Dubash: an interpreter, or a servant attending a European.",
+    "source": "Merriam-Webster, “Parsi”, https://www.merriam-webster.com/dictionary/Parsi; Henry Yule and A. C. Burnell, Hobson-Jobson (1903 ed.), “Dubash”, https://dsal.uchicago.edu/cgi-bin/app/hobsonjobson_query.py?qs=dubash&searchhws=yes",
     "status": "draft",
     "checker": null
   },
@@ -225,6 +227,7 @@
     "anchor": "by favour, in the pantry",
     "layer": "vocab",
     "note": "By favour: as a kindness, not by right. Pantry: a small food storeroom.",
+    "source": "Merriam-Webster, “pantry”, https://www.merriam-webster.com/dictionary/pantry",
     "status": "draft",
     "checker": null
   },
@@ -304,8 +307,8 @@
     "id": "ch5-035",
     "anchor": "in Samarang",
     "layer": "place",
-    "note": "Samarang (now Semarang) is a port on the north coast of Java, in present-day Indonesia. In the nineteenth century it was a busy harbour of the Dutch East Indies.",
-    "source": "Encyclopaedia Britannica, “Semarang”, https://www.britannica.com/place/Semarang",
+    "note": "Samarang, now Semarang, is a port on the north coast of central Java, then part of the Dutch East Indies and now in Indonesia.",
+    "source": "Merriam-Webster, “Semarang”, https://www.merriam-webster.com/dictionary/Semarang; Encyclopædia Britannica, 11th ed. (1911), “Java”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Java",
     "status": "draft",
     "checker": null
   },
@@ -313,8 +316,8 @@
     "id": "ch5-036",
     "anchor": "loading in the Roads",
     "layer": "vocab",
-    "note": "The Roads: the roadstead, the sheltered water where ships anchor offshore.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Roads”, https://www.gutenberg.org/ebooks/26000",
+    "note": "The Roads: the roadstead, an anchorage off the shore where ships may lie.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Road, or roadstead”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -376,6 +379,7 @@
     "anchor": "the ghost of a chance",
     "layer": "vocab",
     "note": "The smallest possible chance; hardly any chance at all.",
+    "source": "Merriam-Webster, “ghost of a chance”, https://www.merriam-webster.com/dictionary/ghost%20of%20a%20chance",
     "status": "draft",
     "checker": null
   },
@@ -428,6 +432,7 @@
     "anchor": "my sea-stock",
     "layer": "vocab",
     "note": "Sea-stock: food supplies taken aboard for a voyage.",
+    "source": "Merriam-Webster, “sea stores”, https://www.merriam-webster.com/dictionary/sea%20stores",
     "status": "draft",
     "checker": null
   },
@@ -525,7 +530,7 @@
     "id": "ch5-060",
     "anchor": "the Master Attendant",
     "layer": "vocab",
-    "note": "The official in charge of a British colonial port and its shipping.",
+    "note": "The Master Attendant: the official in charge of a port and its shipping in a British colony.",
     "status": "draft",
     "checker": null
   },
@@ -543,6 +548,7 @@
     "anchor": "his nose-nippers fell off",
     "layer": "vocab",
     "note": "Nose-nippers: eyeglasses without arms, held on by pinching the nose.",
+    "source": "Merriam-Webster, “pince-nez”, https://www.merriam-webster.com/dictionary/pince-nez",
     "status": "draft",
     "checker": null
   },
@@ -559,8 +565,8 @@
     "id": "ch5-064",
     "anchor": "the Viceroy himself",
     "layer": "history",
-    "note": "The Viceroy of India was the British Crown’s representative and head of government in India, the highest British official in the East. Shouting at him would be unthinkable for an ordinary official.",
-    "source": "Encyclopaedia Britannica, “viceroy”, https://www.britannica.com/topic/viceroy",
+    "note": "The governor-general of India, often called the Viceroy, ruled India for the British Crown. Shouting at him would be unthinkable for a lesser official.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Viceroy”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Viceroy; Merriam-Webster, “viceroy”, https://www.merriam-webster.com/dictionary/viceroy",
     "status": "draft",
     "checker": null
   },
@@ -622,7 +628,7 @@
     "id": "ch5-071",
     "anchor": "A ramshackle gharry",
     "layer": "vocab",
-    "note": "Ramshackle: falling apart. Gharry: a horse-drawn cab in India and Malaya.",
+    "note": "Ramshackle: falling apart. Gharry: a horse-drawn cab, used especially in India.",
     "source": "Merriam-Webster, “gharry”, https://www.merriam-webster.com/dictionary/gharry",
     "status": "draft",
     "checker": null
@@ -641,6 +647,7 @@
     "anchor": "clean-limbed",
     "layer": "vocab",
     "note": "Well formed, with straight, well-shaped limbs.",
+    "source": "Merriam-Webster, “clean-limbed”, https://www.merriam-webster.com/dictionary/clean-limbed",
     "status": "draft",
     "checker": null
   },
@@ -658,7 +665,7 @@
     "anchor": "an Italian barque",
     "layer": "vocab",
     "note": "Barque: a three-masted sailing ship, square-rigged on the first two masts.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Barque”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bark, or barque”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -692,7 +699,7 @@
     "id": "ch5-079",
     "anchor": "did not care a rap",
     "layer": "vocab",
-    "note": "Did not care at all; a rap was a worthless coin.",
+    "note": "Did not care a rap: did not care the least bit.",
     "source": "Merriam-Webster, “rap”, https://www.merriam-webster.com/dictionary/rap",
     "status": "draft",
     "checker": null
@@ -727,8 +734,8 @@
     "id": "ch5-083",
     "anchor": "in Apia",
     "layer": "place",
-    "note": "Apia is the chief town and port of Samoa in the South Pacific, a gathering place for traders and drifters.",
-    "source": "Encyclopaedia Britannica, “Apia”, https://www.britannica.com/place/Apia",
+    "note": "Apia, on the island of Upolu, was the most important harbour of Samoa in the South Pacific; it is now the capital of independent Samoa.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Samoa”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Samoa; Merriam-Webster, “Apia”, https://www.merriam-webster.com/dictionary/Apia",
     "status": "draft",
     "checker": null
   },
@@ -737,7 +744,7 @@
     "anchor": "in Honolulu",
     "layer": "place",
     "note": "Honolulu, on the island of Oahu, is the capital and chief port of Hawaii, in the middle of the North Pacific.",
-    "source": "Encyclopaedia Britannica, “Honolulu”, https://www.britannica.com/place/Honolulu",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Honolulu”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Honolulu; Merriam-Webster, “Honolulu”, https://www.merriam-webster.com/dictionary/Honolulu",
     "status": "draft",
     "checker": null
   },
@@ -753,8 +760,8 @@
     "id": "ch5-086",
     "anchor": "Flensborg or Stettin",
     "layer": "place",
-    "note": "Two German ports on the Baltic Sea. Flensburg lies near the Danish border; Stettin (now Szczecin, in Poland) stands near the mouth of the Oder River.",
-    "source": "Encyclopaedia Britannica, “Szczecin”, https://www.britannica.com/place/Szczecin",
+    "note": "Two German ports. Flensburg (Danish Flensborg) is at the head of a fjord near Denmark; Stettin, now Szczecin in Poland, is on the Oder near the Baltic Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Flensburg”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Flensburg; Encyclopædia Britannica, 11th ed. (1911), “Stettin”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Stettin; Merriam-Webster, “Stettin”, https://www.merriam-webster.com/dictionary/Stettin",
     "status": "draft",
     "checker": null
   },
@@ -762,8 +769,8 @@
     "id": "ch5-087",
     "anchor": "shores of the Baltic",
     "layer": "place",
-    "note": "The Baltic Sea lies in northern Europe, enclosed by Scandinavia, Germany, Poland, and Russia. Its ports traded timber, grain, and goods across northern Europe.",
-    "source": "Encyclopaedia Britannica, “Baltic Sea”, https://www.britannica.com/place/Baltic-Sea",
+    "note": "The Baltic Sea, in northern Europe, is surrounded by Sweden, Russia, Germany, and Denmark, and joined to the North Sea by narrow channels.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Baltic Sea”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baltic_Sea; Merriam-Webster, “Baltic Sea”, https://www.merriam-webster.com/dictionary/Baltic%20Sea",
     "status": "draft",
     "checker": null
   },
@@ -814,6 +821,7 @@
     "anchor": "his bullet head",
     "layer": "vocab",
     "note": "Bullet head: a round, close-cropped head.",
+    "source": "Merriam-Webster, “bullethead”, https://www.merriam-webster.com/dictionary/bullethead",
     "status": "draft",
     "checker": null
   },
@@ -938,8 +946,8 @@
     "id": "ch5-107",
     "anchor": "the service of the Red Rag",
     "layer": "history",
-    "note": "Sailors’ slang for the Red Ensign, the red flag with the Union Jack in one corner flown by British merchant ships. To serve the “Red Rag” means to serve in Britain’s merchant navy.",
-    "source": "Royal Museums Greenwich, “Red Ensign”, https://www.rmg.co.uk/collections/objects/rmgc-object-771",
+    "note": "The Red Ensign is the red flag borne by British merchant ships, so “the service of the Red Rag” means Britain’s merchant navy.",
+    "source": "Merriam-Webster, “red ensign”, https://www.merriam-webster.com/dictionary/red%20ensign",
     "status": "draft",
     "checker": null
   },
@@ -957,6 +965,7 @@
     "anchor": "between the pier-heads",
     "layer": "vocab",
     "note": "Pier-heads: the ends of the piers at a harbour entrance.",
+    "source": "Merriam-Webster, “pierhead”, https://www.merriam-webster.com/dictionary/pierhead",
     "status": "draft",
     "checker": null
   },
@@ -990,8 +999,8 @@
     "id": "ch5-113",
     "anchor": "carried off to Talcahuano",
     "layer": "place",
-    "note": "Talcahuano is a port on the Pacific coast of Chile, near the city of Concepción, a long voyage from Britain around the tip of South America.",
-    "source": "Encyclopaedia Britannica, “Talcahuano”, https://www.britannica.com/place/Talcahuano",
+    "note": "Talcahuano is a seaport of Chile on the Bay of Concepción, a long voyage from Britain around the tip of South America.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Talcahuano”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Talcahuano",
     "status": "draft",
     "checker": null
   },
@@ -1017,7 +1026,7 @@
     "id": "ch5-116",
     "anchor": "shied his umbrella after him",
     "layer": "vocab",
-    "note": "Shied: threw (British), as you might throw a stone.",
+    "note": "Shied: threw with a jerk; flung.",
     "source": "Merriam-Webster, “shy”, https://www.merriam-webster.com/dictionary/shy",
     "status": "draft",
     "checker": null
@@ -1043,8 +1052,8 @@
     "id": "ch5-119",
     "anchor": "a new sovereign",
     "layer": "history",
-    "note": "The sovereign was a British gold coin worth one pound. A newly minted sovereign gleamed and was trusted as pure gold.",
-    "source": "Encyclopaedia Britannica, “sovereign”, https://www.britannica.com/topic/sovereign-coin",
+    "note": "The sovereign was the standard English gold coin, worth twenty shillings, or one pound. A new one would gleam untarnished.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Sovereign”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sovereign",
     "status": "draft",
     "checker": null
   },
@@ -1231,6 +1240,7 @@
     "anchor": "a cocky half-bred little quill-driver",
     "layer": "vocab",
     "note": "Quill-driver: an insulting name for a clerk who writes all day.",
+    "source": "Merriam-Webster, “quill driver”, https://www.merriam-webster.com/dictionary/quill%20driver",
     "status": "draft",
     "checker": null
   },
@@ -1239,6 +1249,7 @@
     "anchor": "God-forsaken Portuguee",
     "layer": "vocab",
     "note": "God-forsaken: wretched. Portuguee: a rude word for a Portuguese person.",
+    "source": "Merriam-Webster, “godforsaken”, https://www.merriam-webster.com/dictionary/godforsaken",
     "status": "draft",
     "checker": null
   },
@@ -1310,6 +1321,7 @@
     "anchor": "keeping up his pecker",
     "layer": "vocab",
     "note": "Keep your pecker up: British slang for keeping your spirits up.",
+    "source": "Merriam-Webster, “keep one's pecker up”, https://www.merriam-webster.com/dictionary/keep%20one%27s%20pecker%20up",
     "status": "draft",
     "checker": null
   },
@@ -1416,6 +1428,7 @@
     "anchor": "a wisp of floss silk",
     "layer": "vocab",
     "note": "Floss silk: soft, loose silk thread.",
+    "source": "Merriam-Webster, “floss silk”, https://www.merriam-webster.com/dictionary/floss%20silk",
     "status": "draft",
     "checker": null
   },
@@ -1460,7 +1473,7 @@
     "anchor": "the middle watch",
     "layer": "vocab",
     "note": "The middle watch: the night duty from midnight to four in the morning.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Middle watch”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Middle-watch”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -1495,8 +1508,8 @@
     "id": "ch5-170",
     "anchor": "this side of the Persian Gulf",
     "layer": "place",
-    "note": "The Persian Gulf is the arm of the Indian Ocean between Arabia and Iran. “This side of” it means anywhere in the East.",
-    "source": "Encyclopaedia Britannica, “Persian Gulf”, https://www.britannica.com/place/Persian-Gulf",
+    "note": "The Persian Gulf is the arm of the Arabian Sea between Iran and Arabia. “This side of” it means anywhere east of it.",
+    "source": "Merriam-Webster, “Persian Gulf”, https://www.merriam-webster.com/dictionary/Persian%20Gulf",
     "status": "draft",
     "checker": null
   },
@@ -1532,6 +1545,7 @@
     "anchor": "to the very marrow",
     "layer": "vocab",
     "note": "To the marrow: to the core, through and through.",
+    "source": "Merriam-Webster, “marrow”, https://www.merriam-webster.com/dictionary/marrow",
     "status": "draft",
     "checker": null
   },
@@ -1656,8 +1670,8 @@
     "id": "ch5-188",
     "anchor": "D.T.’s of the worst kind",
     "layer": "history",
-    "note": "D.T.’s is short for delirium tremens, a dangerous condition in heavy drinkers who suddenly stop drinking. It brings shaking, confusion, and terrifying hallucinations, such as seeing creatures that are not there.",
-    "source": "Encyclopaedia Britannica, “delirium tremens”, https://www.britannica.com/science/delirium-tremens",
+    "note": "D.T.’s is short for delirium tremens, a disorder of heavy drinkers. It brings trembling, confusion, and hallucinations of disagreeable animals or insects.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Delirium”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Delirium",
     "status": "draft",
     "checker": null
   },
@@ -1673,8 +1687,8 @@
     "id": "ch5-190",
     "anchor": "there’s some sort of method in his raving",
     "layer": "allusion",
-    "note": "An echo of Shakespeare’s Hamlet, where Polonius says of Hamlet’s strange talk, “Though this be madness, yet there is method in ’t.” “Method in his madness” became a common saying for behaviour that seems crazy but has a pattern.",
-    "source": "William Shakespeare, Hamlet, Act 2, Scene 2",
+    "note": "An echo of Shakespeare’s Hamlet, where Polonius says aside of Hamlet’s strange talk, “Though this be madness, yet there is method in’t.”",
+    "source": "William Shakespeare, Hamlet, Act 2, Scene 2, https://www.gutenberg.org/ebooks/100",
     "status": "draft",
     "checker": null
   },

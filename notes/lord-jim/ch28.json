@@ -49,6 +49,7 @@
     "anchor": "pay off old scores",
     "layer": "vocab",
     "note": "Pay off old scores: take revenge for past wrongs.",
+    "source": "Merriam-Webster, “settle a score”, https://www.merriam-webster.com/dictionary/settle%20a%20score",
     "status": "draft",
     "checker": null
   },
@@ -264,6 +265,7 @@
     "anchor": "end under a cloud",
     "layer": "vocab",
     "note": "Under a cloud: in disgrace or under suspicion.",
+    "source": "Merriam-Webster, “under a cloud”, https://www.merriam-webster.com/dictionary/under%20a%20cloud",
     "status": "draft",
     "checker": null
   },
@@ -352,8 +354,8 @@
     "id": "ch28-040",
     "anchor": "a third-class deputy-assistant resident",
     "layer": "history",
-    "note": "In the Dutch East Indies a Resident governed a district for the colonial government, helped by assistant residents and lower officials.",
-    "source": "Encyclopaedia Britannica, “Dutch East Indies”, https://www.britannica.com/search?query=Dutch+East+Indies",
+    "note": "A resident was an official exercising authority in a protected state for the ruling power; the Dutch divided Java into such “residencies.”",
+    "source": "Merriam-Webster, “resident”, https://www.merriam-webster.com/dictionary/resident; Encyclopædia Britannica, 11th ed. (1911), “Java”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Java",
     "status": "draft",
     "checker": null
   },
@@ -434,15 +436,6 @@
     "layer": "vocab",
     "note": "Emerald: a precious green gemstone.",
     "source": "Merriam-Webster, “emerald”, https://www.merriam-webster.com/dictionary/emerald",
-    "status": "draft",
-    "checker": null
-  },
-  {
-    "id": "ch28-050",
-    "anchor": "the Sultan of Succadana",
-    "layer": "place",
-    "note": "Sukadana is a town on the southwest coast of Borneo, once the seat of a Malay sultanate.",
-    "source": "Encyclopaedia Britannica, “Sukadana”, https://www.britannica.com/search?query=Sukadana",
     "status": "draft",
     "checker": null
   },

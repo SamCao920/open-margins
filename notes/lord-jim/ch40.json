@@ -4,6 +4,7 @@
     "anchor": "for a second string",
     "layer": "vocab",
     "note": "A second string: a backup plan, a reserve choice.",
+    "source": "Merriam-Webster, “second string”, https://www.merriam-webster.com/dictionary/second%20string",
     "status": "draft",
     "checker": null
   },
@@ -57,7 +58,7 @@
     "anchor": "the Scourge of God",
     "layer": "history",
     "note": "“Scourge of God” was the name given to Attila, the 5th-century king of the Huns who ravaged the Roman Empire.",
-    "source": "Encyclopaedia Britannica, “Attila”, https://www.britannica.com/biography/Attila-king-of-the-Huns",
+    "source": "Merriam-Webster, “Attila”, https://www.merriam-webster.com/dictionary/Attila; Encyclopædia Britannica, 11th ed. (1911), “Attila”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Attila",
     "status": "draft",
     "checker": null
   },
@@ -128,8 +129,8 @@
     "id": "ch40-015",
     "anchor": "being a dead shot",
     "layer": "vocab",
-    "note": "Dead shot: someone who never misses when shooting.",
-    "source": "Merriam-Webster, “dead shot”, https://www.merriam-webster.com/dictionary/dead%20shot",
+    "note": "Dead shot: a person whose shooting is unerring.",
+    "source": "Merriam-Webster, “dead”, https://www.merriam-webster.com/dictionary/dead",
     "status": "draft",
     "checker": null
   },
@@ -326,8 +327,8 @@
     "id": "ch40-037",
     "anchor": "a Bugis of Tondano",
     "layer": "place",
-    "note": "Tondano is a town beside a lake of the same name in the Minahasa highlands of northern Celebes (Sulawesi).",
-    "source": "Encyclopaedia Britannica, “Tondano”, https://www.britannica.com/search?query=Tondano",
+    "note": "Tondano is a lake, and a river draining it, in the Minahassa district at the northern tip of Celebes (Sulawesi).",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Celebes”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Celebes",
     "status": "draft",
     "checker": null
   },

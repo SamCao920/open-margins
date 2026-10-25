@@ -39,8 +39,8 @@
     "id": "ch30-005",
     "anchor": "Inchi ‘Nelyus",
     "layer": "vocab",
-    "note": "Inchi: a Malay title like “Mr.” ’Nelyus is short for Cornelius.",
-    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “inche”",
+    "note": "Inchi (enche’): a respectful Malay title, like “Mr.” ’Nelyus is short for Cornelius.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “enche’”, https://archive.org/details/aeg2034.0001.001.umich.edu",
     "status": "draft",
     "checker": null
   },
@@ -139,6 +139,7 @@
     "anchor": "in the dead of night",
     "layer": "vocab",
     "note": "The dead of night: the darkest, quietest middle of the night.",
+    "source": "Merriam-Webster, “dead of night”, https://www.merriam-webster.com/dictionary/dead%20of%20night",
     "status": "draft",
     "checker": null
   },
@@ -201,6 +202,7 @@
     "anchor": "cared a pin for his life",
     "layer": "vocab",
     "note": "Cared a pin: cared at all (a pin being nearly worthless).",
+    "source": "Merriam-Webster, “pin”, https://www.merriam-webster.com/dictionary/pin",
     "status": "draft",
     "checker": null
   },
@@ -218,7 +220,7 @@
     "anchor": "Your blood be on your own head",
     "layer": "allusion",
     "note": "A biblical formula meaning you are responsible for your own death; similar words appear in Joshua and 2 Samuel.",
-    "source": "The Bible (King James Version), 2 Samuel 1:16",
+    "source": "The Bible (King James Version), Joshua 2:19; 2 Samuel 1:16, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -235,8 +237,8 @@
     "id": "ch30-027",
     "anchor": "peered into the campong",
     "layer": "vocab",
-    "note": "Campong (kampong): a Malay village or fenced compound.",
-    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “kampong”",
+    "note": "Campong (kampong): a Malay village or settlement.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “kampong”, https://archive.org/details/aeg2034.0001.001.umich.edu",
     "status": "draft",
     "checker": null
   },
@@ -360,6 +362,7 @@
     "anchor": "quite beside himself",
     "layer": "vocab",
     "note": "Beside himself: out of control with emotion.",
+    "source": "Merriam-Webster, “beside oneself”, https://www.merriam-webster.com/dictionary/beside%20oneself",
     "status": "draft",
     "checker": null
   },
@@ -368,6 +371,7 @@
     "anchor": "dance to his own tune",
     "layer": "vocab",
     "note": "Dance to his own tune: do whatever he wanted.",
+    "source": "Merriam-Webster, “dance to someone's tune”, https://www.merriam-webster.com/dictionary/dance%20to%20someone%27s%20tune",
     "status": "draft",
     "checker": null
   },
@@ -385,7 +389,6 @@
     "anchor": "off his chump",
     "layer": "vocab",
     "note": "Off his chump: out of his mind, crazy (British slang).",
-    "source": "Merriam-Webster, “chump”, https://www.merriam-webster.com/dictionary/chump",
     "status": "draft",
     "checker": null
   },

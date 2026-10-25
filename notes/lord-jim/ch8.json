@@ -13,6 +13,7 @@
     "anchor": "toss him like a chip",
     "layer": "vocab",
     "note": "A chip: a small piece of wood tossed by the waves.",
+    "source": "Merriam-Webster, “chip”, https://www.merriam-webster.com/dictionary/chip",
     "status": "draft",
     "checker": null
   },
@@ -109,6 +110,7 @@
     "anchor": "on strict allowance",
     "layer": "vocab",
     "note": "On strict allowance: given only a fixed, limited amount of water.",
+    "source": "Merriam-Webster, “allowance”, https://www.merriam-webster.com/dictionary/allowance",
     "status": "draft",
     "checker": null
   },
@@ -126,7 +128,7 @@
     "anchor": "off the chocks",
     "layer": "vocab",
     "note": "Chocks: wooden blocks that a ship’s boat rests on when stowed.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Chocks”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Boat-chocks”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -368,6 +370,7 @@
     "anchor": "a jolly good rise out of me",
     "layer": "vocab",
     "note": "Take a rise out of: tease someone to make them react.",
+    "source": "Merriam-Webster, “rise”, https://www.merriam-webster.com/dictionary/rise",
     "status": "draft",
     "checker": null
   },
@@ -376,6 +379,7 @@
     "anchor": "confident that, on the square",
     "layer": "vocab",
     "note": "On the square: honestly, fairly.",
+    "source": "Merriam-Webster, “on the square”, https://www.merriam-webster.com/dictionary/on%20the%20square",
     "status": "draft",
     "checker": null
   },
@@ -536,7 +540,7 @@
     "anchor": "the sword hanging by a hair",
     "layer": "allusion",
     "note": "The sword of Damocles. In an ancient story told by Cicero, the tyrant Dionysius seated the courtier Damocles at a feast beneath a sword hung by a single horsehair, to show the constant danger a ruler lives under.",
-    "source": "Cicero, Tusculan Disputations 5.61–62; Encyclopaedia Britannica, “Damocles”, https://www.britannica.com/topic/Damocles",
+    "source": "Cicero, Tusculan Disputations, Book 5, ch. 21 (5.61–62), trans. C. D. Yonge (1877), https://www.gutenberg.org/ebooks/14988",
     "status": "draft",
     "checker": null
   },
@@ -571,8 +575,8 @@
     "id": "ch8-066",
     "anchor": "the power to bind and to loose",
     "layer": "allusion",
-    "note": "In the Gospel of Matthew, Jesus tells Peter that what he binds on earth will be bound in heaven and what he looses will be loosed. The Church took this as the power to forgive or not forgive sins.",
-    "source": "The Bible (King James Version), Matthew 16:19",
+    "note": "In the Gospel of Matthew, Jesus tells Peter that whatever he binds on earth will be bound in heaven, and whatever he looses on earth will be loosed in heaven.",
+    "source": "The Bible (King James Version), Matthew 16:19, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -625,7 +629,7 @@
     "id": "ch8-072",
     "anchor": "a counterfeit farthing",
     "layer": "history",
-    "note": "A farthing was a British coin worth a quarter of a penny, the smallest coin in use. A counterfeit (fake) farthing was worth nothing at all, so the phrase means “not the slightest bet.”",
+    "note": "A farthing was a British coin worth a quarter of a penny. A counterfeit (fake) farthing was worth nothing at all.",
     "source": "Merriam-Webster, “farthing”, https://www.merriam-webster.com/dictionary/farthing",
     "status": "draft",
     "checker": null
@@ -786,8 +790,8 @@
     "id": "ch8-090",
     "anchor": "the tesselated floor",
     "layer": "vocab",
-    "note": "Tesselated: laid in small square tiles forming a pattern.",
-    "source": "Merriam-Webster, “tessellated”, https://www.merriam-webster.com/dictionary/tessellated",
+    "note": "Tesselated: laid in a checkered pattern, like a mosaic.",
+    "source": "Merriam-Webster, “tessellated”, https://www.merriam-webster.com/dictionary/tessellated; Merriam-Webster, “tessellate”, https://www.merriam-webster.com/dictionary/tessellate",
     "status": "draft",
     "checker": null
   },

@@ -4,6 +4,7 @@
     "anchor": "a narrow by-channel",
     "layer": "vocab",
     "note": "By-channel: a side channel off the main river.",
+    "source": "Merriam-Webster, “by-channel”, https://www.merriam-webster.com/dictionary/by-channel",
     "status": "draft",
     "checker": null
   },
@@ -192,7 +193,7 @@
     "anchor": "had sprung a bad leak",
     "layer": "vocab",
     "note": "Sprung a leak: developed a leak, begun letting in water.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Spring a leak”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Leak”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },

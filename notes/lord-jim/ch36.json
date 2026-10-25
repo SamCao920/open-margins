@@ -12,8 +12,8 @@
     "id": "ch36-002",
     "anchor": "his abstract, pensive gaze",
     "layer": "vocab",
-    "note": "Abstract here means absent-minded, lost in thought.",
-    "source": "Merriam-Webster, “abstract”, https://www.merriam-webster.com/dictionary/abstract",
+    "note": "Abstract here means abstracted: absent-minded, lost in thought.",
+    "source": "Merriam-Webster, “abstracted”, https://www.merriam-webster.com/dictionary/abstracted",
     "status": "draft",
     "checker": null
   },
@@ -75,8 +75,8 @@
     "id": "ch36-009",
     "anchor": "the Ever-undiscovered Country",
     "layer": "allusion",
-    "note": "An echo of Hamlet’s description of death as “the undiscover’d country from whose bourn no traveller returns.”",
-    "source": "William Shakespeare, Hamlet, Act 3, Scene 1",
+    "note": "An echo of Hamlet’s description of death as “The undiscover’d country, from whose bourn / No traveller returns.”",
+    "source": "William Shakespeare, Hamlet, Act 3, Scene 1, https://www.gutenberg.org/ebooks/100",
     "status": "draft",
     "checker": null
   },
@@ -271,7 +271,7 @@
     "id": "ch36-031",
     "anchor": "The good old parson",
     "layer": "vocab",
-    "note": "Parson: a parish clergyman of the Church of England.",
+    "note": "Parson: a clergyman in charge of a parish.",
     "source": "Merriam-Webster, “parson”, https://www.merriam-webster.com/dictionary/parson",
     "status": "draft",
     "checker": null
@@ -280,8 +280,8 @@
     "id": "ch36-032",
     "anchor": "Tom had “taken orders.”",
     "layer": "vocab",
-    "note": "Taken orders: been ordained as a clergyman.",
-    "source": "Merriam-Webster, “orders”, https://www.merriam-webster.com/dictionary/orders",
+    "note": "Taken orders: been ordained as a clergyman. Holy orders are the rite of ordination.",
+    "source": "Merriam-Webster, “holy orders”, https://www.merriam-webster.com/dictionary/holy%20orders",
     "status": "draft",
     "checker": null
   },
@@ -371,7 +371,7 @@
     "anchor": "bone of his bone and flesh of his flesh",
     "layer": "allusion",
     "note": "Words from Genesis, where Adam says of Eve that she is “bone of my bones, and flesh of my flesh”: here, his closest family.",
-    "source": "The Bible (King James Version), Genesis 2:23",
+    "source": "The Bible (King James Version), Genesis 2:23, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -389,7 +389,7 @@
     "anchor": "who toys with the sword shall perish by the sword",
     "layer": "allusion",
     "note": "An echo of Jesus’s words in the Gospel of Matthew: “all they that take the sword shall perish with the sword.”",
-    "source": "The Bible (King James Version), Matthew 26:52",
+    "source": "The Bible (King James Version), Matthew 26:52, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -398,6 +398,7 @@
     "anchor": "the year of grace before last",
     "layer": "vocab",
     "note": "Year of grace: a year of the Christian era, Anno Domini.",
+    "source": "Merriam-Webster, “year of grace”, https://www.merriam-webster.com/dictionary/year%20of%20grace",
     "status": "draft",
     "checker": null
   },
