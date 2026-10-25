@@ -32,6 +32,7 @@ site/                      Static site: home page (index.html), book contents (b
 site/fonts/                EB Garamond web fonts (SIL Open Font License, see OFL.txt)
 scripts/check_notes.py     Checks notes against the schema and the chapter text
 .github/workflows/pages.yml  Deploys site/, texts/, and notes/ to GitHub Pages
+.claude/skills/impeccable/  Impeccable design skill for Claude Code (Apache 2.0), run with /impeccable
 ```
 
 To preview locally, run `python3 -m http.server` in the repository root and open `http://localhost:8000/site/`.

@@ -5,20 +5,20 @@
 
   const KEY = 'scholia.prefs';
   const FONTS = {
+    oldstandard: '"Old Standard", "Century Schoolbook", "New Century Schoolbook", Georgia, serif',
     garamond: '"EB Garamond", Garamond, "Iowan Old Style", Georgia, serif',
     georgia: 'Georgia, "Times New Roman", serif',
     palatino: '"Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", serif',
     charter: 'Charter, "Bitstream Charter", "Sitka Text", Cambria, serif',
     sans: 'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
   };
-  // Measures are in ems of the text size, so the column grows with the type.
-  const WIDTHS = { narrow: '28em', medium: '32em', wide: '36em' };
-  const DEFAULTS = { theme: 'auto', font: 'garamond', size: 100, width: 'medium', notes: 'approach' };
-  const SIZE_MIN = 80, SIZE_MAX = 150, SIZE_STEP = 10;
+  // Line length is in ems of the text size, so the column grows with the type.
+  const DEFAULTS = { theme: 'auto', font: 'oldstandard', size: 100, width: 36, notes: 'approach' };
+  const SIZE_MIN = 80, SIZE_MAX = 150;
+  const WIDTH_MIN = 26, WIDTH_MAX = 46;
   const ALLOWED = {
     theme: ['auto', 'light', 'dark'],
     font: Object.keys(FONTS),
-    width: Object.keys(WIDTHS),
     notes: ['approach', 'always'],
   };
 
@@ -29,6 +29,8 @@
     Object.keys(ALLOWED).forEach(k => { if (ALLOWED[k].includes(saved[k])) p[k] = saved[k]; });
     const size = Number(saved.size);
     if (size >= SIZE_MIN && size <= SIZE_MAX) p.size = size;
+    const width = Number(saved.width);
+    if (width >= WIDTH_MIN && width <= WIDTH_MAX) p.width = width;
     return p;
   }
 
@@ -45,7 +47,7 @@
     else root.dataset.theme = prefs.theme;
     root.style.setProperty('--font', FONTS[prefs.font]);
     root.style.setProperty('--scale', String(prefs.size / 100));
-    root.style.setProperty('--measure', WIDTHS[prefs.width]);
+    root.style.setProperty('--measure', prefs.width + 'em');
     root.dataset.notes = prefs.notes;
   }
 
@@ -64,6 +66,7 @@
     });
     document.querySelectorAll('select[data-pref]').forEach(s => { s.value = prefs[s.dataset.pref]; });
     document.querySelectorAll('[data-size-out]').forEach(o => { o.textContent = prefs.size + '%'; });
+    document.querySelectorAll('input[type=range][data-pref]').forEach(r => { r.value = prefs[r.dataset.pref]; });
     document.querySelectorAll('[data-size-step]').forEach(b => {
       const step = Number(b.dataset.sizeStep);
       b.disabled = step < 0 ? prefs.size <= SIZE_MIN : prefs.size >= SIZE_MAX;
@@ -81,6 +84,11 @@
     });
     document.querySelectorAll('select[data-pref]').forEach(s => {
       s.addEventListener('change', () => set(s.dataset.pref, s.value));
+    });
+    document.querySelectorAll('input[type=range][data-pref]').forEach(r => {
+      r.min = WIDTH_MIN;
+      r.max = WIDTH_MAX;
+      r.addEventListener('input', () => set(r.dataset.pref, Number(r.value)));
     });
     document.querySelectorAll('[data-size-step]').forEach(b => {
       b.addEventListener('click', () => {

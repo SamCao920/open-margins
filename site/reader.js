@@ -1,6 +1,7 @@
 // Scholia chapter reader. Loads a chapter's text and notes and marks anchors.
-// Wide screens: the text keeps a fixed reading width in the centre, and notes
-// sit in panels on either side that open when the pointer nears that side.
+// Wide screens: the text keeps a set reading width in the centre. Hovering an
+// anchor shows just its note beside it; moving the pointer into a margin
+// opens that side's panel with all of its notes.
 // Narrow screens: tapping an anchor opens its note under the paragraph.
 (function () {
   'use strict';
@@ -10,16 +11,19 @@
   const LAYER_NAMES = { vocab: 'Vocab', allusion: 'Allusion', history: 'History', place: 'Place' };
   // Vocabulary goes on the right; references to the wider world on the left.
   const SIDE = { vocab: 'right', allusion: 'left', history: 'left', place: 'left' };
+  // Each layer has a printer's reference mark, shown in the margin and notes.
+  const REF = { vocab: '*', allusion: '\u2020', history: '\u00a7', place: '\u00b6' };
   const STORE_KEY = 'scholia.layers';
 
-  const GAP = 24;          // space between the text and a panel
-  const EDGE = 12;         // space between a panel and the window edge
-  const MIN_PANEL = 240;
-  const MAX_PANEL = 360;
-  // Below this gutter width there is no room for a panel even with the text
-  // slid aside, so notes open under the paragraph instead.
-  const MIN_GUTTER = (MIN_PANEL + GAP + EDGE) / 2;
-  const NOTE_GAP = 6;
+  const GAP = 20;          // space between the text and a panel
+  const EDGE = 16;         // space between a panel and the window edge
+  const MIN_FOCUS = 170;   // narrowest a single note may be set in the margin
+  const MIN_PANEL = 300;
+  const MAX_PANEL = 440;
+  // Below this gutter width a single note can't sit in the margin without
+  // covering the text, so notes open under the paragraph instead.
+  const MIN_GUTTER = MIN_FOCUS + GAP + EDGE;
+  const NOTE_GAP = 3;
 
   const params = new URLSearchParams(location.search);
   const bookId = BOOKS[params.get('book')] ? params.get('book') : 'lord-jim';
@@ -37,8 +41,7 @@
     'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI', 'XXII', 'XXIII', 'XXIV', 'XXV', 'XXVI', 'XXVII', 'XXVIII', 'XXIX', 'XXX',
     'XXXI', 'XXXII', 'XXXIII', 'XXXIV', 'XXXV', 'XXXVI', 'XXXVII', 'XXXVIII', 'XXXIX', 'XL', 'XLI', 'XLII', 'XLIII', 'XLIV', 'XLV'];
   const chName = n => 'Chapter ' + (ROMAN[n - 1] || n);
-  document.getElementById('title').textContent = chName(ch);
-  document.getElementById('eyebrow').textContent = book.title;
+  document.getElementById('title').textContent = chName(ch) + '.';
   document.getElementById('crumb-chapter').textContent = chName(ch);
   document.title = book.title + ', ' + chName(ch) + ' · Scholia';
   const bookLink = document.getElementById('book-link');
@@ -93,16 +96,18 @@
   // ----- Chapter navigation -----
   const chapterHref = n => 'chapter.html?book=' + bookId + '&ch=' + n;
   document.getElementById('chapnav').innerHTML =
-    (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '">&larr; ' + chName(ch - 1) + '</a>' : '<span></span>') +
-    '<a href="book.html?book=' + bookId + '">Contents</a>' +
-    (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '">' + chName(ch + 1) + ' &rarr;</a>' : '<span></span>');
+    '<span class="prev">' + (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '" rel="prev"><span class="dir">Previous</span> ' + chName(ch - 1) + '</a>' : '') + '</span>' +
+    '<span class="toc-link"><a href="book.html?book=' + bookId + '">Contents</a></span>' +
+    '<span class="next">' + (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '" rel="next"><span class="dir">Next</span> ' + chName(ch + 1) + '</a>' : '') + '</span>';
 
   // ----- Rendering -----
   function noteHtml(n) {
-    return '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
+    return '<span class="ref" aria-hidden="true">' + REF[n.layer] + '</span>' +
+      '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
       '<span class="term">' + escapeHtml(n.anchor) + '</span>' +
-      (n.status === 'draft' ? '<span class="draft-label">unverified</span>' : '') +
-      ' ' + escapeHtml(n.note) +
+      (n.status === 'draft' ? '<span class="draft-tag">unverified</span>' : '') +
+      '<span class="gloss">' + escapeHtml(n.note) + '</span><span class="gloss-short"></span>' +
+      (n.status === 'draft' ? ' <span class="draft-label">(unverified)</span>' : '') +
       (n.source ? '<span class="source">Source: ' + linkify(n.source) + '</span>' : '');
   }
 
@@ -168,11 +173,6 @@
       r.placed.forEach(n => {
         const side = SIDE[n.layer];
         panels[side].appendChild(makeNote(n));
-        const tick = document.createElement('span');
-        tick.className = 'tick';
-        tick.dataset.layer = n.layer;
-        tick.dataset.id = n.id;
-        ticks[side].appendChild(tick);
       });
     });
     notes.filter(n => !used.has(n.id)).forEach(n =>
@@ -183,7 +183,9 @@
   // ----- Layout -----
   // fits: both panels fit beside the text. Otherwise an open panel slides
   // the text toward the other side by `shift`, so the text is never covered.
-  const geo = { inline: true, fits: false, textLeft: 0, textRight: 0, shift: 0 };
+  const geo = { inline: true, fits: false, textLeft: 0, textRight: 0, shift: 0, room: 0, panelWidth: 0, panelLeft: {} };
+  // An anchor's own line: the first line box it sits on (it may wrap).
+  const lineOf = a => a.getClientRects()[0] || a.getBoundingClientRect();
   const anchorFor = id => textEl.querySelector('.anchor[data-id="' + id + '"]');
 
   function layout() {
@@ -192,90 +194,161 @@
     geo.textRight = columnEl.offsetLeft + columnEl.offsetWidth;
     const gutter = Math.min(geo.textLeft, rr.width - geo.textRight);
     const inline = gutter < MIN_GUTTER;
-    if (inline !== geo.inline) { clearActive(); state.hover = state.peek = null; }
+    if (inline !== geo.inline) { clearActive(); state.hover = state.peekId = null; }
     geo.inline = inline;
     document.body.classList.toggle('inline-mode', inline);
     if (inline) { applyOpen(); return; }
 
     const room = gutter - GAP - EDGE;
+    geo.room = Math.min(MAX_PANEL, room);
     geo.fits = room >= MIN_PANEL;
     document.body.dataset.fits = geo.fits ? 'yes' : 'no';
     const width = Math.max(MIN_PANEL, Math.min(MAX_PANEL, room));
     panels.left.style.width = panels.right.style.width = width + 'px';
-    panels.left.style.left = Math.max(EDGE, geo.textLeft - GAP - width) + 'px';
-    panels.right.style.left = Math.min(geo.textRight + GAP, rr.width - width - EDGE) + 'px';
+    geo.panelWidth = width;
+    geo.panelLeft = {
+      left: Math.max(EDGE, geo.textLeft - GAP - width),
+      right: Math.min(geo.textRight + GAP, rr.width - width - EDGE),
+    };
+    panels.left.style.left = geo.panelLeft.left + 'px';
+    panels.right.style.left = geo.panelLeft.right + 'px';
     geo.shift = Math.max(0, width + GAP + EDGE - geo.textLeft);
-    ticks.left.style.left = (geo.textLeft - 16) + 'px';
-    ticks.right.style.left = (geo.textRight + 8) + 'px';
+    ticks.left.style.left = (geo.textLeft - 10 - ticks.left.offsetWidth) + 'px';
+    ticks.right.style.left = (geo.textRight + 10) + 'px';
 
-    let bottom = 0;
     ['left', 'right'].forEach(side => {
-      bottom = Math.max(bottom, placeNotes(side, rr.top));
+      placeNotes(side, rr.top);
+      placeTicks(side, rr.top);
     });
-    readerEl.style.minHeight = '';
-    const height = Math.max(bottom, readerEl.offsetHeight);
-    readerEl.style.minHeight = height + 'px';
-    panels.left.style.height = panels.right.style.height = height + 'px';
+    panels.left.style.height = panels.right.style.height = readerEl.offsetHeight + 'px';
     applyOpen();
   }
 
-  // Place one side's notes as close to their anchors as possible. Notes that
-  // would overlap are grouped, and each group is centred on its anchors.
+  // Place one side's notes level with their anchors' lines. A note never
+  // rises above its own line; it only moves down to clear the one before.
+  // Only notes for lines on screen are set, so a dense chapter's margin
+  // never drifts far from the text being read; scrolling re-sets them.
+  //
+  // Each note is cut to the lines that fit before the next note's line
+  // (at least one), so a crowded passage gets shorter notes rather than
+  // notes that slide away from their text. Hover or pin shows a note whole.
   function placeNotes(side, top) {
+    const viewTop = -40, viewBottom = window.innerHeight;
     const items = [];
     panels[side].querySelectorAll('.note').forEach(el => {
       if (getComputedStyle(el).display === 'none') return;
       const a = anchorFor(el.dataset.id);
       if (!a) return;
-      const r = a.getBoundingClientRect();
-      items.push({ el, want: r.top - top, h: el.offsetHeight });
-      const tick = ticks[side].querySelector('.tick[data-id="' + el.dataset.id + '"]');
-      if (tick) tick.style.top = (r.top - top + r.height / 2) + 'px';
+      const lineTop = lineOf(a).top;
+      const onScreen = lineTop >= viewTop && lineTop <= viewBottom;
+      el.classList.toggle('offscreen', !onScreen);
+      if (onScreen) items.push({ el, want: lineTop - top });
     });
-    const groups = [];
-    items.forEach(it => {
-      let g = { items: [it], h: it.h, offsetSum: it.want, top: Math.max(0, it.want) };
-      while (groups.length) {
-        const prev = groups[groups.length - 1];
-        if (prev.top + prev.h + NOTE_GAP <= g.top) break;
-        groups.pop();
-        let offsetSum = prev.offsetSum;
-        let off = prev.h + NOTE_GAP;
-        g.items.forEach(x => { offsetSum += x.want - off; off += x.h + NOTE_GAP; });
-        const n = prev.items.length + g.items.length;
-        g = { items: prev.items.concat(g.items), h: prev.h + NOTE_GAP + g.h, offsetSum, top: 0 };
-        g.top = Math.max(0, offsetSum / n);
-      }
-      groups.push(g);
+    let floor = 0;
+    items.forEach((it, i) => {
+      const y = Math.max(it.want, floor);
+      const next = items[i + 1] ? items[i + 1].want : Infinity;
+      const lh = parseFloat(getComputedStyle(it.el).lineHeight) || 18;
+      const lines = Math.max(1, Math.min(6, Math.floor((next - y - NOTE_GAP) / lh)));
+      fitNote(it.el, lines, lh);
+      it.el.style.top = y + 'px';
+      it.el.style.paddingBottom = '';
+      floor = y + it.el.offsetHeight + NOTE_GAP;
     });
-    let bottom = 0;
-    groups.forEach(g => {
-      let y = g.top;
-      g.items.forEach(x => { x.el.style.top = y + 'px'; y += x.h + NOTE_GAP; });
-      bottom = y;
-    });
-    return bottom;
+    return floor;
   }
 
-  // ----- Opening panels -----
-  // hover: the pointer is in that side's gutter or inside its open panel.
-  // peek: the pointer is on an anchor whose note lives on that side.
-  // pinned: an anchor was clicked; stays open until dismissed.
-  const state = { hover: null, peek: null, pinned: null };
+  // Trim a margin note's gloss to whole words so the note fits in `lines`
+  // lines. The lemma is never cut, and at least the gloss's first words
+  // always show. An ellipsis marks the cut unless the kept text ends a
+  // sentence. Results are cached per note, width, and lines.
+  function fitNote(el, lines, lh) {
+    const key = lines + '|' + el.clientWidth;
+    if (el.dataset.fitKey === key) return;
+    el.dataset.fitKey = key;
+    const full = el.querySelector('.gloss').textContent;
+    const shortEl = el.querySelector('.gloss-short');
+    const words = full.split(' ');
+    const tooTall = () => el.offsetHeight > lines * lh + 4;
+    el.classList.remove('clamped');
+    if (!tooTall()) return;
+    el.classList.add('clamped');
+    const show = k => {
+      const text = words.slice(0, k).join(' ');
+      // A full sentence ending needs no ellipsis; a comma or bracket does.
+      shortEl.textContent = /[.!?]["\u201d]?$/.test(text) ? text : text.replace(/[\s,;:]+$/, '') + '\u2026';
+    };
+    // Never fewer than three words of gloss, even if that costs a line.
+    let lo = Math.min(3, words.length), hi = words.length - 1;
+    show(lo);
+    if (tooTall()) return;
+    while (lo < hi) {
+      const mid = Math.ceil((lo + hi) / 2);
+      show(mid);
+      if (tooTall()) hi = mid - 1; else lo = mid;
+    }
+    show(lo);
+  }
+  let scrollFrame = 0;
+  window.addEventListener('scroll', () => {
+    if (geo.inline || scrollFrame) return;
+    scrollFrame = requestAnimationFrame(() => {
+      scrollFrame = 0;
+      const top = readerEl.getBoundingClientRect().top;
+      ['left', 'right'].forEach(side => placeNotes(side, top));
+    });
+  }, { passive: true });
+
+  // One reference mark per annotated line in each gutter, on that line.
+  // When several notes share a line their marks sit side by side.
+  function placeTicks(side, top) {
+    const lines = new Map();
+    panels[side].querySelectorAll('.note').forEach(el => {
+      const n = notesById[el.dataset.id];
+      const a = anchorFor(el.dataset.id);
+      if (!n || !a || !layersOn[n.layer]) return;
+      const r = lineOf(a);
+      const key = Math.round(r.top);
+      if (!lines.has(key)) lines.set(key, { top: r.top - top, height: r.height, ids: [], marks: [] });
+      const line = lines.get(key);
+      line.ids.push(n.id);
+      if (!line.marks.includes(REF[n.layer])) line.marks.push(REF[n.layer]);
+    });
+    ticks[side].innerHTML = '';
+    lines.forEach(line => {
+      const t = document.createElement('span');
+      t.className = 'tick';
+      t.dataset.ids = line.ids.join(' ');
+      t.textContent = line.marks.join('');
+      t.style.top = line.top + 'px';
+      t.style.height = t.style.lineHeight = line.height + 'px';
+      if (state.pinId && line.ids.includes(state.pinId)) t.classList.add('active');
+      ticks[side].appendChild(t);
+    });
+  }
+  const ticksFor = id => document.querySelectorAll('.tick[data-ids~="' + id + '"]');
+
+  // ----- Opening panels and single notes -----
+  // hover: the pointer is in that side's gutter or inside its open panel;
+  //   the whole panel opens.
+  // peekId: the pointer is on an anchor; only that note shows, beside it.
+  // pinId: an anchor was clicked; its note stays (with its source) until
+  //   dismissed.
+  const state = { hover: null, peekId: null, pinId: null, overFocus: false };
+
+  const focusEl = document.createElement('div');
+  focusEl.className = 'note focus-note';
+  focusEl.setAttribute('role', 'note');
+  readerEl.appendChild(focusEl);
 
   function applyOpen() {
     const open = { left: false, right: false };
     if (!geo.inline && geo.fits) {
       const always = document.documentElement.dataset.notes === 'always';
-      ['left', 'right'].forEach(side => {
-        open[side] = always || state.hover === side || state.peek === side || state.pinned === side;
-      });
-    } else if (!geo.inline) {
+      ['left', 'right'].forEach(side => { open[side] = always || state.hover === side; });
+    } else if (!geo.inline && state.hover) {
       // Only one panel at a time when the text has to slide aside for it.
-      // Hovering an anchor doesn't open it here: the text would slide out
-      // from under the pointer.
-      const side = state.hover || state.pinned;
-      if (side) open[side] = true;
+      open[state.hover] = true;
     }
     ['left', 'right'].forEach(side => {
       panels[side].classList.toggle('open', open[side]);
@@ -283,6 +356,36 @@
     });
     const shift = geo.fits || geo.inline ? 0 : open.left ? geo.shift : open.right ? -geo.shift : 0;
     readerEl.style.setProperty('--shift', shift + 'px');
+    showFocus(open);
+  }
+
+  // Show one note on its own beside its anchor, unless its side's panel is
+  // already open (then the panel highlights it instead).
+  function showFocus(open) {
+    const id = state.peekId || (state.overFocus && focusEl.dataset.id) || state.pinId;
+    const n = id && notesById[id];
+    const a = n && anchorFor(id);
+    if (geo.inline || !n || !a || !layersOn[n.layer] || open[SIDE[n.layer]]) {
+      focusEl.classList.remove('shown');
+      return;
+    }
+    const pinned = id === state.pinId;
+    if (focusEl.dataset.id !== id || focusEl.classList.contains('pinned') !== pinned) {
+      focusEl.dataset.id = id;
+      focusEl.dataset.layer = n.layer;
+      focusEl.innerHTML = noteHtml(n);
+      focusEl.classList.toggle('pinned', pinned);
+    }
+    const side = SIDE[n.layer];
+    const rr = readerEl.getBoundingClientRect();
+    // It always sits in the free margin beside the anchor's line, narrowed
+    // to the margin when the margin is narrower than a panel: it never
+    // covers the text.
+    const width = geo.fits ? geo.panelWidth : geo.room;
+    focusEl.style.width = width + 'px';
+    focusEl.style.left = (side === 'left' ? geo.textLeft - GAP - width : geo.textRight + GAP) + 'px';
+    focusEl.style.top = (lineOf(a).top - rr.top) + 'px';
+    focusEl.classList.add('shown');
   }
 
   let lastMove = null;
@@ -294,6 +397,10 @@
     const inPanel = ev.target.closest && ev.target.closest('.panel.open');
     if (inPanel) {
       state.hover = inPanel === panels.left ? 'left' : 'right';
+    } else if (ev.target.closest && ev.target.closest('.bar')) {
+      state.hover = null; // the top bar and settings menu aren't the margin
+    } else if (ev.target.closest && ev.target.closest('.focus-note')) {
+      state.hover = null; // reading a single note shouldn't open the whole side
     } else {
       const x = ev.clientX - readerEl.getBoundingClientRect().left;
       state.hover = x < geo.textLeft - 8 ? 'left' : x > geo.textRight + 8 ? 'right' : null;
@@ -309,13 +416,28 @@
   function clearActive() {
     document.querySelectorAll('.anchor.active, .note.active, .tick.active').forEach(el => el.classList.remove('active'));
     textEl.querySelectorAll('.inline-note').forEach(el => el.remove());
-    state.pinned = null;
+    state.pinId = null;
   }
 
   function setHover(id, on) {
     const a = anchorFor(id);
     if (a) a.classList.toggle('hover', on);
-    document.querySelectorAll('.note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.toggle('hover', on));
+    document.querySelectorAll('.panel .note[data-id="' + id + '"]').forEach(el => {
+      el.classList.toggle('hover', on);
+      el.style.paddingBottom = '';
+      if (!on) return;
+      // A whole note shown over its neighbours: let its wash cover the next
+      // note's whole first line instead of slicing through its letters.
+      let next = el.nextElementSibling;
+      while (next && (next.classList.contains('offscreen') || getComputedStyle(next).display === 'none')) next = next.nextElementSibling;
+      if (!next) return;
+      const bottom = el.offsetTop + el.offsetHeight;
+      if (bottom <= next.offsetTop) return;
+      const lh = parseFloat(getComputedStyle(next).lineHeight) || 18;
+      const target = next.offsetTop + lh + 4;
+      if (bottom < target) el.style.paddingBottom = (target - bottom + parseFloat(getComputedStyle(el).paddingBottom)) + 'px';
+    });
+    ticksFor(id).forEach(el => el.classList.toggle('hover', on));
   }
 
   function activate(anchor) {
@@ -334,17 +456,20 @@
       return;
     }
 
+    const wasPinned = state.pinId === id;
     clearActive();
+    if (wasPinned) { applyOpen(); return; }
     anchor.classList.add('active');
-    document.querySelectorAll('.panel .note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.add('active'));
-    state.pinned = SIDE[n.layer];
-    layout(); // the active note shows its source, so heights change
+    document.querySelectorAll('.panel .note[data-id="' + id + '"]').forEach(el => el.classList.add('active'));
+    ticksFor(id).forEach(el => el.classList.add('active'));
+    state.pinId = id;
+    layout(); // the active panel note shows its source, so heights change
   }
 
   textEl.addEventListener('click', e => {
     const a = e.target.closest('.anchor');
     if (a) activate(a);
-    else if (state.pinned || textEl.querySelector('.inline-note')) { clearActive(); applyOpen(); }
+    else if (state.pinId || textEl.querySelector('.inline-note')) { clearActive(); applyOpen(); }
   });
   textEl.addEventListener('keydown', e => {
     const a = e.target.closest('.anchor');
@@ -353,16 +478,23 @@
   textEl.addEventListener('mouseover', e => {
     const a = e.target.closest('.anchor');
     if (!a || geo.inline || !layersOn[a.dataset.layer]) return;
-    state.peek = SIDE[a.dataset.layer];
+    state.peekId = a.dataset.id;
     setHover(a.dataset.id, true);
     applyOpen();
   });
   textEl.addEventListener('mouseout', e => {
     const a = e.target.closest('.anchor');
     if (!a) return;
-    state.peek = null;
+    state.peekId = null;
     setHover(a.dataset.id, false);
     applyOpen();
+  });
+  focusEl.addEventListener('mouseenter', () => { state.overFocus = true; });
+  focusEl.addEventListener('mouseleave', () => { state.overFocus = false; applyOpen(); });
+  focusEl.addEventListener('click', e => {
+    if (e.target.closest('a') || state.pinId === focusEl.dataset.id) return;
+    const a = anchorFor(focusEl.dataset.id);
+    if (a) activate(a);
   });
   ['left', 'right'].forEach(side => {
     panels[side].addEventListener('click', e => {
@@ -381,8 +513,21 @@
     });
   });
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape' && (state.pinned || textEl.querySelector('.inline-note'))) { clearActive(); applyOpen(); }
+    if (e.key === 'Escape' && (state.pinId || textEl.querySelector('.inline-note'))) { clearActive(); applyOpen(); }
   });
+
+  // Report the real line length (average characters per line) next to the
+  // line-length slider.
+  const measureOut = document.querySelector('[data-measure-out]');
+  function updateMeasure() {
+    if (!measureOut) return;
+    const ctx = document.createElement('canvas').getContext('2d');
+    const cs = getComputedStyle(columnEl);
+    ctx.font = cs.fontSize + ' ' + cs.fontFamily;
+    const sample = textEl.textContent.slice(0, 2000) || 'the quick brown fox jumps over the lazy dog';
+    const avg = ctx.measureText(sample).width / sample.length;
+    measureOut.textContent = '· about ' + Math.round(columnEl.clientWidth / avg) + ' characters';
+  }
 
   let resizeTimer;
   window.addEventListener('resize', () => {
@@ -391,9 +536,10 @@
   });
   document.addEventListener('scholia:prefs', () => {
     layout();
+    updateMeasure();
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
   });
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { layout(); updateMeasure(); });
 
   // ----- Load -----
   (async function () {
@@ -408,5 +554,6 @@
     // Only verified and draft notes are shown; cut notes never are.
     const notes = all.filter(n => (n.status === 'verified' || n.status === 'draft') && LAYERS.includes(n.layer));
     render(raw, notes);
+    updateMeasure();
   })();
 })();
