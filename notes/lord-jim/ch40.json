@@ -1,0 +1,433 @@
+[
+  {
+    "id": "ch40-001",
+    "anchor": "for a second string",
+    "layer": "vocab",
+    "note": "A second string: a backup plan, a reserve choice.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-002",
+    "anchor": "he was not averse",
+    "layer": "vocab",
+    "note": "Averse: opposed to, unwilling to do something.",
+    "source": "Merriam-Webster, “averse”, https://www.merriam-webster.com/dictionary/averse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-003",
+    "anchor": "The lust of battle",
+    "layer": "vocab",
+    "note": "Lust: a strong, eager, greedy desire.",
+    "source": "Merriam-Webster, “lust”, https://www.merriam-webster.com/dictionary/lust",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-004",
+    "anchor": "an undisguised ruthlessness",
+    "layer": "vocab",
+    "note": "Undisguised: open, not hidden. Ruthlessness: lack of pity.",
+    "source": "Merriam-Webster, “ruthless”, https://www.merriam-webster.com/dictionary/ruthless",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-005",
+    "anchor": "the righteousness of his will",
+    "layer": "vocab",
+    "note": "Righteousness: being morally right, justified.",
+    "source": "Merriam-Webster, “righteous”, https://www.merriam-webster.com/dictionary/righteous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-006",
+    "anchor": "a horde of wandering cut-throats",
+    "layer": "vocab",
+    "note": "Horde: a huge crowd. Cut-throats: murderers.",
+    "source": "Merriam-Webster, “horde”, https://www.merriam-webster.com/dictionary/horde",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-007",
+    "anchor": "the Scourge of God",
+    "layer": "history",
+    "note": "“Scourge of God” was the name given to Attila, the 5th-century king of the Huns who ravaged the Roman Empire.",
+    "source": "Encyclopaedia Britannica, “Attila”, https://www.britannica.com/biography/Attila-king-of-the-Huns",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-008",
+    "anchor": "an overbearing, offhand manner",
+    "layer": "vocab",
+    "note": "Overbearing: bossy, proud, and domineering.",
+    "source": "Merriam-Webster, “overbearing”, https://www.merriam-webster.com/dictionary/overbearing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-009",
+    "anchor": "to play havoc",
+    "layer": "vocab",
+    "note": "Play havoc: cause great destruction and disorder.",
+    "source": "Merriam-Webster, “havoc”, https://www.merriam-webster.com/dictionary/havoc",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-010",
+    "anchor": "from the hillock",
+    "layer": "vocab",
+    "note": "Hillock: a small hill or mound.",
+    "source": "Merriam-Webster, “hillock”, https://www.merriam-webster.com/dictionary/hillock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-011",
+    "anchor": "murder and rapine",
+    "layer": "vocab",
+    "note": "Rapine: violent seizing of property, plunder.",
+    "source": "Merriam-Webster, “rapine”, https://www.merriam-webster.com/dictionary/rapine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-012",
+    "anchor": "interspersed with",
+    "layer": "vocab",
+    "note": "Interspersed: scattered here and there among.",
+    "source": "Merriam-Webster, “intersperse”, https://www.merriam-webster.com/dictionary/intersperse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-013",
+    "anchor": "excavations",
+    "layer": "vocab",
+    "note": "Excavations: holes dug in the ground.",
+    "source": "Merriam-Webster, “excavation”, https://www.merriam-webster.com/dictionary/excavation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-014",
+    "anchor": "a homicidal and conceited smile",
+    "layer": "vocab",
+    "note": "Homicidal: murderous, eager to kill.",
+    "source": "Merriam-Webster, “homicidal”, https://www.merriam-webster.com/dictionary/homicidal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-015",
+    "anchor": "being a dead shot",
+    "layer": "vocab",
+    "note": "Dead shot: someone who never misses when shooting.",
+    "source": "Merriam-Webster, “dead shot”, https://www.merriam-webster.com/dictionary/dead%20shot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-016",
+    "anchor": "the unlopped branches",
+    "layer": "vocab",
+    "note": "Unlopped: not cut off or trimmed.",
+    "source": "Merriam-Webster, “lop”, https://www.merriam-webster.com/dictionary/lop",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-017",
+    "anchor": "upon the quarry",
+    "layer": "vocab",
+    "note": "Quarry: a hunted animal or person, the target.",
+    "source": "Merriam-Webster, “quarry”, https://www.merriam-webster.com/dictionary/quarry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-018",
+    "anchor": "a multitudinous shout",
+    "layer": "vocab",
+    "note": "Multitudinous: from a huge crowd.",
+    "source": "Merriam-Webster, “multitudinous”, https://www.merriam-webster.com/dictionary/multitudinous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-019",
+    "anchor": "scooted down-hill",
+    "layer": "vocab",
+    "note": "Scooted: ran off quickly in a hurry.",
+    "source": "Merriam-Webster, “scoot”, https://www.merriam-webster.com/dictionary/scoot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-020",
+    "anchor": "some man-beast of folk-lore",
+    "layer": "vocab",
+    "note": "Folk-lore: traditional stories and beliefs of a people.",
+    "source": "Merriam-Webster, “folklore”, https://www.merriam-webster.com/dictionary/folklore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-021",
+    "anchor": "a spaniel",
+    "layer": "vocab",
+    "note": "Spaniel: a dog with long ears, often trained to fetch.",
+    "source": "Merriam-Webster, “spaniel”, https://www.merriam-webster.com/dictionary/spaniel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-022",
+    "anchor": "his tortuous policy",
+    "layer": "vocab",
+    "note": "Tortuous: twisting, devious, not straightforward.",
+    "source": "Merriam-Webster, “tortuous”, https://www.merriam-webster.com/dictionary/tortuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-023",
+    "anchor": "He minimised its strength",
+    "layer": "vocab",
+    "note": "Minimised: made it seem smaller or less important.",
+    "source": "Merriam-Webster, “minimize”, https://www.merriam-webster.com/dictionary/minimize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-024",
+    "anchor": "This double-dealing",
+    "layer": "vocab",
+    "note": "Double-dealing: deceit, saying one thing to one side and another to the other.",
+    "source": "Merriam-Webster, “double-dealing”, https://www.merriam-webster.com/dictionary/double-dealing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-025",
+    "anchor": "old muskets",
+    "layer": "vocab",
+    "note": "Muskets: old-fashioned long guns loaded through the muzzle.",
+    "source": "Merriam-Webster, “musket”, https://www.merriam-webster.com/dictionary/musket",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-026",
+    "anchor": "The social fabric",
+    "layer": "vocab",
+    "note": "Fabric here means the underlying structure, how things hold together.",
+    "source": "Merriam-Webster, “fabric”, https://www.merriam-webster.com/dictionary/fabric",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-027",
+    "anchor": "the edifice raised by Jim’s hands",
+    "layer": "vocab",
+    "note": "Edifice: a large building; here, a whole system.",
+    "source": "Merriam-Webster, “edifice”, https://www.merriam-webster.com/dictionary/edifice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-028",
+    "anchor": "a ruin reeking with blood",
+    "layer": "vocab",
+    "note": "Reeking: smelling strongly, soaked through.",
+    "source": "Merriam-Webster, “reek”, https://www.merriam-webster.com/dictionary/reek",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-029",
+    "anchor": "pursued his tactics inflexibly",
+    "layer": "vocab",
+    "note": "Tactics: plans for winning a fight.",
+    "source": "Merriam-Webster, “tactic”, https://www.merriam-webster.com/dictionary/tactic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-030",
+    "anchor": "Enthroned in a big chair",
+    "layer": "vocab",
+    "note": "Enthroned: seated as if on a throne.",
+    "source": "Merriam-Webster, “enthrone”, https://www.merriam-webster.com/dictionary/enthrone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-031",
+    "anchor": "wattled walls",
+    "layer": "vocab",
+    "note": "Wattled: made of woven sticks and twigs.",
+    "source": "Merriam-Webster, “wattle”, https://www.merriam-webster.com/dictionary/wattle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-032",
+    "anchor": "roasted the few yams",
+    "layer": "vocab",
+    "note": "Yams: starchy root vegetables, like large sweet potatoes.",
+    "source": "Merriam-Webster, “yam”, https://www.merriam-webster.com/dictionary/yam",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-033",
+    "anchor": "shook off their despondency",
+    "layer": "vocab",
+    "note": "Despondency: deep discouragement and loss of hope.",
+    "source": "Merriam-Webster, “despondency”, https://www.merriam-webster.com/dictionary/despondency",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-034",
+    "anchor": "curses and cuffs",
+    "layer": "vocab",
+    "note": "Cuffs: blows with the open hand.",
+    "source": "Merriam-Webster, “cuff”, https://www.merriam-webster.com/dictionary/cuff",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-035",
+    "anchor": "the sonorous inflated tone of a herald",
+    "layer": "vocab",
+    "note": "Sonorous: deep and resonant. Herald: an official messenger.",
+    "source": "Merriam-Webster, “sonorous”, https://www.merriam-webster.com/dictionary/sonorous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-036",
+    "anchor": "muttered the Yankee, vexedly grounding the butt",
+    "layer": "vocab",
+    "note": "Vexedly: with annoyance. Grounding the butt: resting the rifle’s stock on the ground.",
+    "source": "Merriam-Webster, “vexed”, https://www.merriam-webster.com/dictionary/vexed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-037",
+    "anchor": "a Bugis of Tondano",
+    "layer": "place",
+    "note": "Tondano is a town beside a lake of the same name in the Minahasa highlands of northern Celebes (Sulawesi).",
+    "source": "Encyclopaedia Britannica, “Tondano”, https://www.britannica.com/search?query=Tondano",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-038",
+    "anchor": "an atrocity",
+    "layer": "vocab",
+    "note": "Atrocity: a shockingly cruel and wicked act.",
+    "source": "Merriam-Webster, “atrocity”, https://www.merriam-webster.com/dictionary/atrocity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-039",
+    "anchor": "he had deviated",
+    "layer": "vocab",
+    "note": "Deviated: turned aside from his path.",
+    "source": "Merriam-Webster, “deviate”, https://www.merriam-webster.com/dictionary/deviate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-040",
+    "anchor": "three jagged slugs point-blank",
+    "layer": "vocab",
+    "note": "Slugs: rough bullets. Point-blank: from very close range.",
+    "source": "Merriam-Webster, “point-blank”, https://www.merriam-webster.com/dictionary/point-blank",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-041",
+    "anchor": "such a renown",
+    "layer": "vocab",
+    "note": "Renown: fame and honour, a great name.",
+    "source": "Merriam-Webster, “renown”, https://www.merriam-webster.com/dictionary/renown",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-042",
+    "anchor": "They sat dejected",
+    "layer": "vocab",
+    "note": "Dejected: sad, gloomy, and discouraged.",
+    "source": "Merriam-Webster, “dejected”, https://www.merriam-webster.com/dictionary/dejected",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-043",
+    "anchor": "muttering deliriously",
+    "layer": "vocab",
+    "note": "Deliriously: in a confused, feverish state of mind.",
+    "source": "Merriam-Webster, “delirious”, https://www.merriam-webster.com/dictionary/delirious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-044",
+    "anchor": "unintelligible complaint",
+    "layer": "vocab",
+    "note": "Unintelligible: impossible to make out or understand.",
+    "source": "Merriam-Webster, “unintelligible”, https://www.merriam-webster.com/dictionary/unintelligible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-045",
+    "anchor": "assented the deserter",
+    "layer": "vocab",
+    "note": "Assented: agreed, said yes to it.",
+    "source": "Merriam-Webster, “assent”, https://www.merriam-webster.com/dictionary/assent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-046",
+    "anchor": "the hereafter",
+    "layer": "vocab",
+    "note": "The hereafter: life after death.",
+    "source": "Merriam-Webster, “hereafter”, https://www.merriam-webster.com/dictionary/hereafter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-047",
+    "anchor": "the unscalable side of a mountain",
+    "layer": "vocab",
+    "note": "Unscalable: impossible to climb up.",
+    "source": "Merriam-Webster, “unscalable”, https://www.merriam-webster.com/dictionary/unscalable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch40-048",
+    "anchor": "pulsating and droning",
+    "layer": "vocab",
+    "note": "Pulsating: beating in a steady rhythm.",
+    "source": "Merriam-Webster, “pulsate”, https://www.merriam-webster.com/dictionary/pulsate",
+    "status": "draft",
+    "checker": null
+  }
+]
