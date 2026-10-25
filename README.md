@@ -20,9 +20,12 @@ texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch10.txt
 notes/SCHEMA.md            Annotation format
 notes/lord-jim/ch1.json    Annotations, one JSON file per chapter
 site/                      Static site: home page (index.html), book contents (book.html), chapter reader (chapter.html)
-site/fonts/                EB Garamond web fonts (SIL Open Font License, see OFL.txt)
+site/fonts/                Old Standard TT and EB Garamond web fonts (SIL Open Font License)
+site/brand/                Logo mark and favicons
+site/art/                  Public domain paintings used as plates (sources in CREDITS.md)
 scripts/check_notes.py     Checks notes against the schema and the chapter text
 .github/workflows/pages.yml  Deploys site/, texts/, and notes/ to GitHub Pages
+.github/workflows/fetch-art.yml  Downloads paintings listed in .github/art-sources.txt from Wikimedia Commons
 .claude/skills/impeccable/  Impeccable design skill for Claude Code (Apache 2.0), run with /impeccable
 ```
 

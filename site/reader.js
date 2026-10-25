@@ -105,9 +105,7 @@
     return '<span class="ref" aria-hidden="true">' + REF[n.layer] + '</span>' +
       '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
       '<span class="term">' + escapeHtml(n.anchor) + '</span>' +
-      (n.status === 'draft' ? '<span class="draft-tag">unverified</span>' : '') +
       '<span class="gloss">' + escapeHtml(n.note) + '</span><span class="gloss-short"></span>' +
-      (n.status === 'draft' ? ' <span class="draft-label">(unverified)</span>' : '') +
       (n.source ? '<span class="source">Source: ' + linkify(n.source) + '</span>' : '');
   }
 

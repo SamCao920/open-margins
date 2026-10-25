@@ -5,42 +5,81 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Scholia: free annotated classics</title>
 <meta name="description" content="Free, open annotated editions of classic books, with notes on every hard word, place, and reference.">
+<link rel="icon" href="brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="brand/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
 <script src="prefs.js?v=dev"></script>
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
-<body>
-<header class="masthead">
-  <h1>Scholia</h1>
-  <p class="subtitle">Free annotated editions of the classics</p>
-  <div class="issue"><span>Notes open under CC BY 4.0</span><span>First book: Lord Jim</span></div>
-  <div class="rule-double"></div>
-</header>
-<div class="bar-float"><button type="button" class="bar-button" data-theme-toggle>Dark mode</button></div>
-<main class="page">
-  <p class="lede">Classic books are free to read online, but they are full of words, places, people, and events that modern readers don’t know. Scholia sets a short note in the margin wherever a reader is likely to stop, so you can keep reading instead of searching.</p>
-  <p>The name comes from the <em>scholia</em> that readers once wrote in the margins of Greek and Latin manuscripts to explain hard words and references.</p>
+<body class="home">
+<div class="home-top"><button type="button" class="text-button" data-theme-toggle>Dark mode</button></div>
 
-  <h2>Contents</h2>
-  <ul class="contents contents-book">
-    <li>
-      <span class="line"><a class="title" href="book.html?book=lord-jim">Lord Jim</a><span class="leader" aria-hidden="true"></span><span class="status">Chapters I–X</span></span>
-      <span class="meta">Joseph Conrad, 1900. Chapters I to X annotated; notes not yet verified.</span>
-    </li>
-  </ul>
+<main>
+  <div class="spread">
+    <figure class="plate plate-front">
+      <div class="mount">
+        <img src="art/bookworm-520.jpg" srcset="art/bookworm-520.jpg 520w, art/bookworm-1000.jpg 1000w"
+             sizes="(max-width: 860px) 70vw, 34vw" width="520" height="968"
+             alt="An old scholar in a black coat stands at the top of a library ladder, reading a book held close to his face, with more books under his arm, among tall shelves of old volumes.">
+      </div>
+      <figcaption><span class="plate-no">Plate I.</span> Carl Spitzweg, <em>The Bookworm</em>, c. 1850.</figcaption>
+    </figure>
 
-  <h2>How the notes work</h2>
-  <p><span class="runin">Four kinds.</span>Notes come in four layers, each with its own printer’s mark in the margin: * vocabulary, † allusions, § history, ¶ places. Turn any layer off; a confident reader might hide vocabulary.</p>
-  <p><span class="runin">Checked.</span>Notes are drafted with AI, then checked by a person against a cited source before they are marked verified. Until then they say <span class="draft-label">unverified</span>. A missing note is better than a wrong one.</p>
-  <p><span class="runin">Audited.</span>Once notes are verified, we recheck a random sample and publish the error rate.</p>
-  <p><span class="runin">Open.</span>Every note is released under CC BY 4.0. Teachers, students, and other projects may copy and reuse them with credit.</p>
+    <div class="title-page">
+      <span class="logo logo-title" aria-hidden="true"></span>
+      <h1 class="wordmark">Scholia</h1>
+      <p class="subtitle">Free annotated editions of the classics</p>
+      <div class="rule-double" aria-hidden="true"></div>
+      <p class="lede">Classic books are free to read, but full of words, places, and references that modern readers don’t know. Scholia sets a short note in the margin wherever you are likely to stop, so you can keep reading instead of searching.</p>
 
-  <h2>Reading</h2>
-  <p>Hover over an underlined phrase and its note appears in the margin beside it; click to keep it there with its source. Move the pointer into either margin to see every note on that side. On a phone, tap a phrase and the note opens below the paragraph.</p>
+      <h2 class="contents-head">The Library</h2>
+      <ul class="library">
+        <li>
+          <a class="book-line" href="book.html?book=lord-jim"><span class="title">Lord Jim</span><span class="leader" aria-hidden="true"></span><span class="author">Joseph Conrad, 1900</span></a>
+          <span class="meta">Chapters I to X, fully annotated</span>
+        </li>
+      </ul>
+      <a class="primary-action" href="book.html?book=lord-jim">Open <em>Lord Jim</em></a>
+      <p class="imprint">Notes open under CC BY 4.0 · More books in preparation</p>
+    </div>
+  </div>
 
-  <h2>Help check the notes</h2>
-  <p>We need checkers. Pick a chapter, check each unverified note against a reliable source, then fix it, cut it, or mark it verified and open a pull request on <a href="https://github.com/samcao920/scholia">GitHub</a>.</p>
+  <section class="folio">
+    <figure class="plate plate-inline">
+      <div class="mount">
+        <img src="art/fragonard-560.jpg" srcset="art/fragonard-560.jpg 560w, art/fragonard-1100.jpg 1100w"
+             sizes="(max-width: 700px) 80vw, 300px" width="560" height="704" loading="lazy"
+             alt="A young woman in a bright yellow dress sits in profile against a cushion, absorbed in a small book held in one hand.">
+      </div>
+      <figcaption><span class="plate-no">Plate II.</span> Jean-Honoré Fragonard, <em>Young Girl Reading</em>, c. 1770.</figcaption>
+    </figure>
+    <h2>How the notes work</h2>
+    <p><span class="runin">Four kinds.</span>Notes come in four layers, each with its own printer’s mark in the margin: * vocabulary, † allusions, § history, ¶ places. Turn any layer off; a confident reader might hide vocabulary.</p>
+    <p><span class="runin">Beside the text.</span>Hover over an underlined phrase and its note appears in the margin beside it; click to keep it there with its source. Move the pointer into either margin to see every note on that side. On a phone, tap a phrase and the note opens below the paragraph.</p>
+    <p><span class="runin">Checked.</span>Notes are drafted with AI, then checked by a person against the source each one cites. A missing note is better than a wrong one.</p>
+    <p><span class="runin">Open.</span>Every note is released under CC BY 4.0. Teachers, students, and other projects may copy and reuse them with credit.</p>
+  </section>
 
-  <p class="foot">Text: public domain, from Project Gutenberg. Notes: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Code: MIT. Type: Old Standard TT (SIL Open Font License).</p>
+  <section class="folio folio-alt">
+    <figure class="plate plate-inline">
+      <div class="mount">
+        <img src="art/vermeer-560.jpg" srcset="art/vermeer-560.jpg 560w, art/vermeer-1100.jpg 1100w"
+             sizes="(max-width: 700px) 80vw, 300px" width="560" height="732" loading="lazy"
+             alt="A young woman stands by an open window reading a letter, light falling on her face; a rumpled carpet and a bowl of fruit lie on the table before her, and a green curtain hangs at the right.">
+      </div>
+      <figcaption><span class="plate-no">Plate III.</span> Johannes Vermeer, <em>Girl Reading a Letter at an Open Window</em>, c. 1657–59.</figcaption>
+    </figure>
+    <h2>Help check the notes</h2>
+    <p>Every note should be checked by a person before it can be trusted. Pick a chapter, check each note against a reliable source, then fix it, cut it, or mark it verified and open a pull request on <a href="https://github.com/samcao920/scholia">GitHub</a>.</p>
+    <p>The name comes from the <em>scholia</em> that readers once wrote in the margins of Greek and Latin manuscripts to explain hard words and references.</p>
+  </section>
+
+  <footer class="colophon">
+    <div class="rule-double" aria-hidden="true"></div>
+    <span class="logo" aria-hidden="true"></span>
+    <p>Texts: public domain, from Project Gutenberg. Notes: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Code: MIT. Type: Old Standard TT.</p>
+    <p>Plates, all public domain, via Wikimedia Commons: I. Spitzweg, <em>The Bookworm</em> (Museum Georg Schäfer, Schweinfurt). II. Fragonard, <em>Young Girl Reading</em> (National Gallery of Art, Washington). III. Vermeer, <em>Girl Reading a Letter at an Open Window</em> (Gemäldegalerie Alte Meister, Dresden).</p>
+  </footer>
 </main>
 </body>
 </html>
