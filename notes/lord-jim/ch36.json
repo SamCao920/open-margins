@@ -1,0 +1,440 @@
+[
+  {
+    "id": "ch36-001",
+    "anchor": "broken up forthwith",
+    "layer": "vocab",
+    "note": "Forthwith: at once, immediately, without delay.",
+    "source": "Merriam-Webster, “forthwith”, https://www.merriam-webster.com/dictionary/forthwith",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-002",
+    "anchor": "his abstract, pensive gaze",
+    "layer": "vocab",
+    "note": "Abstract here means absent-minded, lost in thought.",
+    "source": "Merriam-Webster, “abstract”, https://www.merriam-webster.com/dictionary/abstract",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-003",
+    "anchor": "upright and angular handwriting",
+    "layer": "vocab",
+    "note": "Angular: sharp-cornered, with pointed strokes.",
+    "source": "Merriam-Webster, “angular”, https://www.merriam-webster.com/dictionary/angular",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-004",
+    "anchor": "the lantern of a lighthouse",
+    "layer": "vocab",
+    "note": "Lantern: the glass room at the top of a lighthouse holding the light.",
+    "source": "Merriam-Webster, “lantern”, https://www.merriam-webster.com/dictionary/lantern",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-005",
+    "anchor": "uncrested waves",
+    "layer": "vocab",
+    "note": "Uncrested: without white tops, not breaking.",
+    "source": "Merriam-Webster, “crest”, https://www.merriam-webster.com/dictionary/crest",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-006",
+    "anchor": "The spires of churches",
+    "layer": "vocab",
+    "note": "Spires: tall, pointed church towers.",
+    "source": "Merriam-Webster, “spire”, https://www.merriam-webster.com/dictionary/spire",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-007",
+    "anchor": "scattered haphazard",
+    "layer": "vocab",
+    "note": "Haphazard: without plan or order, at random.",
+    "source": "Merriam-Webster, “haphazard”, https://www.merriam-webster.com/dictionary/haphazard",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-008",
+    "anchor": "like beacons on a maze of shoals",
+    "layer": "vocab",
+    "note": "Beacons: warning lights. Shoals: shallow places dangerous to ships.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Shoal”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-009",
+    "anchor": "the Ever-undiscovered Country",
+    "layer": "allusion",
+    "note": "An echo of Hamlet’s description of death as “the undiscover’d country from whose bourn no traveller returns.”",
+    "source": "William Shakespeare, Hamlet, Act 3, Scene 1",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-010",
+    "anchor": "a tumult of low voices",
+    "layer": "vocab",
+    "note": "Tumult: a confused, noisy uproar.",
+    "source": "Merriam-Webster, “tumult”, https://www.merriam-webster.com/dictionary/tumult",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-011",
+    "anchor": "three distinct enclosures",
+    "layer": "vocab",
+    "note": "Enclosures: things enclosed in an envelope or packet.",
+    "source": "Merriam-Webster, “enclosure”, https://www.merriam-webster.com/dictionary/enclosure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-012",
+    "anchor": "frayed on the folds",
+    "layer": "vocab",
+    "note": "Frayed: worn and ragged at the edges.",
+    "source": "Merriam-Webster, “fray”, https://www.merriam-webster.com/dictionary/fray",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-013",
+    "anchor": "You prophesied",
+    "layer": "vocab",
+    "note": "Prophesied: predicted, foretold the future.",
+    "source": "Merriam-Webster, “prophesy”, https://www.merriam-webster.com/dictionary/prophesy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-014",
+    "anchor": "its illusory satisfaction",
+    "layer": "vocab",
+    "note": "Illusory: based on illusion, not real.",
+    "source": "Merriam-Webster, “illusory”, https://www.merriam-webster.com/dictionary/illusory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-015",
+    "anchor": "an ethical progress",
+    "layer": "vocab",
+    "note": "Ethical: having to do with right and wrong.",
+    "source": "Merriam-Webster, “ethical”, https://www.merriam-webster.com/dictionary/ethical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-016",
+    "anchor": "the way to perdition",
+    "layer": "vocab",
+    "note": "Perdition: eternal damnation, utter ruin.",
+    "source": "Merriam-Webster, “perdition”, https://www.merriam-webster.com/dictionary/perdition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-017",
+    "anchor": "without malice",
+    "layer": "vocab",
+    "note": "Malice: the wish to harm someone.",
+    "source": "Merriam-Webster, “malice”, https://www.merriam-webster.com/dictionary/malice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-018",
+    "anchor": "without singeing your wings",
+    "layer": "vocab",
+    "note": "Singeing your wings: getting burned, like a moth flying too near a flame.",
+    "source": "Merriam-Webster, “singe”, https://www.merriam-webster.com/dictionary/singe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-019",
+    "anchor": "Perhaps you may pronounce",
+    "layer": "vocab",
+    "note": "Pronounce here means give a firm judgement.",
+    "source": "Merriam-Webster, “pronounce”, https://www.merriam-webster.com/dictionary/pronounce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-020",
+    "anchor": "imparting to you",
+    "layer": "vocab",
+    "note": "Imparting: passing on, telling to another.",
+    "source": "Merriam-Webster, “impart”, https://www.merriam-webster.com/dictionary/impart",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-021",
+    "anchor": "that supreme opportunity",
+    "layer": "vocab",
+    "note": "Supreme: highest, greatest, and final.",
+    "source": "Merriam-Webster, “supreme”, https://www.merriam-webster.com/dictionary/supreme",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-022",
+    "anchor": "more enigmatic than the craftiest arrangement",
+    "layer": "vocab",
+    "note": "Enigmatic: mysterious. Craftiest: cleverest, most cunning.",
+    "source": "Merriam-Webster, “enigmatic”, https://www.merriam-webster.com/dictionary/enigmatic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-023",
+    "anchor": "the sheet of greyish foolscap",
+    "layer": "vocab",
+    "note": "Foolscap: a large size of writing paper.",
+    "source": "Merriam-Webster, “foolscap”, https://www.merriam-webster.com/dictionary/foolscap",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-024",
+    "anchor": "the commonplace hand",
+    "layer": "vocab",
+    "note": "Hand here means handwriting. Commonplace: ordinary.",
+    "source": "Merriam-Webster, “hand”, https://www.merriam-webster.com/dictionary/hand",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-025",
+    "anchor": "every faithful partisan could rally",
+    "layer": "vocab",
+    "note": "Partisan: a supporter of a side. Rally: gather together again.",
+    "source": "Merriam-Webster, “rally”, https://www.merriam-webster.com/dictionary/rally",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-026",
+    "anchor": "his judicious foresight",
+    "layer": "vocab",
+    "note": "Judicious: wise and sensible. Foresight: planning ahead.",
+    "source": "Merriam-Webster, “judicious”, https://www.merriam-webster.com/dictionary/judicious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-027",
+    "anchor": "an invincible host in himself",
+    "layer": "vocab",
+    "note": "A host in himself: as strong as a whole army alone.",
+    "source": "Merriam-Webster, “host”, https://www.merriam-webster.com/dictionary/host",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-028",
+    "anchor": "a day of days",
+    "layer": "vocab",
+    "note": "A day of days: the most important day of all.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-029",
+    "anchor": "a broad gulf",
+    "layer": "vocab",
+    "note": "Gulf: a wide gap or deep division.",
+    "source": "Merriam-Webster, “gulf”, https://www.merriam-webster.com/dictionary/gulf",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-030",
+    "anchor": "his writing-case",
+    "layer": "vocab",
+    "note": "Writing-case: a portable case holding paper, pens, and letters.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-031",
+    "anchor": "The good old parson",
+    "layer": "vocab",
+    "note": "Parson: a parish clergyman of the Church of England.",
+    "source": "Merriam-Webster, “parson”, https://www.merriam-webster.com/dictionary/parson",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-032",
+    "anchor": "Tom had “taken orders.”",
+    "layer": "vocab",
+    "note": "Taken orders: been ordained as a clergyman.",
+    "source": "Merriam-Webster, “orders”, https://www.merriam-webster.com/dictionary/orders",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-033",
+    "anchor": "goes on equably",
+    "layer": "vocab",
+    "note": "Equably: calmly and evenly, without disturbance.",
+    "source": "Merriam-Webster, “equable”, https://www.merriam-webster.com/dictionary/equable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-034",
+    "anchor": "the inviolable shelter",
+    "layer": "vocab",
+    "note": "Inviolable: safe from attack or disturbance; sacred.",
+    "source": "Merriam-Webster, “inviolable”, https://www.merriam-webster.com/dictionary/inviolable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-035",
+    "anchor": "he had conscientiously gone over",
+    "layer": "vocab",
+    "note": "Conscientiously: carefully, thoroughly, and dutifully.",
+    "source": "Merriam-Webster, “conscientious”, https://www.merriam-webster.com/dictionary/conscientious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-036",
+    "anchor": "so many sermons",
+    "layer": "vocab",
+    "note": "Sermons: religious talks given in church.",
+    "source": "Merriam-Webster, “sermon”, https://www.merriam-webster.com/dictionary/sermon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-037",
+    "anchor": "hazards his total depravity",
+    "layer": "vocab",
+    "note": "Hazards: risks. Depravity: complete moral corruption.",
+    "source": "Merriam-Webster, “depravity”, https://www.merriam-webster.com/dictionary/depravity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-038",
+    "anchor": "The old chap invokes Heaven’s blessing",
+    "layer": "vocab",
+    "note": "Invokes: calls upon, asks for in prayer.",
+    "source": "Merriam-Webster, “invoke”, https://www.merriam-webster.com/dictionary/invoke",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-039",
+    "anchor": "what converse he may have held",
+    "layer": "vocab",
+    "note": "Converse (noun): conversation, talk between people.",
+    "source": "Merriam-Webster, “converse”, https://www.merriam-webster.com/dictionary/converse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-040",
+    "anchor": "undisturbed rectitude",
+    "layer": "vocab",
+    "note": "Rectitude: moral uprightness, correct behaviour.",
+    "source": "Merriam-Webster, “rectitude”, https://www.merriam-webster.com/dictionary/rectitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-041",
+    "anchor": "taken unawares",
+    "layer": "vocab",
+    "note": "Unawares: by surprise, without warning.",
+    "source": "Merriam-Webster, “unawares”, https://www.merriam-webster.com/dictionary/unawares",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-042",
+    "anchor": "bone of his bone and flesh of his flesh",
+    "layer": "allusion",
+    "note": "Words from Genesis, where Adam says of Eve that she is “bone of my bones, and flesh of my flesh”: here, his closest family.",
+    "source": "The Bible (King James Version), Genesis 2:23",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-043",
+    "anchor": "The imprudence of our thoughts recoils",
+    "layer": "vocab",
+    "note": "Imprudence: rashness, lack of caution. Recoils: springs back.",
+    "source": "Merriam-Webster, “imprudence”, https://www.merriam-webster.com/dictionary/imprudence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-044",
+    "anchor": "who toys with the sword shall perish by the sword",
+    "layer": "allusion",
+    "note": "An echo of Jesus’s words in the Gospel of Matthew: “all they that take the sword shall perish with the sword.”",
+    "source": "The Bible (King James Version), Matthew 26:52",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-045",
+    "anchor": "the year of grace before last",
+    "layer": "vocab",
+    "note": "Year of grace: a year of the Christian era, Anno Domini.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-046",
+    "anchor": "My information was fragmentary",
+    "layer": "vocab",
+    "note": "Fragmentary: made of incomplete pieces.",
+    "source": "Merriam-Webster, “fragmentary”, https://www.merriam-webster.com/dictionary/fragmentary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-047",
+    "anchor": "an intelligible picture",
+    "layer": "vocab",
+    "note": "Intelligible: able to be understood.",
+    "source": "Merriam-Webster, “intelligible”, https://www.merriam-webster.com/dictionary/intelligible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-048",
+    "anchor": "his offhand manner",
+    "layer": "vocab",
+    "note": "Offhand: casual, careless, without much thought.",
+    "source": "Merriam-Webster, “offhand”, https://www.merriam-webster.com/dictionary/offhand",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch36-049",
+    "anchor": "purposes of orientation",
+    "layer": "vocab",
+    "note": "Orientation: finding one’s bearings, knowing where one stands.",
+    "source": "Merriam-Webster, “orientation”, https://www.merriam-webster.com/dictionary/orientation",
+    "status": "draft",
+    "checker": null
+  }
+]
