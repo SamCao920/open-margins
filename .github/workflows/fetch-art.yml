@@ -2,9 +2,9 @@ name: Fetch public-domain art
 
 # Downloads the paintings listed in .github/art-sources.txt from Wikimedia
 # Commons into site/art/ and commits them, so the site serves its own copies.
+# Run it by hand from the Actions tab, then resize the downloads for the web;
+# a push trigger re-downloaded the full-size originals after every merge.
 on:
-  push:
-    paths: ['.github/art-sources.txt']
   workflow_dispatch:
 
 permissions:

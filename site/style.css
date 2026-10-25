@@ -218,25 +218,29 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .text-button:hover { color: var(--ink); text-decoration-color: currentColor; }
 
 .spread {
-  max-width: 72rem; margin: 0 auto;
+  box-sizing: border-box; width: 100%; max-width: 72rem; margin: 0 auto;
   padding: clamp(1rem, 3vw, 2.5rem) 24px clamp(3rem, 6vw, 5rem);
-  display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr);
-  align-items: center;
+  display: flex; align-items: center; justify-content: center;
 }
 .plate { margin: 0; }
 .mount {
-  display: inline-block;
+  display: block;
   background: var(--wrapper);
   padding: clamp(12px, 1.8vw, 24px);
   box-shadow: 0 18px 40px -22px var(--shadow);
 }
-.mount img { display: block; height: auto; max-width: 100%; border: 1px solid var(--wrapper-ink); }
+.mount img { display: block; width: 100%; height: auto; border: 1px solid var(--wrapper-ink); }
 .plate figcaption { font-size: .88rem; color: var(--muted); margin-top: .7rem; line-height: 1.4; }
 .plate-no { font-variant: small-caps; letter-spacing: .06em; color: var(--ink); margin-right: .25em; }
 
-.plate-front { text-align: center; padding-right: clamp(1.5rem, 4vw, 3.5rem); }
-.plate-front img { width: auto; max-height: min(72vh, 780px); }
+.plate-front {
+  /* Width follows the viewport height so the tall painting fits on screen:
+     image ratio 520:968, plus the mount's padding. */
+  flex: 0 0 auto; width: min(40%, calc(min(72vh, 780px) * .537 + 48px));
+  margin-right: clamp(1.5rem, 4vw, 3.5rem); text-align: center;
+}
 .title-page {
+  flex: 1 1 0; min-width: 0; max-width: 38rem;
   border-left: 1px solid var(--faint);
   padding: 1rem 0 1rem clamp(1.5rem, 5vw, 4.5rem);
   text-align: center;
@@ -249,7 +253,7 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 }
 .title-page .subtitle { font-style: italic; font-size: 1.2rem; margin: .7rem 0 1.4rem; }
 .title-page .rule-double { max-width: 22rem; margin: 0 auto; }
-.title-page .lede { max-width: 30rem; margin: 1.6rem auto 0; font-size: 1.12rem; line-height: 1.6; text-align: left; }
+.title-page .lede { width: 100%; max-width: 30rem; margin: 1.6rem auto 0; font-size: 1.12rem; line-height: 1.6; text-align: left; }
 .contents-head {
   font-size: .8rem; letter-spacing: .24em; text-transform: uppercase;
   margin: 2.4rem 0 .7rem;
@@ -292,10 +296,9 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .colophon p { margin: 0 0 .5rem; }
 
 @media (max-width: 860px) {
-  .spread { grid-template-columns: 1fr; gap: 2rem; }
-  .title-page { order: -1; border-left: 0; padding: 0; }
-  .plate-front { padding-right: 0; }
-  .plate-front img { max-height: 62vh; }
+  .spread { flex-direction: column; gap: 2rem; }
+  .title-page { order: -1; flex: none; width: 100%; border-left: 0; padding: 0; }
+  .plate-front { width: min(100%, calc(62vh * .537 + 48px)); margin: 0 auto; }
 }
 @media (max-width: 600px) {
   .folio { display: flex; flex-direction: column; }
@@ -303,12 +306,53 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
   .plate-inline, .folio-alt .plate-inline { float: none; width: auto; max-width: 260px; margin: .5rem auto 1.5rem; }
 }
 
+/* ----- Covers: a publisher's cloth binding, one --cloth colour per book ----- */
+/* Sized in em: set font-size on the cover to scale the whole binding. */
+.cover {
+  --gilt: #d2b36e;
+  position: relative; display: block; flex: none;
+  width: 10em; height: 15em; padding: .75em;
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, .28) 0, rgba(0, 0, 0, 0) .55em,
+                    rgba(255, 255, 255, .07) .65em, rgba(255, 255, 255, 0) .9em),
+    var(--cloth, #2f3b33);
+  color: var(--gilt); text-decoration: none; text-align: center;
+  box-shadow: 0 14px 26px -16px var(--shadow), inset 0 0 0 1px rgba(0, 0, 0, .25);
+}
+.cover-frame {
+  display: flex; flex-direction: column; align-items: center; height: 100%;
+  padding: 1.4em .7em 1em; margin-left: .35em;
+  border: .2em double var(--gilt);
+}
+.cover-title {
+  font-weight: 700; font-size: 1.45em; line-height: 1.1;
+  letter-spacing: .14em; margin-right: -.14em; text-transform: uppercase;
+}
+.cover-rule { width: 3.2em; margin: .9em 0 .7em; border-top: .2em double var(--gilt); }
+.cover-sub { font-size: .62em; letter-spacing: .24em; text-transform: uppercase; }
+.cover-author { margin-top: auto; font-style: italic; font-size: .9em; line-height: 1.2; }
+.cover .logo { width: 1.3em; height: 1.3em; margin-top: .8em; opacity: .9; }
+a.cover { transition: transform .2s cubic-bezier(.16, 1, .3, 1); }
+a.cover:hover { transform: translateY(-3px); }
+
+/* Home library: cover beside its contents line */
+.library .book { display: flex; align-items: center; gap: 1.2rem; }
+.library .book .cover { font-size: 8.5px; }
+.library .book-text { flex: 1; min-width: 0; }
+
 /* ----- Title page (book) ----- */
 .page { max-width: 40rem; margin: 0 auto; padding: 0 16px 4rem; }
 .book-frontispiece { text-align: center; margin: 2.4rem 0 0; }
 .book-frontispiece .mount { max-width: 100%; }
 .book-frontispiece figcaption { max-width: 32rem; margin-left: auto; margin-right: auto; }
 .title-block { text-align: center; padding: 3rem 0 2rem; }
+.title-block.with-cover { display: flex; align-items: center; gap: 2.2rem; text-align: left; padding-bottom: 1rem; }
+.title-block.with-cover .cover { font-size: 15px; }
+.title-block .blurb { margin: 1.2rem 0 0; font-size: 1.1rem; line-height: 1.55; }
+@media (max-width: 600px) {
+  .title-block.with-cover { flex-direction: column; text-align: center; gap: 1.6rem; }
+  .title-block.with-cover .cover { font-size: 13px; }
+}
 .title-block h1 { font-size: clamp(2.2rem, 7vw, 3.4rem); letter-spacing: .08em; text-transform: uppercase; line-height: 1.05; }
 .title-block .by { margin: .8rem 0 0; letter-spacing: .12em; text-transform: uppercase; font-size: .85rem; }
 .title-block .by em { text-transform: none; letter-spacing: 0; font-size: 1.05rem; }
@@ -338,6 +382,22 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .contents-book .title:hover { text-decoration: underline; }
 
 .foot { color: var(--muted); font-size: .88rem; margin-top: 3.5rem; padding-top: .6rem; border-top: 1px solid var(--hair); text-align: center; }
+
+/* Sources page */
+.sources .source-list, .sources .cites { list-style: none; padding: 0; margin: 0 0 1rem; }
+.sources .source-list li { margin: 0 0 .7rem; }
+.sources a { overflow-wrap: anywhere; }
+.work { margin: 0 0 1.6rem; }
+.work h3 { font-size: 1.05rem; margin: 0; }
+.work h3 a { text-decoration: none; }
+.work h3 a:hover { text-decoration: underline; }
+.work .count { font-weight: 400; font-style: italic; color: var(--muted); font-size: .9rem; margin-left: .3rem; }
+.work .about { margin: .15rem 0 .3rem; color: var(--muted); }
+.sources details summary { cursor: pointer; font-size: .82rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.sources details summary:hover { color: var(--ink); }
+.sources details[open] summary { margin-bottom: .6rem; }
+.sources .cites li { font-size: .9rem; line-height: 1.45; padding: .3rem 0; border-top: 1px solid var(--faint); }
+.sources .where { font-variant: small-caps; letter-spacing: .04em; }
 
 /* ----- Chapter reader ----- */
 .reader { position: relative; padding: 2.6rem 16px 4rem; }
