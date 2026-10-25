@@ -60,16 +60,16 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 
 | Chapter | Drafted | Verified |
 |---|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | 113 | 0 |
+| 2 | 92 | 0 |
+| 3 | 120 | 0 |
+| 4 | 58 | 0 |
+| 5 | 196 | 0 |
+| 6 | 159 | 0 |
+| 7 | 90 | 0 |
+| 8 | 92 | 0 |
+| 9 | 65 | 0 |
+| 10 | 77 | 0 |
 
 ## License
 

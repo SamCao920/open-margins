@@ -1,0 +1,687 @@
+[
+  {
+    "id": "ch10-001",
+    "anchor": "a height he could never scale again",
+    "layer": "vocab",
+    "note": "Scale: climb up to the top of something.",
+    "source": "Merriam-Webster, “scale”, https://www.merriam-webster.com/dictionary/scale",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-002",
+    "anchor": "through a deluge",
+    "layer": "vocab",
+    "note": "Deluge: a great flood or downpour of rain.",
+    "source": "Merriam-Webster, “deluge”, https://www.merriam-webster.com/dictionary/deluge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-003",
+    "anchor": "a pitchy blackness",
+    "layer": "vocab",
+    "note": "Pitchy: as black as pitch (tar).",
+    "source": "Merriam-Webster, “pitchy”, https://www.merriam-webster.com/dictionary/pitchy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-004",
+    "anchor": "stole a furtive glance",
+    "layer": "vocab",
+    "note": "Stole a glance: looked quickly and secretly. Furtive: sly, sneaking.",
+    "source": "Merriam-Webster, “furtive”, https://www.merriam-webster.com/dictionary/furtive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-005",
+    "anchor": "yellow gleam of the mast-head light",
+    "layer": "vocab",
+    "note": "The white lamp hung high on a steamer’s foremast at night.",
+    "source": "Merriam-Webster, “masthead light”, https://www.merriam-webster.com/dictionary/masthead%20light",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-006",
+    "anchor": "that abomination",
+    "layer": "vocab",
+    "note": "Abomination: something horrible and hateful.",
+    "source": "Merriam-Webster, “abomination”, https://www.merriam-webster.com/dictionary/abomination",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-007",
+    "anchor": "could not have had much way",
+    "layer": "vocab",
+    "note": "Way: a vessel’s movement through the water.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Way”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-008",
+    "anchor": "The boat lurched slightly",
+    "layer": "vocab",
+    "note": "Lurched: made a sudden, unsteady roll to one side.",
+    "source": "Merriam-Webster, “lurch”, https://www.merriam-webster.com/dictionary/lurch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-009",
+    "anchor": "chief engineer saying surlily",
+    "layer": "vocab",
+    "note": "Surlily: in a bad-tempered, unfriendly way.",
+    "source": "Merriam-Webster, “surly”, https://www.merriam-webster.com/dictionary/surly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-010",
+    "anchor": "half turned to windward",
+    "layer": "vocab",
+    "note": "Windward: the direction the wind is blowing from.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Windward”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-011",
+    "anchor": "the culminating point",
+    "layer": "vocab",
+    "note": "Culminating: the highest or final point of something.",
+    "source": "Merriam-Webster, “culminate”, https://www.merriam-webster.com/dictionary/culminate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-012",
+    "anchor": "his disjointed narrative",
+    "layer": "vocab",
+    "note": "Disjointed: broken up and badly connected. Narrative: story.",
+    "source": "Merriam-Webster, “disjointed”, https://www.merriam-webster.com/dictionary/disjointed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-013",
+    "anchor": "the accumulated savour",
+    "layer": "vocab",
+    "note": "Savour: the taste or flavour of something; here, the full experience.",
+    "source": "Merriam-Webster, “savor”, https://www.merriam-webster.com/dictionary/savor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-014",
+    "anchor": "palpitating lives",
+    "layer": "vocab",
+    "note": "Palpitating: throbbing, with hearts beating fast.",
+    "source": "Merriam-Webster, “palpitate”, https://www.merriam-webster.com/dictionary/palpitate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-015",
+    "anchor": "master his sensibilities",
+    "layer": "vocab",
+    "note": "Sensibilities: feelings, especially delicate ones.",
+    "source": "Merriam-Webster, “sensibility”, https://www.merriam-webster.com/dictionary/sensibility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-016",
+    "anchor": "liqueur-glasses",
+    "layer": "vocab",
+    "note": "Small glasses for liqueurs, sweet strong after-dinner drinks.",
+    "source": "Merriam-Webster, “liqueur”, https://www.merriam-webster.com/dictionary/liqueur",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-017",
+    "anchor": "the drapery of creepers",
+    "layer": "vocab",
+    "note": "Creepers: climbing or trailing plants, hanging like curtains.",
+    "source": "Merriam-Webster, “creeper”, https://www.merriam-webster.com/dictionary/creeper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-018",
+    "anchor": "suddenly and unanimously moved",
+    "layer": "vocab",
+    "note": "Unanimously: all together, with everyone agreeing.",
+    "source": "Merriam-Webster, “unanimous”, https://www.merriam-webster.com/dictionary/unanimous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-019",
+    "anchor": "A narrow squeak",
+    "layer": "vocab",
+    "note": "A narrow escape from danger (British slang).",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-020",
+    "anchor": "like a flat-iron",
+    "layer": "vocab",
+    "note": "A flat-iron: a heavy solid iron for pressing clothes, heated on a stove.",
+    "source": "Merriam-Webster, “flatiron”, https://www.merriam-webster.com/dictionary/flatiron",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-021",
+    "anchor": "wept and blubbered",
+    "layer": "vocab",
+    "note": "Blubbered: cried noisily and messily.",
+    "source": "Merriam-Webster, “blubber”, https://www.merriam-webster.com/dictionary/blubber",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-022",
+    "anchor": "sat in the stern-sheets",
+    "layer": "vocab",
+    "note": "Stern-sheets: the space at the back of an open boat, where passengers sit.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stern-sheets”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-023",
+    "anchor": "screwing myself up",
+    "layer": "vocab",
+    "note": "Screwing myself up: forcing up my nerve, here with drink.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-024",
+    "anchor": "cringed forward",
+    "layer": "vocab",
+    "note": "Cringed: bent forward timidly, as if afraid.",
+    "source": "Merriam-Webster, “cringe”, https://www.merriam-webster.com/dictionary/cringe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-025",
+    "anchor": "his forlorn state",
+    "layer": "vocab",
+    "note": "Forlorn: lonely, hopeless, and miserable.",
+    "source": "Merriam-Webster, “forlorn”, https://www.merriam-webster.com/dictionary/forlorn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-026",
+    "anchor": "you lunatic",
+    "layer": "vocab",
+    "note": "Lunatic: a madman (from the old belief that the moon caused madness).",
+    "source": "Merriam-Webster, “lunatic”, https://www.merriam-webster.com/dictionary/lunatic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-027",
+    "anchor": "with a sort of virtuous fury",
+    "layer": "vocab",
+    "note": "Virtuous: acting as if morally in the right.",
+    "source": "Merriam-Webster, “virtuous”, https://www.merriam-webster.com/dictionary/virtuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-028",
+    "anchor": "He faltered",
+    "layer": "vocab",
+    "note": "Faltered: hesitated, lost strength for a moment.",
+    "source": "Merriam-Webster, “falter”, https://www.merriam-webster.com/dictionary/falter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-029",
+    "anchor": "on the gunwale",
+    "layer": "vocab",
+    "note": "Gunwale (said “gunnel”): the upper edge of a boat’s side.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gunwale”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-030",
+    "anchor": "mean mongrels at a tree’d thief",
+    "layer": "vocab",
+    "note": "Mongrels: mixed-breed dogs. Tree’d: chased up a tree.",
+    "source": "Merriam-Webster, “mongrel”, https://www.merriam-webster.com/dictionary/mongrel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-031",
+    "anchor": "would bay from the stern",
+    "layer": "vocab",
+    "note": "Bay: howl deeply, like a hunting dog.",
+    "source": "Merriam-Webster, “bay”, https://www.merriam-webster.com/dictionary/bay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-032",
+    "anchor": "you skunk",
+    "layer": "vocab",
+    "note": "Skunk: an insult for a mean, contemptible person.",
+    "source": "Merriam-Webster, “skunk”, https://www.merriam-webster.com/dictionary/skunk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-033",
+    "anchor": "firing you overboard",
+    "layer": "vocab",
+    "note": "Firing: throwing or hurling, like a missile.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-034",
+    "anchor": "I would for twopence",
+    "layer": "vocab",
+    "note": "For twopence: for two pennies; that is, at the slightest excuse.",
+    "source": "Merriam-Webster, “twopence”, https://www.merriam-webster.com/dictionary/twopence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-035",
+    "anchor": "in some sort astounded",
+    "layer": "vocab",
+    "note": "Astounded: greatly astonished, shocked with surprise.",
+    "source": "Merriam-Webster, “astound”, https://www.merriam-webster.com/dictionary/astound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-036",
+    "anchor": "secret convolutions of a cloud",
+    "layer": "vocab",
+    "note": "Convolutions: twists, coils, and folds.",
+    "source": "Merriam-Webster, “convolution”, https://www.merriam-webster.com/dictionary/convolution",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-037",
+    "anchor": "a bale of shakings",
+    "layer": "vocab",
+    "note": "Shakings: scraps of old rope and canvas, swept up as waste.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Shakings”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-038",
+    "anchor": "a convulsive jerk",
+    "layer": "vocab",
+    "note": "Convulsive: sudden and uncontrolled, like a spasm.",
+    "source": "Merriam-Webster, “convulsive”, https://www.merriam-webster.com/dictionary/convulsive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-039",
+    "anchor": "the cognac bottle",
+    "layer": "vocab",
+    "note": "Cognac: a fine French brandy.",
+    "source": "Merriam-Webster, “cognac”, https://www.merriam-webster.com/dictionary/cognac",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-040",
+    "anchor": "before he alighted",
+    "layer": "vocab",
+    "note": "Alighted: came down and landed.",
+    "source": "Merriam-Webster, “alight”, https://www.merriam-webster.com/dictionary/alight",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-041",
+    "anchor": "the pungent odour",
+    "layer": "vocab",
+    "note": "Pungent: sharp, strong, and stinging to smell.",
+    "source": "Merriam-Webster, “pungent”, https://www.merriam-webster.com/dictionary/pungent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-042",
+    "anchor": "a low drinking-bout",
+    "layer": "vocab",
+    "note": "A drinking-bout: a spell of heavy drinking.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-043",
+    "anchor": "from pediment to capital",
+    "layer": "vocab",
+    "note": "From base to top. A capital is the decorated top of a column.",
+    "source": "Merriam-Webster, “capital”, https://www.merriam-webster.com/dictionary/capital",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-044",
+    "anchor": "the sombre pile",
+    "layer": "vocab",
+    "note": "Pile: a large, imposing building.",
+    "source": "Merriam-Webster, “pile”, https://www.merriam-webster.com/dictionary/pile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-045",
+    "anchor": "walled up quick",
+    "layer": "vocab",
+    "note": "Quick: an old word for “alive.” Walled up alive in a grave.",
+    "source": "Merriam-Webster, “quick”, https://www.merriam-webster.com/dictionary/quick",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-046",
+    "anchor": "something abject",
+    "layer": "vocab",
+    "note": "Abject: miserable and shameful, at the lowest level.",
+    "source": "Merriam-Webster, “abject”, https://www.merriam-webster.com/dictionary/abject",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-047",
+    "anchor": "a fiendish and appalling joke",
+    "layer": "vocab",
+    "note": "Fiendish: devilishly cruel, as if planned by a demon.",
+    "source": "Merriam-Webster, “fiendish”, https://www.merriam-webster.com/dictionary/fiendish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-048",
+    "anchor": "a half-hearted shirker",
+    "layer": "vocab",
+    "note": "Half-hearted: without real effort. Shirker: one who avoids duty.",
+    "source": "Merriam-Webster, “shirker”, https://www.merriam-webster.com/dictionary/shirker",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-049",
+    "anchor": "a signal revenge",
+    "layer": "vocab",
+    "note": "Signal: striking and memorable (an older meaning).",
+    "source": "Merriam-Webster, “signal”, https://www.merriam-webster.com/dictionary/signal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-050",
+    "anchor": "the abhorrent opportunity",
+    "layer": "vocab",
+    "note": "Abhorrent: hateful, disgusting, morally repugnant.",
+    "source": "Merriam-Webster, “abhorrent”, https://www.merriam-webster.com/dictionary/abhorrent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-051",
+    "anchor": "a terribly effective feint",
+    "layer": "vocab",
+    "note": "Feint: a pretend attack meant to mislead.",
+    "source": "Merriam-Webster, “feint”, https://www.merriam-webster.com/dictionary/feint",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-052",
+    "anchor": "perpetually foiled",
+    "layer": "vocab",
+    "note": "Perpetually: always. Foiled: stopped from succeeding.",
+    "source": "Merriam-Webster, “foil”, https://www.merriam-webster.com/dictionary/foil",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-053",
+    "anchor": "the steadfastness of men",
+    "layer": "vocab",
+    "note": "Steadfastness: firm loyalty and determination.",
+    "source": "Merriam-Webster, “steadfast”, https://www.merriam-webster.com/dictionary/steadfast",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-054",
+    "anchor": "attempting to ship it",
+    "layer": "vocab",
+    "note": "To ship a rudder: to fit it into its place on the boat.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Ship”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-055",
+    "anchor": "the caprice of the wind",
+    "layer": "vocab",
+    "note": "Caprice: a sudden, unpredictable change.",
+    "source": "Merriam-Webster, “caprice”, https://www.merriam-webster.com/dictionary/caprice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-056",
+    "anchor": "an immensity lustreless and black",
+    "layer": "vocab",
+    "note": "Lustreless: dull, without any shine or light.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-057",
+    "anchor": "scintillated",
+    "layer": "vocab",
+    "note": "Sparkled, flashed with points of light.",
+    "source": "Merriam-Webster, “scintillate”, https://www.merriam-webster.com/dictionary/scintillate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-058",
+    "anchor": "had dishevelled hair",
+    "layer": "vocab",
+    "note": "Dishevelled: messy, untidy, and tangled.",
+    "source": "Merriam-Webster, “dishevel”, https://www.merriam-webster.com/dictionary/dishevel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-059",
+    "anchor": "he described graphically",
+    "layer": "vocab",
+    "note": "Graphically: in vivid, clear detail.",
+    "source": "Merriam-Webster, “graphic”, https://www.merriam-webster.com/dictionary/graphic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-060",
+    "anchor": "the lower limb of the sun",
+    "layer": "vocab",
+    "note": "Limb: the edge of the disc of the sun or moon.",
+    "source": "Merriam-Webster, “limb”, https://www.merriam-webster.com/dictionary/limb",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-061",
+    "anchor": "distilled a corrosive virtue",
+    "layer": "vocab",
+    "note": "Corrosive: eating away. Virtue here keeps its old meaning: power or strength.",
+    "source": "Merriam-Webster, “virtue”, https://www.merriam-webster.com/dictionary/virtue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-062",
+    "anchor": "the pellucid emptiness",
+    "layer": "vocab",
+    "note": "Pellucid: perfectly clear and transparent, like glass.",
+    "source": "Merriam-Webster, “pellucid”, https://www.merriam-webster.com/dictionary/pellucid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-063",
+    "anchor": "as though we had been chums together",
+    "layer": "vocab",
+    "note": "Chums: close friends, good pals (British).",
+    "source": "Merriam-Webster, “chum”, https://www.merriam-webster.com/dictionary/chum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-064",
+    "anchor": "a manifest fool",
+    "layer": "vocab",
+    "note": "Manifest: obvious, plain to see.",
+    "source": "Merriam-Webster, “manifest”, https://www.merriam-webster.com/dictionary/manifest",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-065",
+    "anchor": "they beckoned",
+    "layer": "vocab",
+    "note": "Beckoned: waved someone to come closer.",
+    "source": "Merriam-Webster, “beckon”, https://www.merriam-webster.com/dictionary/beckon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-066",
+    "anchor": "all the Canal traffic",
+    "layer": "history",
+    "note": "The Suez Canal, opened in 1869, links the Red Sea with the Mediterranean. Steamers between Europe and Asia ran up and down the Red Sea to use it, so boats adrift there were likely to be sighted.",
+    "source": "Encyclopaedia Britannica, “Suez Canal”, https://www.britannica.com/topic/Suez-Canal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-067",
+    "anchor": "for _my_ accommodation",
+    "layer": "vocab",
+    "note": "For my accommodation: for my convenience.",
+    "source": "Merriam-Webster, “accommodation”, https://www.merriam-webster.com/dictionary/accommodation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-068",
+    "anchor": "advised him to humour me",
+    "layer": "vocab",
+    "note": "Humour: go along with someone to keep them calm.",
+    "source": "Merriam-Webster, “humor”, https://www.merriam-webster.com/dictionary/humor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-069",
+    "anchor": "them palavering together",
+    "layer": "vocab",
+    "note": "Palavering: talking at length, chattering.",
+    "source": "Merriam-Webster, “palaver”, https://www.merriam-webster.com/dictionary/palaver",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-070",
+    "anchor": "from the water-breaker",
+    "layer": "vocab",
+    "note": "Water-breaker: a small cask holding drinking water in a boat.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Breaker”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-071",
+    "anchor": "done up",
+    "layer": "vocab",
+    "note": "Done up: completely worn out (British slang).",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-072",
+    "anchor": "his arm repulsed a shadow",
+    "layer": "vocab",
+    "note": "Repulsed: pushed back or drove away.",
+    "source": "Merriam-Webster, “repulse”, https://www.merriam-webster.com/dictionary/repulse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-073",
+    "anchor": "I didn’t get brain fever",
+    "layer": "vocab",
+    "note": "Brain fever: an old term for illness with high fever and delirium.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-074",
+    "anchor": "his big cropped head",
+    "layer": "vocab",
+    "note": "Cropped: with the hair cut very short.",
+    "source": "Merriam-Webster, “crop”, https://www.merriam-webster.com/dictionary/crop",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-075",
+    "anchor": "‘Donnerwetter! you will die,’",
+    "layer": "vocab",
+    "note": "Donnerwetter: a German exclamation of anger, like “damn it!”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-076",
+    "anchor": "tried to sound my thought",
+    "layer": "vocab",
+    "note": "Sound: try to find out, as sailors measure water depth.",
+    "source": "Merriam-Webster, “sound”, https://www.merriam-webster.com/dictionary/sound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-077",
+    "anchor": "readiness to believe implicitly",
+    "layer": "vocab",
+    "note": "Implicitly: completely, without any question or doubt.",
+    "source": "Merriam-Webster, “implicit”, https://www.merriam-webster.com/dictionary/implicit",
+    "status": "draft",
+    "checker": null
+  }
+]
