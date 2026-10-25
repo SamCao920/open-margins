@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sources · Scholia</title>
+<meta name="description" content="Every source cited in Scholia's notes, plus the texts, paintings, and type used on the site.">
+<link rel="icon" href="brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="brand/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
+<script src="prefs.js?v=dev"></script>
+<link rel="stylesheet" href="style.css?v=dev">
+</head>
+<body>
+<header class="bar">
+  <div class="bar-inner">
+    <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Scholia</a>
+    <nav class="running" aria-label="Breadcrumb"><span>Sources</span></nav>
+    <span class="bar-spacer"></span>
+    <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
+  </div>
+  <div class="rule-double"></div>
+</header>
+<main class="page sources">
+  <header class="title-block">
+    <h1>Sources</h1>
+    <p class="by">For the notes, the texts, and the plates</p>
+  </header>
+
+  <p>Each note names the work where its claim can be checked; click a note in the reader to see it. This page gathers them in one place. Notes are drafts until a person checks them against the source listed.</p>
+
+  <h2>Texts</h2>
+  <ul class="source-list">
+    <li>Joseph Conrad, <em>Lord Jim</em> (1900). Project Gutenberg eBook #5658, <a href="https://www.gutenberg.org/ebooks/5658">gutenberg.org/ebooks/5658</a>. Public domain. Wording, spelling, and punctuation are unchanged; only the Gutenberg licence header and footer are removed.</li>
+  </ul>
+
+  <h2>Reference works cited in the notes</h2>
+  <div id="works"><p class="status">Loading notes…</p></div>
+
+  <h2>Notes without a cited source</h2>
+  <div id="uncited"></div>
+
+  <h2>Plates</h2>
+  <p>All four paintings are in the public domain. The photographs come from Wikimedia Commons, resized for the web.</p>
+  <ul class="source-list">
+    <li>Carl Spitzweg, <em>The Bookworm</em>, c. 1850. Museum Georg Schäfer, Schweinfurt. <a href="https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg">Wikimedia Commons</a>.</li>
+    <li>Jean-Honoré Fragonard, <em>Young Girl Reading</em>, c. 1770. National Gallery of Art, Washington. <a href="https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg">Wikimedia Commons</a>.</li>
+    <li>Johannes Vermeer, <em>Girl Reading a Letter at an Open Window</em>, c. 1657–59. Gemäldegalerie Alte Meister, Dresden. <a href="https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg">Wikimedia Commons</a>.</li>
+    <li>J. M. W. Turner, <em>The Fighting Temeraire</em>, 1839. National Gallery, London. <a href="https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg">Wikimedia Commons</a>.</li>
+  </ul>
+
+  <h2>Type</h2>
+  <ul class="source-list">
+    <li>Old Standard TT, by Alexey Kryukov, and EB Garamond, by Georg Duffner and Octavio Pardo. Both under the SIL Open Font License, served from this site.</li>
+  </ul>
+
+  <p class="foot"><a href="index.html">Back to the library</a></p>
+</main>
+<script>
+(async function () {
+  // Gathers every note's source at load time, so this page never drifts
+  // from the note files.
+  const books = [{ id: 'lord-jim', title: 'Lord Jim', chapters: 10 }];
+  const roman = n => ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X',
+    'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX'][n] || String(n);
+  const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const linkify = s => esc(s).replace(/https?:\/\/[^\s;]+/g, u => '<a href="' + u + '">' + u.replace(/^https?:\/\/(www\.)?/, '') + '</a>');
+
+  async function load(path) {
+    for (const p of [path, '../' + path]) {
+      try { const r = await fetch(p, { cache: 'no-cache' }); if (r.ok) return await r.json(); } catch (e) {}
+    }
+    return [];
+  }
+
+  const groups = [
+    { name: 'Merriam-Webster Dictionary', test: /^Merriam-Webster/, href: 'https://www.merriam-webster.com/',
+      about: 'Word meanings, for most vocabulary notes.' },
+    { name: 'W. H. Smyth, The Sailor’s Word-Book (1867)', test: /^W\. H\. Smyth/, href: 'https://www.gutenberg.org/ebooks/26000',
+      about: 'A Victorian dictionary of nautical terms, for sea and ship words. Public domain.' },
+    { name: 'Encyclopaedia Britannica', test: /^Encyclopaedia Britannica/, href: 'https://www.britannica.com/',
+      about: 'Places, history, and customs.' },
+    { name: 'Other works', test: /./, about: 'Scripture, classics, museums, archives, and statutes.' }
+  ];
+  const cited = groups.map(() => []);
+  const uncited = [];
+
+  for (const b of books) {
+    for (let ch = 1; ch <= b.chapters; ch++) {
+      const notes = await load('notes/' + b.id + '/ch' + ch + '.json');
+      for (const n of notes) {
+        if (n.status === 'cut') continue;
+        const row = { book: b.title, ch, n };
+        if (!n.source) { uncited.push(row); continue; }
+        cited[groups.findIndex(g => g.test.test(n.source))].push(row);
+      }
+    }
+  }
+
+  const where = r => '<span class="where">' + esc(r.book) + ' ' + roman(r.ch) + '</span> <em>' + esc(r.n.anchor) + '</em>';
+  const works = document.getElementById('works');
+  works.innerHTML = groups.map((g, i) => {
+    const rows = cited[i];
+    if (!rows.length) return '';
+    const head = g.href ? '<a href="' + g.href + '">' + esc(g.name) + '</a>' : esc(g.name);
+    return '<section class="work"><h3>' + head + ' <span class="count">' + rows.length + ' note' + (rows.length > 1 ? 's' : '') + '</span></h3>' +
+      '<p class="about">' + esc(g.about) + '</p>' +
+      '<details><summary>Show each note</summary><ul class="cites">' +
+      rows.map(r => '<li>' + where(r) + ': ' + linkify(r.n.source) + '</li>').join('') +
+      '</ul></details></section>';
+  }).join('');
+
+  document.getElementById('uncited').innerHTML = uncited.length
+    ? '<p>' + uncited.length + ' vocabulary notes give a common meaning of a word or idiom without naming a dictionary entry yet. They are drafts like the rest; a checker should add a source or cut the note.</p>' +
+      '<details><summary>Show each note</summary><ul class="cites">' +
+      uncited.map(r => '<li>' + where(r) + ': ' + esc(r.n.note) + '</li>').join('') + '</ul></details>'
+    : '<p>None: every note cites a source.</p>';
+})();
+</script>
+</body>
+</html>
