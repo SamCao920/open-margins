@@ -1,0 +1,655 @@
+[
+  {
+    "id": "ch25-001",
+    "anchor": "awestruck riot",
+    "layer": "vocab",
+    "note": "Awestruck: filled with wonder and fear. Riot: a wild, disorderly crowd.",
+    "source": "Merriam-Webster, “awestruck”, https://www.merriam-webster.com/dictionary/awestruck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-002",
+    "anchor": "Tunku Allang’s courtyard",
+    "layer": "vocab",
+    "note": "Tunku: a Malay title for a prince of the royal family.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “tunku”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-003",
+    "anchor": "a stickleback",
+    "layer": "vocab",
+    "note": "Stickleback: a tiny freshwater fish with spines on its back.",
+    "source": "Merriam-Webster, “stickleback”, https://www.merriam-webster.com/dictionary/stickleback",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-004",
+    "anchor": "shoving their mugs",
+    "layer": "vocab",
+    "note": "Mugs: faces, especially ugly ones (slang).",
+    "source": "Merriam-Webster, “mug”, https://www.merriam-webster.com/dictionary/mug",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-005",
+    "anchor": "an empty shooting-iron",
+    "layer": "vocab",
+    "note": "Shooting-iron: a gun, especially a pistol (slang).",
+    "source": "Merriam-Webster, “shooting iron”, https://www.merriam-webster.com/dictionary/shooting%20iron",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-006",
+    "anchor": "unflinchingly grave and complimentary",
+    "layer": "vocab",
+    "note": "Unflinchingly: without showing fear. Complimentary: polite and flattering.",
+    "source": "Merriam-Webster, “unflinching”, https://www.merriam-webster.com/dictionary/unflinching",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-007",
+    "anchor": "his late captor",
+    "layer": "vocab",
+    "note": "Captor: the person who had held him prisoner.",
+    "source": "Merriam-Webster, “captor”, https://www.merriam-webster.com/dictionary/captor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-008",
+    "anchor": "The old disreputable Tunku Allang",
+    "layer": "vocab",
+    "note": "Disreputable: having a bad reputation, not respectable.",
+    "source": "Merriam-Webster, “disreputable”, https://www.merriam-webster.com/dictionary/disreputable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-009",
+    "anchor": "a wistful confidence",
+    "layer": "vocab",
+    "note": "Wistful: full of sad, hopeful longing.",
+    "source": "Merriam-Webster, “wistful”, https://www.merriam-webster.com/dictionary/wistful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-010",
+    "anchor": "improving the occasion",
+    "layer": "vocab",
+    "note": "Improving the occasion: using a chance to teach a moral lesson.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-011",
+    "anchor": "a few pieces of gum or beeswax",
+    "layer": "history",
+    "note": "Forest products such as gum (resin) and beeswax, gathered by villagers, were important trade goods in the Malay islands.",
+    "source": "Encyclopaedia Britannica, “Malay Archipelago trade”, https://www.britannica.com/search?query=Malay+Archipelago+trade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-012",
+    "anchor": "He writhed weirdly",
+    "layer": "vocab",
+    "note": "Writhed: twisted and squirmed about.",
+    "source": "Merriam-Webster, “writhe”, https://www.merriam-webster.com/dictionary/writhe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-013",
+    "anchor": "gesticulating",
+    "layer": "vocab",
+    "note": "Gesticulating: making excited movements with the hands and arms.",
+    "source": "Merriam-Webster, “gesticulate”, https://www.merriam-webster.com/dictionary/gesticulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-014",
+    "anchor": "an impotent incarnation of rage",
+    "layer": "vocab",
+    "note": "Impotent: powerless. Incarnation: a living form or embodiment.",
+    "source": "Merriam-Webster, “impotent”, https://www.merriam-webster.com/dictionary/impotent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-015",
+    "anchor": "enlarged upon the text",
+    "layer": "vocab",
+    "note": "Enlarged upon the text: preached at length on a saying, like a sermon.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-016",
+    "anchor": "like a tailor at his board",
+    "layer": "vocab",
+    "note": "Tailors traditionally sat cross-legged on their workbench to sew.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-017",
+    "anchor": "This decree",
+    "layer": "vocab",
+    "note": "Decree: an official order from a ruler.",
+    "source": "Merriam-Webster, “decree”, https://www.merriam-webster.com/dictionary/decree",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-018",
+    "anchor": "a cheerily officious manner",
+    "layer": "vocab",
+    "note": "Officious: too eager to help or give orders, meddlesome.",
+    "source": "Merriam-Webster, “officious”, https://www.merriam-webster.com/dictionary/officious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-019",
+    "anchor": "he was the executioner",
+    "layer": "vocab",
+    "note": "Executioner: the official who puts condemned people to death.",
+    "source": "Merriam-Webster, “executioner”, https://www.merriam-webster.com/dictionary/executioner",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-020",
+    "anchor": "a certain peevishness",
+    "layer": "vocab",
+    "note": "Peevishness: irritable, complaining bad temper.",
+    "source": "Merriam-Webster, “peevish”, https://www.merriam-webster.com/dictionary/peevish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-021",
+    "anchor": "some sort of ghastly colic",
+    "layer": "vocab",
+    "note": "Colic: severe pain in the stomach or bowels.",
+    "source": "Merriam-Webster, “colic”, https://www.merriam-webster.com/dictionary/colic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-022",
+    "anchor": "a muddy creek",
+    "layer": "vocab",
+    "note": "Creek: a small stream or narrow inlet.",
+    "source": "Merriam-Webster, “creek”, https://www.merriam-webster.com/dictionary/creek",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-023",
+    "anchor": "floundered in the mud",
+    "layer": "vocab",
+    "note": "Floundered: struggled clumsily, stumbling about.",
+    "source": "Merriam-Webster, “flounder”, https://www.merriam-webster.com/dictionary/flounder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-024",
+    "anchor": "dispatched with krisses",
+    "layer": "history",
+    "note": "The kris is a Malay dagger, often with a wavy blade, worn by men as a weapon and a mark of status.",
+    "source": "Encyclopaedia Britannica, “kris”, https://www.britannica.com/search?query=kris",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-025",
+    "anchor": "an apparition, a wraith, a portent",
+    "layer": "vocab",
+    "note": "Apparition, wraith: a ghost. Portent: a sign of something coming.",
+    "source": "Merriam-Webster, “portent”, https://www.merriam-webster.com/dictionary/portent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-026",
+    "anchor": "to conciliate him",
+    "layer": "vocab",
+    "note": "Conciliate: win over and calm someone by friendly acts.",
+    "source": "Merriam-Webster, “conciliate”, https://www.merriam-webster.com/dictionary/conciliate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-027",
+    "anchor": "helter-skelter",
+    "layer": "vocab",
+    "note": "Helter-skelter: in a confused, disorderly hurry.",
+    "source": "Merriam-Webster, “helter-skelter”, https://www.merriam-webster.com/dictionary/helter-skelter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-028",
+    "anchor": "bizarre mannerisms",
+    "layer": "vocab",
+    "note": "Mannerisms: odd personal habits of speech or behaviour.",
+    "source": "Merriam-Webster, “mannerism”, https://www.merriam-webster.com/dictionary/mannerism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-029",
+    "anchor": "boastful rhapsodies",
+    "layer": "vocab",
+    "note": "Rhapsodies: wildly enthusiastic, excited speeches.",
+    "source": "Merriam-Webster, “rhapsody”, https://www.merriam-webster.com/dictionary/rhapsody",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-030",
+    "anchor": "every arduous discussion",
+    "layer": "vocab",
+    "note": "Arduous: difficult, long, and tiring.",
+    "source": "Merriam-Webster, “arduous”, https://www.merriam-webster.com/dictionary/arduous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-031",
+    "anchor": "barring such interruptions",
+    "layer": "vocab",
+    "note": "Barring: except for, leaving aside.",
+    "source": "Merriam-Webster, “barring”, https://www.merriam-webster.com/dictionary/barring",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-032",
+    "anchor": "shunned by some",
+    "layer": "vocab",
+    "note": "Shunned: deliberately avoided by people.",
+    "source": "Merriam-Webster, “shun”, https://www.merriam-webster.com/dictionary/shun",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-033",
+    "anchor": "casual ragamuffin",
+    "layer": "vocab",
+    "note": "Ragamuffin: a ragged, dirty person, a scamp.",
+    "source": "Merriam-Webster, “ragamuffin”, https://www.merriam-webster.com/dictionary/ragamuffin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-034",
+    "anchor": "the effluvia of filth",
+    "layer": "vocab",
+    "note": "Effluvia: bad-smelling vapours or fumes.",
+    "source": "Merriam-Webster, “effluvium”, https://www.merriam-webster.com/dictionary/effluvium",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-035",
+    "anchor": "incommoded him greatly",
+    "layer": "vocab",
+    "note": "Incommoded: bothered, caused discomfort to.",
+    "source": "Merriam-Webster, “incommode”, https://www.merriam-webster.com/dictionary/incommode",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-036",
+    "anchor": "deputed from the council-room",
+    "layer": "vocab",
+    "note": "Deputed: sent to act on behalf of others.",
+    "source": "Merriam-Webster, “depute”, https://www.merriam-webster.com/dictionary/depute",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-037",
+    "anchor": "administer amazing interrogatories",
+    "layer": "vocab",
+    "note": "Interrogatories: formal lists of questions.",
+    "source": "Merriam-Webster, “interrogatory”, https://www.merriam-webster.com/dictionary/interrogatory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-038",
+    "anchor": "a nickel clock of New England make",
+    "layer": "history",
+    "note": "Factories in Connecticut, New England, mass-produced cheap clocks in the 1800s and sold them all over the world.",
+    "source": "Encyclopaedia Britannica, “clock Connecticut”, https://www.britannica.com/search?query=clock+Connecticut",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-039",
+    "anchor": "the alarum",
+    "layer": "vocab",
+    "note": "Alarum: an old word for an alarm, here a clock’s alarm.",
+    "source": "Merriam-Webster, “alarum”, https://www.merriam-webster.com/dictionary/alarum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-040",
+    "anchor": "his extreme peril",
+    "layer": "vocab",
+    "note": "Peril: serious danger to one’s life.",
+    "source": "Merriam-Webster, “peril”, https://www.merriam-webster.com/dictionary/peril",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-041",
+    "anchor": "ramshackle little granary",
+    "layer": "vocab",
+    "note": "Ramshackle: falling apart. Granary: a storehouse for grain.",
+    "source": "Merriam-Webster, “ramshackle”, https://www.merriam-webster.com/dictionary/ramshackle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-042",
+    "anchor": "the palisade",
+    "layer": "vocab",
+    "note": "Palisade: a fence of pointed wooden stakes for defence.",
+    "source": "Merriam-Webster, “palisade”, https://www.merriam-webster.com/dictionary/palisade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-043",
+    "anchor": "some dignitary",
+    "layer": "vocab",
+    "note": "Dignitary: a person of high rank or office.",
+    "source": "Merriam-Webster, “dignitary”, https://www.merriam-webster.com/dictionary/dignitary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-044",
+    "anchor": "crack the earth asunder",
+    "layer": "vocab",
+    "note": "Asunder: apart, into separate pieces.",
+    "source": "Merriam-Webster, “asunder”, https://www.merriam-webster.com/dictionary/asunder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-045",
+    "anchor": "He pelted straight on",
+    "layer": "vocab",
+    "note": "Pelted: ran as fast as he could.",
+    "source": "Merriam-Webster, “pelt”, https://www.merriam-webster.com/dictionary/pelt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-046",
+    "anchor": "beplastered with filth out of all semblance",
+    "layer": "vocab",
+    "note": "Beplastered: thickly covered. Semblance: outward appearance.",
+    "source": "Merriam-Webster, “semblance”, https://www.merriam-webster.com/dictionary/semblance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-047",
+    "anchor": "The nimbler women",
+    "layer": "vocab",
+    "note": "Nimbler: quicker and lighter on their feet.",
+    "source": "Merriam-Webster, “nimble”, https://www.merriam-webster.com/dictionary/nimble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-048",
+    "anchor": "remained petrified",
+    "layer": "vocab",
+    "note": "Petrified: frozen with fear, as if turned to stone.",
+    "source": "Merriam-Webster, “petrify”, https://www.merriam-webster.com/dictionary/petrify",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-049",
+    "anchor": "a barricade of felled trees",
+    "layer": "vocab",
+    "note": "Barricade: a barrier put up for defence.",
+    "source": "Merriam-Webster, “barricade”, https://www.merriam-webster.com/dictionary/barricade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-050",
+    "anchor": "a maize-patch",
+    "layer": "vocab",
+    "note": "Maize: Indian corn, the plant called corn in America.",
+    "source": "Merriam-Webster, “maize”, https://www.merriam-webster.com/dictionary/maize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-051",
+    "anchor": "the greatest possible commotion",
+    "layer": "vocab",
+    "note": "Commotion: noisy, excited confusion and fuss.",
+    "source": "Merriam-Webster, “commotion”, https://www.merriam-webster.com/dictionary/commotion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-052",
+    "anchor": "full of business and commiseration",
+    "layer": "vocab",
+    "note": "Commiseration: sympathy and pity for someone’s suffering.",
+    "source": "Merriam-Webster, “commiserate”, https://www.merriam-webster.com/dictionary/commiserate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-053",
+    "anchor": "her state bed",
+    "layer": "vocab",
+    "note": "State bed: a grand bed kept for honour and ceremony.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-054",
+    "anchor": "she chewed betel assiduously",
+    "layer": "history",
+    "note": "Betel chewing, of areca nut wrapped in a betel leaf with lime, was a common habit across Southeast Asia; it stains the lips and mouth red.",
+    "source": "Encyclopaedia Britannica, “betel”, https://www.britannica.com/search?query=betel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-055",
+    "anchor": "jewelled clasps",
+    "layer": "vocab",
+    "note": "Clasps: fasteners that hold two parts of a garment together.",
+    "source": "Merriam-Webster, “clasp”, https://www.merriam-webster.com/dictionary/clasp",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-056",
+    "anchor": "a skimpy effect",
+    "layer": "vocab",
+    "note": "Skimpy: too small, scanty, not enough.",
+    "source": "Merriam-Webster, “skimpy”, https://www.merriam-webster.com/dictionary/skimpy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-057",
+    "anchor": "thrust into yellow straw slippers",
+    "layer": "vocab",
+    "note": "Thrust: pushed forcefully; here, slipped quickly.",
+    "source": "Merriam-Webster, “thrust”, https://www.merriam-webster.com/dictionary/thrust",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-058",
+    "anchor": "homely shrewd sayings",
+    "layer": "vocab",
+    "note": "Homely: plain and simple. Shrewd: sharp and wise.",
+    "source": "Merriam-Webster, “shrewd”, https://www.merriam-webster.com/dictionary/shrewd",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-059",
+    "anchor": "eccentric and arbitrary",
+    "layer": "vocab",
+    "note": "Arbitrary: acting on whim rather than reason.",
+    "source": "Merriam-Webster, “arbitrary”, https://www.merriam-webster.com/dictionary/arbitrary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-060",
+    "anchor": "the nakhoda or merchant class",
+    "layer": "vocab",
+    "note": "Nakhoda: Malay for the master of a trading ship; a merchant captain.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “nakhoda”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-061",
+    "anchor": "The immigrants from Celebes",
+    "layer": "history",
+    "note": "The Bugis of southern Celebes (Sulawesi) were famous seafarers and traders who settled in many parts of the Malay Archipelago.",
+    "source": "Encyclopaedia Britannica, “Bugis”, https://www.britannica.com/search?query=Bugis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-062",
+    "anchor": "could muster",
+    "layer": "vocab",
+    "note": "Muster: gather together, as soldiers for battle.",
+    "source": "Merriam-Webster, “muster”, https://www.merriam-webster.com/dictionary/muster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-063",
+    "anchor": "faction fights",
+    "layer": "vocab",
+    "note": "Faction: a group within a larger community, opposed to another.",
+    "source": "Merriam-Webster, “faction”, https://www.merriam-webster.com/dictionary/faction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-064",
+    "anchor": "edible birds’ nests",
+    "layer": "history",
+    "note": "Nests of cave swiftlets, made of hardened saliva, were collected and sold to China for bird’s-nest soup, a costly delicacy.",
+    "source": "Encyclopaedia Britannica, “edible bird's nest”, https://www.britannica.com/search?query=edible+bird's+nest",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-065",
+    "anchor": "the breach of the monopoly",
+    "layer": "vocab",
+    "note": "Monopoly: sole control of a trade by one person or group.",
+    "source": "Merriam-Webster, “monopoly”, https://www.merriam-webster.com/dictionary/monopoly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-066",
+    "anchor": "His cruelty and rapacity",
+    "layer": "vocab",
+    "note": "Rapacity: greed, eagerness to seize by force.",
+    "source": "Merriam-Webster, “rapacity”, https://www.merriam-webster.com/dictionary/rapacity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-067",
+    "anchor": "had incited the tribes",
+    "layer": "vocab",
+    "note": "Incited: stirred up, urged on to act.",
+    "source": "Merriam-Webster, “incite”, https://www.merriam-webster.com/dictionary/incite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-068",
+    "anchor": "he devastated the open country",
+    "layer": "vocab",
+    "note": "Devastated: laid waste, destroyed widely.",
+    "source": "Merriam-Webster, “devastate”, https://www.merriam-webster.com/dictionary/devastate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-069",
+    "anchor": "dropping piecemeal",
+    "layer": "vocab",
+    "note": "Piecemeal: bit by bit, one piece at a time.",
+    "source": "Merriam-Webster, “piecemeal”, https://www.merriam-webster.com/dictionary/piecemeal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-070",
+    "anchor": "this partisan most desired to plunder",
+    "layer": "vocab",
+    "note": "Partisan: a fighter for a cause. Plunder: rob by force.",
+    "source": "Merriam-Webster, “plunder”, https://www.merriam-webster.com/dictionary/plunder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-071",
+    "anchor": "Some of the Bugis settlers",
+    "layer": "vocab",
+    "note": "Bugis: the people from Celebes (Sulawesi) led by Doramin.",
+    "source": "Encyclopaedia Britannica, “Bugis”, https://www.britannica.com/search?query=Bugis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-072",
+    "anchor": "get Sherif Ali",
+    "layer": "vocab",
+    "note": "Sherif: an Arabic title for a descendant of the Prophet Muhammad.",
+    "source": "Merriam-Webster, “sharif”, https://www.merriam-webster.com/dictionary/sharif",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch25-073",
+    "anchor": "had not diminished",
+    "layer": "vocab",
+    "note": "Diminished: grown smaller or weaker.",
+    "source": "Merriam-Webster, “diminish”, https://www.merriam-webster.com/dictionary/diminish",
+    "status": "draft",
+    "checker": null
+  }
+]

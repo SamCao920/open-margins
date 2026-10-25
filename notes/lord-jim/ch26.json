@@ -1,0 +1,413 @@
+[
+  {
+    "id": "ch26-001",
+    "anchor": "looked imposing, monumental",
+    "layer": "vocab",
+    "note": "Monumental: huge and massive, like a monument.",
+    "source": "Merriam-Webster, “monumental”, https://www.merriam-webster.com/dictionary/monumental",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-002",
+    "anchor": "a red-and-gold headkerchief",
+    "layer": "vocab",
+    "note": "Headkerchief: a cloth folded and tied around the head.",
+    "source": "Merriam-Webster, “kerchief”, https://www.merriam-webster.com/dictionary/kerchief",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-003",
+    "anchor": "the vast corrugated brow",
+    "layer": "vocab",
+    "note": "Corrugated: folded into ridges and furrows.",
+    "source": "Merriam-Webster, “corrugated”, https://www.merriam-webster.com/dictionary/corrugated",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-004",
+    "anchor": "black skull-caps",
+    "layer": "vocab",
+    "note": "Skull-caps: small, close-fitting caps without brims.",
+    "source": "Merriam-Webster, “skullcap”, https://www.merriam-webster.com/dictionary/skullcap",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-005",
+    "anchor": "sustained his elbows",
+    "layer": "vocab",
+    "note": "Sustained: held up, supported from below.",
+    "source": "Merriam-Webster, “sustain”, https://www.merriam-webster.com/dictionary/sustain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-006",
+    "anchor": "When they sat in state",
+    "layer": "vocab",
+    "note": "In state: with formal ceremony and dignity.",
+    "source": "Merriam-Webster, “state”, https://www.merriam-webster.com/dictionary/state",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-007",
+    "anchor": "undulating as far as the violet",
+    "layer": "vocab",
+    "note": "Undulating: rising and falling in gentle waves.",
+    "source": "Merriam-Webster, “undulate”, https://www.merriam-webster.com/dictionary/undulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-008",
+    "anchor": "the shining sinuosity of the river",
+    "layer": "vocab",
+    "note": "Sinuosity: winding, curving, snake-like shape.",
+    "source": "Merriam-Webster, “sinuous”, https://www.merriam-webster.com/dictionary/sinuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-009",
+    "anchor": "beaten silver",
+    "layer": "vocab",
+    "note": "Beaten silver: silver hammered thin and shining.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-010",
+    "anchor": "something magnanimous and ruthless",
+    "layer": "vocab",
+    "note": "Magnanimous: generous and noble. Ruthless: without pity.",
+    "source": "Merriam-Webster, “magnanimous”, https://www.merriam-webster.com/dictionary/magnanimous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-011",
+    "anchor": "white sheeting",
+    "layer": "vocab",
+    "note": "Sheeting: cloth used to make sheets, stretched as a ceiling.",
+    "source": "Merriam-Webster, “sheeting”, https://www.merriam-webster.com/dictionary/sheeting",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-012",
+    "anchor": "a most deferential retinue",
+    "layer": "vocab",
+    "note": "Deferential: very respectful. Retinue: a group of attendants.",
+    "source": "Merriam-Webster, “retinue”, https://www.merriam-webster.com/dictionary/retinue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-013",
+    "anchor": "they idolised him",
+    "layer": "vocab",
+    "note": "Idolised: loved and admired too much, as an idol.",
+    "source": "Merriam-Webster, “idolize”, https://www.merriam-webster.com/dictionary/idolize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-014",
+    "anchor": "an overt glance",
+    "layer": "vocab",
+    "note": "Overt: open, done where it can be seen.",
+    "source": "Merriam-Webster, “overt”, https://www.merriam-webster.com/dictionary/overt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-015",
+    "anchor": "The room was generally thronged",
+    "layer": "vocab",
+    "note": "Thronged: crowded with many people.",
+    "source": "Merriam-Webster, “throng”, https://www.merriam-webster.com/dictionary/throng",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-016",
+    "anchor": "might so often is right",
+    "layer": "vocab",
+    "note": "Twisting the saying “might is right”: here power is right because it makes peace.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-017",
+    "anchor": "the bulwarks of fear",
+    "layer": "vocab",
+    "note": "Bulwarks: strong walls built for defence.",
+    "source": "Merriam-Webster, “bulwark”, https://www.merriam-webster.com/dictionary/bulwark",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-018",
+    "anchor": "devise the means",
+    "layer": "vocab",
+    "note": "Devise: invent, work out a plan.",
+    "source": "Merriam-Webster, “devise”, https://www.merriam-webster.com/dictionary/devise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-019",
+    "anchor": "an audacious plan",
+    "layer": "vocab",
+    "note": "Audacious: daring, bold, and risky.",
+    "source": "Merriam-Webster, “audacious”, https://www.merriam-webster.com/dictionary/audacious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-020",
+    "anchor": "a tenacity of purpose",
+    "layer": "vocab",
+    "note": "Tenacity: holding on firmly, not giving up.",
+    "source": "Merriam-Webster, “tenacity”, https://www.merriam-webster.com/dictionary/tenacity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-021",
+    "anchor": "a touch of altruism",
+    "layer": "vocab",
+    "note": "Altruism: unselfish concern for others.",
+    "source": "Merriam-Webster, “altruism”, https://www.merriam-webster.com/dictionary/altruism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-022",
+    "anchor": "a proud carriage",
+    "layer": "vocab",
+    "note": "Carriage here means the way one holds the body; posture.",
+    "source": "Merriam-Webster, “carriage”, https://www.merriam-webster.com/dictionary/carriage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-023",
+    "anchor": "his caustic placidity",
+    "layer": "vocab",
+    "note": "Caustic: biting, sharply witty. Placidity: calmness.",
+    "source": "Merriam-Webster, “caustic”, https://www.merriam-webster.com/dictionary/caustic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-024",
+    "anchor": "Jim’s aspirations",
+    "layer": "vocab",
+    "note": "Aspirations: hopes and ambitions for the future.",
+    "source": "Merriam-Webster, “aspiration”, https://www.merriam-webster.com/dictionary/aspiration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-025",
+    "anchor": "the fetters",
+    "layer": "vocab",
+    "note": "Fetters: chains for the feet; anything that restrains.",
+    "source": "Merriam-Webster, “fetter”, https://www.merriam-webster.com/dictionary/fetter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-026",
+    "anchor": "he made me scour the country",
+    "layer": "vocab",
+    "note": "Scour: search thoroughly over a wide area.",
+    "source": "Merriam-Webster, “scour”, https://www.merriam-webster.com/dictionary/scour",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-027",
+    "anchor": "an earthwork",
+    "layer": "vocab",
+    "note": "Earthwork: a bank of earth built up for defence.",
+    "source": "Merriam-Webster, “earthwork”, https://www.merriam-webster.com/dictionary/earthwork",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-028",
+    "anchor": "a sombre precipice",
+    "layer": "vocab",
+    "note": "Precipice: a very steep cliff or drop.",
+    "source": "Merriam-Webster, “precipice”, https://www.merriam-webster.com/dictionary/precipice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-029",
+    "anchor": "impregnable camp",
+    "layer": "vocab",
+    "note": "Impregnable: impossible to capture by attack.",
+    "source": "Merriam-Webster, “impregnable”, https://www.merriam-webster.com/dictionary/impregnable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-030",
+    "anchor": "Doramin’s old ordnance",
+    "layer": "vocab",
+    "note": "Ordnance: cannon and other heavy guns.",
+    "source": "Merriam-Webster, “ordnance”, https://www.merriam-webster.com/dictionary/ordnance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-031",
+    "anchor": "two rusty iron 7-pounders",
+    "layer": "vocab",
+    "note": "7-pounders: cannon that fire a 7-pound ball.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-032",
+    "anchor": "currency cannon",
+    "layer": "history",
+    "note": "Small brass cannon were made and traded in the Malay world as a store of wealth and a form of money, as well as for use as guns.",
+    "source": "Encyclopaedia Britannica, “lantaka”, https://www.britannica.com/search?query=lantaka",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-033",
+    "anchor": "to the muzzle",
+    "layer": "vocab",
+    "note": "Muzzle: the open front end of a gun barrel.",
+    "source": "Merriam-Webster, “muzzle”, https://www.merriam-webster.com/dictionary/muzzle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-034",
+    "anchor": "a rude capstan",
+    "layer": "vocab",
+    "note": "Capstan: an upright drum turned by bars to wind in a rope.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Capstan”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-035",
+    "anchor": "He had induced the war party",
+    "layer": "vocab",
+    "note": "Induced: persuaded to do something.",
+    "source": "Merriam-Webster, “induce”, https://www.merriam-webster.com/dictionary/induce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-036",
+    "anchor": "real old chieftain",
+    "layer": "vocab",
+    "note": "Chieftain: the leader of a clan or tribe.",
+    "source": "Merriam-Webster, “chieftain”, https://www.merriam-webster.com/dictionary/chieftain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-037",
+    "anchor": "immense flintlock pistols",
+    "layer": "history",
+    "note": "Flintlock pistols fired when a flint struck steel to spark the gunpowder; they were already old-fashioned by the late 1800s.",
+    "source": "Encyclopaedia Britannica, “flintlock”, https://www.britannica.com/search?query=flintlock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-038",
+    "anchor": "ebony, silver-mounted",
+    "layer": "vocab",
+    "note": "Ebony: a hard, heavy, black wood.",
+    "source": "Merriam-Webster, “ebony”, https://www.merriam-webster.com/dictionary/ebony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-039",
+    "anchor": "a calibre like an old blunderbuss",
+    "layer": "vocab",
+    "note": "Calibre: the width of a gun barrel. Blunderbuss: an old wide-mouthed gun.",
+    "source": "Merriam-Webster, “blunderbuss”, https://www.merriam-webster.com/dictionary/blunderbuss",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-040",
+    "anchor": "dry brushwood",
+    "layer": "vocab",
+    "note": "Brushwood: twigs and small branches.",
+    "source": "Merriam-Webster, “brushwood”, https://www.merriam-webster.com/dictionary/brushwood",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-041",
+    "anchor": "stampeded my lot",
+    "layer": "vocab",
+    "note": "Stampeded: made to flee in a sudden panic.",
+    "source": "Merriam-Webster, “stampede”, https://www.merriam-webster.com/dictionary/stampede",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-042",
+    "anchor": "the smouldering brier-wood",
+    "layer": "vocab",
+    "note": "Brier-wood: a pipe made from the hard root of the brier, a heath shrub.",
+    "source": "Merriam-Webster, “brier”, https://www.merriam-webster.com/dictionary/brier",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-043",
+    "anchor": "vast and monotonous landscape",
+    "layer": "vocab",
+    "note": "Monotonous: dull, the same everywhere, unchanging.",
+    "source": "Merriam-Webster, “monotonous”, https://www.merriam-webster.com/dictionary/monotonous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-044",
+    "anchor": "the secular gloom",
+    "layer": "vocab",
+    "note": "Secular here means lasting for ages, age-old.",
+    "source": "Merriam-Webster, “secular”, https://www.merriam-webster.com/dictionary/secular",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-045",
+    "anchor": "set up on a pedestal",
+    "layer": "vocab",
+    "note": "Pedestal: the base on which a statue stands.",
+    "source": "Merriam-Webster, “pedestal”, https://www.merriam-webster.com/dictionary/pedestal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch26-046",
+    "anchor": "appeared to me symbolic",
+    "layer": "vocab",
+    "note": "Symbolic: standing for something larger than itself.",
+    "source": "Merriam-Webster, “symbolic”, https://www.merriam-webster.com/dictionary/symbolic",
+    "status": "draft",
+    "checker": null
+  }
+]

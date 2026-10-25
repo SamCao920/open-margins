@@ -1,0 +1,424 @@
+[
+  {
+    "id": "ch24-001",
+    "anchor": "cataracts of rust",
+    "layer": "vocab",
+    "note": "Cataracts: large waterfalls; here, red streaks of iron-rich soil.",
+    "source": "Merriam-Webster, “cataract”, https://www.merriam-webster.com/dictionary/cataract",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-002",
+    "anchor": "the dark-green foliage",
+    "layer": "vocab",
+    "note": "Foliage: the leaves of plants and trees.",
+    "source": "Merriam-Webster, “foliage”, https://www.merriam-webster.com/dictionary/foliage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-003",
+    "anchor": "jagged blue peaks",
+    "layer": "vocab",
+    "note": "Jagged: with sharp, uneven points.",
+    "source": "Merriam-Webster, “jagged”, https://www.merriam-webster.com/dictionary/jagged",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-004",
+    "anchor": "the remnants of a wall breached by the sea",
+    "layer": "vocab",
+    "note": "Remnants: leftover pieces. Breached: broken through.",
+    "source": "Merriam-Webster, “breach”, https://www.merriam-webster.com/dictionary/breach",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-005",
+    "anchor": "a village of fisher-folk",
+    "layer": "vocab",
+    "note": "Fisher-folk: people who live by fishing.",
+    "source": "Merriam-Webster, “fisherfolk”, https://www.merriam-webster.com/dictionary/fisherfolk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-006",
+    "anchor": "the estuary",
+    "layer": "vocab",
+    "note": "Estuary: the wide mouth of a river where it meets the sea.",
+    "source": "Merriam-Webster, “estuary”, https://www.merriam-webster.com/dictionary/estuary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-007",
+    "anchor": "a fusillade",
+    "layer": "vocab",
+    "note": "Fusillade: a rapid burst of gunfire from many guns.",
+    "source": "Merriam-Webster, “fusillade”, https://www.merriam-webster.com/dictionary/fusillade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-008",
+    "anchor": "the elderly headman",
+    "layer": "vocab",
+    "note": "Headman: the chief man of a village.",
+    "source": "Merriam-Webster, “headman”, https://www.merriam-webster.com/dictionary/headman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-009",
+    "anchor": "to act as a sort of pilot",
+    "layer": "vocab",
+    "note": "Pilot: a local guide who steers ships through a difficult channel.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Pilot”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-010",
+    "anchor": "He called him Tuan Jim",
+    "layer": "vocab",
+    "note": "Tuan: a Malay title of respect meaning “lord” or “sir.”",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “tuan”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-011",
+    "anchor": "a strange mixture of familiarity and awe",
+    "layer": "vocab",
+    "note": "Awe: deep respect mixed with wonder and fear.",
+    "source": "Merriam-Webster, “awe”, https://www.merriam-webster.com/dictionary/awe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-012",
+    "anchor": "bore no grudge",
+    "layer": "vocab",
+    "note": "Grudge: a lasting feeling of resentment against someone.",
+    "source": "Merriam-Webster, “grudge”, https://www.merriam-webster.com/dictionary/grudge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-013",
+    "anchor": "had marvelled at the phenomenon",
+    "layer": "vocab",
+    "note": "Marvelled: wondered greatly. Phenomenon: a remarkable event.",
+    "source": "Merriam-Webster, “phenomenon”, https://www.merriam-webster.com/dictionary/phenomenon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-014",
+    "anchor": "came heralded by terrors",
+    "layer": "vocab",
+    "note": "Heralded: announced in advance, preceded.",
+    "source": "Merriam-Webster, “herald”, https://www.merriam-webster.com/dictionary/herald",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-015",
+    "anchor": "There was no precedent",
+    "layer": "vocab",
+    "note": "Precedent: an earlier example that can serve as a guide.",
+    "source": "Merriam-Webster, “precedent”, https://www.merriam-webster.com/dictionary/precedent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-016",
+    "anchor": "a cranky dug-out",
+    "layer": "vocab",
+    "note": "Cranky: unsteady, likely to tip over.",
+    "source": "Merriam-Webster, “cranky”, https://www.merriam-webster.com/dictionary/cranky",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-017",
+    "anchor": "A fearless old hag",
+    "layer": "vocab",
+    "note": "Hag: an ugly old woman, often thought a witch.",
+    "source": "Merriam-Webster, “hag”, https://www.merriam-webster.com/dictionary/hag",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-018",
+    "anchor": "He sat with precaution",
+    "layer": "vocab",
+    "note": "Precaution: care taken in advance to avoid danger.",
+    "source": "Merriam-Webster, “precaution”, https://www.merriam-webster.com/dictionary/precaution",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-019",
+    "anchor": "by stealth",
+    "layer": "vocab",
+    "note": "By stealth: secretly, so as not to be noticed.",
+    "source": "Merriam-Webster, “stealth”, https://www.merriam-webster.com/dictionary/stealth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-020",
+    "anchor": "and bale some of the water out",
+    "layer": "vocab",
+    "note": "Bale (bail): scoop water out of a boat.",
+    "source": "Merriam-Webster, “bail”, https://www.merriam-webster.com/dictionary/bail",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-021",
+    "anchor": "a block-tin case",
+    "layer": "vocab",
+    "note": "Block-tin: pure tin, or tin-plated sheet metal.",
+    "source": "Merriam-Webster, “block tin”, https://www.merriam-webster.com/dictionary/block%20tin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-022",
+    "anchor": "fits of giddiness",
+    "layer": "vocab",
+    "note": "Giddiness: dizziness, a feeling of being faint.",
+    "source": "Merriam-Webster, “giddy”, https://www.merriam-webster.com/dictionary/giddy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-023",
+    "anchor": "he speculated hazily",
+    "layer": "vocab",
+    "note": "Speculated: wondered, guessed. Hazily: vaguely, unclearly.",
+    "source": "Merriam-Webster, “speculate”, https://www.merriam-webster.com/dictionary/speculate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-024",
+    "anchor": "a long empty reach",
+    "layer": "vocab",
+    "note": "Reach: a straight stretch of river between bends.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Reach”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-025",
+    "anchor": "an insulting hullabaloo",
+    "layer": "vocab",
+    "note": "Hullabaloo: a loud uproar, a commotion.",
+    "source": "Merriam-Webster, “hullabaloo”, https://www.merriam-webster.com/dictionary/hullabaloo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-026",
+    "anchor": "He became instantaneously aware",
+    "layer": "vocab",
+    "note": "Instantaneously: at once, in an instant.",
+    "source": "Merriam-Webster, “instantaneous”, https://www.merriam-webster.com/dictionary/instantaneous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-027",
+    "anchor": "a stockade",
+    "layer": "vocab",
+    "note": "Stockade: a defensive wall of strong upright posts.",
+    "source": "Merriam-Webster, “stockade”, https://www.merriam-webster.com/dictionary/stockade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-028",
+    "anchor": "taking to their heels",
+    "layer": "vocab",
+    "note": "Taking to their heels: running away fast.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-029",
+    "anchor": "his stubborn sulkiness",
+    "layer": "vocab",
+    "note": "Sulkiness: silent bad temper, resentment.",
+    "source": "Merriam-Webster, “sulky”, https://www.merriam-webster.com/dictionary/sulky",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-030",
+    "anchor": "the chambers were actually empty",
+    "layer": "vocab",
+    "note": "Chambers: the holes in a revolver’s cylinder that hold cartridges.",
+    "source": "Merriam-Webster, “chamber”, https://www.merriam-webster.com/dictionary/chamber",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-031",
+    "anchor": "old scoundrel Kassim",
+    "layer": "vocab",
+    "note": "Scoundrel: a dishonest, wicked person.",
+    "source": "Merriam-Webster, “scoundrel”, https://www.merriam-webster.com/dictionary/scoundrel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-032",
+    "anchor": "the dispassionateness of a disembodied soul",
+    "layer": "vocab",
+    "note": "Dispassionateness: calm coldness, freedom from feeling.",
+    "source": "Merriam-Webster, “dispassionate”, https://www.merriam-webster.com/dictionary/dispassionate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-033",
+    "anchor": "our domain",
+    "layer": "vocab",
+    "note": "Domain: an area that one controls or belongs to.",
+    "source": "Merriam-Webster, “domain”, https://www.merriam-webster.com/dictionary/domain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-034",
+    "anchor": "a sinister reality",
+    "layer": "vocab",
+    "note": "Sinister: threatening, suggesting something evil.",
+    "source": "Merriam-Webster, “sinister”, https://www.merriam-webster.com/dictionary/sinister",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-035",
+    "anchor": "accentuated the utter isolation",
+    "layer": "vocab",
+    "note": "Accentuated: made more noticeable, emphasized.",
+    "source": "Merriam-Webster, “accentuate”, https://www.merriam-webster.com/dictionary/accentuate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-036",
+    "anchor": "a spectral herd",
+    "layer": "vocab",
+    "note": "Spectral: ghostly, like a spectre.",
+    "source": "Merriam-Webster, “spectral”, https://www.merriam-webster.com/dictionary/spectral",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-037",
+    "anchor": "significant of human affections",
+    "layer": "vocab",
+    "note": "Significant of: showing, being a sign of.",
+    "source": "Merriam-Webster, “significant”, https://www.merriam-webster.com/dictionary/significant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-038",
+    "anchor": "perfectly regular and valid",
+    "layer": "vocab",
+    "note": "Valid: legally sound and binding.",
+    "source": "Merriam-Webster, “valid”, https://www.merriam-webster.com/dictionary/valid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-039",
+    "anchor": "snort and plunge",
+    "layer": "vocab",
+    "note": "Like a startled horse: to snort and rear up in protest.",
+    "source": "Merriam-Webster, “plunge”, https://www.merriam-webster.com/dictionary/plunge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-040",
+    "anchor": "made him a captive",
+    "layer": "vocab",
+    "note": "Captive: a prisoner, someone held by force.",
+    "source": "Merriam-Webster, “captive”, https://www.merriam-webster.com/dictionary/captive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-041",
+    "anchor": "the fabulous value",
+    "layer": "vocab",
+    "note": "Fabulous: unbelievably great, as in a fable.",
+    "source": "Merriam-Webster, “fabulous”, https://www.merriam-webster.com/dictionary/fabulous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-042",
+    "anchor": "too conventional",
+    "layer": "vocab",
+    "note": "Conventional: ordinary, usual, as expected.",
+    "source": "Merriam-Webster, “conventional”, https://www.merriam-webster.com/dictionary/conventional",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-043",
+    "anchor": "his intellectual alertness",
+    "layer": "vocab",
+    "note": "Alertness: quick, watchful readiness of mind.",
+    "source": "Merriam-Webster, “alert”, https://www.merriam-webster.com/dictionary/alert",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-044",
+    "anchor": "this constitutional reticence",
+    "layer": "vocab",
+    "note": "Constitutional: part of his basic nature. Reticence: reluctance to speak.",
+    "source": "Merriam-Webster, “reticence”, https://www.merriam-webster.com/dictionary/reticence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-045",
+    "anchor": "the certitude of rehabilitation",
+    "layer": "vocab",
+    "note": "Certitude: certainty. Rehabilitation: restoring one’s good name.",
+    "source": "Merriam-Webster, “rehabilitation”, https://www.merriam-webster.com/dictionary/rehabilitation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-046",
+    "anchor": "fierce egoism",
+    "layer": "vocab",
+    "note": "Egoism: concern with oneself and one’s own interests.",
+    "source": "Merriam-Webster, “egoism”, https://www.merriam-webster.com/dictionary/egoism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch24-047",
+    "anchor": "a contemptuous tenderness",
+    "layer": "vocab",
+    "note": "Contemptuous: scornful. Tenderness: gentle affection.",
+    "source": "Merriam-Webster, “contemptuous”, https://www.merriam-webster.com/dictionary/contemptuous",
+    "status": "draft",
+    "checker": null
+  }
+]
