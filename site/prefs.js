@@ -13,7 +13,8 @@
     sans: 'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
   };
   // Line length is in ems of the text size, so the column grows with the type.
-  const DEFAULTS = { theme: 'auto', font: 'oldstandard', size: 100, width: 36, notes: 'approach' };
+  // Light by default; Auto (follow the system) stays available in settings.
+  const DEFAULTS = { theme: 'light', font: 'oldstandard', size: 100, width: 36, notes: 'approach' };
   const SIZE_MIN = 80, SIZE_MAX = 150;
   const WIDTH_MIN = 26, WIDTH_MAX = 46;
   const ALLOWED = {
@@ -25,12 +26,16 @@
   function load() {
     let saved = {};
     try { saved = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { /* ignore */ }
+    // Before v2 the default theme was 'auto' and was saved with any other
+    // change, so a stored 'auto' from then was not a choice: drop it once.
+    if (saved.v !== 2 && saved.theme === 'auto') delete saved.theme;
     const p = Object.assign({}, DEFAULTS);
     Object.keys(ALLOWED).forEach(k => { if (ALLOWED[k].includes(saved[k])) p[k] = saved[k]; });
     const size = Number(saved.size);
     if (size >= SIZE_MIN && size <= SIZE_MAX) p.size = size;
     const width = Number(saved.width);
     if (width >= WIDTH_MIN && width <= WIDTH_MAX) p.width = width;
+    p.v = 2;
     return p;
   }
 

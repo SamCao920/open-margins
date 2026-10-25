@@ -1,0 +1,26 @@
+name: Browser check
+
+# Renders the site in WebKit, Firefox, and Chromium and logs layout metrics.
+on:
+  push:
+    paths: ['.github/workflows/browser-check.yml', '.github/scripts/browser-check.js']
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-save playwright@1.48.2 && npx playwright install --with-deps webkit firefox chromium
+      - run: |
+          python3 -m http.server 8000 >/dev/null 2>&1 &
+          sleep 2
+          mkdir -p shots
+          node .github/scripts/browser-check.js
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shots
+          path: shots
