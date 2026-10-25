@@ -1,0 +1,39 @@
+name: Fetch public-domain art
+
+# Downloads the paintings listed in .github/art-sources.txt from Wikimedia
+# Commons into site/art/ and commits them, so the site serves its own copies.
+on:
+  push:
+    paths: ['.github/art-sources.txt']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download paintings
+        run: |
+          mkdir -p site/art
+          grep -v '^#' .github/art-sources.txt | while IFS='|' read -r name file; do
+            [ -z "$name" ] && continue
+            enc=$(python3 -c 'import sys, urllib.parse; print(urllib.parse.quote(sys.argv[1].replace(" ", "_")))' "$file")
+            url="https://commons.wikimedia.org/wiki/Special:FilePath/${enc}?width=2000"
+            echo "Fetching $name from $url"
+            if curl -fsSL -A "ScholiaArtFetch/1.0 (https://github.com/samcao920/scholia)" -o "site/art/${name}.jpg" "$url"; then
+              file "site/art/${name}.jpg"
+            else
+              echo "::warning::Could not fetch $file"
+              rm -f "site/art/${name}.jpg"
+            fi
+          done
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/art
+          git diff --cached --quiet || git commit -m "Fetch public-domain paintings from Wikimedia Commons"
+          git push

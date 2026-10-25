@@ -1,0 +1,5 @@
+# One painting per line: output-name|Wikimedia Commons file name
+# The fetch-art workflow downloads each (2000px wide) into site/art/.
+temeraire|The Fighting Temeraire, JMW Turner, National Gallery.jpg
+ninth-wave|Aivazovsky, Ivan - The Ninth Wave.jpg
+snow-storm|Joseph Mallord William Turner – Snow Storm – Steam-Boat off a Harbour's Mouth – WGA23178.jpg
