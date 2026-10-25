@@ -4,35 +4,41 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Lord Jim · Scholia</title>
-<script src="prefs.js"></script>
-<link rel="stylesheet" href="tufte/tufte.css">
-<link rel="stylesheet" href="style.css">
+<script src="prefs.js?v=dev"></script>
+<link rel="stylesheet" href="style.css?v=dev">
 </head>
-<body class="home-page">
+<body>
 <header class="bar">
-  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a><span class="sep">/</span><span>Lord Jim</span></nav>
+  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a><span class="sep">/</span><em>Lord Jim</em></nav>
   <span class="bar-spacer"></span>
   <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
 </header>
-<article>
-  <h1>Lord Jim</h1>
-  <p class="subtitle">Joseph Conrad, 1900</p>
-  <section>
-    <p><span class="newthought">A parson’s son</span> trains for a life of adventure at sea. Scholia annotates the first ten chapters. Notes marked <span class="draft-label">unverified</span> have not yet been checked by a person.</p>
-    <ol class="chapters" id="chapters"></ol>
-    <p class="foot">Text: Project Gutenberg eBook #5658, public domain. The Author’s Note (1917) is not included in the reader.</p>
-  </section>
-</article>
+<main class="page">
+  <header class="page-head">
+    <p class="eyebrow">Joseph Conrad · 1900</p>
+    <h1>Lord Jim</h1>
+    <div class="ornament" aria-hidden="true"></div>
+  </header>
+
+  <p>A parson’s son trains for a life of adventure at sea. Scholia annotates the first ten chapters. Notes marked <span class="draft-label">unverified</span> have not yet been checked by a person.</p>
+
+  <h2>Contents</h2>
+  <ol class="toc" id="toc"></ol>
+
+  <p class="foot">Text: Project Gutenberg eBook #5658, public domain. The Author’s Note (1917) is not included in the reader. <a href="index.html">Back to the library</a>.</p>
+</main>
 <script>
-  const list = document.getElementById('chapters');
-  for (let n = 1; n <= 10; n++) {
+  // Chapters with notes so far; update as chapters are annotated.
+  const annotated = { 1: 'notes unverified' };
+  const roman = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X'];
+  const toc = document.getElementById('toc');
+  roman.forEach((r, i) => {
+    const n = i + 1;
     const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = 'chapter.html?book=lord-jim&ch=' + n;
-    a.textContent = 'Chapter ' + n;
-    li.appendChild(a);
-    list.appendChild(li);
-  }
+    li.innerHTML = '<span class="num">' + r + '</span><a href="chapter.html?book=lord-jim&amp;ch=' + n + '">Chapter ' + r + '</a>' +
+      '<span class="status">' + (annotated[n] || 'text only') + '</span>';
+    toc.appendChild(li);
+  });
 </script>
 </body>
 </html>

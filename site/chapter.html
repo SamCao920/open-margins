@@ -4,13 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Scholia</title>
-<script src="prefs.js"></script>
-<link rel="stylesheet" href="tufte/tufte.css">
-<link rel="stylesheet" href="style.css">
+<script src="prefs.js?v=dev"></script>
+<link rel="stylesheet" href="style.css?v=dev">
 </head>
-<body class="reader-page inline-mode">
+<body class="inline-mode">
 <header class="bar">
-  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a><span class="sep">/</span><a id="book-link" href="book.html">Book</a></nav>
+  <nav class="crumbs" aria-label="Breadcrumb"><a class="home" href="index.html">Scholia</a><span class="sep">/</span><a id="book-link" href="book.html">Book</a><span class="sep">/</span><em id="crumb-chapter">Chapter</em></nav>
   <fieldset class="layers" id="layers">
     <legend class="sr-only">Note layers</legend>
     <label><input type="checkbox" value="vocab">Vocab</label>
@@ -34,7 +33,7 @@
       <div class="row">
         <label class="label" for="pref-font">Font</label>
         <select id="pref-font" data-pref="font">
-          <option value="et-book">ET Book</option>
+          <option value="garamond">EB Garamond</option>
           <option value="georgia">Georgia</option>
           <option value="palatino">Palatino</option>
           <option value="charter">Charter</option>
@@ -73,13 +72,17 @@
   <div class="ticks ticks-left" id="ticks-left" aria-hidden="true"></div>
   <aside class="panel panel-left" id="panel-left" aria-label="Allusion, history, and place notes"></aside>
   <section class="column" id="column">
-    <h1 id="title">Chapter</h1>
+    <header class="chapter-head">
+      <p class="eyebrow" id="eyebrow">&nbsp;</p>
+      <h1 id="title">Chapter</h1>
+      <div class="ornament" aria-hidden="true"></div>
+    </header>
     <div id="text"><p class="status">Loading…</p></div>
     <nav class="chapnav" id="chapnav" aria-label="Chapters"></nav>
   </section>
   <aside class="panel panel-right" id="panel-right" aria-label="Vocabulary notes"></aside>
   <div class="ticks ticks-right" id="ticks-right" aria-hidden="true"></div>
 </main>
-<script src="reader.js"></script>
+<script src="reader.js?v=dev"></script>
 </body>
 </html>

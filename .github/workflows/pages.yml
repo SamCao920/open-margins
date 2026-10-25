@@ -29,6 +29,9 @@ jobs:
           mkdir -p _site
           cp -r site/. _site/
           cp -r texts notes _site/
+          # Cache-bust scripts and styles: browsers keep Pages files for
+          # 10 minutes, and a stale script on a new page breaks the reader.
+          sed -i "s/?v=dev/?v=${GITHUB_SHA::8}/g" _site/*.html
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

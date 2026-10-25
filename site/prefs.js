@@ -5,15 +5,15 @@
 
   const KEY = 'scholia.prefs';
   const FONTS = {
-    'et-book': 'et-book, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif',
+    garamond: '"EB Garamond", Garamond, "Iowan Old Style", Georgia, serif',
     georgia: 'Georgia, "Times New Roman", serif',
     palatino: '"Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", serif',
     charter: 'Charter, "Bitstream Charter", "Sitka Text", Cambria, serif',
     sans: 'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif',
   };
   // Measures are in ems of the text size, so the column grows with the type.
-  const WIDTHS = { narrow: '28em', medium: '33em', wide: '38em' };
-  const DEFAULTS = { theme: 'auto', font: 'et-book', size: 100, width: 'medium', notes: 'approach' };
+  const WIDTHS = { narrow: '28em', medium: '32em', wide: '36em' };
+  const DEFAULTS = { theme: 'auto', font: 'garamond', size: 100, width: 'medium', notes: 'approach' };
   const SIZE_MIN = 80, SIZE_MAX = 150, SIZE_STEP = 10;
   const ALLOWED = {
     theme: ['auto', 'light', 'dark'],
