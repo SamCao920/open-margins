@@ -277,7 +277,6 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 /* Justified and hyphenated like book type, where lines are long enough. */
 @media (min-width: 701px) {
   #text p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
-  .anchor { white-space: nowrap; } /* keep each annotated phrase on one line */
 }
 #text .status { text-indent: 0; color: var(--muted); font-style: italic; }
 
