@@ -15,15 +15,15 @@
   const REF = { vocab: '*', allusion: '\u2020', history: '\u00a7', place: '\u00b6' };
   const STORE_KEY = 'scholia.layers';
 
-  const GAP = 24;          // space between the text and a panel
-  const EDGE = 24;         // space between a panel and the window edge
-  const MIN_FOCUS = 200;   // narrowest a single note may be set in the margin
+  const GAP = 20;          // space between the text and a panel
+  const EDGE = 16;         // space between a panel and the window edge
+  const MIN_FOCUS = 170;   // narrowest a single note may be set in the margin
   const MIN_PANEL = 300;
   const MAX_PANEL = 440;
   // Below this gutter width a single note can't sit in the margin without
   // covering the text, so notes open under the paragraph instead.
   const MIN_GUTTER = MIN_FOCUS + GAP + EDGE;
-  const NOTE_GAP = 6;
+  const NOTE_GAP = 3;
 
   const params = new URLSearchParams(location.search);
   const bookId = BOOKS[params.get('book')] ? params.get('book') : 'lord-jim';

@@ -277,11 +277,13 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 /* Justified and hyphenated like book type, where lines are long enough. */
 @media (min-width: 701px) {
   #text p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+  .anchor { white-space: nowrap; } /* keep each annotated phrase on one line */
 }
 #text .status { text-indent: 0; color: var(--muted); font-style: italic; }
 
 .anchor {
   cursor: pointer;
+  hyphens: manual; -webkit-hyphens: manual; /* never split an annotated phrase */
   text-decoration: underline;
   text-decoration-style: dotted;
   text-decoration-color: var(--muted);
@@ -312,7 +314,7 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
   opacity: 1; pointer-events: auto; visibility: visible; transform: none;
   transition: opacity .2s cubic-bezier(.16, 1, .3, 1), transform .2s cubic-bezier(.16, 1, .3, 1);
 }
-.panel .note { position: absolute; left: .5rem; right: .5rem; cursor: pointer; padding: .05rem .25rem; }
+.panel .note { position: absolute; left: .5rem; right: .5rem; cursor: pointer; padding: .05rem .25rem; font-size: calc(.88rem * var(--scale)); line-height: 1.28; }
 .panel .note .source { display: none; }
 .panel .note.active .source { display: block; }
 .panel .note.hover, .panel .note.active { background: var(--mark); }
