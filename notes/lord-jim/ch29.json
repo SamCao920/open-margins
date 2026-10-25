@@ -1,0 +1,505 @@
+[
+  {
+    "id": "ch29-001",
+    "anchor": "the aggrieved sense of his legal paternity",
+    "layer": "vocab",
+    "note": "Aggrieved: feeling wronged. Paternity: being someone’s father.",
+    "source": "Merriam-Webster, “paternity”, https://www.merriam-webster.com/dictionary/paternity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-002",
+    "anchor": "slinking in the neighbourhood",
+    "layer": "vocab",
+    "note": "Slinking: moving about in a sly, sneaking way.",
+    "source": "Merriam-Webster, “slink”, https://www.merriam-webster.com/dictionary/slink",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-003",
+    "anchor": "perpetually on the point of gnashing his teeth",
+    "layer": "vocab",
+    "note": "Gnashing: grinding the teeth together in anger.",
+    "source": "Merriam-Webster, “gnash”, https://www.merriam-webster.com/dictionary/gnash",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-004",
+    "anchor": "the end of telegraph cables and mail-boat lines",
+    "layer": "history",
+    "note": "By the 1870s undersea telegraph cables and regular mail steamers linked the main ports of the East to Europe, but remote districts had neither.",
+    "source": "Encyclopaedia Britannica, “submarine cable”, https://www.britannica.com/search?query=submarine+cable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-005",
+    "anchor": "the haggard utilitarian lies",
+    "layer": "vocab",
+    "note": "Haggard: worn out. Utilitarian: useful and practical rather than beautiful.",
+    "source": "Merriam-Webster, “utilitarian”, https://www.merriam-webster.com/dictionary/utilitarian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-006",
+    "anchor": "Romance had singled Jim",
+    "layer": "vocab",
+    "note": "Singled: picked out from all others.",
+    "source": "Merriam-Webster, “single out”, https://www.merriam-webster.com/dictionary/single%20out",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-007",
+    "anchor": "the even, olive pallor",
+    "layer": "vocab",
+    "note": "Olive: a light greenish-brown skin colour. Pallor: paleness.",
+    "source": "Merriam-Webster, “pallor”, https://www.merriam-webster.com/dictionary/pallor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-008",
+    "anchor": "a small crimson cap",
+    "layer": "vocab",
+    "note": "Crimson: a deep, rich red colour.",
+    "source": "Merriam-Webster, “crimson”, https://www.merriam-webster.com/dictionary/crimson",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-009",
+    "anchor": "she blushed a dusky red",
+    "layer": "vocab",
+    "note": "Dusky: darkish, shadowy in colour.",
+    "source": "Merriam-Webster, “dusky”, https://www.merriam-webster.com/dictionary/dusky",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-010",
+    "anchor": "shyness and audacity",
+    "layer": "vocab",
+    "note": "Audacity: bold daring, surprising boldness.",
+    "source": "Merriam-Webster, “audacity”, https://www.merriam-webster.com/dictionary/audacity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-011",
+    "anchor": "succeeded swiftly",
+    "layer": "vocab",
+    "note": "Succeeded here means followed after, came next.",
+    "source": "Merriam-Webster, “succeed”, https://www.merriam-webster.com/dictionary/succeed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-012",
+    "anchor": "repressed anxiety",
+    "layer": "vocab",
+    "note": "Repressed: held back, kept from showing.",
+    "source": "Merriam-Webster, “repress”, https://www.merriam-webster.com/dictionary/repress",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-013",
+    "anchor": "dimpled by the knuckles",
+    "layer": "vocab",
+    "note": "Dimpled: pressed into small hollows.",
+    "source": "Merriam-Webster, “dimple”, https://www.merriam-webster.com/dictionary/dimple",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-014",
+    "anchor": "clipping, boyish intonation",
+    "layer": "vocab",
+    "note": "Intonation: the rise and fall of the voice in speaking.",
+    "source": "Merriam-Webster, “intonation”, https://www.merriam-webster.com/dictionary/intonation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-015",
+    "anchor": "lived so completely in his contemplation",
+    "layer": "vocab",
+    "note": "Contemplation: looking at something long and thoughtfully.",
+    "source": "Merriam-Webster, “contemplation”, https://www.merriam-webster.com/dictionary/contemplation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-016",
+    "anchor": "Her vigilant affection",
+    "layer": "vocab",
+    "note": "Vigilant: always watchful and alert.",
+    "source": "Merriam-Webster, “vigilant”, https://www.merriam-webster.com/dictionary/vigilant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-017",
+    "anchor": "almost perceptible to the senses",
+    "layer": "vocab",
+    "note": "Perceptible: able to be seen, heard, or felt.",
+    "source": "Merriam-Webster, “perceptible”, https://www.merriam-webster.com/dictionary/perceptible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-018",
+    "anchor": "the ambient matter of space",
+    "layer": "vocab",
+    "note": "Ambient: surrounding, present all around.",
+    "source": "Merriam-Webster, “ambient”, https://www.merriam-webster.com/dictionary/ambient",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-019",
+    "anchor": "a tremulous, subdued, and impassioned note",
+    "layer": "vocab",
+    "note": "Tremulous: trembling. Impassioned: full of strong feeling.",
+    "source": "Merriam-Webster, “impassioned”, https://www.merriam-webster.com/dictionary/impassioned",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-020",
+    "anchor": "her accomplices",
+    "layer": "vocab",
+    "note": "Accomplices: partners who help someone in a plan.",
+    "source": "Merriam-Webster, “accomplice”, https://www.merriam-webster.com/dictionary/accomplice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-021",
+    "anchor": "vigilant accord",
+    "layer": "vocab",
+    "note": "Accord: agreement, working in harmony.",
+    "source": "Merriam-Webster, “accord”, https://www.merriam-webster.com/dictionary/accord",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-022",
+    "anchor": "an air of seclusion",
+    "layer": "vocab",
+    "note": "Seclusion: being hidden away from others.",
+    "source": "Merriam-Webster, “seclusion”, https://www.merriam-webster.com/dictionary/seclusion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-023",
+    "anchor": "invincible possession",
+    "layer": "vocab",
+    "note": "Invincible: impossible to defeat or overcome.",
+    "source": "Merriam-Webster, “invincible”, https://www.merriam-webster.com/dictionary/invincible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-024",
+    "anchor": "make a footstool of her head",
+    "layer": "vocab",
+    "note": "Footstool: a low stool for resting one’s feet; here, total devotion.",
+    "source": "Merriam-Webster, “footstool”, https://www.merriam-webster.com/dictionary/footstool",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-025",
+    "anchor": "be-weaponed like a janissary",
+    "layer": "history",
+    "note": "Janissaries were the elite infantry of the Ottoman Turkish sultans, famous for their fierce loyalty and many weapons.",
+    "source": "Encyclopaedia Britannica, “Janissary”, https://www.britannica.com/search?query=Janissary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-026",
+    "anchor": "chopper, and lance",
+    "layer": "vocab",
+    "note": "Lance: a long spear with a pointed head.",
+    "source": "Merriam-Webster, “lance”, https://www.merriam-webster.com/dictionary/lance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-027",
+    "anchor": "a surly devoted jailer",
+    "layer": "vocab",
+    "note": "Surly: bad-tempered and unfriendly. Jailer: a prison guard.",
+    "source": "Merriam-Webster, “surly”, https://www.merriam-webster.com/dictionary/surly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-028",
+    "anchor": "a self-communion",
+    "layer": "vocab",
+    "note": "Self-communion: a conversation with oneself, private reflection.",
+    "source": "Merriam-Webster, “communion”, https://www.merriam-webster.com/dictionary/communion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-029",
+    "anchor": "a house in the compound",
+    "layer": "vocab",
+    "note": "Compound: an enclosed area containing a group of buildings.",
+    "source": "Merriam-Webster, “compound”, https://www.merriam-webster.com/dictionary/compound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-030",
+    "anchor": "grim retainer",
+    "layer": "vocab",
+    "note": "Retainer: a servant or follower of a chief.",
+    "source": "Merriam-Webster, “retainer”, https://www.merriam-webster.com/dictionary/retainer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-031",
+    "anchor": "Here comes the Nazarene",
+    "layer": "vocab",
+    "note": "Nazarene: a Christian (from Jesus of Nazareth); Tamb’ Itam, a Muslim, means it scornfully.",
+    "source": "Merriam-Webster, “Nazarene”, https://www.merriam-webster.com/dictionary/Nazarene",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-032",
+    "anchor": "singularly felicitous",
+    "layer": "vocab",
+    "note": "Singularly: remarkably. Felicitous: well chosen, very apt.",
+    "source": "Merriam-Webster, “felicitous”, https://www.merriam-webster.com/dictionary/felicitous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-033",
+    "anchor": "one torrid blaze",
+    "layer": "vocab",
+    "note": "Torrid: scorchingly, burningly hot.",
+    "source": "Merriam-Webster, “torrid”, https://www.merriam-webster.com/dictionary/torrid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-034",
+    "anchor": "an inexpressible effect",
+    "layer": "vocab",
+    "note": "Inexpressible: too great to be put into words.",
+    "source": "Merriam-Webster, “inexpressible”, https://www.merriam-webster.com/dictionary/inexpressible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-035",
+    "anchor": "everything that is unsavoury",
+    "layer": "vocab",
+    "note": "Unsavoury: unpleasant and morally distasteful.",
+    "source": "Merriam-Webster, “unsavory”, https://www.merriam-webster.com/dictionary/unsavory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-036",
+    "anchor": "His slow laborious walk",
+    "layer": "vocab",
+    "note": "Laborious: slow, heavy, and effortful.",
+    "source": "Merriam-Webster, “laborious”, https://www.merriam-webster.com/dictionary/laborious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-037",
+    "anchor": "a repulsive beetle",
+    "layer": "vocab",
+    "note": "Repulsive: disgusting, making one draw back.",
+    "source": "Merriam-Webster, “repulsive”, https://www.merriam-webster.com/dictionary/repulsive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-038",
+    "anchor": "seemed oblique",
+    "layer": "vocab",
+    "note": "Oblique: slanting, not straight; also sly.",
+    "source": "Merriam-Webster, “oblique”, https://www.merriam-webster.com/dictionary/oblique",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-039",
+    "anchor": "a very dubious part",
+    "layer": "vocab",
+    "note": "Dubious: doubtful, suspicious, probably dishonest.",
+    "source": "Merriam-Webster, “dubious”, https://www.merriam-webster.com/dictionary/dubious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-040",
+    "anchor": "it had redounded to his glory",
+    "layer": "vocab",
+    "note": "Redounded to: brought about as a result, added to.",
+    "source": "Merriam-Webster, “redound”, https://www.merriam-webster.com/dictionary/redound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-041",
+    "anchor": "bear a charmed life",
+    "layer": "vocab",
+    "note": "A charmed life: a life protected as if by magic from harm.",
+    "source": "Merriam-Webster, “charmed”, https://www.merriam-webster.com/dictionary/charmed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-042",
+    "anchor": "he was actuated by a sense of duty",
+    "layer": "vocab",
+    "note": "Actuated: moved to act, driven.",
+    "source": "Merriam-Webster, “actuate”, https://www.merriam-webster.com/dictionary/actuate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-043",
+    "anchor": "wriggle through all the deadly complications",
+    "layer": "vocab",
+    "note": "Wriggle through: squirm one’s way out of difficulties.",
+    "source": "Merriam-Webster, “wriggle”, https://www.merriam-webster.com/dictionary/wriggle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-044",
+    "anchor": "that abjectness",
+    "layer": "vocab",
+    "note": "Abjectness: utter wretchedness and lack of self-respect.",
+    "source": "Merriam-Webster, “abject”, https://www.merriam-webster.com/dictionary/abject",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-045",
+    "anchor": "venerable appearance",
+    "layer": "vocab",
+    "note": "Venerable: deserving respect because of age and dignity.",
+    "source": "Merriam-Webster, “venerable”, https://www.merriam-webster.com/dictionary/venerable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-046",
+    "anchor": "which permeated all his acts",
+    "layer": "vocab",
+    "note": "Permeated: spread through every part.",
+    "source": "Merriam-Webster, “permeate”, https://www.merriam-webster.com/dictionary/permeate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-047",
+    "anchor": "his civilities and his indignations",
+    "layer": "vocab",
+    "note": "Civilities: polite acts. Indignations: angry protests.",
+    "source": "Merriam-Webster, “civility”, https://www.merriam-webster.com/dictionary/civility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-048",
+    "anchor": "its outskirts",
+    "layer": "vocab",
+    "note": "Outskirts: the outer edges of a place.",
+    "source": "Merriam-Webster, “outskirts”, https://www.merriam-webster.com/dictionary/outskirts",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-049",
+    "anchor": "enigmatical and unclean",
+    "layer": "vocab",
+    "note": "Enigmatical: mysterious, puzzling, hard to understand.",
+    "source": "Merriam-Webster, “enigmatic”, https://www.merriam-webster.com/dictionary/enigmatic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-050",
+    "anchor": "tainting the fragrance",
+    "layer": "vocab",
+    "note": "Tainting: spoiling, contaminating, making impure.",
+    "source": "Merriam-Webster, “taint”, https://www.merriam-webster.com/dictionary/taint",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-051",
+    "anchor": "the most amicable sentiments",
+    "layer": "vocab",
+    "note": "Amicable: friendly, peaceful, and goodwilled.",
+    "source": "Merriam-Webster, “amicable”, https://www.merriam-webster.com/dictionary/amicable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-052",
+    "anchor": "sign a chit",
+    "layer": "vocab",
+    "note": "Chit: a short note, here a signed slip promising payment.",
+    "source": "Merriam-Webster, “chit”, https://www.merriam-webster.com/dictionary/chit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-053",
+    "anchor": "a mangy look",
+    "layer": "vocab",
+    "note": "Mangy: shabby and worn, like an animal with mange.",
+    "source": "Merriam-Webster, “mangy”, https://www.merriam-webster.com/dictionary/mangy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-054",
+    "anchor": "a high old time",
+    "layer": "vocab",
+    "note": "A high old time: a wonderful time, great fun.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-055",
+    "anchor": "old sacking",
+    "layer": "vocab",
+    "note": "Sacking: coarse cloth used to make sacks.",
+    "source": "Merriam-Webster, “sacking”, https://www.merriam-webster.com/dictionary/sacking",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch29-056",
+    "anchor": "in a roundabout way",
+    "layer": "vocab",
+    "note": "Roundabout: indirect, not done in a straightforward way.",
+    "source": "Merriam-Webster, “roundabout”, https://www.merriam-webster.com/dictionary/roundabout",
+    "status": "draft",
+    "checker": null
+  }
+]
