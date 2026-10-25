@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-25T00:00:00Z",
+  "title": "Design System: Scholia",
+  "extensions": {
+    "colorMeta": {
+      "wrapper-buff": { "role": "primary", "displayName": "Wrapper Buff", "canonical": "#d6c69f", "cssVar": "--wrapper", "tonalRamp": ["#2e2717", "#4a3f2b", "#6d5f40", "#927f56", "#b5a27a", "#d6c69f", "#e6dcc2", "#f5f0e3"] },
+      "wrapper-ink": { "role": "primary", "displayName": "Wrapper Ink", "canonical": "#1c1913", "cssVar": "--wrapper-ink", "tonalRamp": ["#1c1913", "#332e25", "#4d463a", "#6a6253", "#8c8473", "#b1a997", "#d4cebf", "#efe6d1"] },
+      "newsprint": { "role": "neutral", "displayName": "Newsprint", "canonical": "#f3f2ee", "cssVar": "--ground", "tonalRamp": ["#2b2823", "#45423c", "#625f58", "#827f78", "#a3a09a", "#c6c3bc", "#e3e1db", "#f3f2ee"] },
+      "ink": { "role": "neutral", "displayName": "Ink", "canonical": "#1c1a17", "cssVar": "--ink / --hair", "tonalRamp": ["#1c1a17", "#34312c", "#4d4943", "#68645c", "#858077", "#a49f95", "#c6c1b6", "#e7e1d4"] },
+      "muted-ink": { "role": "neutral", "displayName": "Muted Ink", "canonical": "#5d584e", "cssVar": "--muted", "tonalRamp": ["#2a2722", "#3f3b34", "#5d584e", "#76705f", "#8f8875", "#b2a995", "#d0c9b9", "#ebe7de"] },
+      "faint-rule": { "role": "neutral", "displayName": "Faint Rule", "canonical": "#c9c4b8", "cssVar": "--faint", "tonalRamp": ["#3a3631", "#57514a", "#756f65", "#938d81", "#ada79b", "#c9c4b8", "#dedad1", "#f0eee8"] },
+      "buff-wash": { "role": "neutral", "displayName": "Buff Wash", "canonical": "#e6dcc2", "cssVar": "--mark", "tonalRamp": ["#2f2a20", "#4a4232", "#6a5f48", "#8d8063", "#b1a383", "#d2c5a4", "#e6dcc2", "#f6f1e4"] },
+      "shadow": { "role": "neutral", "displayName": "Ink Shadow", "canonical": "rgba(28, 26, 23, .16)", "cssVar": "--shadow" },
+      "dark-ground": { "role": "neutral", "displayName": "Lamplit Umber", "canonical": "#2b2823", "cssVar": "--ground (dark)" },
+      "dark-wrapper": { "role": "primary", "displayName": "Dark Wrapper", "canonical": "#4a3f2b", "cssVar": "--wrapper (dark)" },
+      "dark-wrapper-ink": { "role": "primary", "displayName": "Dark Wrapper Ink", "canonical": "#efe6d1", "cssVar": "--wrapper-ink (dark)" },
+      "dark-ink": { "role": "neutral", "displayName": "Lamplight Ink", "canonical": "#e7e1d4", "cssVar": "--ink (dark)" },
+      "dark-muted-ink": { "role": "neutral", "displayName": "Dark Muted Ink", "canonical": "#b2a995", "cssVar": "--muted (dark)" },
+      "dark-hair": { "role": "neutral", "displayName": "Dark Hairline", "canonical": "#cfc6b2", "cssVar": "--hair (dark)" },
+      "dark-faint-rule": { "role": "neutral", "displayName": "Dark Faint Rule", "canonical": "#57514a", "cssVar": "--faint (dark)" },
+      "dark-buff-wash": { "role": "neutral", "displayName": "Dark Buff Wash", "canonical": "#4a4232", "cssVar": "--mark (dark)" },
+      "dark-shadow": { "role": "neutral", "displayName": "Dark Shadow", "canonical": "rgba(0, 0, 0, .4)", "cssVar": "--shadow (dark)" }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Masthead", "purpose": "Cover masthead only; uppercase, negative right margin equal to tracking." },
+      "headline": { "displayName": "Title page", "purpose": "Book title on the title page; uppercase." },
+      "title": { "displayName": "Chapter head", "purpose": "Centred CHAPTER numeral in spaced capitals over a short double hairline; 1.05em of the column size." },
+      "section-head": { "displayName": "Section head", "purpose": "Centred spaced-capital heads on frame pages with a 3rem hairline beneath." },
+      "body": { "displayName": "Reading column", "purpose": "Chapter text; size multiplied by --scale (0.8 to 1.5); measure --measure (26 to 46em, default 36em); face from --font." },
+      "body-frame": { "displayName": "Frame body", "purpose": "Cover, contents, and about copy." },
+      "note": { "displayName": "Note", "purpose": "Inline and focus notes; scaled with --scale." },
+      "note-margin": { "displayName": "Margin note", "purpose": "Notes in the open margin panels; scaled with --scale." },
+      "label": { "displayName": "Frame label", "purpose": "Running head, bar buttons, issue line, chapter navigation; always uppercase." },
+      "initial": { "displayName": "Two-line initial", "purpose": "Opening letter of a chapter, floated; first line continues in spaced capitals." }
+    },
+    "fontAssets": [
+      { "family": "Old Standard", "files": ["old-standard-tt-latin-400-normal.woff2", "old-standard-tt-latin-400-italic.woff2", "old-standard-tt-latin-700-normal.woff2", "old-standard-tt-latin-ext-400-normal.woff2 (U+2020 dagger only)"], "license": "SIL OFL" },
+      { "family": "EB Garamond", "files": ["eb-garamond-latin-400-normal.woff2", "eb-garamond-latin-400-italic.woff2"], "license": "SIL OFL", "note": "Reader-selectable column face only, not a system face." }
+    ],
+    "readerPreferences": {
+      "fonts": ["oldstandard (default)", "garamond", "georgia", "palatino", "charter", "sans"],
+      "size": { "min": 80, "max": 150, "step": 10, "default": 100, "unit": "%" },
+      "measure": { "min": 26, "max": 46, "default": 36, "unit": "em" },
+      "theme": ["auto", "light", "dark"]
+    },
+    "referenceMarks": [
+      { "layer": "vocab", "mark": "*", "side": "right" },
+      { "layer": "allusion", "mark": "†", "side": "left" },
+      { "layer": "history", "mark": "§", "side": "left" },
+      { "layer": "place", "mark": "¶", "side": "left" }
+    ],
+    "rules": [
+      { "name": "double-rule", "value": "border-top: 3px solid; border-bottom: 1px solid; height: 5px", "purpose": "Thick-thin border between wrapper and page." },
+      { "name": "short-double-rule", "value": "width: 4.5rem; height: 4px; 1px top and bottom", "purpose": "Under the chapter head." },
+      { "name": "section-rule", "value": "width: 3rem; border-top: 1px solid var(--hair)", "purpose": "Under centred section heads." },
+      { "name": "footnote-rule", "value": "width: 4em; border-top: 1px solid var(--hair)", "purpose": "Above inline phone notes." },
+      { "name": "leader", "value": "border-bottom: 1px dotted var(--muted)", "purpose": "Contents leaders." }
+    ],
+    "shadows": [
+      { "name": "floating-card", "value": "0 10px 30px var(--shadow)", "purpose": "Open settings card only." },
+      { "name": "lifted-note", "value": "0 6px 18px var(--shadow)", "purpose": "Hovered or pinned note raised over its neighbours in an open margin panel." }
+    ],
+    "motion": [
+      { "name": "ease-out-expo", "value": "cubic-bezier(.16, 1, .3, 1)", "purpose": "All note and column transitions." },
+      { "name": "panel", "value": "opacity and translateX(8px) over .2s", "purpose": "Margin panel open and close." },
+      { "name": "focus-note", "value": "opacity and translateY(3px) over .16s", "purpose": "Single note beside its anchor." },
+      { "name": "column-shift", "value": "transform .24s", "purpose": "Column slides aside when an open panel needs room." }
+    ],
+    "layoutConstants": [
+      { "name": "panel-gap", "value": "20px", "purpose": "Text to margin panel." },
+      { "name": "edge", "value": "16px", "purpose": "Panel to window edge; also page side gutter." },
+      { "name": "min-focus-note", "value": "170px", "purpose": "Narrowest margin note." },
+      { "name": "panel-width", "value": "300px to 440px", "purpose": "Margin panel range." },
+      { "name": "note-gap", "value": "3px", "purpose": "Between stacked margin notes." },
+      { "name": "tick-gutter", "value": "2.4rem", "purpose": "Reference mark gutter width." }
+    ],
+    "breakpoints": [
+      { "name": "narrow", "value": "700px", "purpose": "At or below: ragged-right text, layer toggles on their own row, chapter crumb hidden, notes inline as footnotes." }
+    ]
+  },
+  "components": [
+    {
+      "name": "Running Head",
+      "kind": "nav",
+      "refersTo": "running-head",
+      "description": "Sticky buff wrapper bar on every page, closed by the thick-thin rule.",
+      "html": "<header class=\"ds-bar\"><div class=\"ds-bar-inner\"><a class=\"ds-bar-title\" href=\"#\">Scholia</a><span class=\"ds-running\"><a href=\"#\">Lord Jim</a><span class=\"ds-sep\">·</span>Chapter I</span></div><div class=\"ds-rule-double\"></div></header>",
+      "css": ".ds-bar { background: var(--wrapper, #d6c69f); color: var(--wrapper-ink, #1c1913); font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; } .ds-bar-inner { display: flex; align-items: center; gap: .3rem 1.25rem; padding: .45rem 16px .4rem; font-size: .85rem; line-height: 1.3; } .ds-bar-title { font-weight: 700; letter-spacing: .14em; text-transform: uppercase; text-decoration: none; font-size: .9rem; color: inherit; } .ds-running { letter-spacing: .08em; text-transform: uppercase; font-size: .78rem; } .ds-running a { color: inherit; text-decoration: none; } .ds-running a:hover { text-decoration: underline; } .ds-running a:focus-visible, .ds-bar-title:focus-visible { outline: 1px solid currentColor; outline-offset: 3px; } .ds-sep { margin: 0 .5em; opacity: .55; } .ds-rule-double { height: 5px; border-top: 3px solid var(--wrapper-ink, #1c1913); border-bottom: 1px solid var(--wrapper-ink, #1c1913); }"
+    },
+    {
+      "name": "Bar Button",
+      "kind": "button",
+      "refersTo": "bar-button",
+      "description": "Square hairline box in tracked capitals on the wrapper; inverts on hover.",
+      "html": "<div class=\"ds-wrap\"><button type=\"button\" class=\"ds-bar-button\">Dark mode</button></div>",
+      "css": ".ds-wrap { background: var(--wrapper, #d6c69f); color: var(--wrapper-ink, #1c1913); padding: 12px; } .ds-bar-button { font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: inherit; background: none; border: 1px solid currentColor; border-radius: 0; padding: .15rem .55rem; line-height: 1.4; cursor: pointer; } .ds-bar-button:hover { background: var(--wrapper-ink, #1c1913); color: var(--wrapper, #d6c69f); } .ds-bar-button:focus-visible { outline: 1px solid var(--wrapper-ink, #1c1913); outline-offset: 3px; }"
+    },
+    {
+      "name": "Layer Toggle",
+      "kind": "chip",
+      "refersTo": "layer-mark-on",
+      "description": "Printer's mark in a square box: filled when the layer shows, hollow with the name struck through when off.",
+      "html": "<div class=\"ds-layers\"><label><input type=\"checkbox\" checked><span class=\"ds-ref\">*</span><span class=\"ds-name\">Vocab</span></label><label><input type=\"checkbox\"><span class=\"ds-ref\">†</span><span class=\"ds-name\">Allusion</span></label></div>",
+      "css": ".ds-layers { display: flex; gap: 1rem; background: var(--wrapper, #d6c69f); color: var(--wrapper-ink, #1c1913); padding: 10px; font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-size: .85rem; } .ds-layers label { display: inline-flex; align-items: center; gap: .35rem; cursor: pointer; } .ds-layers input { position: absolute; opacity: 0; width: 1px; height: 1px; } .ds-ref { display: inline-grid; place-items: center; width: 1.15rem; height: 1.15rem; border: 1px solid var(--wrapper-ink, #1c1913); font-weight: 700; font-size: .85rem; line-height: 1; background: var(--wrapper-ink, #1c1913); color: var(--wrapper, #d6c69f); } .ds-layers label:has(input:not(:checked)) .ds-ref { background: none; color: var(--wrapper-ink, #1c1913); } .ds-layers label:has(input:not(:checked)) .ds-name { text-decoration: line-through; opacity: .6; } .ds-layers label:has(input:focus-visible) .ds-ref { outline: 1px solid var(--wrapper-ink, #1c1913); outline-offset: 2px; }"
+    },
+    {
+      "name": "Segmented Control",
+      "kind": "input",
+      "refersTo": "segmented-option",
+      "description": "Hairline strip of options; the selected one is reversed out in ink.",
+      "html": "<div class=\"ds-seg\"><label><input type=\"radio\" name=\"ds-t\" checked>Auto</label><label><input type=\"radio\" name=\"ds-t\">Light</label><label><input type=\"radio\" name=\"ds-t\">Dark</label></div>",
+      "css": ".ds-seg { display: flex; border: 1px solid var(--hair, #1c1a17); background: var(--ground, #f3f2ee); color: var(--ink, #1c1a17); font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-size: .95rem; max-width: 16rem; } .ds-seg label { flex: 1; text-align: center; cursor: pointer; padding: .3rem .5rem; } .ds-seg label + label { border-left: 1px solid var(--hair, #1c1a17); } .ds-seg input { position: absolute; opacity: 0; pointer-events: none; } .ds-seg label:hover { text-decoration: underline; } .ds-seg label:has(input:checked) { background: var(--ink, #1c1a17); color: var(--ground, #f3f2ee); } .ds-seg label:has(input:focus-visible) { outline: 1px solid var(--ink, #1c1a17); outline-offset: 2px; }"
+    },
+    {
+      "name": "Select",
+      "kind": "input",
+      "refersTo": "select",
+      "description": "Square hairline select with a caret drawn from two hairlines.",
+      "html": "<select class=\"ds-select\"><option>Old Standard</option><option>EB Garamond</option></select>",
+      "css": ".ds-select { width: 16rem; font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-size: .95rem; color: var(--ink, #1c1a17); border: 1px solid var(--hair, #1c1a17); border-radius: 0; padding: .25rem 1.8rem .25rem .5rem; -webkit-appearance: none; appearance: none; background: linear-gradient(45deg, transparent 50%, var(--ink, #1c1a17) 50%, var(--ink, #1c1a17) calc(50% + 1px), transparent calc(50% + 1px)) right .85rem center / 6px 6px no-repeat, linear-gradient(-45deg, transparent 50%, var(--ink, #1c1a17) 50%, var(--ink, #1c1a17) calc(50% + 1px), transparent calc(50% + 1px)) right .5rem center / 6px 6px no-repeat, var(--ground, #f3f2ee); } .ds-select:focus-visible { outline: 1px solid var(--ink, #1c1a17); outline-offset: 3px; }"
+    },
+    {
+      "name": "Stepper",
+      "kind": "button",
+      "refersTo": "stepper-button",
+      "description": "Text size stepper: square hairline boxes that invert to ink on hover.",
+      "html": "<div class=\"ds-stepper\"><button type=\"button\">A−</button><output>100%</output><button type=\"button\">A+</button></div>",
+      "css": ".ds-stepper { display: flex; align-items: center; gap: .6rem; font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; color: var(--ink, #1c1a17); } .ds-stepper button { font: inherit; color: inherit; background: none; border: 1px solid var(--hair, #1c1a17); border-radius: 0; width: 2.6rem; cursor: pointer; } .ds-stepper button:hover:not(:disabled) { background: var(--ink, #1c1a17); color: var(--ground, #f3f2ee); } .ds-stepper button:focus-visible { outline: 1px solid var(--ink, #1c1a17); outline-offset: 3px; } .ds-stepper button:disabled { opacity: .35; cursor: default; } .ds-stepper output { min-width: 3rem; text-align: center; }"
+    },
+    {
+      "name": "Contents Line",
+      "kind": "custom",
+      "refersTo": "",
+      "description": "Contents entry: tracked bold title, dotted leader, italic status on one baseline, italic meta below.",
+      "html": "<ul class=\"ds-contents\"><li><span class=\"ds-line\"><a class=\"ds-title\" href=\"#\">Lord Jim</a><span class=\"ds-leader\"></span><span class=\"ds-status\">Chapters I–X</span></span><span class=\"ds-meta\">Joseph Conrad, 1900.</span></li></ul>",
+      "css": ".ds-contents { list-style: none; padding: 0; margin: 0; max-width: 36rem; font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-size: 1.0625rem; color: var(--ink, #1c1a17); } .ds-contents li { display: flex; flex-direction: column; gap: .15rem; padding: .55rem 0; } .ds-line { display: flex; align-items: baseline; gap: .5rem; } .ds-title { font-weight: 700; letter-spacing: .1em; text-transform: uppercase; text-decoration: none; color: inherit; } .ds-title:hover { text-decoration: underline; } .ds-title:focus-visible { outline: 1px solid var(--ink, #1c1a17); outline-offset: 3px; } .ds-leader { flex: 1; min-width: 1.5rem; border-bottom: 1px dotted var(--muted, #5d584e); transform: translateY(-.3em); } .ds-status, .ds-meta { font-style: italic; color: var(--muted, #5d584e); } .ds-meta { font-size: .95rem; }"
+    },
+    {
+      "name": "Section Head",
+      "kind": "custom",
+      "refersTo": "",
+      "description": "Centred spaced-capital head with a 3rem ink hairline beneath.",
+      "html": "<h2 class=\"ds-h2\">How the notes work</h2>",
+      "css": ".ds-h2 { font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-weight: 700; font-size: .82rem; letter-spacing: .2em; text-transform: uppercase; text-align: center; color: var(--ink, #1c1a17); margin: 1rem 0; padding-bottom: .5rem; } .ds-h2::after { content: \"\"; display: block; width: 3rem; margin: .5rem auto 0; border-top: 1px solid var(--hair, #1c1a17); }"
+    },
+    {
+      "name": "Annotated Phrase and Note",
+      "kind": "custom",
+      "refersTo": "margin-note",
+      "description": "Dotted-underlined anchor in the column and its apparatus note: mark, lemma], gloss, source.",
+      "html": "<p class=\"ds-col\">He had a <span class=\"ds-anchor\" tabindex=\"0\">from-under stare</span> which made you think of a charging bull.</p><div class=\"ds-note\"><span class=\"ds-ref\">*</span><span class=\"ds-term\">from-under stare</span>a look up from beneath lowered brows.<span class=\"ds-source\">Source: OED</span></div>",
+      "css": ".ds-col { font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-size: 1.2rem; line-height: 1.62; color: var(--ink, #1c1a17); max-width: 36em; } .ds-anchor { cursor: pointer; text-decoration: underline dotted var(--muted, #5d584e) 1px; text-underline-offset: .22em; } .ds-anchor:hover { text-decoration-style: solid; text-decoration-color: var(--ink, #1c1a17); } .ds-anchor:focus-visible { background: var(--mark, #e6dcc2); text-decoration-style: solid; text-decoration-color: var(--ink, #1c1a17); outline: 1px solid var(--ink, #1c1a17); outline-offset: 3px; } .ds-note { font-family: \"Old Standard\", \"Century Schoolbook\", Georgia, serif; font-size: .95rem; line-height: 1.4; color: var(--ink, #1c1a17); max-width: 18rem; padding: .05rem .25rem; } .ds-note:hover { background: var(--mark, #e6dcc2); box-shadow: 0 6px 18px var(--shadow, rgba(28,26,23,.16)); } .ds-ref { font-weight: 700; margin-right: .3em; } .ds-term { font-style: italic; } .ds-term::after { content: \"]\"; font-style: normal; margin: 0 .3em 0 .05em; } .ds-source { display: block; color: var(--muted, #5d584e); font-size: .88em; margin-top: .2rem; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Serial Number of Blackwood's",
+    "overview": "Scholia is dressed as the Victorian literary magazine that first serialized these novels. The frame carries the period: a buff paper wrapper that owns the masthead and the running head, thick-thin rules where wrapper meets page, a contents page with dotted leaders, run-in capital heads, centred spaced-capital section heads. Inside that frame the reading column is plain book type on neutral newsprint, justified and hyphenated, indented paragraphs with no gap, a two-line initial opening each chapter. The period lives in the furniture, never in the paragraph.\n\nThe system is monochrome ink on paper. There is no colour accent: emphasis comes from weight, capitals, letterspacing, italic, and the printed hairline. One face, Old Standard TT, sets everything from masthead to margin note. Corners are square, rules are 1px ink, and depth is almost absent; a soft shadow appears only on things that genuinely float over the text (the settings card, a hovered or pinned margin note).\n\nThe signature is the scholarly apparatus: four printers' reference marks (* vocab, † allusion, § history, ¶ place) sit in the gutters level with each annotated line, and notes are set like a critical edition: mark, lemma in italic closed by a bracket, gloss, then source. The world rejects theme-park antique (parchment textures, seals, quills), the cream-paper and red-accent default, and app chrome (cards, pills, dashboards).",
+    "keyCharacteristics": [
+      "Buff wrapper frame, neutral newsprint page, black ink, no hue accent.",
+      "Old Standard TT throughout; tracked uppercase for every frame label.",
+      "Square corners and 1px ink hairlines; thick-thin double rule as the frame border.",
+      "Printers' reference marks as the only iconography.",
+      "Book-set reading column: justified, hyphenated, indented, 36em measure by default.",
+      "Dark mode is a lamplit umber, not black."
+    ],
+    "rules": [
+      { "name": "The No Accent Rule", "body": "There is no hue accent. Emphasis is typographic (weight, capitals, italic, tracking) or a buff wash; never a red, blue, or any added colour.", "section": "colors" },
+      { "name": "The Ink Rule Rule", "body": "Every structural line is printed in the current ink at 1px (or the 3px+1px thick-thin pair). No grey dividers, no tinted borders.", "section": "colors" },
+      { "name": "The One Face Rule", "body": "Old Standard sets the whole frame. Reader font choices (EB Garamond, Georgia, Palatino, Charter, sans) apply only to the reading column and notes via `--font`; the frame always stays on `--frame`.", "section": "typography" },
+      { "name": "The Run-In Rule", "body": "Sub-heads inside prose are run-in bold spaced capitals (.82em, .08em tracking) leading the paragraph, not standalone headings.", "section": "typography" },
+      { "name": "The Print Is Flat Rule", "body": "Nothing at rest has a shadow. Shadows are soft and diffuse and appear only on an element that overlaps the text; never a hard offset shadow.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do frame every page with the buff wrapper and close it with the thick-thin rule in wrapper ink.",
+      "Do set frame labels in Old Standard uppercase, tracked .08em to .24em by rank.",
+      "Do draw every divider as a 1px ink hairline, square-cornered.",
+      "Do mark notes only with the four printers' marks: * vocab, † allusion, § history, ¶ place.",
+      "Do use Buff Wash for the active anchor and the hovered or pinned note.",
+      "Do keep the reading column at the reader's measure (36em default), indented paragraphs, justified and hyphenated only above 700px."
+    ],
+    "donts": [
+      "Don't add a colour accent; no red, blue, or brand hue anywhere.",
+      "Don't round corners or use pill shapes; radius stays 0.",
+      "Don't wrap content in cards; the settings card is the only container.",
+      "Don't use parchment textures, wax seals, quills, or cream paper for the page ground.",
+      "Don't put shadows on resting elements or use hard offset shadows.",
+      "Don't introduce icon glyphs or icon fonts; the reference marks and drawn hairlines are the whole iconography.",
+      "Don't let the reader's font choice reach the frame; it changes the column and notes only."
+    ]
+  }
+}

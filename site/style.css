@@ -387,7 +387,7 @@ body.hide-place    :is(.note, .tick)[data-layer="place"] { display: none; }
 }
 .chapnav a { text-decoration: none; }
 .chapnav .next { text-align: right; }
-.chapnav .dir { display: block; font-size: .85em; color: var(--muted); letter-spacing: .14em; }
+.chapnav .dir { display: block; color: var(--muted); letter-spacing: .14em; }
 .chapnav a:hover { text-decoration: underline; }
 
 @media (max-width: 700px) {
