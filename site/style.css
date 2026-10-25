@@ -318,6 +318,20 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 .panel .note.active .source { display: block; }
 .panel .note.hover, .panel .note.active { background: var(--mark); }
 .panel .note.offscreen { visibility: hidden; }
+/* The open margin is an overview: each note shows the lines that fit (set
+   in reader.js as --clamp), with
+   "unverified" up front so it is never cut off. Hovering or pinning a note
+   shows it whole, over its neighbours. */
+.draft-tag { display: none; }
+.panel .note .draft-tag { display: inline; font-style: italic; color: var(--muted); font-size: .88em; margin-right: .35em; }
+.panel .note .draft-label { display: none; }
+.panel .note:not(.active):not(.hover) {
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: var(--clamp, 2); line-clamp: var(--clamp, 2);
+  overflow: hidden;
+}
+.panel .note.hover, .panel .note.active { z-index: 2; box-shadow: 0 6px 18px var(--shadow); }
+.panel .note.hover .draft-tag, .panel .note.active .draft-tag { display: none; }
+.panel .note.hover .draft-label, .panel .note.active .draft-label { display: inline; }
 
 /* A single note beside its anchor, on hover or click */
 .focus-note {

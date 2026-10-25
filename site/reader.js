@@ -105,6 +105,7 @@
     return '<span class="ref" aria-hidden="true">' + REF[n.layer] + '</span>' +
       '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
       '<span class="term">' + escapeHtml(n.anchor) + '</span>' +
+      (n.status === 'draft' ? '<span class="draft-tag">unverified</span>' : '') +
       escapeHtml(n.note) +
       (n.status === 'draft' ? ' <span class="draft-label">(unverified)</span>' : '') +
       (n.source ? '<span class="source">Source: ' + linkify(n.source) + '</span>' : '');
@@ -227,20 +228,31 @@
   // rises above its own line; it only moves down to clear the one before.
   // Only notes for lines on screen are set, so a dense chapter's margin
   // never drifts far from the text being read; scrolling re-sets them.
+  //
+  // Each note is cut to the lines that fit before the next note's line
+  // (at least one), so a crowded passage gets shorter notes rather than
+  // notes that slide away from their text. Hover or pin shows a note whole.
   function placeNotes(side, top) {
-    let floor = 0;
     const viewTop = -40, viewBottom = window.innerHeight;
+    const items = [];
     panels[side].querySelectorAll('.note').forEach(el => {
       if (getComputedStyle(el).display === 'none') return;
       const a = anchorFor(el.dataset.id);
       if (!a) return;
-      const line = lineOf(a);
-      const onScreen = line.top >= viewTop && line.top <= viewBottom;
+      const lineTop = lineOf(a).top;
+      const onScreen = lineTop >= viewTop && lineTop <= viewBottom;
       el.classList.toggle('offscreen', !onScreen);
-      if (!onScreen) return;
-      const y = Math.max(line.top - top, floor);
-      el.style.top = y + 'px';
-      floor = y + el.offsetHeight + NOTE_GAP;
+      if (onScreen) items.push({ el, want: lineTop - top });
+    });
+    let floor = 0;
+    items.forEach((it, i) => {
+      const y = Math.max(it.want, floor);
+      const next = items[i + 1] ? items[i + 1].want : Infinity;
+      const lh = parseFloat(getComputedStyle(it.el).lineHeight) || 18;
+      const lines = Math.max(1, Math.min(6, Math.floor((next - y - NOTE_GAP) / lh)));
+      it.el.style.setProperty('--clamp', lines);
+      it.el.style.top = y + 'px';
+      floor = y + it.el.offsetHeight + NOTE_GAP;
     });
     return floor;
   }
