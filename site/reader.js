@@ -1,6 +1,7 @@
 // Scholia chapter reader. Loads a chapter's text and notes and marks anchors.
-// Wide screens: the text keeps a fixed reading width in the centre, and notes
-// sit in panels on either side that open when the pointer nears that side.
+// Wide screens: the text keeps a set reading width in the centre. Hovering an
+// anchor shows just its note beside it; moving the pointer into a margin
+// opens that side's panel with all of its notes.
 // Narrow screens: tapping an anchor opens its note under the paragraph.
 (function () {
   'use strict';
@@ -14,8 +15,8 @@
 
   const GAP = 24;          // space between the text and a panel
   const EDGE = 12;         // space between a panel and the window edge
-  const MIN_PANEL = 240;
-  const MAX_PANEL = 360;
+  const MIN_PANEL = 300;
+  const MAX_PANEL = 440;
   // Below this gutter width there is no room for a panel even with the text
   // slid aside, so notes open under the paragraph instead.
   const MIN_GUTTER = (MIN_PANEL + GAP + EDGE) / 2;
@@ -183,7 +184,7 @@
   // ----- Layout -----
   // fits: both panels fit beside the text. Otherwise an open panel slides
   // the text toward the other side by `shift`, so the text is never covered.
-  const geo = { inline: true, fits: false, textLeft: 0, textRight: 0, shift: 0 };
+  const geo = { inline: true, fits: false, textLeft: 0, textRight: 0, shift: 0, panelWidth: 0, panelLeft: {} };
   const anchorFor = id => textEl.querySelector('.anchor[data-id="' + id + '"]');
 
   function layout() {
@@ -192,7 +193,7 @@
     geo.textRight = columnEl.offsetLeft + columnEl.offsetWidth;
     const gutter = Math.min(geo.textLeft, rr.width - geo.textRight);
     const inline = gutter < MIN_GUTTER;
-    if (inline !== geo.inline) { clearActive(); state.hover = state.peek = null; }
+    if (inline !== geo.inline) { clearActive(); state.hover = state.peekId = null; }
     geo.inline = inline;
     document.body.classList.toggle('inline-mode', inline);
     if (inline) { applyOpen(); return; }
@@ -202,8 +203,13 @@
     document.body.dataset.fits = geo.fits ? 'yes' : 'no';
     const width = Math.max(MIN_PANEL, Math.min(MAX_PANEL, room));
     panels.left.style.width = panels.right.style.width = width + 'px';
-    panels.left.style.left = Math.max(EDGE, geo.textLeft - GAP - width) + 'px';
-    panels.right.style.left = Math.min(geo.textRight + GAP, rr.width - width - EDGE) + 'px';
+    geo.panelWidth = width;
+    geo.panelLeft = {
+      left: Math.max(EDGE, geo.textLeft - GAP - width),
+      right: Math.min(geo.textRight + GAP, rr.width - width - EDGE),
+    };
+    panels.left.style.left = geo.panelLeft.left + 'px';
+    panels.right.style.left = geo.panelLeft.right + 'px';
     geo.shift = Math.max(0, width + GAP + EDGE - geo.textLeft);
     ticks.left.style.left = (geo.textLeft - 16) + 'px';
     ticks.right.style.left = (geo.textRight + 8) + 'px';
@@ -257,25 +263,27 @@
     return bottom;
   }
 
-  // ----- Opening panels -----
-  // hover: the pointer is in that side's gutter or inside its open panel.
-  // peek: the pointer is on an anchor whose note lives on that side.
-  // pinned: an anchor was clicked; stays open until dismissed.
-  const state = { hover: null, peek: null, pinned: null };
+  // ----- Opening panels and single notes -----
+  // hover: the pointer is in that side's gutter or inside its open panel;
+  //   the whole panel opens.
+  // peekId: the pointer is on an anchor; only that note shows, beside it.
+  // pinId: an anchor was clicked; its note stays (with its source) until
+  //   dismissed.
+  const state = { hover: null, peekId: null, pinId: null, overFocus: false };
+
+  const focusEl = document.createElement('div');
+  focusEl.className = 'note focus-note';
+  focusEl.setAttribute('role', 'note');
+  readerEl.appendChild(focusEl);
 
   function applyOpen() {
     const open = { left: false, right: false };
     if (!geo.inline && geo.fits) {
       const always = document.documentElement.dataset.notes === 'always';
-      ['left', 'right'].forEach(side => {
-        open[side] = always || state.hover === side || state.peek === side || state.pinned === side;
-      });
-    } else if (!geo.inline) {
+      ['left', 'right'].forEach(side => { open[side] = always || state.hover === side; });
+    } else if (!geo.inline && state.hover) {
       // Only one panel at a time when the text has to slide aside for it.
-      // Hovering an anchor doesn't open it here: the text would slide out
-      // from under the pointer.
-      const side = state.hover || state.pinned;
-      if (side) open[side] = true;
+      open[state.hover] = true;
     }
     ['left', 'right'].forEach(side => {
       panels[side].classList.toggle('open', open[side]);
@@ -283,6 +291,35 @@
     });
     const shift = geo.fits || geo.inline ? 0 : open.left ? geo.shift : open.right ? -geo.shift : 0;
     readerEl.style.setProperty('--shift', shift + 'px');
+    showFocus(open);
+  }
+
+  // Show one note on its own beside its anchor, unless its side's panel is
+  // already open (then the panel highlights it instead).
+  function showFocus(open) {
+    const id = state.peekId || (state.overFocus && focusEl.dataset.id) || state.pinId;
+    const n = id && notesById[id];
+    const a = n && anchorFor(id);
+    if (geo.inline || !n || !a || !layersOn[n.layer] || open[SIDE[n.layer]]) {
+      focusEl.classList.remove('shown');
+      return;
+    }
+    const pinned = id === state.pinId;
+    if (focusEl.dataset.id !== id || focusEl.classList.contains('pinned') !== pinned) {
+      focusEl.dataset.id = id;
+      focusEl.dataset.layer = n.layer;
+      focusEl.innerHTML = noteHtml(n);
+      focusEl.classList.toggle('pinned', pinned);
+    }
+    const side = SIDE[n.layer];
+    const rr = readerEl.getBoundingClientRect();
+    const r = a.getBoundingClientRect();
+    focusEl.style.width = geo.panelWidth + 'px';
+    focusEl.style.left = geo.panelLeft[side] + 'px';
+    // In the margin it lines up with the anchor; when the margin is too
+    // narrow it overlaps the text, so it sits just below the anchor's line.
+    focusEl.style.top = (geo.fits ? r.top - rr.top : r.bottom - rr.top + 6) + 'px';
+    focusEl.classList.add('shown');
   }
 
   let lastMove = null;
@@ -294,6 +331,10 @@
     const inPanel = ev.target.closest && ev.target.closest('.panel.open');
     if (inPanel) {
       state.hover = inPanel === panels.left ? 'left' : 'right';
+    } else if (ev.target.closest && ev.target.closest('.bar')) {
+      state.hover = null; // the top bar and settings menu aren't the margin
+    } else if (ev.target.closest && ev.target.closest('.focus-note')) {
+      state.hover = null; // reading a single note shouldn't open the whole side
     } else {
       const x = ev.clientX - readerEl.getBoundingClientRect().left;
       state.hover = x < geo.textLeft - 8 ? 'left' : x > geo.textRight + 8 ? 'right' : null;
@@ -309,13 +350,13 @@
   function clearActive() {
     document.querySelectorAll('.anchor.active, .note.active, .tick.active').forEach(el => el.classList.remove('active'));
     textEl.querySelectorAll('.inline-note').forEach(el => el.remove());
-    state.pinned = null;
+    state.pinId = null;
   }
 
   function setHover(id, on) {
     const a = anchorFor(id);
     if (a) a.classList.toggle('hover', on);
-    document.querySelectorAll('.note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.toggle('hover', on));
+    document.querySelectorAll('.panel .note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.toggle('hover', on));
   }
 
   function activate(anchor) {
@@ -334,17 +375,19 @@
       return;
     }
 
+    const wasPinned = state.pinId === id;
     clearActive();
+    if (wasPinned) { applyOpen(); return; }
     anchor.classList.add('active');
     document.querySelectorAll('.panel .note[data-id="' + id + '"], .tick[data-id="' + id + '"]').forEach(el => el.classList.add('active'));
-    state.pinned = SIDE[n.layer];
-    layout(); // the active note shows its source, so heights change
+    state.pinId = id;
+    layout(); // the active panel note shows its source, so heights change
   }
 
   textEl.addEventListener('click', e => {
     const a = e.target.closest('.anchor');
     if (a) activate(a);
-    else if (state.pinned || textEl.querySelector('.inline-note')) { clearActive(); applyOpen(); }
+    else if (state.pinId || textEl.querySelector('.inline-note')) { clearActive(); applyOpen(); }
   });
   textEl.addEventListener('keydown', e => {
     const a = e.target.closest('.anchor');
@@ -353,16 +396,23 @@
   textEl.addEventListener('mouseover', e => {
     const a = e.target.closest('.anchor');
     if (!a || geo.inline || !layersOn[a.dataset.layer]) return;
-    state.peek = SIDE[a.dataset.layer];
+    state.peekId = a.dataset.id;
     setHover(a.dataset.id, true);
     applyOpen();
   });
   textEl.addEventListener('mouseout', e => {
     const a = e.target.closest('.anchor');
     if (!a) return;
-    state.peek = null;
+    state.peekId = null;
     setHover(a.dataset.id, false);
     applyOpen();
+  });
+  focusEl.addEventListener('mouseenter', () => { state.overFocus = true; });
+  focusEl.addEventListener('mouseleave', () => { state.overFocus = false; applyOpen(); });
+  focusEl.addEventListener('click', e => {
+    if (e.target.closest('a') || state.pinId === focusEl.dataset.id) return;
+    const a = anchorFor(focusEl.dataset.id);
+    if (a) activate(a);
   });
   ['left', 'right'].forEach(side => {
     panels[side].addEventListener('click', e => {
@@ -381,8 +431,21 @@
     });
   });
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape' && (state.pinned || textEl.querySelector('.inline-note'))) { clearActive(); applyOpen(); }
+    if (e.key === 'Escape' && (state.pinId || textEl.querySelector('.inline-note'))) { clearActive(); applyOpen(); }
   });
+
+  // Report the real line length (average characters per line) next to the
+  // line-length slider.
+  const measureOut = document.querySelector('[data-measure-out]');
+  function updateMeasure() {
+    if (!measureOut) return;
+    const ctx = document.createElement('canvas').getContext('2d');
+    const cs = getComputedStyle(columnEl);
+    ctx.font = cs.fontSize + ' ' + cs.fontFamily;
+    const sample = textEl.textContent.slice(0, 2000) || 'the quick brown fox jumps over the lazy dog';
+    const avg = ctx.measureText(sample).width / sample.length;
+    measureOut.textContent = '· about ' + Math.round(columnEl.clientWidth / avg) + ' characters';
+  }
 
   let resizeTimer;
   window.addEventListener('resize', () => {
@@ -391,9 +454,10 @@
   });
   document.addEventListener('scholia:prefs', () => {
     layout();
+    updateMeasure();
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
   });
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { layout(); updateMeasure(); });
 
   // ----- Load -----
   (async function () {
@@ -408,5 +472,6 @@
     // Only verified and draft notes are shown; cut notes never are.
     const notes = all.filter(n => (n.status === 'verified' || n.status === 'draft') && LAYERS.includes(n.layer));
     render(raw, notes);
+    updateMeasure();
   })();
 })();

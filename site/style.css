@@ -35,7 +35,7 @@
   --shadow: rgba(60, 40, 20, .14);
   --font: "EB Garamond", Garamond, "Iowan Old Style", Georgia, serif;
   --scale: 1;
-  --measure: 32em;
+  --measure: 36em;
   color-scheme: light;
 }
 /* Dark is a warm sepia, not black. */
@@ -150,6 +150,8 @@ h1, h2 { font-weight: 500; line-height: 1.15; }
 .seg label:has(input:checked) { background: var(--ink); color: var(--bg); }
 .seg label:has(input:focus-visible) { outline: 2px solid var(--accent); outline-offset: -3px; }
 .settings-panel select { width: 100%; font: inherit; color: inherit; background: var(--bg); border: 1px solid var(--rule); border-radius: 2px; padding: .1rem .3rem; }
+.settings-panel output { text-transform: none; letter-spacing: 0; font-size: .85rem; }
+.settings-panel input[type=range] { width: 100%; accent-color: var(--accent); margin: .2rem 0 0; }
 .stepper { display: flex; align-items: center; gap: .6rem; }
 .stepper button { font: inherit; color: inherit; background: none; border: 1px solid var(--rule); border-radius: 2px; width: 2.6rem; cursor: pointer; }
 .stepper button:disabled { opacity: .35; cursor: default; }
@@ -240,6 +242,29 @@ h1, h2 { font-weight: 500; line-height: 1.15; }
 .panel .note .source { display: none; }
 .panel .note.active .source { display: block; }
 .panel .note.hover, .panel .note.active { background: var(--mark); }
+
+/* A single note, shown beside its anchor on hover or click */
+.focus-note {
+  position: absolute; z-index: 3;
+  padding: .1rem .2rem;
+  opacity: 0; visibility: hidden; transform: translateY(2px);
+  transition: opacity .14s ease-out, transform .14s ease-out, visibility 0s linear .14s;
+}
+.focus-note.shown {
+  opacity: 1; visibility: visible; transform: none;
+  transition: opacity .14s ease-out, transform .14s ease-out;
+}
+.focus-note .source { display: none; }
+.focus-note.pinned .source { display: block; }
+.focus-note.pinned { background: var(--mark); border-radius: 2px; }
+/* When the margin is too narrow it overlaps the text, so it needs a ground. */
+body[data-fits="no"] .focus-note {
+  padding: .5rem .7rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  box-shadow: 0 6px 20px var(--shadow);
+}
 
 /* When both panels don't fit, opening one slides the text (and its tick
    marks) toward the other side by --shift, set in reader.js. */

@@ -49,12 +49,8 @@
         </div>
       </div>
       <div class="row">
-        <span class="label">Line length</span>
-        <div class="seg">
-          <label><input type="radio" name="pref-width" data-pref="width" value="narrow">Narrow</label>
-          <label><input type="radio" name="pref-width" data-pref="width" value="medium">Medium</label>
-          <label><input type="radio" name="pref-width" data-pref="width" value="wide">Wide</label>
-        </div>
+        <label class="label" for="pref-width">Line length <output data-measure-out></output></label>
+        <input type="range" id="pref-width" data-pref="width" step="1">
       </div>
       <div class="row">
         <span class="label">Margin notes</span>
@@ -62,7 +58,7 @@
           <label><input type="radio" name="pref-notes" data-pref="notes" value="approach">On approach</label>
           <label><input type="radio" name="pref-notes" data-pref="notes" value="always">Always</label>
         </div>
-        <p class="hint">Vocabulary notes are on the right; allusions, history, and places on the left. “Always” keeps both open when the window is wide enough.</p>
+        <p class="hint">Vocabulary notes are on the right; allusions, history, and places on the left. Hover a phrase to see its note; move the pointer into a margin to see every note on that side. “Always” keeps both sides open when the window is wide enough.</p>
       </div>
       <button type="button" data-prefs-reset>Reset to defaults</button>
     </div>
