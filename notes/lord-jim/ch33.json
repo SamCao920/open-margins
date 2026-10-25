@@ -129,8 +129,8 @@
     "id": "ch33-015",
     "anchor": "as black as Styx",
     "layer": "allusion",
-    "note": "In Greek myth the Styx is the dark river that the dead must cross to reach the underworld.",
-    "source": "Encyclopaedia Britannica, “Styx”, https://www.britannica.com/topic/Styx-Greek-mythology",
+    "note": "In Greek mythology the Styx is the principal river of the underworld, flowing round the world of the dead.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Styx”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Styx; Merriam-Webster, “Styx”, https://www.merriam-webster.com/dictionary/Styx",
     "status": "draft",
     "checker": null
   },
@@ -408,8 +408,8 @@
     "id": "ch33-046",
     "anchor": "the winged words of truth",
     "layer": "allusion",
-    "note": "“Winged words” is a phrase from Homer’s epics for words that fly swiftly from the speaker.",
-    "source": "Merriam-Webster, “winged words”, https://www.merriam-webster.com/dictionary/winged%20words",
+    "note": "“Winged words” is a phrase used again and again in Homer’s Iliad for speech that flies from the speaker.",
+    "source": "Homer, Iliad 1.201 and throughout, trans. Lang, Leaf, and Myers (1883), https://www.gutenberg.org/ebooks/3059",
     "status": "draft",
     "checker": null
   },
@@ -470,7 +470,7 @@
     "id": "ch33-053",
     "anchor": "the mysterious conjunctions of the planets",
     "layer": "vocab",
-    "note": "Conjunctions: times when planets appear close together, thought by astrologers to shape events.",
+    "note": "Conjunctions: times when planets appear to meet in the sky.",
     "source": "Merriam-Webster, “conjunction”, https://www.merriam-webster.com/dictionary/conjunction",
     "status": "draft",
     "checker": null

@@ -1,5 +1,5 @@
 ---
-name: Scholia
+name: Open Margins
 description: Free annotated editions of the classics, framed as a Victorian literary magazine.
 colors:
   wrapper-buff: "#d6c69f"
@@ -170,13 +170,13 @@ components:
     textColor: "{colors.ink}"
 ---
 
-# Design System: Scholia
+# Design System: Open Margins
 
 ## Overview
 
 **Creative North Star: "The Serial Number of Blackwood's"**
 
-Scholia is dressed as the Victorian literary magazine that first serialized these novels. The frame carries the period: a buff paper wrapper that owns the masthead and the running head, thick-thin rules where wrapper meets page, a contents page with dotted leaders, run-in capital heads, centred spaced-capital section heads. Inside that frame the reading column is plain book type on neutral newsprint, justified and hyphenated, indented paragraphs with no gap, a two-line initial opening each chapter. The period lives in the furniture, never in the paragraph.
+Open Margins is dressed as the Victorian literary magazine that first serialized these novels. The frame carries the period: a buff paper wrapper that owns the masthead and the running head, thick-thin rules where wrapper meets page, a contents page with dotted leaders, run-in capital heads, centred spaced-capital section heads. Inside that frame the reading column is plain book type on neutral newsprint, justified and hyphenated, indented paragraphs with no gap, a two-line initial opening each chapter. The period lives in the furniture, never in the paragraph.
 
 The system is monochrome ink on paper. There is no colour accent: emphasis comes from weight, capitals, letterspacing, italic, and the printed hairline. One face, Old Standard TT, sets everything from masthead to margin note. Corners are square, rules are 1px ink, and depth is almost absent; a soft shadow appears only on things that genuinely float over the text (the settings card, a hovered or pinned margin note).
 
@@ -270,10 +270,10 @@ Printed boxes, not app buttons.
 - **Focus:** 1px ink outline offset 3px (2px on composite controls).
 
 ### Logo
-The mark is a bold Old Standard "S" inside an open square frame whose top-right corner is broken by an asterisk, the vocabulary reference mark: a letter with a note in its margin. `site/brand/mark.svg` is drawn in currentColor and applied as a CSS mask on `.logo`, so it inherits ink in both themes (1.45rem in the running head, 4.25rem on the home title page, 1em in colophons). `favicon.svg` is a heavier variant on a buff ground, legible at 16px; PNGs at 32, 180 (apple-touch) and 512px are rendered from it.
+The mark is an O and M monogram cut from EB Garamond capitals: a tall O with a slightly smaller M laid over it, its outer stems crossing the ring, with a hairline knockout where the M passes over the O so the letters read as interlaced. `site/brand/mark.svg` is drawn in currentColor and applied as a CSS mask on `.logo`, so it inherits ink in both themes (1.45rem in the running head, 4.25rem on the home title page, 1em in colophons). `favicon.svg` is a heavier variant on a buff ground, legible at 16px; PNGs at 32, 180 (apple-touch) and 512px are rendered from it.
 
 ### Plates (signature)
-Public-domain paintings of readers, set as numbered plates: the image in a 1px wrapper-ink keyline on a buff mount (padding clamp(12px, 1.8vw, 24px)), with a caption below in muted ink led by a small-caps plate number ("Plate I.", "Frontispiece."). The home page pairs Plate I with the title page in a 5fr/6fr spread, then floats Plates II and III alternately beside its two folios. Home art stays general (reading, libraries), never tied to one book; a book's own frontispiece belongs on its book page. Every plate is credited with museum and source in the colophon and `site/art/CREDITS.md`. Buff appears only as wrapper bars and mounts, never as a full-width band meeting the page.
+Public-domain paintings of readers, set as numbered plates: the image in a 1px wrapper-ink keyline on a buff mount (padding clamp(12px, 1.8vw, 24px)), with a caption below in muted ink led by a small-caps plate number ("Plate I.", "Frontispiece."). The home page pairs Plate I with the title page in a 5fr/6fr spread, then floats Plate II beside the second folio; the other folios carry a pull quote in place of a plate. Home art stays general (reading, libraries), never tied to one book; a book's own frontispiece belongs on its book page. Every plate is credited with museum and source in the colophon and `site/art/CREDITS.md`. Buff appears only as wrapper bars and mounts, never as a full-width band meeting the page.
 
 ### Layer toggles (signature)
 Each layer is its printer's mark in a 1.15rem square box. On: filled wrapper ink with the mark in buff. Off: hollow box, name struck through at 60% opacity. The checkbox stays real and visually hidden; focus draws the outline on the box.
@@ -288,7 +288,7 @@ Each layer is its printer's mark in a 1.15rem square box. On: filled wrapper ink
 - **Range:** a 1px ink track with a 12px square ink thumb.
 
 ### Navigation
-- **Running head:** sticky buff bar: SCHOLIA in bold .14em capitals, breadcrumb in tracked capitals with a dimmed middle-dot separator, layer marks, then controls; closed by the thick-thin rule in wrapper ink.
+- **Running head:** sticky buff bar: OPEN MARGINS in bold .14em capitals, breadcrumb in tracked capitals with a dimmed middle-dot separator, layer marks, then controls; closed by the thick-thin rule in wrapper ink.
 - **Contents:** title, dotted leader, and right-aligned italic status on one baseline; chapter numerals right-aligned in a 3.2rem slot.
 - **Chapter navigation:** three-column grid over an ink hairline, tracked capitals, direction word in muted ink above the target.
 

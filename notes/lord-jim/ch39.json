@@ -165,8 +165,8 @@
     "id": "ch39-019",
     "anchor": "percussion-caps",
     "layer": "history",
-    "note": "Percussion caps were small copper caps holding an explosive charge that fired a gun when struck by the hammer; they replaced flints in the 1830s.",
-    "source": "Encyclopaedia Britannica, “percussion cap”, https://www.britannica.com/search?query=percussion+cap",
+    "note": "Percussion caps: small metal containers holding an explosive charge, which fired a gun when struck by its hammer.",
+    "source": "Merriam-Webster, “percussion cap”, https://www.merriam-webster.com/dictionary/percussion%20cap; Merriam-Webster, “cap”, https://www.merriam-webster.com/dictionary/cap",
     "status": "draft",
     "checker": null
   },
@@ -336,8 +336,8 @@
     "id": "ch39-038",
     "anchor": "ex-beachcomber of Levuka",
     "layer": "place",
-    "note": "Levuka, on the island of Ovalau, was the first capital of Fiji and a rough port full of beachcombers in the 1800s.",
-    "source": "Encyclopaedia Britannica, “Levuka”, https://www.britannica.com/search?query=Levuka",
+    "note": "Levuka, on the island of Ovalau, was the capital of Fiji until 1882. A beachcomber is a drifter living on what he can find along the shore.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Fiji”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fiji; Merriam-Webster, “beachcomber”, https://www.merriam-webster.com/dictionary/beachcomber",
     "status": "draft",
     "checker": null
   },
@@ -382,7 +382,6 @@
     "anchor": "out of his pocket-book",
     "layer": "vocab",
     "note": "Pocket-book: a small notebook carried in the pocket.",
-    "source": "Merriam-Webster, “pocketbook”, https://www.merriam-webster.com/dictionary/pocketbook",
     "status": "draft",
     "checker": null
   }

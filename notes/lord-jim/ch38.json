@@ -21,8 +21,8 @@
     "id": "ch38-003",
     "anchor": "Cape York",
     "layer": "place",
-    "note": "Cape York is the northernmost tip of mainland Australia, in Queensland, facing the Torres Strait.",
-    "source": "Encyclopaedia Britannica, “Cape York Peninsula”, https://www.britannica.com/search?query=Cape+York+Peninsula",
+    "note": "Cape York is the northern tip of the Cape York Peninsula, in northern Queensland, Australia, on the Torres Strait.",
+    "source": "Merriam-Webster, “Cape York Peninsula”, https://www.merriam-webster.com/dictionary/Cape%20York%20Peninsula",
     "status": "draft",
     "checker": null
   },
@@ -30,7 +30,7 @@
     "id": "ch38-004",
     "anchor": "the son of a baronet",
     "layer": "vocab",
-    "note": "Baronet: a British title of honour, below a baron, passed from father to son.",
+    "note": "Baronet: a British title of honour, ranking below a baron and above a knight.",
     "source": "Merriam-Webster, “baronet”, https://www.merriam-webster.com/dictionary/baronet",
     "status": "draft",
     "checker": null
@@ -39,8 +39,8 @@
     "id": "ch38-005",
     "anchor": "the early gold-digging days",
     "layer": "history",
-    "note": "Gold rushes in Australia began in 1851, drawing many sailors to desert their ships for the goldfields.",
-    "source": "Encyclopaedia Britannica, “Australian gold rushes”, https://www.britannica.com/search?query=Australian+gold+rushes",
+    "note": "Gold was discovered in Australia in 1851, and over half a million immigrants poured in during the following ten years.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Australia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Australia",
     "status": "draft",
     "checker": null
   },
@@ -48,8 +48,8 @@
     "id": "ch38-006",
     "anchor": "in Polynesia",
     "layer": "place",
-    "note": "Polynesia is the huge triangle of Pacific islands including Hawaii, New Zealand, Tahiti, and Samoa.",
-    "source": "Encyclopaedia Britannica, “Polynesia”, https://www.britannica.com/search?query=Polynesia",
+    "note": "Polynesia is the eastern division of the Pacific islands, including Hawaii, Samoa, Tonga, the Marquesas, and the Society Islands.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Polynesia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Polynesia; Merriam-Webster, “Polynesia”, https://www.merriam-webster.com/dictionary/Polynesia",
     "status": "draft",
     "checker": null
   },
@@ -57,8 +57,8 @@
     "id": "ch38-007",
     "anchor": "He would kidnap natives",
     "layer": "history",
-    "note": "In the late 1800s ships kidnapped or tricked Pacific Islanders into labour on plantations, a trade called “blackbirding” that Britain tried to stop by law.",
-    "source": "Encyclopaedia Britannica, “blackbirding”, https://www.britannica.com/search?query=blackbirding",
+    "note": "Pacific islanders were often kidnapped for forced labour in Australia and South America; Britain passed an act to regulate this labour traffic in 1872.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Pacific Ocean”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pacific_Ocean",
     "status": "draft",
     "checker": null
   },
@@ -66,8 +66,8 @@
     "id": "ch38-008",
     "anchor": "a latter-day buccaneer",
     "layer": "history",
-    "note": "Buccaneers were pirates who raided Spanish ships and towns in the Caribbean in the 1600s; latter-day means a modern version.",
-    "source": "Encyclopaedia Britannica, “buccaneer”, https://www.britannica.com/search?query=buccaneer",
+    "note": "Buccaneers were freebooters who preyed on Spanish ships and settlements, especially in the West Indies in the 1600s; latter-day means a modern version.",
+    "source": "Merriam-Webster, “buccaneer”, https://www.merriam-webster.com/dictionary/buccaneer",
     "status": "draft",
     "checker": null
   },
@@ -93,8 +93,8 @@
     "id": "ch38-011",
     "anchor": "Bully Hayes",
     "layer": "history",
-    "note": "William “Bully” Hayes was an American ship captain notorious in the Pacific for fraud and blackbirding; he was killed at sea in 1877.",
-    "source": "Encyclopaedia Britannica, “Bully Hayes”, https://www.britannica.com/search?query=Bully+Hayes",
+    "note": "Captain William Henry “Bully” Hayes, of Cleveland, Ohio, was a notorious American trader in the Pacific labour trade.",
+    "source": "Louis Becke, “Concerning ‘Bully’ Hayes”, https://www.gutenberg.org/ebooks/24998",
     "status": "draft",
     "checker": null
   },
@@ -111,8 +111,8 @@
     "id": "ch38-013",
     "anchor": "Dundreary-whiskered",
     "layer": "history",
-    "note": "Dundreary whiskers were long, drooping side-whiskers named after Lord Dundreary, a foolish character in the popular play Our American Cousin (1858).",
-    "source": "Merriam-Webster, “dundrearies”, https://www.merriam-webster.com/dictionary/dundrearies",
+    "note": "Dundreary whiskers, long flowing side-whiskers, became the fashion after the actor E. A. Sothern played Lord Dundreary in Our American Cousin (1858).",
+    "source": "Merriam-Webster, “dundrearies”, https://www.merriam-webster.com/dictionary/dundrearies; Encyclopædia Britannica, 11th ed. (1911), “Sothern, Edward Askew”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sothern%2C_Edward_Askew",
     "status": "draft",
     "checker": null
   },
@@ -147,8 +147,8 @@
     "id": "ch38-017",
     "anchor": "copra merchants",
     "layer": "history",
-    "note": "Copra, dried coconut meat pressed for its oil, was a major trade of the Pacific islands in the late 1800s.",
-    "source": "Merriam-Webster, “copra”, https://www.merriam-webster.com/dictionary/copra",
+    "note": "Copra, dried coconut meat from which oil is pressed, was a chief article of the traders who followed explorers into the Pacific islands.",
+    "source": "Merriam-Webster, “copra”, https://www.merriam-webster.com/dictionary/copra; Encyclopædia Britannica, 11th ed. (1911), “Pacific Ocean”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pacific_Ocean",
     "status": "draft",
     "checker": null
   },
@@ -165,8 +165,8 @@
     "id": "ch38-019",
     "anchor": "from Clapham way",
     "layer": "place",
-    "note": "Clapham is a district of south London, long associated with respectable middle-class and evangelical Christian families.",
-    "source": "Encyclopaedia Britannica, “Clapham”, https://www.britannica.com/search?query=Clapham",
+    "note": "Clapham is a district of south London, partly within the metropolitan borough of Wandsworth, south of the Thames.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Wandsworth”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Wandsworth",
     "status": "draft",
     "checker": null
   },
@@ -174,8 +174,8 @@
     "id": "ch38-020",
     "anchor": "transplanted to Melanesia",
     "layer": "place",
-    "note": "Melanesia is the group of Pacific islands northeast of Australia, including New Guinea, the Solomon Islands, Vanuatu, and Fiji.",
-    "source": "Encyclopaedia Britannica, “Melanesia”, https://www.britannica.com/search?query=Melanesia",
+    "note": "Melanesia is the group of Pacific islands northeast of Australia, including the Bismarck Archipelago, the Solomons, the New Hebrides (Vanuatu), New Caledonia, and Fiji.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Melanesia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Melanesia; Merriam-Webster, “Melanesia”, https://www.merriam-webster.com/dictionary/Melanesia",
     "status": "draft",
     "checker": null
   },
@@ -183,8 +183,8 @@
     "id": "ch38-021",
     "anchor": "off Malaita",
     "layer": "place",
-    "note": "Malaita is one of the main islands of the Solomon Islands in the southwest Pacific.",
-    "source": "Encyclopaedia Britannica, “Malaita”, https://www.britannica.com/search?query=Malaita",
+    "note": "Malaita is an island in the southeastern Solomon Islands, northeast of Guadalcanal, in the southwest Pacific.",
+    "source": "Merriam-Webster, “Malaita”, https://www.merriam-webster.com/dictionary/Malaita; Encyclopædia Britannica, 11th ed. (1911), “Solomon Islands”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Solomon_Islands",
     "status": "draft",
     "checker": null
   },
@@ -192,8 +192,8 @@
     "id": "ch38-022",
     "anchor": "at Nuka-Hiva",
     "layer": "place",
-    "note": "Nuku Hiva is the largest of the Marquesas Islands in French Polynesia, taken by France in 1842.",
-    "source": "Encyclopaedia Britannica, “Nuku Hiva”, https://www.britannica.com/search?query=Nuku+Hiva",
+    "note": "Nuku Hiva is the chief island of the Marquesas, in the South Pacific; France annexed the Marquesas in 1842.",
+    "source": "Merriam-Webster, “Nuku Hiva”, https://www.merriam-webster.com/dictionary/Nuku%20Hiva; Encyclopædia Britannica, 11th ed. (1911), “Pacific Ocean”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pacific_Ocean",
     "status": "draft",
     "checker": null
   },
@@ -201,8 +201,8 @@
     "id": "ch38-023",
     "anchor": "High Commissioners, consuls",
     "layer": "history",
-    "note": "From 1877 a British High Commissioner for the Western Pacific had power over British subjects in the islands, bringing more law to the region.",
-    "source": "Encyclopaedia Britannica, “Western Pacific High Commission”, https://www.britannica.com/search?query=Western+Pacific+High+Commission",
+    "note": "Britain passed an act in 1872 to regulate the Pacific labour traffic, and in 1875 created the post of high commissioner for the western Pacific, held by the governor of Fiji.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Pacific Ocean”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pacific_Ocean",
     "status": "draft",
     "checker": null
   },
@@ -228,8 +228,8 @@
     "id": "ch38-026",
     "anchor": "in Manila Bay",
     "layer": "place",
-    "note": "Manila Bay is the great harbour of Manila, capital of the Philippines, then a Spanish colony.",
-    "source": "Encyclopaedia Britannica, “Manila Bay”, https://www.britannica.com/search?query=Manila+Bay",
+    "note": "Manila, on the east shore of Manila Bay on the island of Luzon, is the capital and principal port of the Philippines, which were long under Spanish rule.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Manila”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Manila",
     "status": "draft",
     "checker": null
   },
@@ -264,8 +264,8 @@
     "id": "ch38-030",
     "anchor": "the south coast of Mindanao",
     "layer": "place",
-    "note": "Mindanao is the large southern island of the Philippines, home to many Muslim peoples who long resisted Spanish rule.",
-    "source": "Encyclopaedia Britannica, “Mindanao”, https://www.britannica.com/search?query=Mindanao",
+    "note": "Mindanao is the large island of the southern Philippines. The Spanish fortified Zamboanga there as a base against the Moros, its Muslim peoples.",
+    "source": "Merriam-Webster, “Mindanao”, https://www.merriam-webster.com/dictionary/Mindanao; Encyclopædia Britannica, 11th ed. (1911), “Zamboanga”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Zamboanga",
     "status": "draft",
     "checker": null
   },
@@ -292,7 +292,7 @@
     "anchor": "a prize crew",
     "layer": "vocab",
     "note": "Prize crew: sailors put aboard a captured ship to sail it.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Prize-crew”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “prize crew”, https://www.merriam-webster.com/dictionary/prize%20crew",
     "status": "draft",
     "checker": null
   },
@@ -301,7 +301,7 @@
     "anchor": "a Solomon Islander",
     "layer": "place",
     "note": "The Solomon Islands are a chain of islands in the southwest Pacific, east of New Guinea.",
-    "source": "Encyclopaedia Britannica, “Solomon Islands”, https://www.britannica.com/search?query=Solomon+Islands",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Solomon Islands”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Solomon_Islands; Merriam-Webster, “Solomon Islands”, https://www.merriam-webster.com/dictionary/Solomon%20Islands",
     "status": "draft",
     "checker": null
   },
@@ -319,7 +319,7 @@
     "anchor": "all the running gear unrove",
     "layer": "vocab",
     "note": "Running gear: ropes that move through blocks. Unrove: pulled out of them.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Running-rigging”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Rigging”, “Reeve, to”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -328,7 +328,7 @@
     "anchor": "over the bulwarks",
     "layer": "vocab",
     "note": "Bulwarks: the solid sides of a ship above the deck.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bulwarks”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bulwark”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -336,8 +336,8 @@
     "id": "ch38-038",
     "anchor": "all Tagals",
     "layer": "vocab",
-    "note": "Tagals (Tagalogs): the main people of the area around Manila in the Philippines.",
-    "source": "Encyclopaedia Britannica, “Tagalog”, https://www.britannica.com/search?query=Tagalog",
+    "note": "Tagals (Tagalogs): a people of central Luzon, the Philippine island where Manila stands.",
+    "source": "Merriam-Webster, “Tagalog”, https://www.merriam-webster.com/dictionary/Tagalog",
     "status": "draft",
     "checker": null
   },
@@ -355,6 +355,7 @@
     "anchor": "The two shipkeepers",
     "layer": "vocab",
     "note": "Shipkeepers: men left aboard to guard a ship in port.",
+    "source": "Merriam-Webster, “shipkeeper”, https://www.merriam-webster.com/dictionary/shipkeeper",
     "status": "draft",
     "checker": null
   },
@@ -434,8 +435,8 @@
     "id": "ch38-049",
     "anchor": "the Straits of Macassar",
     "layer": "place",
-    "note": "The Makassar Strait lies between Borneo and Celebes (Sulawesi), linking the Celebes Sea with the Java Sea.",
-    "source": "Encyclopaedia Britannica, “Makassar Strait”, https://www.britannica.com/search?query=Makassar+Strait",
+    "note": "The Macassar (Makassar) Strait is the channel that separates the island of Celebes (Sulawesi) from Borneo.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Macassar”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Macassar",
     "status": "draft",
     "checker": null
   },
@@ -449,20 +450,11 @@
     "checker": null
   },
   {
-    "id": "ch38-051",
-    "anchor": "off Poulo Laut",
-    "layer": "place",
-    "note": "Pulau Laut is an island off the southeast coast of Borneo, in what was then the Dutch East Indies.",
-    "source": "Encyclopaedia Britannica, “Laut Island”, https://www.britannica.com/search?query=Laut+Island",
-    "status": "draft",
-    "checker": null
-  },
-  {
     "id": "ch38-052",
     "anchor": "across the Java Sea",
     "layer": "place",
-    "note": "The Java Sea is the broad, shallow sea between Borneo, Java, and Sumatra, crossed by the main shipping routes of the Dutch East Indies.",
-    "source": "Encyclopaedia Britannica, “Java Sea”, https://www.britannica.com/search?query=Java+Sea",
+    "note": "The Java Sea is bounded by Java on the south, Sumatra on the west, Borneo on the north, and Sulawesi on the east.",
+    "source": "Merriam-Webster, “Java Sea”, https://www.merriam-webster.com/dictionary/Java%20Sea",
     "status": "draft",
     "checker": null
   },
@@ -479,8 +471,8 @@
     "id": "ch38-054",
     "anchor": "a Dutch corvette",
     "layer": "vocab",
-    "note": "Corvette: a small, fast warship.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Corvette”, https://www.gutenberg.org/ebooks/26000",
+    "note": "Corvette: a flush-decked warship carrying a single tier of guns.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Corvettes”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -506,8 +498,8 @@
     "id": "ch38-057",
     "anchor": "in Tamatave",
     "layer": "place",
-    "note": "Tamatave, now Toamasina, is the chief port on the east coast of Madagascar, a busy trading town in the late 1800s.",
-    "source": "Encyclopaedia Britannica, “Toamasina”, https://www.britannica.com/search?query=Toamasina",
+    "note": "Tamatave, now Toamasina, is the chief seaport of Madagascar, on its east coast; nearly half of the island’s foreign trade passed through it.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tamatave”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tamatave; Merriam-Webster, “Tamatave”, https://www.merriam-webster.com/dictionary/Tamatave",
     "status": "draft",
     "checker": null
   },
@@ -525,7 +517,7 @@
     "anchor": "the ends of submarine cables",
     "layer": "vocab",
     "note": "Submarine cables: undersea telegraph cables.",
-    "source": "Merriam-Webster, “submarine”, https://www.merriam-webster.com/dictionary/submarine",
+    "source": "Merriam-Webster, “submarine cable”, https://www.merriam-webster.com/dictionary/submarine%20cable",
     "status": "draft",
     "checker": null
   },
@@ -542,8 +534,8 @@
     "id": "ch38-061",
     "anchor": "licked their chops",
     "layer": "vocab",
-    "note": "Licked their chops: licked their lips in greedy anticipation.",
-    "source": "Merriam-Webster, “chop”, https://www.merriam-webster.com/dictionary/chop",
+    "note": "Licked their chops: licked their jaws and lips in greedy anticipation.",
+    "source": "Merriam-Webster, “chops”, https://www.merriam-webster.com/dictionary/chops",
     "status": "draft",
     "checker": null
   },
@@ -569,8 +561,8 @@
     "id": "ch38-064",
     "anchor": "clearing the Sunda Straits",
     "layer": "place",
-    "note": "The Sunda Strait is the channel between Java and Sumatra, linking the Java Sea with the Indian Ocean.",
-    "source": "Encyclopaedia Britannica, “Sunda Strait”, https://www.britannica.com/search?query=Sunda+Strait",
+    "note": "The Sunda Strait is the channel between Java and Sumatra, connecting the Java Sea with the Indian Ocean.",
+    "source": "Merriam-Webster, “Sunda Strait”, https://www.merriam-webster.com/dictionary/Sunda%20Strait",
     "status": "draft",
     "checker": null
   },
@@ -578,8 +570,8 @@
     "id": "ch38-065",
     "anchor": "the schooner’s long-boat",
     "layer": "vocab",
-    "note": "Long-boat: the largest boat carried by a sailing ship.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Long-boat”, https://www.gutenberg.org/ebooks/26000",
+    "note": "Long-boat: usually the largest boat a ship carries.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Long boat”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -597,7 +589,7 @@
     "anchor": "the last of the flood",
     "layer": "vocab",
     "note": "Flood here means the rising tide.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Flood”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Flood and flood-tide”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -606,7 +598,6 @@
     "anchor": "to effect a lodgment",
     "layer": "vocab",
     "note": "Effect a lodgment: gain a foothold, establish a position.",
-    "source": "Merriam-Webster, “lodgment”, https://www.merriam-webster.com/dictionary/lodgment",
     "status": "draft",
     "checker": null
   },

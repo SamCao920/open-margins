@@ -4,6 +4,7 @@
     "anchor": "with lustreless eyes",
     "layer": "vocab",
     "note": "Lustreless: dull, without any shine or life.",
+    "source": "Merriam-Webster, “lusterless”, https://www.merriam-webster.com/dictionary/lusterless",
     "status": "draft",
     "checker": null
   },
@@ -47,7 +48,7 @@
     "id": "ch41-006",
     "anchor": "the pipeclayed shoes",
     "layer": "history",
-    "note": "Pipeclay, a fine white clay, was rubbed on canvas shoes, belts, and equipment to whiten them, a mark of neatness.",
+    "note": "Pipeclayed: whitened with pipe clay, a fine greyish-white clay used for making tobacco pipes and for whitening leather.",
     "source": "Merriam-Webster, “pipe clay”, https://www.merriam-webster.com/dictionary/pipe%20clay",
     "status": "draft",
     "checker": null
@@ -109,8 +110,8 @@
     "id": "ch41-013",
     "anchor": "your tall talk",
     "layer": "vocab",
-    "note": "Tall talk: boastful, exaggerated talk.",
-    "source": "Merriam-Webster, “tall talk”, https://www.merriam-webster.com/dictionary/tall%20talk",
+    "note": "Tall talk: wildly exaggerated talk.",
+    "source": "Merriam-Webster, “tall”, https://www.merriam-webster.com/dictionary/tall",
     "status": "draft",
     "checker": null
   },
@@ -154,7 +155,7 @@
     "id": "ch41-018",
     "anchor": "jumping-off place",
     "layer": "vocab",
-    "note": "Jumping-off place: a starting point; here, a place to die.",
+    "note": "Jumping-off place: a remote, isolated place at the edge of things.",
     "source": "Merriam-Webster, “jumping-off place”, https://www.merriam-webster.com/dictionary/jumping-off%20place",
     "status": "draft",
     "checker": null
@@ -181,7 +182,7 @@
     "id": "ch41-021",
     "anchor": "to be hazed about so",
     "layer": "vocab",
-    "note": "Hazed: driven about and harassed, as a sailor is by a harsh officer.",
+    "note": "Hazed: harassed and driven about with unnecessary hard work.",
     "source": "Merriam-Webster, “haze”, https://www.merriam-webster.com/dictionary/haze",
     "status": "draft",
     "checker": null

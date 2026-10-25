@@ -30,8 +30,8 @@
     "id": "ch21-004",
     "anchor": "in Batavia",
     "layer": "place",
-    "note": "Batavia, now Jakarta, on the island of Java, was the capital of the Dutch East Indies and seat of its colonial government.",
-    "source": "Encyclopaedia Britannica, “Jakarta”, https://www.britannica.com/place/Jakarta",
+    "note": "Batavia, now Jakarta, on the north coast of Java, was the capital of all the Dutch settlements in the East.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Batavia (city)”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Batavia_%28city%29; Merriam-Webster, “Batavia”, https://www.merriam-webster.com/dictionary/Batavia",
     "status": "draft",
     "checker": null
   },
@@ -57,8 +57,8 @@
     "id": "ch21-007",
     "anchor": "a star of the fifth magnitude",
     "layer": "vocab",
-    "note": "Magnitude: a star’s brightness; fifth magnitude stars are barely visible to the naked eye.",
-    "source": "Merriam-Webster, “magnitude”, https://www.merriam-webster.com/dictionary/magnitude",
+    "note": "Magnitude: a number for a star’s brightness; the faintest stars seen with the naked eye are about sixth magnitude.",
+    "source": "Merriam-Webster, “magnitude”, https://www.merriam-webster.com/dictionary/magnitude; Encyclopædia Britannica, 11th ed. (1911), “Star”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Star",
     "status": "draft",
     "checker": null
   },
@@ -110,8 +110,8 @@
     "id": "ch21-013",
     "anchor": "a Malacca Portuguese",
     "layer": "history",
-    "note": "The Portuguese ruled Malacca, a port on the Malay Peninsula, from 1511 to 1641; their descendants, of mixed Portuguese and Malay ancestry, stayed on as a distinct community.",
-    "source": "Encyclopaedia Britannica, “Malacca”, https://www.britannica.com/search?query=Malacca",
+    "note": "The Portuguese held Malacca, a town on the west coast of the Malay Peninsula, from 1511 until the Dutch took it in 1641. A Malacca Portuguese is a man of that old Portuguese community.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Malacca”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Malacca",
     "status": "draft",
     "checker": null
   },
@@ -228,7 +228,6 @@
     "anchor": "going to render an account",
     "layer": "vocab",
     "note": "Render an account: explain and answer for one’s conduct.",
-    "source": "Merriam-Webster, “render”, https://www.merriam-webster.com/dictionary/render",
     "status": "draft",
     "checker": null
   },
@@ -263,8 +262,8 @@
     "id": "ch21-030",
     "anchor": "its secular right to our fidelity",
     "layer": "vocab",
-    "note": "Secular here means age-old, lasting for centuries. Fidelity: loyalty.",
-    "source": "Merriam-Webster, “fidelity”, https://www.merriam-webster.com/dictionary/fidelity",
+    "note": "Secular here means lasting through ages or centuries. Fidelity: loyalty.",
+    "source": "Merriam-Webster, “secular”, https://www.merriam-webster.com/dictionary/secular; Merriam-Webster, “fidelity”, https://www.merriam-webster.com/dictionary/fidelity",
     "status": "draft",
     "checker": null
   },
@@ -308,8 +307,8 @@
     "id": "ch21-035",
     "anchor": "the white cliffs of Dover",
     "layer": "place",
-    "note": "The chalk cliffs at Dover, on England’s southeast coast, are the first sight of England for those arriving by sea from the Continent.",
-    "source": "Encyclopaedia Britannica, “Dover”, https://www.britannica.com/search?query=Dover",
+    "note": "Dover, a port in Kent, southeastern England, faces France across the Strait of Dover, the narrowest part of the English Channel.",
+    "source": "Merriam-Webster, “Dover”, https://www.merriam-webster.com/dictionary/Dover; Merriam-Webster, “Strait of Dover”, https://www.merriam-webster.com/dictionary/Strait%20of%20Dover",
     "status": "draft",
     "checker": null
   },
@@ -408,6 +407,7 @@
     "anchor": "the onlookers see most of the game",
     "layer": "vocab",
     "note": "A proverb: people watching often see more clearly than those playing.",
+    "source": "Merriam-Webster, “onlooker”, https://www.merriam-webster.com/dictionary/onlooker",
     "status": "draft",
     "checker": null
   },

@@ -1,4 +1,4 @@
-// Scholia chapter reader. Loads a chapter's text and notes and marks anchors.
+// Open Margins chapter reader. Loads a chapter's text and notes and marks anchors.
 // Wide screens: the text keeps a set reading width in the centre. Hovering an
 // anchor shows just its note beside it; moving the pointer into a margin
 // opens that side's panel with all of its notes.
@@ -43,7 +43,7 @@
   const chName = n => 'Chapter ' + (ROMAN[n - 1] || n);
   document.getElementById('title').textContent = chName(ch) + '.';
   document.getElementById('crumb-chapter').textContent = chName(ch);
-  document.title = book.title + ', ' + chName(ch) + ' · Scholia';
+  document.title = book.title + ', ' + chName(ch) + ' · Open Margins';
   const bookLink = document.getElementById('book-link');
   bookLink.textContent = book.title;
   bookLink.href = 'book.html?book=' + bookId;

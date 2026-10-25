@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sources · Scholia</title>
-<meta name="description" content="Every source cited in Scholia's notes, plus the texts, paintings, and type used on the site.">
+<title>Sources · Open Margins</title>
+<meta name="description" content="Every source cited in Open Margins’ notes, plus the texts, paintings, and type used on the site.">
 <link rel="icon" href="brand/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="brand/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
@@ -14,7 +14,7 @@
 <body>
 <header class="bar">
   <div class="bar-inner">
-    <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Scholia</a>
+    <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Open Margins</a>
     <nav class="running" aria-label="Breadcrumb"><span>Sources</span></nav>
     <span class="bar-spacer"></span>
     <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
@@ -27,7 +27,7 @@
     <p class="by">For the notes, the texts, and the plates</p>
   </header>
 
-  <p>Each note names the work where its claim can be checked; click a note in the reader to see it. This page gathers them in one place. Notes are drafts until a person checks them against the source listed.</p>
+  <p>Each note names the work where its claim can be checked; click a note in the reader to see it. This page gathers them in one place. Every cited entry has been opened and compared with its note by Claude, an AI, and notes were cut back to what their sources say. Notes stay drafts until a person checks them too.</p>
 
   <h2>Texts</h2>
   <ul class="source-list">
@@ -41,11 +41,10 @@
   <div id="uncited"></div>
 
   <h2>Plates</h2>
-  <p>All four paintings are in the public domain. The photographs come from Wikimedia Commons, resized for the web.</p>
+  <p>All three paintings are in the public domain. The photographs come from Wikimedia Commons, resized for the web.</p>
   <ul class="source-list">
     <li>Carl Spitzweg, <em>The Bookworm</em>, c. 1850. Museum Georg Schäfer, Schweinfurt. <a href="https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg">Wikimedia Commons</a>.</li>
     <li>Jean-Honoré Fragonard, <em>Young Girl Reading</em>, c. 1770. National Gallery of Art, Washington. <a href="https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg">Wikimedia Commons</a>.</li>
-    <li>Johannes Vermeer, <em>Girl Reading a Letter at an Open Window</em>, c. 1657–59. Gemäldegalerie Alte Meister, Dresden. <a href="https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Girl_Reading_a_Letter_by_an_Open_Window_-_Google_Art_Project.jpg">Wikimedia Commons</a>.</li>
     <li>J. M. W. Turner, <em>The Fighting Temeraire</em>, 1839. National Gallery, London. <a href="https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg">Wikimedia Commons</a>.</li>
   </ul>
 
@@ -54,7 +53,7 @@
     <li>Old Standard TT, by Alexey Kryukov, and EB Garamond, by Georg Duffner and Octavio Pardo. Both under the SIL Open Font License, served from this site.</li>
   </ul>
 
-  <p class="foot"><a href="index.html">Back to the library</a></p>
+  <p class="foot"><a href="index.html">Back to the library</a> · <a href="https://github.com/samcao920/scholia">GitHub</a></p>
 </main>
 <script>
 (async function () {
@@ -77,9 +76,13 @@
       about: 'Word meanings, for most vocabulary notes.' },
     { name: 'W. H. Smyth, The Sailor’s Word-Book (1867)', test: /^W\. H\. Smyth/, href: 'https://www.gutenberg.org/ebooks/26000',
       about: 'A Victorian dictionary of nautical terms, for sea and ship words. Public domain.' },
-    { name: 'Encyclopaedia Britannica', test: /^Encyclopaedia Britannica/, href: 'https://www.britannica.com/',
-      about: 'Places, history, and customs.' },
-    { name: 'Other works', test: /./, about: 'Scripture, classics, museums, archives, and statutes.' }
+    { name: 'Encyclopædia Britannica, 11th edition (1911)', test: /^Encyclopædia Britannica, 11th/, href: 'https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica',
+      about: 'Places, history, and customs, as they stood when the novel was written. Public domain; read on Wikisource.' },
+    { name: 'Yule and Burnell, Hobson-Jobson (1903 edition)', test: /^Henry Yule/, href: 'https://dsal.uchicago.edu/dictionaries/hobsonjobson/',
+      about: 'A glossary of Anglo-Indian words. Public domain; searchable at the Digital South Asia Library.' },
+    { name: 'R. J. Wilkinson, A Malay-English Dictionary (1901)', test: /^R\. J\. Wilkinson/, href: 'https://archive.org/details/aeg2034.0001.001.umich.edu',
+      about: 'Malay words and titles. Public domain; scanned at the Internet Archive.' },
+    { name: 'Other works', test: /./, about: 'Scripture, Shakespeare, Homer, Virgil, Cicero, Goethe (all from Project Gutenberg), museums, archives, and a statute.' }
   ];
   const cited = groups.map(() => []);
   const uncited = [];

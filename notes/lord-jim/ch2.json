@@ -145,7 +145,7 @@
     "anchor": "battened down",
     "layer": "vocab",
     "note": "Shut in below deck, as hatches are “battened down” (fastened shut) in a storm.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Batten down”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Battening the hatches”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -190,6 +190,7 @@
     "anchor": "railway contractor",
     "layer": "vocab",
     "note": "A businessman paid to build a railway line.",
+    "source": "Merriam-Webster, “contractor”, https://www.merriam-webster.com/dictionary/contractor",
     "status": "draft",
     "checker": null
   },
@@ -198,6 +199,7 @@
     "anchor": "held the doctor for an ass",
     "layer": "vocab",
     "note": "Thought the doctor was a fool.",
+    "source": "Merriam-Webster, “ass”, https://www.merriam-webster.com/dictionary/ass",
     "status": "draft",
     "checker": null
   },
@@ -214,7 +216,7 @@
     "id": "ch2-025",
     "anchor": "patent medicine",
     "layer": "history",
-    "note": "Patent medicines were bottled remedies sold without a prescription, often with secret ingredients such as alcohol or opium, and advertised with exaggerated claims of cures. They were popular and widely sold in the late nineteenth century.",
+    "note": "Patent medicines were bottled remedies sold to the public without a doctor’s prescription, under a trademark, with their ingredients only partly disclosed.",
     "source": "Merriam-Webster, “patent medicine”, https://www.merriam-webster.com/dictionary/patent%20medicine",
     "status": "draft",
     "checker": null
@@ -348,7 +350,7 @@
     "id": "ch2-040",
     "anchor": "country ships",
     "layer": "history",
-    "note": "Merchant ships in the “country trade”: trade between ports within Asia and along India’s coasts, as opposed to voyages to and from Britain. Officers in this trade were usually Europeans; the ships themselves might belong to Asian or European owners.",
+    "note": "Privately owned merchant ships that traded along the coasts of India and to nearby Eastern ports, rather than between Europe and the East. Their owners and officers were mainly British.",
     "source": "Families in British India Society, “Country Sea Service”, https://wiki.fibis.org/w/Country_Sea_Service",
     "status": "draft",
     "checker": null
@@ -402,6 +404,7 @@
     "anchor": "a soft thing",
     "layer": "vocab",
     "note": "An easy job; something good for little effort.",
+    "source": "Merriam-Webster, “soft”, https://www.merriam-webster.com/dictionary/soft",
     "status": "draft",
     "checker": null
   },
@@ -418,8 +421,8 @@
     "id": "ch2-049",
     "anchor": "the Siamese navy",
     "layer": "place",
-    "note": "Siam was the name of Thailand until 1939. Its king kept a modern navy in the late 1800s, and some of its officers were hired Europeans.",
-    "source": "Encyclopaedia Britannica, “Thailand”, https://www.britannica.com/place/Thailand",
+    "note": "Siam, now Thailand, was then an independent kingdom. Many of the officers of its small modern navy were Danes and Norwegians.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Siam”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Siam; Merriam-Webster, “Siam”, https://www.merriam-webster.com/dictionary/Siam",
     "status": "draft",
     "checker": null
   },
@@ -455,6 +458,7 @@
     "anchor": "as old as the hills",
     "layer": "vocab",
     "note": "Very old; a common saying.",
+    "source": "Merriam-Webster, “old as the hills”, https://www.merriam-webster.com/dictionary/old%20as%20the%20hills",
     "status": "draft",
     "checker": null
   },
@@ -463,6 +467,7 @@
     "anchor": "a condemned water-tank",
     "layer": "vocab",
     "note": "A water tank officially declared unfit for use.",
+    "source": "Merriam-Webster, “condemn”, https://www.merriam-webster.com/dictionary/condemn",
     "status": "draft",
     "checker": null
   },
@@ -488,8 +493,8 @@
     "id": "ch2-057",
     "anchor": "New South Wales German",
     "layer": "place",
-    "note": "New South Wales was a British colony in southeastern Australia, with Sydney as its capital. It became a state of Australia when the colonies federated in 1901. The captain is a German who had settled there.",
-    "source": "Encyclopaedia Britannica, “New South Wales”, https://www.britannica.com/place/New-South-Wales",
+    "note": "New South Wales, in southeastern Australia, with Sydney as its capital, was a British colony; it is now a state of Australia. The captain is a German who had settled there.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “New South Wales”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_South_Wales; Merriam-Webster, “New South Wales”, https://www.merriam-webster.com/dictionary/New%20South%20Wales",
     "status": "draft",
     "checker": null
   },
@@ -497,7 +502,7 @@
     "id": "ch2-058",
     "anchor": "‘blood-and-iron’ air",
     "layer": "allusion",
-    "note": "Otto von Bismarck, the Prussian leader who united Germany through wars between 1864 and 1871, told a parliamentary committee in 1862 that great questions are decided “by iron and blood.” A “blood-and-iron” air means a harsh, bullying manner.",
+    "note": "In 1862 Otto von Bismarck, chief minister of Prussia, told a parliamentary budget committee that the great questions of the day are decided “by iron and blood.” A “blood-and-iron” air is a harsh, bullying manner.",
     "source": "German History in Documents and Images, “Excerpt from Bismarck’s ‘Blood and Iron’ Speech (1862)”, https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/excerpt-from-bismarcks-blood-and-iron-speech-1862",
     "status": "draft",
     "checker": null
@@ -506,8 +511,8 @@
     "id": "ch2-059",
     "anchor": "eight hundred pilgrims",
     "layer": "history",
-    "note": "Steamers carried Muslim pilgrims from Southeast Asia across the Indian Ocean and up the Red Sea to Jeddah, the port for Mecca, to make the hajj, the pilgrimage every Muslim who is able should make once. The trade grew after the Suez Canal opened in 1869.",
-    "source": "National Heritage Board (Singapore), “The Journey of Faith”, https://www.nhb.gov.sg/-/media/nhb/files/media/releases/new-releases/the-journey-of-faith.pdf",
+    "note": "Muslim pilgrims bound for Mecca to make the hajj, the pilgrimage every Muslim should make at least once in life. Most landed at Jidda (Jeddah), Mecca’s port on the Red Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Jidda”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jidda; Encyclopædia Britannica, 11th ed. (1911), “Hajj”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hajj; Encyclopædia Britannica, 11th ed. (1911), “Pilgrimage”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pilgrimage",
     "status": "draft",
     "checker": null
   },
@@ -533,7 +538,7 @@
     "anchor": "three gangways",
     "layer": "vocab",
     "note": "Gangways: movable bridges or ramps between a ship and the shore.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gangway”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “gangway”, https://www.merriam-webster.com/dictionary/gangway",
     "status": "draft",
     "checker": null
   },
@@ -596,6 +601,7 @@
     "anchor": "soiled head-cloths",
     "layer": "vocab",
     "note": "Soiled: dirty. Head-cloths: cloths worn wrapped over the head.",
+    "source": "Merriam-Webster, “soil”, https://www.merriam-webster.com/dictionary/soil",
     "status": "draft",
     "checker": null
   },
@@ -630,7 +636,7 @@
     "anchor": "the Patna cast off",
     "layer": "vocab",
     "note": "Cast off: let go the ropes holding the ship to the wharf.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cast off”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cast, to”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -657,6 +663,7 @@
     "anchor": "anchoring-ground of sailing-ships",
     "layer": "vocab",
     "note": "An area of water set aside where ships drop anchor.",
+    "source": "Merriam-Webster, “anchorage”, https://www.merriam-webster.com/dictionary/anchorage",
     "status": "draft",
     "checker": null
   },
@@ -673,6 +680,7 @@
     "anchor": "the Most High",
     "layer": "vocab",
     "note": "A name for God, used in prayer.",
+    "source": "Merriam-Webster, “Most High”, https://www.merriam-webster.com/dictionary/Most%20High",
     "status": "draft",
     "checker": null
   },
@@ -699,6 +707,7 @@
     "anchor": "screw-pile lighthouse",
     "layer": "vocab",
     "note": "A lighthouse on iron legs screwed into the soft seabed of shallow water.",
+    "source": "Merriam-Webster, “screw pile”, https://www.merriam-webster.com/dictionary/screw%20pile",
     "status": "draft",
     "checker": null
   },
@@ -724,8 +733,8 @@
     "id": "ch2-084",
     "anchor": "the Red Sea",
     "layer": "place",
-    "note": "The long, narrow sea between northeast Africa and the Arabian Peninsula. Ships from Asia entered it at its southern end to reach the ports of Arabia and, after 1869, the Suez Canal.",
-    "source": "Encyclopaedia Britannica, “Red Sea”, https://www.britannica.com/place/Red-Sea",
+    "note": "The long, narrow sea between Arabia and northeast Africa. Ships from Asia entered it at its southern end; after 1869 it led to the Suez Canal.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Red Sea”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Red_Sea; Encyclopædia Britannica, 11th ed. (1911), “Suez Canal”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Suez_Canal",
     "status": "draft",
     "checker": null
   },
@@ -734,6 +743,7 @@
     "anchor": "a fulgor",
     "layer": "vocab",
     "note": "A dazzling brightness, like a blaze of light.",
+    "source": "Merriam-Webster, “fulgor”, https://www.merriam-webster.com/dictionary/fulgor",
     "status": "draft",
     "checker": null
   },

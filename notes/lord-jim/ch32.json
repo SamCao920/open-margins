@@ -48,7 +48,7 @@
     "id": "ch32-006",
     "anchor": "a parting shot",
     "layer": "vocab",
-    "note": "Parting shot: a last shot fired while leaving.",
+    "note": "Parting shot: a final shot or remark made on leaving.",
     "source": "Merriam-Webster, “parting shot”, https://www.merriam-webster.com/dictionary/parting%20shot",
     "status": "draft",
     "checker": null
@@ -183,8 +183,8 @@
     "id": "ch32-021",
     "anchor": "the Sphinx propounding childish riddles to wayfarers",
     "layer": "allusion",
-    "note": "In Greek myth the Sphinx asked travellers a riddle and killed those who failed; Oedipus solved it.",
-    "source": "Encyclopaedia Britannica, “Sphinx”, https://www.britannica.com/topic/sphinx-mythology",
+    "note": "In Greek legend the Sphinx, a winged monster with a lion’s body and a woman’s head, killed all who could not answer her riddle; Oedipus solved it.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Sphinx”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sphinx; Merriam-Webster, “sphinx”, https://www.merriam-webster.com/dictionary/sphinx",
     "status": "draft",
     "checker": null
   },
@@ -192,7 +192,7 @@
     "id": "ch32-022",
     "anchor": "a sinister pantaloon",
     "layer": "allusion",
-    "note": "Pantaloon was the foolish, greedy old man of Italian commedia dell’arte and English pantomime; here, Cornelius.",
+    "note": "Pantaloon was a stock character of Italian commedia dell’arte, a skinny old dotard, and a buffoon of English pantomime; here, Cornelius.",
     "source": "Merriam-Webster, “pantaloon”, https://www.merriam-webster.com/dictionary/pantaloon",
     "status": "draft",
     "checker": null

@@ -93,8 +93,8 @@
     "id": "ch27-011",
     "anchor": "a Homeric peal of laughter",
     "layer": "allusion",
-    "note": "“Homeric laughter” is huge, uncontrollable laughter, after the “unquenchable laughter” of the gods in Homer’s Iliad.",
-    "source": "Merriam-Webster, “Homeric”, https://www.merriam-webster.com/dictionary/Homeric",
+    "note": "Homeric: on an epic scale, as in Homer. In Homer’s Iliad, “laughter unquenchable” breaks out among the gods on Olympus.",
+    "source": "Merriam-Webster, “Homeric”, https://www.merriam-webster.com/dictionary/Homeric; Homer, Iliad 1.599, trans. Lang, Leaf, and Myers (1883), https://www.gutenberg.org/ebooks/3059",
     "status": "draft",
     "checker": null
   },
@@ -139,6 +139,7 @@
     "anchor": "‘Pon my word",
     "layer": "vocab",
     "note": "’Pon my word: upon my word, truly.",
+    "source": "Merriam-Webster, “upon my word”, https://www.merriam-webster.com/dictionary/upon%20my%20word",
     "status": "draft",
     "checker": null
   },
@@ -227,6 +228,7 @@
     "anchor": "crooking his little finger",
     "layer": "vocab",
     "note": "Crooking his little finger: with the smallest possible effort.",
+    "source": "Merriam-Webster, “crook”, https://www.merriam-webster.com/dictionary/crook",
     "status": "draft",
     "checker": null
   },
@@ -306,7 +308,7 @@
     "id": "ch27-035",
     "anchor": "a baulk of timber",
     "layer": "vocab",
-    "note": "Baulk (balk): a large squared beam of wood.",
+    "note": "Baulk (balk): a large beam of timber.",
     "source": "Merriam-Webster, “balk”, https://www.merriam-webster.com/dictionary/balk",
     "status": "draft",
     "checker": null
@@ -467,8 +469,8 @@
     "id": "ch27-053",
     "anchor": "paddle, pole, or track",
     "layer": "vocab",
-    "note": "Track: tow a boat with a rope from the riverbank.",
-    "source": "Merriam-Webster, “track”, https://www.merriam-webster.com/dictionary/track",
+    "note": "Track: haul a boat along a river by a rope pulled from the bank.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Tracking”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -476,8 +478,8 @@
     "id": "ch27-054",
     "anchor": "the disreputable goddess",
     "layer": "allusion",
-    "note": "Fame, or Rumour, pictured as a goddess blowing a trumpet; in Virgil’s Aeneid she is a monster who spreads truth and lies alike.",
-    "source": "Virgil, Aeneid, Book 4, lines 173–197",
+    "note": "Fame, or Rumour, pictured as a trumpeting goddess. In Virgil’s Aeneid she is a swift, winged monster who spreads lies as eagerly as truth.",
+    "source": "Virgil, Aeneid 4.173–197, trans. J. W. Mackail (1885), https://www.gutenberg.org/ebooks/22456",
     "status": "draft",
     "checker": null
   },

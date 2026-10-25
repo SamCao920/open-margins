@@ -49,7 +49,6 @@
     "anchor": "lay the ghost of a fact",
     "layer": "vocab",
     "note": "Lay a ghost: make it stop haunting, put it to rest.",
-    "source": "Merriam-Webster, “lay”, https://www.merriam-webster.com/dictionary/lay",
     "status": "draft",
     "checker": null
   },
@@ -75,8 +74,8 @@
     "id": "ch19-009",
     "anchor": "in Bankok, where",
     "layer": "place",
-    "note": "Bangkok, on the Menam (Chao Phraya) River, was the capital and chief port of the kingdom of Siam, now Thailand.",
-    "source": "Encyclopaedia Britannica, “Bangkok”, https://www.britannica.com/search?query=Bangkok",
+    "note": "Bangkok, on the Menam (Chao Phraya) River about 20 miles from its mouth, was the capital of the kingdom of Siam, now Thailand.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bangkok”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bangkok; Merriam-Webster, “Bangkok”, https://www.merriam-webster.com/dictionary/Bangkok",
     "status": "draft",
     "checker": null
   },
@@ -84,8 +83,8 @@
     "id": "ch19-010",
     "anchor": "charterers and teak merchants",
     "layer": "history",
-    "note": "Teak, a hard, rot-resistant timber prized for shipbuilding, was felled in Siam’s northern forests and floated down the rivers to Bangkok for export.",
-    "source": "Encyclopaedia Britannica, “teak”, https://www.britannica.com/search?query=teak",
+    "note": "Teak, a hard wood used especially for shipbuilding, was counted the most valuable of timbers; the rivers of Burma and Siam carried it out of the forests.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Teak”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Teak; Merriam-Webster, “teak”, https://www.merriam-webster.com/dictionary/teak",
     "status": "draft",
     "checker": null
   },
@@ -102,8 +101,8 @@
     "id": "ch19-012",
     "anchor": "a hirsute Alsatian",
     "layer": "history",
-    "note": "Hirsute: hairy. Alsatian: from Alsace, a region on the French–German border that Germany took from France in 1871.",
-    "source": "Encyclopaedia Britannica, “Alsace”, https://www.britannica.com/search?query=Alsace",
+    "note": "Hirsute: hairy. Alsatian: from Alsace, a former French province on the border with Germany, which Germany took over in 1871.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Alsace-Lorraine”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Alsace-Lorraine; Merriam-Webster, “Alsace”, https://www.merriam-webster.com/dictionary/Alsace",
     "status": "draft",
     "checker": null
   },
@@ -111,7 +110,7 @@
     "id": "ch19-013",
     "anchor": "an irrepressible retailer",
     "layer": "vocab",
-    "note": "Retailer here means someone who passes on stories to others.",
+    "note": "Retailer here means someone who retells stories, passing them on to others.",
     "source": "Merriam-Webster, “retail”, https://www.merriam-webster.com/dictionary/retail",
     "status": "draft",
     "checker": null
@@ -207,8 +206,8 @@
     "id": "ch19-024",
     "anchor": "the Royal Siamese Navy",
     "layer": "history",
-    "note": "Siam, now Thailand, hired European officers to build its modern navy in the late 1800s, many of them Danes.",
-    "source": "Encyclopaedia Britannica, “Siam”, https://www.britannica.com/search?query=Siam",
+    "note": "Siam, now Thailand, had a small modern navy, and many of its officers were Danes and Norwegians.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Siam”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Siam; Merriam-Webster, “Siam”, https://www.merriam-webster.com/dictionary/Siam",
     "status": "draft",
     "checker": null
   },
@@ -225,8 +224,8 @@
     "id": "ch19-026",
     "anchor": "the Menam",
     "layer": "place",
-    "note": "The Menam, now called the Chao Phraya, is the great river of Thailand that flows through Bangkok to the Gulf of Siam.",
-    "source": "Encyclopaedia Britannica, “Chao Phraya River”, https://www.britannica.com/search?query=Chao+Phraya+River",
+    "note": "The Menam, now called the Chao Phraya, is the main river of Siam (Thailand), flowing south past Bangkok into the Gulf of Siam.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Menam”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Menam; Merriam-Webster, “Menam”, https://www.merriam-webster.com/dictionary/Menam",
     "status": "draft",
     "checker": null
   },
@@ -234,8 +233,8 @@
     "id": "ch19-027",
     "anchor": "the King of Siam",
     "layer": "history",
-    "note": "Siam was ruled at this time by King Chulalongkorn (Rama V, reigned 1868–1910), who modernized the country while keeping it independent.",
-    "source": "Encyclopaedia Britannica, “Chulalongkorn”, https://www.britannica.com/search?query=Chulalongkorn",
+    "note": "Siam was then ruled by King Chulalongkorn, who came to the throne in 1868 and proved an administrator of the highest ability.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Siam”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Siam",
     "status": "draft",
     "checker": null
   },
@@ -280,7 +279,7 @@
     "anchor": "my table d’hote",
     "layer": "vocab",
     "note": "Table d’hôte: a set meal served to all guests at a fixed price.",
-    "source": "Merriam-Webster, “table d'hôte”, https://www.merriam-webster.com/dictionary/table%20d'hôte",
+    "source": "Merriam-Webster, “table d'hôte”, https://www.merriam-webster.com/dictionary/table%20d%27h%C3%B4te",
     "status": "draft",
     "checker": null
   },
@@ -306,8 +305,8 @@
     "id": "ch19-035",
     "anchor": "knocked about a good deal",
     "layer": "vocab",
-    "note": "Knocked about: travelled and lived roughly in many places.",
-    "source": "Merriam-Webster, “knock about”, https://www.merriam-webster.com/dictionary/knock%20about",
+    "note": "Knocked about: wandered from place to place, living roughly.",
+    "source": "Merriam-Webster, “knock around”, https://www.merriam-webster.com/dictionary/knock%20around",
     "status": "draft",
     "checker": null
   },
@@ -352,7 +351,7 @@
     "anchor": "washing my hands of him",
     "layer": "allusion",
     "note": "To wash one’s hands of: refuse further responsibility, as Pontius Pilate washed his hands at Jesus’s trial.",
-    "source": "The Bible (King James Version), Matthew 27:24",
+    "source": "The Bible (King James Version), Matthew 27:24, https://www.gutenberg.org/ebooks/10; Merriam-Webster, “wash one's hands of”, https://www.merriam-webster.com/dictionary/wash%20one%27s%20hands%20of",
     "status": "draft",
     "checker": null
   },
@@ -379,7 +378,7 @@
     "anchor": "glad enough to dispose of him",
     "layer": "vocab",
     "note": "Dispose of: find a place for, get rid of.",
-    "source": "Merriam-Webster, “dispose”, https://www.merriam-webster.com/dictionary/dispose",
+    "source": "Merriam-Webster, “dispose of”, https://www.merriam-webster.com/dictionary/dispose%20of",
     "status": "draft",
     "checker": null
   },
@@ -423,8 +422,8 @@
     "id": "ch19-048",
     "anchor": "try California or the West Coast",
     "layer": "place",
-    "note": "California and the west coast of North America, across the Pacific, were a place for a fresh start.",
-    "source": "Encyclopaedia Britannica, “California”, https://www.britannica.com/search?query=California",
+    "note": "California, a state of the United States on the Pacific coast of North America, across the ocean from the East.",
+    "source": "Merriam-Webster, “California”, https://www.merriam-webster.com/dictionary/California",
     "status": "draft",
     "checker": null
   },
@@ -441,8 +440,8 @@
     "id": "ch19-050",
     "anchor": "looked after the Moluccas",
     "layer": "place",
-    "note": "The Moluccas (Maluku), the famous Spice Islands of eastern Indonesia, were then part of the Dutch East Indies.",
-    "source": "Encyclopaedia Britannica, “Moluccas”, https://www.britannica.com/search?query=Moluccas",
+    "note": "The Moluccas, or Spice Islands, lie between Celebes (Sulawesi) and New Guinea. They were then under Dutch rule and are now part of Indonesia.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Moluccas”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Moluccas; Merriam-Webster, “Moluccas”, https://www.merriam-webster.com/dictionary/Moluccas",
     "status": "draft",
     "checker": null
   },
@@ -451,6 +450,7 @@
     "anchor": "a large inter-island business",
     "layer": "vocab",
     "note": "Inter-island: carried on between many islands.",
+    "source": "Merriam-Webster, “interisland”, https://www.merriam-webster.com/dictionary/interisland",
     "status": "draft",
     "checker": null
   },
@@ -565,8 +565,8 @@
     "id": "ch19-064",
     "anchor": "Buprestidae and Longicorns",
     "layer": "history",
-    "note": "Two large families of beetles: Buprestidae are metallic “jewel beetles,” and longicorns are longhorn beetles with very long antennae.",
-    "source": "Encyclopaedia Britannica, “beetle”, https://www.britannica.com/search?query=beetle",
+    "note": "Two families of beetles. Many tropical Buprestidae are large, with magnificent metallic colours; longicorns, or longhorn beetles, have long, slender feelers.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Coleoptera”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Coleoptera; Merriam-Webster, “buprestid”, https://www.merriam-webster.com/dictionary/buprestid; Merriam-Webster, “longicorn”, https://www.merriam-webster.com/dictionary/longicorn",
     "status": "draft",
     "checker": null
   },

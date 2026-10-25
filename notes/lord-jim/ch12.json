@@ -58,7 +58,7 @@
     "anchor": "towed successfully to Aden",
     "layer": "place",
     "note": "Aden, a port at the southern tip of Arabia near the mouth of the Red Sea, was then held by Britain and used as a coaling station for steamers.",
-    "source": "Encyclopaedia Britannica, “Aden”, https://www.britannica.com/place/Aden",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Aden”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aden",
     "status": "draft",
     "checker": null
   },
@@ -120,7 +120,7 @@
     "anchor": "the fore-compartment",
     "layer": "vocab",
     "note": "The front section of the hull, walled off from the rest by the bulkhead.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Compartments”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Compartment bulk-heads”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -147,6 +147,7 @@
     "anchor": "swung head to wind",
     "layer": "vocab",
     "note": "Swung head to wind: turned so her bow pointed into the wind.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Head to wind”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -189,7 +190,7 @@
     "id": "ch12-022",
     "anchor": "a French gunboat",
     "layer": "vocab",
-    "note": "Gunboat: a small, lightly armed navy ship used for patrol work.",
+    "note": "Gunboat: a small, lightly armed warship for use in shallow waters.",
     "source": "Merriam-Webster, “gunboat”, https://www.merriam-webster.com/dictionary/gunboat",
     "status": "draft",
     "checker": null
@@ -198,8 +199,8 @@
     "id": "ch12-023",
     "anchor": "homeward bound from Reunion",
     "layer": "place",
-    "note": "Réunion, a volcanic island in the Indian Ocean east of Madagascar, has been a French possession since the 1600s, so French warships called there.",
-    "source": "Encyclopaedia Britannica, “Reunion”, https://www.britannica.com/search?query=Reunion",
+    "note": "Réunion, formerly called Bourbon, is a French island colony in the Indian Ocean, about 400 miles southeast of Madagascar, so French warships called there.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Réunion”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/R%C3%A9union",
     "status": "draft",
     "checker": null
   },
@@ -225,7 +226,7 @@
     "anchor": "an ensign, union down",
     "layer": "history",
     "note": "A ship’s flag flown upside down (union down) was a recognized signal of distress at sea: it told passing ships that help was needed.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Union-down”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Union down”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -242,8 +243,8 @@
     "id": "ch12-028",
     "anchor": "the serang had the sense",
     "layer": "vocab",
-    "note": "Serang: the leader or boatswain of an Asian crew.",
-    "source": "Merriam-Webster, “serang”, https://www.merriam-webster.com/dictionary/serang",
+    "note": "Serang: the boatswain or leader of a lascar (Indian) crew.",
+    "source": "Henry Yule and A. C. Burnell, Hobson-Jobson (1903 ed.), “Serang”, https://dsal.uchicago.edu/cgi-bin/app/hobsonjobson_query.py?qs=serang&searchhws=yes",
     "status": "draft",
     "checker": null
   },
@@ -294,8 +295,8 @@
     "id": "ch12-034",
     "anchor": "in Sydney",
     "layer": "place",
-    "note": "Sydney, on the southeast coast of Australia, was the capital of the colony of New South Wales and the busiest port in the South Pacific.",
-    "source": "Encyclopaedia Britannica, “Sydney”, https://www.britannica.com/place/Sydney",
+    "note": "Sydney, on the harbour of Port Jackson, was the capital of New South Wales, Australia; Port Jackson was one of the six greatest ports of the British Empire.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “New South Wales”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_South_Wales; Encyclopædia Britannica, 11th ed. (1911), “Port Jackson”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Port_Jackson; Merriam-Webster, “Sydney”, https://www.merriam-webster.com/dictionary/Sydney",
     "status": "draft",
     "checker": null
   },
@@ -339,7 +340,7 @@
     "id": "ch12-039",
     "anchor": "taking snuff",
     "layer": "history",
-    "note": "Snuff is powdered tobacco sniffed up the nose. It was a common habit in the 1700s and 1800s, especially among older men and clergy.",
+    "note": "Snuff is powdered tobacco, taken by sniffing a small pinch of it up into the nostrils.",
     "source": "Merriam-Webster, “snuff”, https://www.merriam-webster.com/dictionary/snuff",
     "status": "draft",
     "checker": null
@@ -349,6 +350,7 @@
     "anchor": "I said “Merci.”",
     "layer": "vocab",
     "note": "Merci: French for “thank you.”",
+    "source": "Merriam-Webster, “merci”, https://www.merriam-webster.com/dictionary/merci",
     "status": "draft",
     "checker": null
   },
@@ -409,6 +411,7 @@
     "anchor": "stern foremost",
     "layer": "vocab",
     "note": "Backwards, with the stern leading.",
+    "source": "Merriam-Webster, “stern foremost”, https://www.merriam-webster.com/dictionary/stern%20foremost",
     "status": "draft",
     "checker": null
   },
@@ -434,8 +437,8 @@
     "id": "ch12-050",
     "anchor": "threadbare black soutane",
     "layer": "vocab",
-    "note": "Threadbare: worn thin. Soutane: a long black robe worn by Catholic priests.",
-    "source": "Merriam-Webster, “soutane”, https://www.merriam-webster.com/dictionary/soutane",
+    "note": "Threadbare: worn thin. Soutane: a cassock, the ankle-length garment worn by Catholic clergy.",
+    "source": "Merriam-Webster, “soutane”, https://www.merriam-webster.com/dictionary/soutane; Merriam-Webster, “cassock”, https://www.merriam-webster.com/dictionary/cassock",
     "status": "draft",
     "checker": null
   },
@@ -582,8 +585,8 @@
     "id": "ch12-067",
     "anchor": "an Indian Marine steamer",
     "layer": "history",
-    "note": "The Indian Marine (renamed the Royal Indian Marine in 1892) was the government naval service of British India, which carried troops and policed the coasts.",
-    "source": "Encyclopaedia Britannica, “Royal Indian Navy”, https://www.britannica.com/search?query=Royal+Indian+Navy",
+    "note": "The Indian Marine was the government marine service of British India, kept, like the army, under the central government.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “India”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/India",
     "status": "draft",
     "checker": null
   },
@@ -617,8 +620,8 @@
     "id": "ch12-071",
     "anchor": "their way to Toulon",
     "layer": "place",
-    "note": "Toulon, a port on France’s Mediterranean coast, is the main base of the French navy.",
-    "source": "Encyclopaedia Britannica, “Toulon”, https://www.britannica.com/place/Toulon",
+    "note": "Toulon, a port on France’s Mediterranean coast, is the most important French naval dockyard and the headquarters of the Mediterranean fleet.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Toulon”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Toulon; Merriam-Webster, “Toulon”, https://www.merriam-webster.com/dictionary/Toulon",
     "status": "draft",
     "checker": null
   }

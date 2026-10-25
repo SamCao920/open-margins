@@ -3,8 +3,8 @@
     "id": "ch15-001",
     "anchor": "fresh from Madagascar",
     "layer": "place",
-    "note": "Madagascar, the large island off southeast Africa, was then an independent kingdom under growing French pressure; France made it a colony in 1896.",
-    "source": "Encyclopaedia Britannica, “Madagascar”, https://www.britannica.com/search?query=Madagascar",
+    "note": "Madagascar, a huge island in the Indian Ocean off southeast Africa, was then ruled by its own queen under growing French pressure; it became a French colony in 1896.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Madagascar”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Madagascar; Merriam-Webster, “Madagascar”, https://www.merriam-webster.com/dictionary/Madagascar",
     "status": "draft",
     "checker": null
   },
@@ -12,8 +12,8 @@
     "id": "ch15-002",
     "anchor": "Admiral Pierre",
     "layer": "history",
-    "note": "Rear-Admiral Pierre commanded the French squadron that bombarded and seized ports on Madagascar in 1883, at the start of France’s war with the Malagasy kingdom.",
-    "source": "Encyclopaedia Britannica, “Madagascar history”, https://www.britannica.com/search?query=Madagascar+history",
+    "note": "In May 1883 a French squadron bombarded and occupied Tamatave, Madagascar’s chief port, after the Malagasy queen refused French demands. Marlow only half-remembers the admiral’s name.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Madagascar”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Madagascar",
     "status": "draft",
     "checker": null
   },
@@ -85,7 +85,7 @@
     "anchor": "smaller than a mustard-seed",
     "layer": "allusion",
     "note": "In the Gospels Jesus calls the mustard seed “the least of all seeds,” a proverbially tiny thing.",
-    "source": "The Bible (King James Version), Matthew 13:31–32",
+    "source": "The Bible (King James Version), Matthew 13:31–32, https://www.gutenberg.org/ebooks/10",
     "status": "draft",
     "checker": null
   },
@@ -272,7 +272,7 @@
     "id": "ch15-031",
     "anchor": "some optical toy",
     "layer": "history",
-    "note": "Victorian optical toys such as the zoetrope spun a series of pictures to give the illusion of moving figures.",
+    "note": "Optical toys such as the zoetrope showed figures on the inside of a spinning cylinder, seen through slits, which seemed to move.",
     "source": "Merriam-Webster, “zoetrope”, https://www.merriam-webster.com/dictionary/zoetrope",
     "status": "draft",
     "checker": null

@@ -121,6 +121,7 @@
     "anchor": "the dinner-service",
     "layer": "vocab",
     "note": "Dinner-service: a full matching set of plates and dishes.",
+    "source": "Merriam-Webster, “service”, https://www.merriam-webster.com/dictionary/service",
     "status": "draft",
     "checker": null
   },
@@ -128,8 +129,8 @@
     "id": "ch43-015",
     "anchor": "a night of Ramadan",
     "layer": "history",
-    "note": "Ramadan is the Muslim holy month of fasting from dawn to sunset; at night people eat, gather, and light lamps.",
-    "source": "Encyclopaedia Britannica, “Ramadan”, https://www.britannica.com/search?query=Ramadan",
+    "note": "Ramadan is the ninth month of the Islamic year, kept sacred with fasting every day from dawn to sunset.",
+    "source": "Merriam-Webster, “Ramadan”, https://www.merriam-webster.com/dictionary/Ramadan",
     "status": "draft",
     "checker": null
   },
@@ -209,6 +210,7 @@
     "anchor": "a matter of form",
     "layer": "vocab",
     "note": "A matter of form: something done only because it is the custom.",
+    "source": "Merriam-Webster, “matter of form”, https://www.merriam-webster.com/dictionary/matter%20of%20form",
     "status": "draft",
     "checker": null
   },
@@ -234,8 +236,8 @@
     "id": "ch43-027",
     "anchor": "completely sold",
     "layer": "vocab",
-    "note": "Sold here means betrayed, tricked (slang).",
-    "source": "Merriam-Webster, “sold”, https://www.merriam-webster.com/dictionary/sold",
+    "note": "Sold here means betrayed or cheated (slang).",
+    "source": "Merriam-Webster, “sell”, https://www.merriam-webster.com/dictionary/sell",
     "status": "draft",
     "checker": null
   },
@@ -297,8 +299,8 @@
     "id": "ch43-034",
     "anchor": "owner of the prau",
     "layer": "vocab",
-    "note": "Prau (perahu): a Malay sailing boat or canoe.",
-    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “perahu”",
+    "note": "Prau (perahu): the Malay word for a boat.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “perahu”, https://archive.org/details/aeg2034.0001.001.umich.edu",
     "status": "draft",
     "checker": null
   },
@@ -342,6 +344,7 @@
     "anchor": "a balloon car",
     "layer": "vocab",
     "note": "Balloon car: the basket hanging beneath a hot-air or gas balloon.",
+    "source": "Merriam-Webster, “car”, https://www.merriam-webster.com/dictionary/car",
     "status": "draft",
     "checker": null
   },

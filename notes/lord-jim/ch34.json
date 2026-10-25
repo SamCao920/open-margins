@@ -30,8 +30,8 @@
     "id": "ch34-004",
     "anchor": "Magna est veritas el",
     "layer": "allusion",
-    "note": "Marlow starts the Latin proverb “Magna est veritas et praevalebit”: “Great is truth, and it shall prevail,” from the Latin Bible’s Book of Esdras.",
-    "source": "The Bible (Vulgate), 3 Esdras 4:41; Merriam-Webster, “magna est veritas”, https://www.merriam-webster.com/dictionary/magna%20est%20veritas",
+    "note": "Marlow starts the Latin proverb “Magna est veritas et praevalebit”: “Great is truth, and it will prevail.” It echoes 1 Esdras in the Apocrypha: “Great is Truth, and mighty above all things.”",
+    "source": "Merriam-Webster, “magna est veritas”, https://www.merriam-webster.com/dictionary/magna%20est%20veritas; The Apocrypha (King James Version), 1 Esdras 4:41, https://www.gutenberg.org/ebooks/124",
     "status": "draft",
     "checker": null
   },
@@ -58,6 +58,7 @@
     "anchor": "I had tried a fall with fear itself",
     "layer": "vocab",
     "note": "Tried a fall: wrestled, as in a wrestling bout.",
+    "source": "Merriam-Webster, “fall”, https://www.merriam-webster.com/dictionary/fall",
     "status": "draft",
     "checker": null
   },
@@ -110,8 +111,8 @@
     "id": "ch34-013",
     "anchor": "a coffee-plantation",
     "layer": "history",
-    "note": "Coffee was widely grown on plantations in the Dutch East Indies in the 1800s, especially on Java, and was a major export.",
-    "source": "Encyclopaedia Britannica, “coffee”, https://www.britannica.com/search?query=coffee",
+    "note": "Coffee was grown on plantations in the hills of Java, the island that was the seat of the Dutch East Indies government.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Java”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Java",
     "status": "draft",
     "checker": null
   },
@@ -299,8 +300,8 @@
     "id": "ch34-034",
     "anchor": "a tall stove-pipe hat",
     "layer": "vocab",
-    "note": "Stove-pipe hat: a very tall, cylindrical top hat.",
-    "source": "Merriam-Webster, “stovepipe hat”, https://www.merriam-webster.com/dictionary/stovepipe%20hat",
+    "note": "Stove-pipe hat: a tall silk hat.",
+    "source": "Merriam-Webster, “stovepipe”, https://www.merriam-webster.com/dictionary/stovepipe",
     "status": "draft",
     "checker": null
   },
@@ -317,7 +318,7 @@
     "id": "ch34-036",
     "anchor": "black broadcloth",
     "layer": "vocab",
-    "note": "Broadcloth: a fine, dense black wool cloth for formal suits.",
+    "note": "Broadcloth: a fine woollen cloth with a smooth, glossy surface.",
     "source": "Merriam-Webster, “broadcloth”, https://www.merriam-webster.com/dictionary/broadcloth",
     "status": "draft",
     "checker": null
@@ -469,8 +470,7 @@
     "id": "ch34-053",
     "anchor": "“Moderate provision--suitable present.”",
     "layer": "vocab",
-    "note": "Provision: money set aside for someone’s support.",
-    "source": "Merriam-Webster, “provision”, https://www.merriam-webster.com/dictionary/provision",
+    "note": "Provision: money arranged for someone’s support.",
     "status": "draft",
     "checker": null
   },
@@ -541,7 +541,7 @@
     "id": "ch34-061",
     "anchor": "quite extinct",
     "layer": "vocab",
-    "note": "Extinct here means died away, gone silent.",
+    "note": "Extinct here means died out, like a fire that has gone out.",
     "source": "Merriam-Webster, “extinct”, https://www.merriam-webster.com/dictionary/extinct",
     "status": "draft",
     "checker": null

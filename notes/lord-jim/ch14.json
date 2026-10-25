@@ -21,7 +21,7 @@
     "id": "ch14-003",
     "anchor": "a man abandoned enough",
     "layer": "vocab",
-    "note": "Abandoned here means wicked and shameless, with no self-control.",
+    "note": "Abandoned here means shameless, wholly free from restraint.",
     "source": "Merriam-Webster, “abandoned”, https://www.merriam-webster.com/dictionary/abandoned",
     "status": "draft",
     "checker": null
@@ -112,6 +112,7 @@
     "anchor": "no mean traitor",
     "layer": "vocab",
     "note": "No mean: not small or minor; a considerable one.",
+    "source": "Merriam-Webster, “mean”, https://www.merriam-webster.com/dictionary/mean",
     "status": "draft",
     "checker": null
   },
@@ -121,15 +122,6 @@
     "layer": "vocab",
     "note": "Hole-and-corner: done in a secret, shabby, unimportant way.",
     "source": "Merriam-Webster, “hole-and-corner”, https://www.merriam-webster.com/dictionary/hole-and-corner",
-    "status": "draft",
-    "checker": null
-  },
-  {
-    "id": "ch14-015",
-    "anchor": "on Tower Hill",
-    "layer": "history",
-    "note": "Tower Hill, beside the Tower of London, was where traitors of high rank were publicly beheaded before large crowds until the 1700s.",
-    "source": "Encyclopaedia Britannica, “Tower Hill”, https://www.britannica.com/search?query=Tower+Hill",
     "status": "draft",
     "checker": null
   },
@@ -182,7 +174,7 @@
     "id": "ch14-021",
     "anchor": "a chromo-lithograph",
     "layer": "history",
-    "note": "Chromolithographs were cheap colour pictures printed from a series of stone plates, very popular as book illustrations and wall prints in the 1800s.",
+    "note": "A chromolithograph is a picture printed in colours from a series of lithographic stones or plates.",
     "source": "Merriam-Webster, “chromolithograph”, https://www.merriam-webster.com/dictionary/chromolithograph",
     "status": "draft",
     "checker": null
@@ -227,7 +219,7 @@
     "id": "ch14-026",
     "anchor": "a bright yellow caste-mark",
     "layer": "history",
-    "note": "A coloured mark painted on the forehead, worn by many Hindus as a sign of religious devotion or social group.",
+    "note": "A caste-mark: a coloured mark worn on the forehead, especially in India, showing the wearer’s caste.",
     "source": "Merriam-Webster, “caste mark”, https://www.merriam-webster.com/dictionary/caste%20mark",
     "status": "draft",
     "checker": null
@@ -245,8 +237,8 @@
     "id": "ch14-028",
     "anchor": "sprinting on a cinder-track",
     "layer": "vocab",
-    "note": "Cinder-track: a running track surfaced with fine burnt coal ash.",
-    "source": "Merriam-Webster, “cinder”, https://www.merriam-webster.com/dictionary/cinder",
+    "note": "Cinder-track: a running track surfaced with hard-packed cinders.",
+    "source": "Merriam-Webster, “cinder track”, https://www.merriam-webster.com/dictionary/cinder%20track",
     "status": "draft",
     "checker": null
   },
@@ -273,7 +265,7 @@
     "anchor": "By Jove!",
     "layer": "vocab",
     "note": "A mild oath; Jove is another name for Jupiter, king of the Roman gods.",
-    "source": "Merriam-Webster, “by Jove”, https://www.merriam-webster.com/dictionary/by%20Jove",
+    "source": "Merriam-Webster, “by Jove”, https://www.merriam-webster.com/dictionary/by%20Jove; Merriam-Webster, “Jove”, https://www.merriam-webster.com/dictionary/Jove",
     "status": "draft",
     "checker": null
   },
@@ -335,8 +327,8 @@
     "id": "ch14-038",
     "anchor": "Norwegian barque",
     "layer": "vocab",
-    "note": "Barque: a sailing ship with three or more masts, the last rigged fore-and-aft.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Barque”, https://www.gutenberg.org/ebooks/26000",
+    "note": "Barque: a three-masted sailing ship with only fore-and-aft sails on its last mast.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bark, or barque”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -443,8 +435,8 @@
     "id": "ch14-050",
     "anchor": "discovered--so he said--a guano island",
     "layer": "history",
-    "note": "Guano, the dried droppings of seabirds piled up over centuries on dry islands, was dug and shipped worldwide as a rich fertilizer in the 1800s.",
-    "source": "Encyclopaedia Britannica, “guano”, https://www.britannica.com/search?query=guano",
+    "note": "Guano, the excrement of seabirds, lay in large deposits on certain islands, off Peru and elsewhere, and was dug and sold as a valuable fertilizer.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Guano”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Guano; Merriam-Webster, “guano”, https://www.merriam-webster.com/dictionary/guano",
     "status": "draft",
     "checker": null
   },
@@ -462,7 +454,7 @@
     "anchor": "no holding-ground",
     "layer": "vocab",
     "note": "Holding-ground: a seabed where an anchor will grip firmly.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Holding-ground”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “holding ground”, https://www.merriam-webster.com/dictionary/holding%20ground",
     "status": "draft",
     "checker": null
   },
@@ -479,8 +471,8 @@
     "id": "ch14-054",
     "anchor": "a Parsee firm",
     "layer": "history",
-    "note": "Parsees (Parsis) are Zoroastrians whose ancestors came to India from Persia; many were leading merchants and shipowners in Bombay.",
-    "source": "Encyclopaedia Britannica, “Parsi”, https://www.britannica.com/search?query=Parsi",
+    "note": "Parsees (Parsis) follow the prophet Zoroaster and descend from Persians who emigrated to India; nearly all lived in the Bombay region, many as traders.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Parsees”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Parsees; Merriam-Webster, “Parsi”, https://www.merriam-webster.com/dictionary/Parsi",
     "status": "draft",
     "checker": null
   },
@@ -523,8 +515,8 @@
     "id": "ch14-059",
     "anchor": "smuggled more opium",
     "layer": "history",
-    "note": "Opium, a drug made from poppies, was traded and smuggled widely around East Asia and the Pacific in the 1800s, often against local bans.",
-    "source": "Encyclopaedia Britannica, “opium trade”, https://www.britannica.com/search?query=opium+trade",
+    "note": "Opium is a narcotic drug made from the juice of the opium poppy. China banned its import in 1796, but the trade went on as contraband.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Opium”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Opium",
     "status": "draft",
     "checker": null
   },
@@ -541,8 +533,8 @@
     "id": "ch14-061",
     "anchor": "sealing-schooners up Alaska way",
     "layer": "history",
-    "note": "In the late 1800s schooners hunted fur seals in the Bering Sea off Alaska, and raids on rival sealers led to a dispute between Britain and the United States.",
-    "source": "Encyclopaedia Britannica, “Bering Sea dispute”, https://www.britannica.com/search?query=Bering+Sea+dispute",
+    "note": "Schooners hunted fur seals in the Bering Sea, off Alaska. American seizures of British sealers caused a dispute between the two countries, settled by arbitration in 1893.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bering Sea Arbitration”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bering_Sea_Arbitration",
     "status": "draft",
     "checker": null
   },
@@ -550,8 +542,8 @@
     "id": "ch14-062",
     "anchor": "Stewart Island",
     "layer": "place",
-    "note": "Stewart Island lies off the southern tip of New Zealand’s South Island; its rugged west coast is cold, wet, and remote.",
-    "source": "Encyclopaedia Britannica, “Stewart Island”, https://www.britannica.com/search?query=Stewart+Island",
+    "note": "Stewart Island is an island of New Zealand in the Pacific, lying south of the South Island.",
+    "source": "Merriam-Webster, “Stewart Island”, https://www.merriam-webster.com/dictionary/Stewart%20Island",
     "status": "draft",
     "checker": null
   },
@@ -604,7 +596,7 @@
     "anchor": "The cutter did not investigate",
     "layer": "vocab",
     "note": "Cutter: a ship’s boat used for carrying people and stores.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cutter”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Cutters of a ship”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -613,6 +605,7 @@
     "anchor": "a boat-cloak",
     "layer": "vocab",
     "note": "Boat-cloak: a large warm cloak worn by naval officers in boats.",
+    "source": "Merriam-Webster, “boat cloak”, https://www.merriam-webster.com/dictionary/boat%20cloak",
     "status": "draft",
     "checker": null
   },
@@ -646,7 +639,7 @@
     "id": "ch14-073",
     "anchor": "a suit of white drill",
     "layer": "vocab",
-    "note": "Drill: a strong cotton cloth, used for tropical suits.",
+    "note": "Drill: a strong cotton fabric woven in a twill.",
     "source": "Merriam-Webster, “drill”, https://www.merriam-webster.com/dictionary/drill",
     "status": "draft",
     "checker": null
@@ -682,8 +675,8 @@
     "id": "ch14-077",
     "anchor": "a man in Auckland",
     "layer": "place",
-    "note": "Auckland, on New Zealand’s North Island, was then the colony’s largest town and its busiest port for trade.",
-    "source": "Encyclopaedia Britannica, “Auckland”, https://www.britannica.com/search?query=Auckland",
+    "note": "Auckland is a city and seaport on the east coast of New Zealand’s North Island, with one of the best harbours in the colony.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Auckland”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Auckland; Merriam-Webster, “Auckland”, https://www.merriam-webster.com/dictionary/Auckland",
     "status": "draft",
     "checker": null
   },
@@ -691,8 +684,8 @@
     "id": "ch14-078",
     "anchor": "Queensland sugar-planters",
     "layer": "history",
-    "note": "Sugar-cane plantations spread along the tropical coast of Queensland, in northeastern Australia, in the later 1800s and needed large amounts of fertilizer.",
-    "source": "Encyclopaedia Britannica, “Queensland”, https://www.britannica.com/search?query=Queensland",
+    "note": "Queensland, in northeastern Australia, was a British colony and is now an Australian state; sugar-growing became one of its chief industries.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Queensland”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Queensland; Merriam-Webster, “Queensland”, https://www.merriam-webster.com/dictionary/Queensland",
     "status": "draft",
     "checker": null
   },
@@ -700,8 +693,8 @@
     "id": "ch14-079",
     "anchor": "in Wellington",
     "layer": "place",
-    "note": "Wellington, at the southern tip of New Zealand’s North Island, became the colony’s capital in 1865.",
-    "source": "Encyclopaedia Britannica, “Wellington”, https://www.britannica.com/search?query=Wellington",
+    "note": "Wellington is a city and port on Cook Strait, at the southern end of New Zealand’s North Island.",
+    "source": "Merriam-Webster, “Wellington”, https://www.merriam-webster.com/dictionary/Wellington",
     "status": "draft",
     "checker": null
   },
@@ -727,8 +720,8 @@
     "id": "ch14-082",
     "anchor": "in Brisbane, where",
     "layer": "place",
-    "note": "Brisbane, on the Brisbane River near Australia’s east coast, is the capital and chief port of Queensland.",
-    "source": "Encyclopaedia Britannica, “Brisbane”, https://www.britannica.com/search?query=Brisbane",
+    "note": "Brisbane, on the Brisbane River 25 miles from the sea, became the capital of Queensland, in northeastern Australia, in 1859.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Brisbane”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brisbane; Merriam-Webster, “Brisbane”, https://www.merriam-webster.com/dictionary/Brisbane",
     "status": "draft",
     "checker": null
   },
@@ -763,7 +756,7 @@
     "id": "ch14-086",
     "anchor": "laughed the Ancient",
     "layer": "vocab",
-    "note": "The Ancient: Marlow’s mocking name for the very old Robinson.",
+    "note": "The Ancient: an aged person; Marlow’s mocking name for old Robinson.",
     "source": "Merriam-Webster, “ancient”, https://www.merriam-webster.com/dictionary/ancient",
     "status": "draft",
     "checker": null
@@ -826,8 +819,8 @@
     "id": "ch14-093",
     "anchor": "a man in Hobart",
     "layer": "place",
-    "note": "Hobart is the capital and chief port of Tasmania, the island state south of mainland Australia.",
-    "source": "Encyclopaedia Britannica, “Hobart”, https://www.britannica.com/search?query=Hobart",
+    "note": "Hobart is the capital of Tasmania, the island south of mainland Australia, and lies on the island’s southern coast.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hobart”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hobart",
     "status": "draft",
     "checker": null
   },
@@ -853,6 +846,7 @@
     "anchor": "fly round",
     "layer": "vocab",
     "note": "Fly round: hurry about busily.",
+    "source": "Merriam-Webster, “fly”, https://www.merriam-webster.com/dictionary/fly",
     "status": "draft",
     "checker": null
   },
@@ -870,7 +864,6 @@
     "anchor": "a good screw",
     "layer": "vocab",
     "note": "Screw: wages, pay (British slang).",
-    "source": "Merriam-Webster, “screw”, https://www.merriam-webster.com/dictionary/screw",
     "status": "draft",
     "checker": null
   },
@@ -984,8 +977,8 @@
     "id": "ch14-111",
     "anchor": "pair of Argonauts",
     "layer": "allusion",
-    "note": "In Greek myth the Argonauts were the heroes who sailed with Jason on the ship Argo to win the Golden Fleece; here, a mocking name for two treasure-seekers.",
-    "source": "Encyclopaedia Britannica, “Argonaut”, https://www.britannica.com/topic/Argonaut",
+    "note": "In Greek legend the Argonauts were the band of heroes who sailed with Jason on the ship Argo to fetch the golden fleece; here, a mocking name for two treasure-seekers.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Argonauts”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Argonauts; Merriam-Webster, “Argonaut”, https://www.merriam-webster.com/dictionary/Argonaut",
     "status": "draft",
     "checker": null
   },

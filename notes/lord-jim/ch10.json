@@ -39,8 +39,8 @@
     "id": "ch10-005",
     "anchor": "yellow gleam of the mast-head light",
     "layer": "vocab",
-    "note": "The white lamp hung high on a steamer’s foremast at night.",
-    "source": "Merriam-Webster, “masthead light”, https://www.merriam-webster.com/dictionary/masthead%20light",
+    "note": "Mast-head light: a lamp hung at the top of a mast, above the rigging, and shown at night.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Mast-head”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -173,7 +173,7 @@
     "id": "ch10-020",
     "anchor": "like a flat-iron",
     "layer": "vocab",
-    "note": "A flat-iron: a heavy solid iron for pressing clothes, heated on a stove.",
+    "note": "A flat-iron: a heavy iron, heated and used to press clothes.",
     "source": "Merriam-Webster, “flatiron”, https://www.merriam-webster.com/dictionary/flatiron",
     "status": "draft",
     "checker": null
@@ -226,7 +226,7 @@
     "id": "ch10-026",
     "anchor": "you lunatic",
     "layer": "vocab",
-    "note": "Lunatic: a madman (from the old belief that the moon caused madness).",
+    "note": "Lunatic: a madman; someone wildly out of his mind.",
     "source": "Merriam-Webster, “lunatic”, https://www.merriam-webster.com/dictionary/lunatic",
     "status": "draft",
     "checker": null
@@ -290,6 +290,7 @@
     "anchor": "firing you overboard",
     "layer": "vocab",
     "note": "Firing: throwing or hurling, like a missile.",
+    "source": "Merriam-Webster, “fire”, https://www.merriam-webster.com/dictionary/fire",
     "status": "draft",
     "checker": null
   },
@@ -370,6 +371,7 @@
     "anchor": "a low drinking-bout",
     "layer": "vocab",
     "note": "A drinking-bout: a spell of heavy drinking.",
+    "source": "Merriam-Webster, “bout”, https://www.merriam-webster.com/dictionary/bout",
     "status": "draft",
     "checker": null
   },
@@ -495,6 +497,7 @@
     "anchor": "an immensity lustreless and black",
     "layer": "vocab",
     "note": "Lustreless: dull, without any shine or light.",
+    "source": "Merriam-Webster, “lusterless”, https://www.merriam-webster.com/dictionary/lusterless",
     "status": "draft",
     "checker": null
   },
@@ -583,8 +586,8 @@
     "id": "ch10-066",
     "anchor": "all the Canal traffic",
     "layer": "history",
-    "note": "The Suez Canal, opened in 1869, links the Red Sea with the Mediterranean. Steamers between Europe and Asia ran up and down the Red Sea to use it, so boats adrift there were likely to be sighted.",
-    "source": "Encyclopaedia Britannica, “Suez Canal”, https://www.britannica.com/topic/Suez-Canal",
+    "note": "The Suez Canal, opened in 1869, links the Red Sea with the Mediterranean, so steamers between Europe and the East passed up and down the Red Sea, where boats adrift would likely be sighted.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Suez Canal”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Suez_Canal; Merriam-Webster, “Suez Canal”, https://www.merriam-webster.com/dictionary/Suez%20Canal",
     "status": "draft",
     "checker": null
   },
@@ -620,7 +623,7 @@
     "anchor": "from the water-breaker",
     "layer": "vocab",
     "note": "Water-breaker: a small cask holding drinking water in a boat.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Breaker”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Breakers”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -629,6 +632,7 @@
     "anchor": "done up",
     "layer": "vocab",
     "note": "Done up: completely worn out (British slang).",
+    "source": "Merriam-Webster, “done up”, https://www.merriam-webster.com/dictionary/done%20up",
     "status": "draft",
     "checker": null
   },
@@ -645,7 +649,7 @@
     "id": "ch10-073",
     "anchor": "I didn’t get brain fever",
     "layer": "vocab",
-    "note": "Brain fever: an old term for illness with high fever and delirium.",
+    "note": "Brain fever: an old name for inflammation of the brain, with high fever.",
     "status": "draft",
     "checker": null
   },

@@ -22,6 +22,7 @@
     "anchor": "the police court",
     "layer": "vocab",
     "note": "A magistrate’s court that hears minor cases; here, used for the inquiry.",
+    "source": "Merriam-Webster, “police court”, https://www.merriam-webster.com/dictionary/police%20court",
     "status": "draft",
     "checker": null
   },
@@ -30,6 +31,7 @@
     "anchor": "the witness-box",
     "layer": "vocab",
     "note": "The raised stand where a witness stands to give evidence in court.",
+    "source": "Merriam-Webster, “witness box”, https://www.merriam-webster.com/dictionary/witness%20box",
     "status": "draft",
     "checker": null
   },
@@ -101,7 +103,7 @@
     "anchor": "floating awash",
     "layer": "vocab",
     "note": "Awash: floating just at the surface, with water washing over it.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Awash”, https://www.gutenberg.org/ebooks/26000",
+    "source": "Merriam-Webster, “awash”, https://www.merriam-webster.com/dictionary/awash",
     "status": "draft",
     "checker": null
   },
@@ -128,6 +130,7 @@
     "anchor": "a thin horseshoe beard",
     "layer": "vocab",
     "note": "A beard shaped like a horseshoe, around the chin and up the cheeks.",
+    "source": "Merriam-Webster, “horseshoe”, https://www.merriam-webster.com/dictionary/horseshoe",
     "status": "draft",
     "checker": null
   },
@@ -145,6 +148,7 @@
     "anchor": "a blotting-pad",
     "layer": "vocab",
     "note": "A pad of soft paper for soaking up wet ink.",
+    "source": "Merriam-Webster, “blotting paper”, https://www.merriam-webster.com/dictionary/blotting%20paper",
     "status": "draft",
     "checker": null
   },
@@ -162,7 +166,7 @@
     "anchor": "the whole drift of its lanyard",
     "layer": "vocab",
     "note": "Lanyard: a short rope. The whole drift: its full length.",
-    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Lanyard”, https://www.gutenberg.org/ebooks/26000",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Laniard, or lanniers”, https://www.gutenberg.org/ebooks/26000",
     "status": "draft",
     "checker": null
   },
@@ -198,6 +202,7 @@
     "anchor": "separating the forepeak from the forehold",
     "layer": "vocab",
     "note": "The forehold is the cargo space in the front part of the ship.",
+    "source": "Merriam-Webster, “forehold”, https://www.merriam-webster.com/dictionary/forehold",
     "status": "draft",
     "checker": null
   },
@@ -241,6 +246,7 @@
     "anchor": "round the skylight",
     "layer": "vocab",
     "note": "A skylight is a glass-covered opening in the deck letting light below.",
+    "source": "Merriam-Webster, “skylight”, https://www.merriam-webster.com/dictionary/skylight",
     "status": "draft",
     "checker": null
   },
@@ -321,6 +327,7 @@
     "anchor": "stone-blind",
     "layer": "vocab",
     "note": "Completely blind, as blind as a stone.",
+    "source": "Merriam-Webster, “stone-blind”, https://www.merriam-webster.com/dictionary/stone-blind",
     "status": "draft",
     "checker": null
   },
@@ -410,6 +417,7 @@
     "anchor": "red-sashed",
     "layer": "vocab",
     "note": "Wearing a sash, a band of cloth around the waist.",
+    "source": "Merriam-Webster, “sash”, https://www.merriam-webster.com/dictionary/sash",
     "status": "draft",
     "checker": null
   },
@@ -418,6 +426,7 @@
     "anchor": "like so many retrievers",
     "layer": "vocab",
     "note": "Retrievers: hunting dogs trained to fetch, always alert.",
+    "source": "Merriam-Webster, “retriever”, https://www.merriam-webster.com/dictionary/retriever",
     "status": "draft",
     "checker": null
   },
@@ -480,6 +489,7 @@
     "anchor": "each cane-chair harboured",
     "layer": "vocab",
     "note": "Cane-chair: a chair woven of cane. Harboured: held, sheltered.",
+    "source": "Merriam-Webster, “cane”, https://www.merriam-webster.com/dictionary/cane",
     "status": "draft",
     "checker": null
   },

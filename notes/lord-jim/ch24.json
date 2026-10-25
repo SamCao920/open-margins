@@ -3,7 +3,7 @@
     "id": "ch24-001",
     "anchor": "cataracts of rust",
     "layer": "vocab",
-    "note": "Cataracts: large waterfalls; here, red streaks of iron-rich soil.",
+    "note": "Cataracts: large waterfalls; here, red trails pouring down the cliffs like falling water.",
     "source": "Merriam-Webster, “cataract”, https://www.merriam-webster.com/dictionary/cataract",
     "status": "draft",
     "checker": null
@@ -84,8 +84,8 @@
     "id": "ch24-010",
     "anchor": "He called him Tuan Jim",
     "layer": "vocab",
-    "note": "Tuan: a Malay title of respect meaning “lord” or “sir.”",
-    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “tuan”",
+    "note": "Tuan: a Malay title of respect meaning “master” or “lord,” given to Europeans.",
+    "source": "R. J. Wilkinson, A Malay-English Dictionary (1901), “tuwan”, https://archive.org/details/aeg2034.0001.001.umich.edu",
     "status": "draft",
     "checker": null
   },
@@ -183,7 +183,7 @@
     "id": "ch24-021",
     "anchor": "a block-tin case",
     "layer": "vocab",
-    "note": "Block-tin: pure tin, or tin-plated sheet metal.",
+    "note": "Block-tin: tin cast into blocks; here, a case made of tin.",
     "source": "Merriam-Webster, “block tin”, https://www.merriam-webster.com/dictionary/block%20tin",
     "status": "draft",
     "checker": null
@@ -247,6 +247,7 @@
     "anchor": "taking to their heels",
     "layer": "vocab",
     "note": "Taking to their heels: running away fast.",
+    "source": "Merriam-Webster, “take to one's heels”, https://www.merriam-webster.com/dictionary/take%20to%20one%27s%20heels",
     "status": "draft",
     "checker": null
   },
