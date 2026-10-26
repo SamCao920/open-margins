@@ -17,7 +17,8 @@ NEEDS_SOURCE = {"allusion", "history", "place"}
 
 def paragraphs(raw):
     paras = re.split(r"\n\s*\n", raw.replace("\r\n", "\n"))
-    return [re.sub(r"\s*\n\s*", " ", p).strip() for p in paras if p.strip()]
+    # Italics are marked _like this_; the reader strips the underscores.
+    return [re.sub(r"_([^_]+)_", r"\1", re.sub(r"\s*\n\s*", " ", p)).strip() for p in paras if p.strip()]
 
 
 def check(path):

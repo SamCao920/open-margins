@@ -127,7 +127,34 @@
       .filter(Boolean);
   }
 
-  function markParagraph(text, notes, used) {
+  // Project Gutenberg marks italics as _word_. Strip the underscores before
+  // matching anchors and remember the ranges, so they render as <em>.
+  function italics(raw) {
+    const ranges = [];
+    let text = '';
+    raw.split(/(_[^_]+_)/).forEach(part => {
+      if (/^_[^_]+_$/.test(part)) {
+        ranges.push([text.length, text.length + part.length - 2]);
+        text += part.slice(1, -1);
+      } else text += part;
+    });
+    return { text, ranges };
+  }
+
+  // Escape text[a, b), wrapping any italic ranges that overlap it.
+  function slice(text, ranges, a, b) {
+    let out = '', pos = a;
+    ranges.forEach(([s, e]) => {
+      if (e <= pos || s >= b) return;
+      const s2 = Math.max(s, pos), e2 = Math.min(e, b);
+      out += escapeHtml(text.slice(pos, s2)) + '<em>' + escapeHtml(text.slice(s2, e2)) + '</em>';
+      pos = e2;
+    });
+    return out + escapeHtml(text.slice(pos, b));
+  }
+
+  function markParagraph(raw, notes, used) {
+    const { text, ranges } = italics(raw);
     const hits = [];
     notes.forEach(n => {
       if (used.has(n.id)) return;
@@ -144,14 +171,14 @@
         console.warn('Overlapping anchor skipped:', h.note.id, h.note.anchor);
         return;
       }
-      out += escapeHtml(text.slice(pos, h.start));
+      out += slice(text, ranges, pos, h.start);
       out += '<span class="anchor" tabindex="0" role="button" data-id="' + h.note.id +
-        '" data-layer="' + h.note.layer + '">' + escapeHtml(text.slice(h.start, h.end)) + '</span>';
+        '" data-layer="' + h.note.layer + '">' + slice(text, ranges, h.start, h.end) + '</span>';
       pos = h.end;
       used.add(h.note.id);
       placed.push(h.note);
     });
-    out += escapeHtml(text.slice(pos));
+    out += slice(text, ranges, pos, text.length);
     return { html: out, placed };
   }
 
