@@ -20,7 +20,7 @@ OWN-WORLD: Wrapper buff field (#d6c69f family) owning the masthead and running h
 
 STORY: The reader opens a cover, finds the book in a contents page, reads a chapter whose margins answer questions on demand, and trusts the notes because each shows its source.
 
-FIRST VIEWPORT: Chapter page: buff running head across the top (OPEN MARGINS, book and chapter, layer marks, controls) over a thick-thin rule; centred CHAPTER I. in spaced capitals; the text column at about 70 to 90 characters with a two-line initial; reference marks in the gutters level with each annotated line.
+FIRST VIEWPORT: Chapter page: buff running head across the top (OPEN MARGINS, book and chapter, layer marks, controls) over a thick-thin rule; centred CHAPTER 1 in spaced capitals (Arabic numerals; Roman ones were hard for many readers); the text column at about 70 to 90 characters with a two-line initial; reference marks in the gutters level with each annotated line.
 
 FORM: Victorian magazine (Blackwood's) wrapper and contents grammar; candidate 3 of 7 on the ordered list; seed:5c70ab71c22cd543.
 

@@ -23,6 +23,10 @@
     <label><input type="checkbox" value="place"><span class="ref" aria-hidden="true">¶</span><span class="name">Place</span></label>
   </fieldset>
   <span class="bar-spacer"></span>
+  <details class="settings search-menu" id="search-menu">
+    <summary aria-label="Search the book">Search</summary>
+    <div class="settings-panel search-panel" id="search-panel"></div>
+  </details>
   <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
   <details class="settings">
     <summary aria-label="Reading settings">Aa</summary>
@@ -87,6 +91,7 @@
   <aside class="panel panel-right" id="panel-right" aria-label="Vocabulary notes"></aside>
   <div class="ticks ticks-right" id="ticks-right" aria-hidden="true"></div>
 </main>
+<script src="search.js?v=dev"></script>
 <script src="reader.js?v=dev"></script>
 </body>
 </html>

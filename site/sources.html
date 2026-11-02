@@ -60,7 +60,6 @@
   // Gathers every note's source at load time, so this page never drifts
   // from the note files.
   const books = [{ id: 'lord-jim', title: 'Lord Jim', chapters: 45 }];
-  const roman = n => { let s = ''; for (const [v, r] of [[40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']]) while (n >= v) { s += r; n -= v; } return s; };
   const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const linkify = s => esc(s).replace(/https?:\/\/[^\s;]+/g, u => '<a href="' + u + '">' + u.replace(/^https?:\/\/(www\.)?/, '') + '</a>');
 
@@ -100,7 +99,7 @@
     }
   }
 
-  const where = r => '<span class="where">' + esc(r.book) + ' ' + roman(r.ch) + '</span> <em>' + esc(r.n.anchor) + '</em>';
+  const where = r => '<span class="where">' + esc(r.book) + ', ch. ' + r.ch + '</span> <em>' + esc(r.n.anchor) + '</em>';
   const works = document.getElementById('works');
   works.innerHTML = groups.map((g, i) => {
     const rows = cited[i];

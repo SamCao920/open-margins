@@ -37,11 +37,9 @@
   const panels = { left: document.getElementById('panel-left'), right: document.getElementById('panel-right') };
   const ticks = { left: document.getElementById('ticks-left'), right: document.getElementById('ticks-right') };
 
-  const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV',
-    'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI', 'XXII', 'XXIII', 'XXIV', 'XXV', 'XXVI', 'XXVII', 'XXVIII', 'XXIX', 'XXX',
-    'XXXI', 'XXXII', 'XXXIII', 'XXXIV', 'XXXV', 'XXXVI', 'XXXVII', 'XXXVIII', 'XXXIX', 'XL', 'XLI', 'XLII', 'XLIII', 'XLIV', 'XLV'];
-  const chName = n => 'Chapter ' + (ROMAN[n - 1] || n);
-  document.getElementById('title').textContent = chName(ch) + '.';
+  // Arabic numerals: easier to read than the original Roman ones.
+  const chName = n => 'Chapter ' + n;
+  document.getElementById('title').textContent = chName(ch);
   document.getElementById('crumb-chapter').textContent = chName(ch);
   document.title = book.title + ', ' + chName(ch) + ' · Open Margins';
   const bookLink = document.getElementById('book-link');
@@ -120,41 +118,51 @@
 
   // Paragraphs are separated by blank lines; line breaks inside a paragraph
   // are just wrapping, so they become spaces. Anchors are matched against
-  // this normalized paragraph text.
+  // this normalized paragraph text. A paragraph whose every line is indented
+  // is a quotation set off from the narrative (verse, in Gutenberg's text):
+  // it keeps its line breaks and is set as an extract.
   function paragraphs(raw) {
     return raw.replace(/\r\n/g, '\n').split(/\n\s*\n/)
-      .map(p => p.replace(/\s*\n\s*/g, ' ').trim())
-      .filter(Boolean);
+      .filter(p => p.trim())
+      .map(p => {
+        const lines = p.split('\n').filter(l => l.trim());
+        const extract = lines.every(l => /^ {3,}\S/.test(l));
+        return { raw: lines.map(l => l.trim()).join(extract ? '\n' : ' '), extract };
+      });
   }
 
   // Project Gutenberg marks italics as _word_. Strip the underscores before
-  // matching anchors and remember the ranges, so they render as <em>.
+  // matching anchors and remember the ranges, so they render as <em>. Line
+  // breaks (kept only in extracts) become spaces for matching and <br> on output.
   function italics(raw) {
-    const ranges = [];
+    const ranges = [], breaks = [];
     let text = '';
     raw.split(/(_[^_]+_)/).forEach(part => {
-      if (/^_[^_]+_$/.test(part)) {
-        ranges.push([text.length, text.length + part.length - 2]);
-        text += part.slice(1, -1);
-      } else text += part;
+      const italic = /^_[^_]+_$/.test(part);
+      const body = italic ? part.slice(1, -1) : part;
+      const start = text.length;
+      for (const c of body) {
+        if (c === '\n') { breaks.push(text.length); text += ' '; } else text += c;
+      }
+      if (italic) ranges.push([start, text.length]);
     });
-    return { text, ranges };
+    return { text, ranges, breaks };
   }
 
-  // Escape text[a, b), wrapping any italic ranges that overlap it.
-  function slice(text, ranges, a, b) {
-    let out = '', pos = a;
-    ranges.forEach(([s, e]) => {
-      if (e <= pos || s >= b) return;
-      const s2 = Math.max(s, pos), e2 = Math.min(e, b);
-      out += escapeHtml(text.slice(pos, s2)) + '<em>' + escapeHtml(text.slice(s2, e2)) + '</em>';
-      pos = e2;
-    });
-    return out + escapeHtml(text.slice(pos, b));
+  // Escape text[a, b), wrapping italic ranges in <em> and setting line breaks.
+  function slice(t, a, b) {
+    let out = '', open = false;
+    for (let i = a; i < b; i++) {
+      const it = t.ranges.some(([s, e]) => s <= i && i < e);
+      if (it !== open) { out += it ? '<em>' : '</em>'; open = it; }
+      out += t.breaks.includes(i) ? '<br>' : escapeHtml(t.text[i]);
+    }
+    return open ? out + '</em>' : out;
   }
 
   function markParagraph(raw, notes, used) {
-    const { text, ranges } = italics(raw);
+    const t = italics(raw);
+    const text = t.text;
     const hits = [];
     notes.forEach(n => {
       if (used.has(n.id)) return;
@@ -171,14 +179,14 @@
         console.warn('Overlapping anchor skipped:', h.note.id, h.note.anchor);
         return;
       }
-      out += slice(text, ranges, pos, h.start);
+      out += slice(t, pos, h.start);
       out += '<span class="anchor" tabindex="0" role="button" data-id="' + h.note.id +
-        '" data-layer="' + h.note.layer + '">' + slice(text, ranges, h.start, h.end) + '</span>';
+        '" data-layer="' + h.note.layer + '">' + slice(t, h.start, h.end) + '</span>';
       pos = h.end;
       used.add(h.note.id);
       placed.push(h.note);
     });
-    out += slice(text, ranges, pos, text.length);
+    out += slice(t, pos, text.length);
     return { html: out, placed };
   }
 
@@ -190,9 +198,11 @@
     const used = new Set();
     textEl.innerHTML = '';
     ['left', 'right'].forEach(s => { panels[s].innerHTML = ''; ticks[s].innerHTML = ''; });
-    paragraphs(raw).forEach(t => {
+    paragraphs(raw).forEach((para, i) => {
       const p = document.createElement('p');
-      const r = markParagraph(t, notes, used);
+      p.id = 'p' + (i + 1);
+      if (para.extract) p.className = 'extract';
+      const r = markParagraph(para.raw, notes, used);
       p.innerHTML = r.html;
       textEl.appendChild(p);
       r.placed.forEach(n => {
@@ -580,5 +590,37 @@
     const notes = all.filter(n => (n.status === 'verified' || n.status === 'draft') && LAYERS.includes(n.layer));
     render(raw, notes);
     updateMeasure();
+    await showSearchHits();
   })();
+
+  // ----- Search -----
+  // The Search menu searches the whole book; a result link brings the reader
+  // here with ?q= and #pN, so mark the hits and bring that paragraph into view.
+  const searchMenu = document.getElementById('search-menu');
+  let searchUi = null;
+  if (searchMenu && window.OMSearch) {
+    searchMenu.addEventListener('toggle', () => {
+      if (!searchMenu.open) return;
+      if (!searchUi) searchUi = OMSearch.mount(document.getElementById('search-panel'),
+        { book: bookId, id: 'q-chapter', chapter: ch, initial: params.get('q') || '' });
+      searchUi.focus();
+    });
+    document.addEventListener('keydown', e => {
+      if (e.key === '/' && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); searchMenu.open = true; }
+      if (e.key === 'Escape' && searchMenu.open) searchMenu.open = false;
+    });
+  }
+
+  async function showSearchHits() {
+    const q = params.get('q');
+    if (!q || !window.OMSearch) return;
+    await OMSearch.highlight(textEl, bookId, q);
+    layout();
+    const target = location.hash && document.getElementById(location.hash.slice(1));
+    const first = (target && target.querySelector('mark.search-hit')) || target || textEl.querySelector('mark.search-hit');
+    if (first) {
+      first.scrollIntoView({ block: 'center' });
+      (first.closest('p') || first).classList.add('search-target');
+    }
+  }
 })();
