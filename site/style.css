@@ -457,6 +457,10 @@ a.cover:hover { transform: translateY(-3px); }
 @media (min-width: 701px) {
   #text p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 }
+/* A quotation set off from the narrative (e.g. Stein's lines of Goethe):
+   indented as a block, a size smaller, line breaks kept. */
+#text p.extract { margin: .7em 0 .7em 2.5em; text-indent: 0; text-align: left; font-size: .9em; line-height: 1.55; }
+@media (max-width: 600px) { #text p.extract { margin-left: 1.2em; } }
 #text .status { text-indent: 0; color: var(--muted); font-style: italic; }
 
 .anchor {
@@ -572,3 +576,30 @@ body.hide-place    :is(.note, .tick)[data-layer="place"] { display: none; }
 /* Long contents lists run in columns on wide screens. */
 #toc { columns: 3 11rem; column-gap: 2rem; }
 #toc li { break-inside: avoid; }
+
+/* ----- Search: the book page (inline) and a menu in the chapter bar ----- */
+.search-form { display: flex; gap: .5rem; align-items: stretch; }
+.search-form input {
+  flex: 1; min-width: 0; font: inherit; font-size: 1rem; color: var(--ink);
+  background: var(--ground); border: 1px solid var(--hair); border-radius: 0; padding: .35rem .55rem;
+}
+.search-form input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
+.search-form input:focus-visible { outline: 1px solid var(--ink); outline-offset: 1px; }
+.search-form .bar-button { font-size: .72rem; }
+.search-hint { margin: .45rem 0 .2rem; font-size: .82rem; font-style: italic; color: var(--muted); }
+.search-meta { margin: .8rem 0 .4rem; font-size: .85rem; color: var(--muted); }
+.search-list { list-style: none; margin: 0; padding: 0; }
+.search-list li { border-top: 1px solid var(--hair); }
+.search-list a { display: block; padding: .55rem 0; color: inherit; text-decoration: none; }
+.search-list a:hover .snip, .search-list a:focus-visible .snip { text-decoration: underline; text-decoration-color: var(--faint); }
+.search-list .where { display: block; font-size: .7rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-bottom: .15rem; }
+.search-list .here { letter-spacing: .04em; text-transform: none; font-style: italic; margin-left: .3rem; }
+.search-list .snip { display: block; font-size: .92rem; line-height: 1.45; }
+.search-list .note-hit .snip { font-style: italic; }
+.search-list mark, mark.search-hit { background: var(--mark); color: inherit; padding: 0 .05em; }
+.search-more { margin-top: .6rem; }
+.search-panel { width: 30rem; max-height: min(70vh, 40rem); overflow-y: auto; }
+#book-search { margin: 0 0 2.2rem; }
+#text p.search-target { animation: search-flash 2.4s ease-out; }
+@keyframes search-flash { from { background: var(--mark); } to { background: transparent; } }
+@media (prefers-reduced-motion: reduce) { #text p.search-target { animation: none; } }
