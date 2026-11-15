@@ -381,6 +381,8 @@ a.cover:hover { transform: translateY(-3px); }
 /* Home library: cover beside its contents line */
 .library .book { display: flex; align-items: center; gap: 1.2rem; }
 .library .book + .book { margin-top: 1.4rem; }
+.library .book-line { font-size: .94rem; gap: .5rem; }
+.library .book-line .book-name { letter-spacing: .05em; }
 .library .book .cover { font-size: 8.5px; }
 .library .book-text { flex: 1; min-width: 0; }
 

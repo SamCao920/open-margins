@@ -72,7 +72,7 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 
 ## Status
 
-*Heart of Darkness*: 313 draft notes (Part I 142, Part II 73, Part III 98), none verified by a person yet.
+*Heart of Darkness*: 605 draft notes (Part I 306, Part II 161, Part III 138), none verified by a person yet.
 
 *Lord Jim*:
 

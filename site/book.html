@@ -34,13 +34,22 @@
   <h2 class="sr-only">Search</h2>
   <div id="book-search"></div>
 
-  <figure class="plate book-frontispiece" id="frontispiece" hidden>
+  <figure class="plate book-frontispiece" id="frontispiece-lord-jim" hidden>
     <div class="plate-mount">
       <img src="art/temeraire-900.jpg" srcset="art/temeraire-900.jpg 900w, art/temeraire-1800.jpg 1800w"
            sizes="(max-width: 700px) 90vw, 36rem" width="900" height="669" loading="lazy"
            alt="At sunset an old wooden warship, pale and ghostly, is towed up a calm river by a small dark steam tug with a tall smoking funnel.">
     </div>
     <figcaption><span class="plate-no">Frontispiece.</span> J. M. W. Turner, <em>The Fighting Temeraire</em>, 1839. National Gallery, London; public domain.</figcaption>
+  </figure>
+
+  <figure class="plate book-frontispiece" id="frontispiece-heart-of-darkness" hidden>
+    <div class="plate-mount">
+      <img src="art/charon-900.jpg" srcset="art/charon-900.jpg 900w, art/charon-1800.jpg 1800w"
+           sizes="(max-width: 700px) 90vw, 36rem" width="900" height="737" loading="lazy"
+           alt="A crowd of naked, huddled figures is driven onto a boat by a man with a raised oar, to cross a dark river beneath black cliffs.">
+    </div>
+    <figcaption><span class="plate-no">Frontispiece.</span> Gustave Doré, <em>Charon Herds the Sinners onto His Boat</em>, illustration for Dante’s <em>Inferno</em>, Canto III, 1861 (engraving). Public domain.</figcaption>
   </figure>
 
   <h2 id="contents-head">Contents</h2>
@@ -63,7 +72,7 @@
   document.getElementById('book-title').textContent = b.title;
   document.getElementById('book-by').innerHTML = b.sub + ' \u00b7 by <em>' + b.author + '</em> \u00b7 ' + b.year;
   document.getElementById('book-blurb').textContent = b.blurb;
-  if (bookId === 'lord-jim') document.getElementById('frontispiece').hidden = false;
+  document.getElementById('frontispiece-' + bookId).hidden = false;
   document.getElementById('type-pointer').innerHTML = 'Want to learn Conrad\u2019s diction by hand? <a href="type.html?book=' + bookId + '&amp;ch=1">Type through the book</a>, a ' + unit + ' at a time; each ' + unit + ' has a <em>Type</em> button.';
   document.getElementById('book-foot').innerHTML = 'Text: Project Gutenberg eBook #' + b.gutenberg + ', public domain.' +
     (bookId === 'lord-jim' ? ' The Author\u2019s Note (1917) is not included in the reader.' : '') +
