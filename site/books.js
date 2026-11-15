@@ -11,5 +11,11 @@ window.OMBOOKS = {
     unit: 'Part', cloth: '#4b2e24', gutenberg: 219,
     blurb: 'On a yacht in the Thames, a sailor tells of his river journey into Africa in search of a famous ivory agent.',
     meta: 'The complete novella, in three parts'
+  },
+  'ivan-ilyich': {
+    title: 'The Death of Ivan Ilyich', coverTitle: 'The Death of<br>Ivan Ilyich', sub: 'A Novella', author: 'Leo Tolstoy', year: 1886, chapters: 12,
+    unit: 'Chapter', cloth: '#2f3a52', gutenberg: 79990, translator: 'Constance Garnett',
+    blurb: 'A Russian judge\u2019s colleagues read of his death in the newspaper, and the story goes back to show how he lived.',
+    meta: 'The complete novella, in twelve chapters'
   }
 };
