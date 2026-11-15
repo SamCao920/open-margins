@@ -370,6 +370,7 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
   font-weight: 700; font-size: 1.45em; line-height: 1.1;
   letter-spacing: .14em; margin-right: -.14em; text-transform: uppercase;
 }
+.cover-title.xlong { font-size: .86em; letter-spacing: .05em; margin-right: -.05em; line-height: 1.35; }
 .cover-title.long { font-size: 1.05em; letter-spacing: .08em; margin-right: -.08em; line-height: 1.25; }
 .cover-rule { width: 3.2em; margin: .9em 0 .7em; border-top: .2em double var(--gilt); }
 .cover-sub { font-size: .62em; letter-spacing: .24em; text-transform: uppercase; }
@@ -381,8 +382,8 @@ a.cover:hover { transform: translateY(-3px); }
 /* Home library: cover beside its contents line */
 .library .book { display: flex; align-items: center; gap: 1.2rem; }
 .library .book + .book { margin-top: 1.4rem; }
-.library .book-line { font-size: .94rem; gap: .5rem; }
-.library .book-line .book-name { letter-spacing: .05em; }
+.library .book-line { font-size: .9rem; gap: .5rem; }
+.library .book-line .book-name { letter-spacing: .04em; }
 .library .book .cover { font-size: 8.5px; }
 .library .book-text { flex: 1; min-width: 0; }
 

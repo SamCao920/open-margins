@@ -52,6 +52,14 @@
     <figcaption><span class="plate-no">Frontispiece.</span> Gustave Doré, <em>Charon Herds the Sinners onto His Boat</em>, illustration for Dante’s <em>Inferno</em>, Canto III, 1861 (engraving). Public domain.</figcaption>
   </figure>
 
+  <figure class="plate book-frontispiece" id="frontispiece-ivan-ilyich" hidden>
+    <div class="plate-mount" style="max-width: 24rem; margin-left: auto; margin-right: auto;">
+      <img src="art/kramskoi-620.jpg" width="620" height="1022" loading="lazy"
+           alt="A widow in a long black dress stands in a dim drawing-room, pressing a handkerchief to her mouth, beside a coffin heaped with flowers.">
+    </div>
+    <figcaption><span class="plate-no">Frontispiece.</span> Ivan Kramskoi, <em>Inconsolable Grief</em>, 1884. Public domain.</figcaption>
+  </figure>
+
   <h2 id="contents-head">Contents</h2>
   <ol class="contents" id="toc"></ol>
   <p class="type-pointer" id="type-pointer"></p>
@@ -68,7 +76,7 @@
   document.getElementById('crumb-book').textContent = b.title;
   const cover = document.getElementById('cover');
   cover.style.setProperty('--cloth', b.cloth);
-  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.title.length > 10 ? ' long' : '') + '">' + (b.coverTitle || b.title.replace(/ of /, ' of<br>')) + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
+  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.title.length > 20 ? ' xlong' : b.title.length > 10 ? ' long' : '') + '">' + (b.coverTitle || b.title.replace(/ of /, ' of<br>')) + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
   document.getElementById('book-title').textContent = b.title;
   document.getElementById('book-by').innerHTML = b.sub + ' \u00b7 by <em>' + b.author + '</em> \u00b7 ' + b.year;
   document.getElementById('book-blurb').textContent = b.blurb;

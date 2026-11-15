@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ch10-001",
+    "anchor": "a loneliness in the middle of a populous town",
+    "layer": "vocab",
+    "note": "Populous: crowded with people, full of inhabitants.",
+    "source": "Merriam-Webster, “populous”, https://www.merriam-webster.com/dictionary/populous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-002",
+    "anchor": "the stewed prunes",
+    "layer": "vocab",
+    "note": "Prunes: dried plums. Stewed prunes are boiled until soft, a common dessert.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Prune”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Prune",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-003",
+    "anchor": "the damp, wrinkled French plum",
+    "layer": "vocab",
+    "note": "Plum: a juicy, stone-bearing fruit. A French plum is one dried to make prunes.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Plum”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Plum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-004",
+    "anchor": "the creases in the morocco",
+    "layer": "vocab",
+    "note": "Morocco: a fine, soft leather made from goatskin, used to cover furniture and books.",
+    "source": "Merriam-Webster, “morocco”, https://www.merriam-webster.com/dictionary/morocco",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-005",
+    "anchor": "tore father’s portfolio",
+    "layer": "vocab",
+    "note": "Portfolio: a flat case for carrying papers.",
+    "source": "Merriam-Webster, “portfolio”, https://www.merriam-webster.com/dictionary/portfolio",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-006",
+    "anchor": "chain of associations",
+    "layer": "vocab",
+    "note": "Associations: links between ideas, where one thought calls up another.",
+    "source": "Merriam-Webster, “association”, https://www.merriam-webster.com/dictionary/association",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-007",
+    "anchor": "In inverse ratio to the square of the distance from death",
+    "layer": "allusion",
+    "note": "This echoes Newton’s law of gravitation: the pull between two bodies grows as the inverse square of the distance between them.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Gravitation”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gravitation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-008",
+    "anchor": "increasing velocity",
+    "layer": "vocab",
+    "note": "Velocity: speed in a given direction, here the quickening fall of a stone.",
+    "source": "Merriam-Webster, “velocity”, https://www.merriam-webster.com/dictionary/velocity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-009",
+    "anchor": "that fearful fall and shock and dissolution",
+    "layer": "vocab",
+    "note": "Dissolution: the breaking up of a thing into its parts, death.",
+    "source": "Merriam-Webster, “dissolution”, https://www.merriam-webster.com/dictionary/dissolution",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-010",
+    "anchor": "that can’t be alleged",
+    "layer": "vocab",
+    "note": "Alleged: stated as a fact, but without proof.",
+    "source": "Merriam-Webster, “allege”, https://www.merriam-webster.com/dictionary/allege",
+    "status": "draft",
+    "checker": null
+  }
+]

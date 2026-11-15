@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ch5-001",
+    "anchor": "his brother-in-law arrived in the town",
+    "layer": "vocab",
+    "note": "Brother-in-law: here, the brother of one’s wife.",
+    "source": "Merriam-Webster, “brother-in-law”, https://www.merriam-webster.com/dictionary/brother-in-law",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-002",
+    "anchor": "a healthy, florid man",
+    "layer": "vocab",
+    "note": "Florid: having a healthy, reddish color in the face.",
+    "source": "Merriam-Webster, “florid”, https://www.merriam-webster.com/dictionary/florid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-003",
+    "anchor": "obstinate silence",
+    "layer": "vocab",
+    "note": "Obstinate: stubborn, not giving way.",
+    "source": "Merriam-Webster, “obstinate”, https://www.merriam-webster.com/dictionary/obstinate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-004",
+    "anchor": "fell to musing",
+    "layer": "vocab",
+    "note": "Musing: thinking quietly and deeply.",
+    "source": "Merriam-Webster, “musing”, https://www.merriam-webster.com/dictionary/musing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-005",
+    "anchor": "with a peculiarly melancholy",
+    "layer": "vocab",
+    "note": "Melancholy: sad and gloomy, full of low spirits.",
+    "source": "Merriam-Webster, “melancholy”, https://www.merriam-webster.com/dictionary/melancholy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-006",
+    "anchor": "Reviewing the anatomical and physiological details",
+    "layer": "vocab",
+    "note": "Anatomical: about the body’s structure. Physiological: about how the body works.",
+    "source": "Merriam-Webster, “anatomical”, https://www.merriam-webster.com/dictionary/anatomical; Merriam-Webster, “physiological”, https://www.merriam-webster.com/dictionary/physiological",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-007",
+    "anchor": "Only strengthen one sluggish organ",
+    "layer": "vocab",
+    "note": "Sluggish: slow and not working with energy.",
+    "source": "Merriam-Webster, “sluggish”, https://www.merriam-webster.com/dictionary/sluggish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-008",
+    "anchor": "absorption would take place",
+    "layer": "vocab",
+    "note": "Absorption: the taking in of a substance by the body’s tissues.",
+    "source": "Merriam-Webster, “absorption”, https://www.merriam-webster.com/dictionary/absorption",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-009",
+    "anchor": "took up a novel of Zola",
+    "layer": "allusion",
+    "note": "Émile Zola (1840–1902) was a French novelist, known for his realistic books about everyday social life.",
+    "source": "Merriam-Webster, “Zola”, https://www.merriam-webster.com/dictionary/Zola",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-010",
+    "anchor": "the desired recovery",
+    "layer": "vocab",
+    "note": "Recovery: a return to health.",
+    "source": "Merriam-Webster, “recovery”, https://www.merriam-webster.com/dictionary/recovery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-011",
+    "anchor": "rejection, re-establishment of the regular action",
+    "layer": "vocab",
+    "note": "Re-establishment: the return of something to its normal state.",
+    "source": "Merriam-Webster, “reestablishment”, https://www.merriam-webster.com/dictionary/reestablishment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-012",
+    "anchor": "injurious influences",
+    "layer": "vocab",
+    "note": "Injurious: causing harm or damage to health.",
+    "source": "Merriam-Webster, “injurious”, https://www.merriam-webster.com/dictionary/injurious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-013",
+    "anchor": "persistent, quiet, in earnest",
+    "layer": "vocab",
+    "note": "Persistent: refusing to stop, lasting.",
+    "source": "Merriam-Webster, “persistent”, https://www.merriam-webster.com/dictionary/persistent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-014",
+    "anchor": "fumbling with trembling hands",
+    "layer": "vocab",
+    "note": "Fumbling: handling something clumsily, searching with awkward hands.",
+    "source": "Merriam-Webster, “fumble”, https://www.merriam-webster.com/dictionary/fumble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-015",
+    "anchor": "the candlestick",
+    "layer": "vocab",
+    "note": "Candlestick: a holder for a candle.",
+    "source": "Merriam-Webster, “candlestick”, https://www.merriam-webster.com/dictionary/candlestick",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-016",
+    "anchor": "the far away cadence of a voice",
+    "layer": "vocab",
+    "note": "Cadence: the rise and fall of a voice or of music.",
+    "source": "Merriam-Webster, “cadence”, https://www.merriam-webster.com/dictionary/cadence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-017",
+    "anchor": "agonisingly, insufferably miserable",
+    "layer": "vocab",
+    "note": "Insufferably: so badly that it cannot be borne.",
+    "source": "Merriam-Webster, “insufferably”, https://www.merriam-webster.com/dictionary/insufferably",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-018",
+    "anchor": "have been doomed to this awful horror",
+    "layer": "vocab",
+    "note": "Doomed: fated to a bad end.",
+    "source": "Merriam-Webster, “doomed”, https://www.merriam-webster.com/dictionary/doomed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-019",
+    "anchor": "closer and closer to the abyss",
+    "layer": "vocab",
+    "note": "Abyss: a deep, bottomless pit.",
+    "source": "Merriam-Webster, “abyss”, https://www.merriam-webster.com/dictionary/abyss",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-020",
+    "anchor": "He smiled malignantly",
+    "layer": "vocab",
+    "note": "Malignantly: with a wish to do harm, in a spiteful way.",
+    "source": "Merriam-Webster, “malignantly”, https://www.merriam-webster.com/dictionary/malignantly",
+    "status": "draft",
+    "checker": null
+  }
+]

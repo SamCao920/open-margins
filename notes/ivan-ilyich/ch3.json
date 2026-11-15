@@ -1,0 +1,447 @@
+[
+  {
+    "id": "ch3-001",
+    "anchor": "presiding judge in a university town",
+    "layer": "vocab",
+    "note": "Presiding judge: the judge who leads a court or panel of judges.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-002",
+    "anchor": "stole a march on him",
+    "layer": "vocab",
+    "note": "Stole a march on him: gained an advantage over him by acting first and in secret.",
+    "source": "Merriam-Webster, “steal a march on”, https://www.merriam-webster.com/dictionary/steal%20a%20march%20on",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-003",
+    "anchor": "Ivan Ilyitch took offence",
+    "layer": "vocab",
+    "note": "Took offence: felt insulted and hurt.",
+    "source": "Merriam-Webster, “take offense”, https://www.merriam-webster.com/dictionary/take%20offense",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-004",
+    "anchor": "began upbraiding him",
+    "layer": "vocab",
+    "note": "Upbraiding: scolding someone sharply for a fault.",
+    "source": "Merriam-Webster, “upbraid”, https://www.merriam-webster.com/dictionary/upbraid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-005",
+    "anchor": "A coolness was felt towards him",
+    "layer": "vocab",
+    "note": "Coolness: a cold, unfriendly manner.",
+    "source": "Merriam-Webster, “coolness”, https://www.merriam-webster.com/dictionary/coolness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-006",
+    "anchor": "he was again passed over",
+    "layer": "vocab",
+    "note": "Passed over: ignored when a promotion was given.",
+    "source": "Merriam-Webster, “pass over”, https://www.merriam-webster.com/dictionary/pass%20over",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-007",
+    "anchor": "the most monstrous, the cruelest injustice",
+    "layer": "vocab",
+    "note": "Monstrous: shockingly wrong or cruel.",
+    "source": "Merriam-Webster, “monstrous”, https://www.merriam-webster.com/dictionary/monstrous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-008",
+    "anchor": "the everlasting nagging of his wife",
+    "layer": "vocab",
+    "note": "Nagging: scolding and complaining again and again.",
+    "source": "Merriam-Webster, “nagging”, https://www.merriam-webster.com/dictionary/nagging",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-009",
+    "anchor": "walking up and down the terrace",
+    "layer": "vocab",
+    "note": "Terrace: a raised, flat, open area beside a house.",
+    "source": "Merriam-Webster, “terrace”, https://www.merriam-webster.com/dictionary/terrace",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-010",
+    "anchor": "to dissuade him",
+    "layer": "vocab",
+    "note": "Dissuade: to talk someone out of doing something.",
+    "source": "Merriam-Webster, “dissuade”, https://www.merriam-webster.com/dictionary/dissuade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-011",
+    "anchor": "the executive department",
+    "layer": "vocab",
+    "note": "Executive: the branch of government that carries out the laws.",
+    "source": "Merriam-Webster, “executive”, https://www.merriam-webster.com/dictionary/executive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-012",
+    "anchor": "the Empress Marya’s institutions",
+    "layer": "history",
+    "note": "The Institutions of the Empress Marie were charities and schools, founded by an empress. They were partly paid for by taxes such as the duty on playing-cards.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Russia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Russia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-013",
+    "anchor": "the customs duties",
+    "layer": "vocab",
+    "note": "Customs duties: taxes charged on goods brought into the country.",
+    "source": "Merriam-Webster, “customs”, https://www.merriam-webster.com/dictionary/customs",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-014",
+    "anchor": "At Kursk there got into the same",
+    "layer": "place",
+    "note": "Kursk is a city in central Russia, on the railway between Moscow and the south.",
+    "source": "Merriam-Webster, “Kursk”, https://www.merriam-webster.com/dictionary/Kursk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-015",
+    "anchor": "a telegram just received",
+    "layer": "vocab",
+    "note": "Telegram: a message sent by telegraph wire and printed out at the other end.",
+    "source": "Merriam-Webster, “telegram”, https://www.merriam-webster.com/dictionary/telegram",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-016",
+    "anchor": "a change about to take place in the ministry",
+    "layer": "vocab",
+    "note": "Ministry: a department of the government.",
+    "source": "Merriam-Webster, “ministry”, https://www.merriam-webster.com/dictionary/ministry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-017",
+    "anchor": "was to be superseded",
+    "layer": "vocab",
+    "note": "Superseded: pushed aside and replaced by another person.",
+    "source": "Merriam-Webster, “supersede”, https://www.merriam-webster.com/dictionary/supersede",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-018",
+    "anchor": "in the highest degree propitious",
+    "layer": "vocab",
+    "note": "Propitious: favorable, giving signs of success.",
+    "source": "Merriam-Webster, “propitious”, https://www.merriam-webster.com/dictionary/propitious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-019",
+    "anchor": "his former department—that of justice",
+    "layer": "vocab",
+    "note": "Department: a branch of government, here the ministry of justice.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-020",
+    "anchor": "peace was patched up between them",
+    "layer": "vocab",
+    "note": "Patched up: settled quickly, but not very firmly.",
+    "source": "Merriam-Webster, “patch up”, https://www.merriam-webster.com/dictionary/patch%20up",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-021",
+    "anchor": "cringing now before him",
+    "layer": "vocab",
+    "note": "Cringing: bowing and acting fearful, in order to please.",
+    "source": "Merriam-Webster, “cringe”, https://www.merriam-webster.com/dictionary/cringe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-022",
+    "anchor": "this disturbing hitch in its progress",
+    "layer": "vocab",
+    "note": "Hitch: a small problem that holds things up.",
+    "source": "Merriam-Webster, “hitch”, https://www.merriam-webster.com/dictionary/hitch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-023",
+    "anchor": "extremely cordial and intimate",
+    "layer": "vocab",
+    "note": "Cordial: warm, friendly, and polite toward someone.",
+    "source": "Merriam-Webster, “cordial”, https://www.merriam-webster.com/dictionary/cordial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-024",
+    "anchor": "a charming set of apartments",
+    "layer": "vocab",
+    "note": "Apartments: a set of rooms to live in, a flat.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-025",
+    "anchor": "antique furniture",
+    "layer": "vocab",
+    "note": "Antique: very old and valuable, from an earlier age.",
+    "source": "Merriam-Webster, “antique”, https://www.merriam-webster.com/dictionary/antique",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-026",
+    "anchor": "a peculiar comme-il-faut style",
+    "layer": "vocab",
+    "note": "Comme-il-faut: proper, as good society expects.",
+    "source": "Merriam-Webster, “comme il faut”, https://www.merriam-webster.com/dictionary/comme%20il%20faut",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-027",
+    "anchor": "free from vulgarity",
+    "layer": "vocab",
+    "note": "Vulgarity: crudeness, lack of good taste.",
+    "source": "Merriam-Webster, “vulgarity”, https://www.merriam-webster.com/dictionary/vulgarity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-028",
+    "anchor": "the hearth, the screen",
+    "layer": "vocab",
+    "note": "Hearth: the floor of a fireplace and the area in front of it.",
+    "source": "Merriam-Webster, “hearth”, https://www.merriam-webster.com/dictionary/hearth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-029",
+    "anchor": "the étagère",
+    "layer": "vocab",
+    "note": "Étagère: a stand with open shelves for small ornaments.",
+    "source": "Merriam-Webster, “étagère”, https://www.merriam-webster.com/dictionary/%C3%A9tag%C3%A8re",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-030",
+    "anchor": "the bronzes",
+    "layer": "vocab",
+    "note": "Bronzes: statues and ornaments made of bronze metal.",
+    "source": "Merriam-Webster, “bronze”, https://www.merriam-webster.com/dictionary/bronze",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-031",
+    "anchor": "purposely disparaged everything",
+    "layer": "vocab",
+    "note": "Disparaged: spoke of as small and worthless.",
+    "source": "Merriam-Webster, “disparage”, https://www.merriam-webster.com/dictionary/disparage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-032",
+    "anchor": "sort of cornices to have",
+    "layer": "vocab",
+    "note": "Cornices: decorative strips along the top of a wall or window.",
+    "source": "Merriam-Webster, “cornice”, https://www.merriam-webster.com/dictionary/cornice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-033",
+    "anchor": "straight or fluted",
+    "layer": "vocab",
+    "note": "Fluted: marked with long, rounded grooves.",
+    "source": "Merriam-Webster, “fluted”, https://www.merriam-webster.com/dictionary/fluted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-034",
+    "anchor": "some hangings draped",
+    "layer": "vocab",
+    "note": "Hangings: curtains and cloth hung on walls or windows.",
+    "source": "Merriam-Webster, “hanging”, https://www.merriam-webster.com/dictionary/hanging",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-035",
+    "anchor": "like a strong and nimble person",
+    "layer": "vocab",
+    "note": "Nimble: quick and light in movement.",
+    "source": "Merriam-Webster, “nimble”, https://www.merriam-webster.com/dictionary/nimble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-036",
+    "anchor": "a footman in a white tie",
+    "layer": "vocab",
+    "note": "Footman: a male servant who opens the door, serves at table, and runs errands.",
+    "source": "Merriam-Webster, “footman”, https://www.merriam-webster.com/dictionary/footman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-037",
+    "anchor": "frightened the upholsterer",
+    "layer": "vocab",
+    "note": "Upholsterer: a worker who pads and covers chairs and sofas.",
+    "source": "Merriam-Webster, “upholsterer”, https://www.merriam-webster.com/dictionary/upholsterer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-038",
+    "anchor": "the string of a window blind",
+    "layer": "vocab",
+    "note": "Window blind: a screen of cloth or slats that rolls up over a window.",
+    "source": "Merriam-Webster, “blind”, https://www.merriam-webster.com/dictionary/blind",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-039",
+    "anchor": "the functionary on duty",
+    "layer": "vocab",
+    "note": "Functionary: a person who performs official duties for the state.",
+    "source": "Merriam-Webster, “functionary”, https://www.merriam-webster.com/dictionary/functionary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-040",
+    "anchor": "observe the semblance of human friendly relations",
+    "layer": "vocab",
+    "note": "Semblance: an outward appearance, not the real thing.",
+    "source": "Merriam-Webster, “semblance”, https://www.merriam-webster.com/dictionary/semblance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-041",
+    "anchor": "natural aptitude",
+    "layer": "vocab",
+    "note": "Aptitude: a natural talent for doing something.",
+    "source": "Merriam-Webster, “aptitude”, https://www.merriam-webster.com/dictionary/aptitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-042",
+    "anchor": "sorted depositions",
+    "layer": "vocab",
+    "note": "Depositions: sworn statements by witnesses, written down for use in court.",
+    "source": "Merriam-Webster, “deposition”, https://www.merriam-webster.com/dictionary/deposition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-043",
+    "anchor": "tarts and sweetmeats",
+    "layer": "vocab",
+    "note": "Sweetmeats: candies and sweet cakes.",
+    "source": "Merriam-Webster, “sweetmeat”, https://www.merriam-webster.com/dictionary/sweetmeat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-044",
+    "anchor": "an expensive pastry-cook",
+    "layer": "vocab",
+    "note": "Pastry-cook: a baker who makes pies, cakes, and sweets.",
+    "source": "Merriam-Webster, “pastry cook”, https://www.merriam-webster.com/dictionary/pastry%20cook",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-045",
+    "anchor": "the pleasure of playing ‘screw,’",
+    "layer": "vocab",
+    "note": "‘Screw’: a card game for four players, which the translator calls the Russian equivalent of poker.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-046",
+    "anchor": "with good players, and not noisy partners",
+    "layer": "vocab",
+    "note": "Partners: players who team up against another pair.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-047",
+    "anchor": "swooped down upon them",
+    "layer": "vocab",
+    "note": "Swooped: dropped suddenly, like a bird of prey.",
+    "source": "Merriam-Webster, “swoop”, https://www.merriam-webster.com/dictionary/swoop",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-048",
+    "anchor": "pressed their civilities on them",
+    "layer": "vocab",
+    "note": "Civilities: polite acts and words.",
+    "source": "Merriam-Webster, “civility”, https://www.merriam-webster.com/dictionary/civility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-049",
+    "anchor": "a sledge drive",
+    "layer": "vocab",
+    "note": "Sledge: a vehicle on runners, pulled by horses over snow, in Britain called a sleigh.",
+    "source": "Merriam-Webster, “sledge”, https://www.merriam-webster.com/dictionary/sledge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-050",
+    "anchor": "to get up some theatricals",
+    "layer": "vocab",
+    "note": "Theatricals: amateur stage plays put on at home.",
+    "source": "Merriam-Webster, “theatricals”, https://www.merriam-webster.com/dictionary/theatricals",
+    "status": "draft",
+    "checker": null
+  }
+]

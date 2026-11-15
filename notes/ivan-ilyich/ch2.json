@@ -1,0 +1,679 @@
+[
+  {
+    "id": "ch2-001",
+    "anchor": "career in Petersburg",
+    "layer": "place",
+    "note": "St Petersburg was the capital of the Russian empire, on the Neva River near the Gulf of Finland. Most government ministries were there.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “St Petersburg”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/St_Petersburg",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-002",
+    "anchor": "through various ministries and departments",
+    "layer": "vocab",
+    "note": "Ministries: the large departments of an imperial government, each led by a minister.",
+    "source": "Merriam-Webster, “ministry”, https://www.merriam-webster.com/dictionary/ministry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-003",
+    "anchor": "owing to their long past service and their official rank",
+    "layer": "vocab",
+    "note": "Rank: a person’s grade or level in the civil service.",
+    "source": "Merriam-Webster, “rank”, https://www.merriam-webster.com/dictionary/rank",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-004",
+    "anchor": "a specially created fictitious post",
+    "layer": "vocab",
+    "note": "Fictitious: not real. The post exists on paper only, to pay the man a salary.",
+    "source": "Merriam-Webster, “fictitious”, https://www.merriam-webster.com/dictionary/fictitious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-005",
+    "anchor": "the privy councillor",
+    "layer": "vocab",
+    "note": "Privy councillor: a high civil rank in Russia, held by senior officials who advised the state.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-006",
+    "anchor": "the superfluous member of various superfluous institutions",
+    "layer": "vocab",
+    "note": "Superfluous: more than is needed, unnecessary.",
+    "source": "Merriam-Webster, “superfluous”, https://www.merriam-webster.com/dictionary/superfluous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-007",
+    "anchor": "the same sinecure",
+    "layer": "vocab",
+    "note": "Sinecure: a paid job that requires little or no work.",
+    "source": "Merriam-Webster, “sinecure”, https://www.merriam-webster.com/dictionary/sinecure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-008",
+    "anchor": "Petersburg official of the same stamp",
+    "layer": "vocab",
+    "note": "Stamp: kind or type, as in “men of that stamp.”",
+    "source": "Merriam-Webster, “stamp”, https://www.merriam-webster.com/dictionary/stamp",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-009",
+    "anchor": "le phénix de la famille",
+    "layer": "vocab",
+    "note": "French: “the phoenix of the family.” The phoenix is a rare, legendary bird, so he is the family’s pride.",
+    "source": "Merriam-Webster, “phoenix”, https://www.merriam-webster.com/dictionary/phoenix",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-010",
+    "anchor": "so frigid and precise",
+    "layer": "vocab",
+    "note": "Frigid: cold and stiff in manner.",
+    "source": "Merriam-Webster, “frigid”, https://www.merriam-webster.com/dictionary/frigid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-011",
+    "anchor": "a shrewd, lively, pleasant, and well-bred man",
+    "layer": "vocab",
+    "note": "Shrewd: sharp and clever in practical matters.",
+    "source": "Merriam-Webster, “shrewd”, https://www.merriam-webster.com/dictionary/shrewd",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-012",
+    "anchor": "was expelled when in the fifth class",
+    "layer": "vocab",
+    "note": "Expelled: forced to leave a school for bad conduct.",
+    "source": "Merriam-Webster, “expel”, https://www.merriam-webster.com/dictionary/expel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-013",
+    "anchor": "He was not a toady",
+    "layer": "vocab",
+    "note": "Toady: a person who flatters the powerful to gain favor.",
+    "source": "Merriam-Webster, “toady”, https://www.merriam-webster.com/dictionary/toady",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-014",
+    "anchor": "assimilated their manners",
+    "layer": "vocab",
+    "note": "Assimilated: took in and made part of oneself.",
+    "source": "Merriam-Webster, “assimilate”, https://www.merriam-webster.com/dictionary/assimilate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-015",
+    "anchor": "he gave way to sensuality",
+    "layer": "vocab",
+    "note": "Sensuality: devotion to bodily pleasures.",
+    "source": "Merriam-Webster, “sensuality”, https://www.merriam-webster.com/dictionary/sensuality",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-016",
+    "anchor": "unfailingly marked out for him by his instincts",
+    "layer": "vocab",
+    "note": "Instincts: natural inner feelings that guide behavior.",
+    "source": "Merriam-Webster, “instinct”, https://www.merriam-webster.com/dictionary/instinct",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-017",
+    "anchor": "great vileness",
+    "layer": "vocab",
+    "note": "Vileness: moral baseness, deep wickedness or shamefulness.",
+    "source": "Merriam-Webster, “vileness”, https://www.merriam-webster.com/dictionary/vileness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-018",
+    "anchor": "never mortified by recollections of them",
+    "layer": "vocab",
+    "note": "Mortified: deeply shamed and embarrassed.",
+    "source": "Merriam-Webster, “mortify”, https://www.merriam-webster.com/dictionary/mortify",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-019",
+    "anchor": "a medallion inscribed",
+    "layer": "vocab",
+    "note": "Medallion: a large medal or a flat ornament worn on a chain.",
+    "source": "Merriam-Webster, “medallion”, https://www.merriam-webster.com/dictionary/medallion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-020",
+    "anchor": "respice finem",
+    "layer": "vocab",
+    "note": "Latin: “look to the end,” a motto warning people to think how things will turn out.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-021",
+    "anchor": "the principal of his school",
+    "layer": "vocab",
+    "note": "Principal: the head of a school.",
+    "source": "Merriam-Webster, “principal”, https://www.merriam-webster.com/dictionary/principal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-022",
+    "anchor": "shaving and toilet appurtenances",
+    "layer": "vocab",
+    "note": "Appurtenances: extra equipment that goes with something.",
+    "source": "Merriam-Webster, “appurtenance”, https://www.merriam-webster.com/dictionary/appurtenance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-023",
+    "anchor": "the governor of a province",
+    "layer": "vocab",
+    "note": "Governor: the head of a province of the empire, appointed by the emperor.",
+    "source": "Merriam-Webster, “governor”, https://www.merriam-webster.com/dictionary/governor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-024",
+    "anchor": "his superiors and his inferiors",
+    "layer": "vocab",
+    "note": "Inferiors: people of lower rank.",
+    "source": "Merriam-Webster, “inferior”, https://www.merriam-webster.com/dictionary/inferior",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-025",
+    "anchor": "with exactitude and an incorruptible honesty",
+    "layer": "vocab",
+    "note": "Exactitude: strict accuracy and care.",
+    "source": "Merriam-Webster, “exactitude”, https://www.merriam-webster.com/dictionary/exactitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-026",
+    "anchor": "having to do with the dissenters",
+    "layer": "history",
+    "note": "The dissenters were the Raskolniki, Russians who had split from the Orthodox Church. The state and the church treated these sects harshly.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Russia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Russia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-027",
+    "anchor": "taste for frivolous amusements",
+    "layer": "vocab",
+    "note": "Frivolous: silly and not serious, concerned with trifles.",
+    "source": "Merriam-Webster, “frivolous”, https://www.merriam-webster.com/dictionary/frivolous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-028",
+    "anchor": "bon enfant",
+    "layer": "vocab",
+    "note": "French: “good child,” meaning good-natured and easy to get along with.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-029",
+    "anchor": "ladies who obtruded their charms",
+    "layer": "vocab",
+    "note": "Obtruded: pushed forward without being asked.",
+    "source": "Merriam-Webster, “obtrude”, https://www.merriam-webster.com/dictionary/obtrude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-030",
+    "anchor": "a dressmaker, too",
+    "layer": "vocab",
+    "note": "Dressmaker: a woman who makes clothes for women.",
+    "source": "Merriam-Webster, “dressmaker”, https://www.merriam-webster.com/dictionary/dressmaker",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-031",
+    "anchor": "drinking bouts",
+    "layer": "vocab",
+    "note": "Bouts: short periods of heavy activity, such as drinking.",
+    "source": "Merriam-Webster, “bout”, https://www.merriam-webster.com/dictionary/bout",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-032",
+    "anchor": "a rather cringing obsequiousness",
+    "layer": "vocab",
+    "note": "Obsequiousness: fawning, too-eager obedience to powerful people.",
+    "source": "Merriam-Webster, “obsequiousness”, https://www.merriam-webster.com/dictionary/obsequiousness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-033",
+    "anchor": "the highest breeding",
+    "layer": "vocab",
+    "note": "Breeding: good manners that come from a refined upbringing.",
+    "source": "Merriam-Webster, “breeding”, https://www.merriam-webster.com/dictionary/breeding",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-034",
+    "anchor": "under the rubric of",
+    "layer": "vocab",
+    "note": "Rubric: a heading or category under which something is classified.",
+    "source": "Merriam-Webster, “rubric”, https://www.merriam-webster.com/dictionary/rubric",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-035",
+    "anchor": "Il faut que la jeunesse se passe",
+    "layer": "vocab",
+    "note": "French: “youth must have its fling.” It is a saying used to excuse the wild behavior of the young.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-036",
+    "anchor": "New methods of judicial procedure",
+    "layer": "history",
+    "note": "The judicial reform of 1864 separated courts from administration, made trials public, and created juries. It needed new men trained in the new law.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Russia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Russia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-037",
+    "anchor": "a silver cigarette-case",
+    "layer": "vocab",
+    "note": "Cigarette-case: a flat case for carrying cigarettes.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-038",
+    "anchor": "as comme il faut",
+    "layer": "vocab",
+    "note": "French: “as it should be,” meaning proper and correct in society.",
+    "source": "Merriam-Webster, “comme il faut”, https://www.merriam-webster.com/dictionary/comme%20il%20faut",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-039",
+    "anchor": "as adroit in keeping",
+    "layer": "vocab",
+    "note": "Adroit: skillful, clever at handling things.",
+    "source": "Merriam-Webster, “adroit”, https://www.merriam-webster.com/dictionary/adroit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-040",
+    "anchor": "the crowd of petitioners",
+    "layer": "vocab",
+    "note": "Petitioners: people who ask an authority for something.",
+    "source": "Merriam-Webster, “petitioner”, https://www.merriam-webster.com/dictionary/petitioner",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-041",
+    "anchor": "waiting timorously",
+    "layer": "vocab",
+    "note": "Timorously: in a fearful, timid way.",
+    "source": "Merriam-Webster, “timorously”, https://www.merriam-webster.com/dictionary/timorously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-042",
+    "anchor": "with his easy swagger",
+    "layer": "vocab",
+    "note": "Swagger: a proud, confident way of walking.",
+    "source": "Merriam-Webster, “swagger”, https://www.merriam-webster.com/dictionary/swagger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-043",
+    "anchor": "the district police superintendents",
+    "layer": "vocab",
+    "note": "Superintendents: officials in charge of a department or district.",
+    "source": "Merriam-Webster, “superintendent”, https://www.merriam-webster.com/dictionary/superintendent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-044",
+    "anchor": "treating such persons affably",
+    "layer": "vocab",
+    "note": "Affably: in a friendly, easy way.",
+    "source": "Merriam-Webster, “affably”, https://www.merriam-webster.com/dictionary/affably",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-045",
+    "anchor": "able to annihilate them",
+    "layer": "vocab",
+    "note": "Annihilate: to destroy completely, to wipe out.",
+    "source": "Merriam-Webster, “annihilate”, https://www.merriam-webster.com/dictionary/annihilate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-046",
+    "anchor": "in the capacity of a defendant or a witness",
+    "layer": "vocab",
+    "note": "Defendant: the person accused in a court case.",
+    "source": "Merriam-Webster, “defendant”, https://www.merriam-webster.com/dictionary/defendant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-047",
+    "anchor": "the preliminary inquiries",
+    "layer": "vocab",
+    "note": "Preliminary: coming before the main part, as an early investigation.",
+    "source": "Merriam-Webster, “preliminary”, https://www.merriam-webster.com/dictionary/preliminary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-048",
+    "anchor": "irrelevant to the official aspect of the case",
+    "layer": "vocab",
+    "note": "Irrelevant: having nothing to do with the matter at hand.",
+    "source": "Merriam-Webster, “irrelevant”, https://www.merriam-webster.com/dictionary/irrelevant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-049",
+    "anchor": "of paramount importance",
+    "layer": "vocab",
+    "note": "Paramount: more important than anything else.",
+    "source": "Merriam-Webster, “paramount”, https://www.merriam-webster.com/dictionary/paramount",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-050",
+    "anchor": "somewhat dignified aloofness",
+    "layer": "vocab",
+    "note": "Aloofness: a cool distance from other people.",
+    "source": "Merriam-Webster, “aloofness”, https://www.merriam-webster.com/dictionary/aloofness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-051",
+    "anchor": "wealthy gentry",
+    "layer": "vocab",
+    "note": "Gentry: people of good birth and social standing, just below the nobles.",
+    "source": "Merriam-Webster, “gentry”, https://www.merriam-webster.com/dictionary/gentry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-052",
+    "anchor": "moderate liberalism",
+    "layer": "vocab",
+    "note": "Liberalism: a political outlook that favors reform and personal freedom.",
+    "source": "Merriam-Webster, “liberalism”, https://www.merriam-webster.com/dictionary/liberalism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-053",
+    "anchor": "the society which took the line of opposition",
+    "layer": "vocab",
+    "note": "Opposition: resistance to those in power.",
+    "source": "Merriam-Webster, “opposition”, https://www.merriam-webster.com/dictionary/opposition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-054",
+    "anchor": "a faculty for playing cards",
+    "layer": "vocab",
+    "note": "Faculty: a natural ability or knack.",
+    "source": "Merriam-Webster, “faculty”, https://www.merriam-webster.com/dictionary/faculty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-055",
+    "anchor": "Among other amusements and recreations",
+    "layer": "vocab",
+    "note": "Recreations: pleasant ways of spending free time.",
+    "source": "Merriam-Webster, “recreation”, https://www.merriam-webster.com/dictionary/recreation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-056",
+    "anchor": "a light, playful flirtation",
+    "layer": "vocab",
+    "note": "Flirtation: playful behavior that suggests romantic interest.",
+    "source": "Merriam-Webster, “flirtation”, https://www.merriam-webster.com/dictionary/flirtation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-057",
+    "anchor": "the conjugal caresses",
+    "layer": "vocab",
+    "note": "Conjugal: having to do with marriage.",
+    "source": "Merriam-Webster, “conjugal”, https://www.merriam-webster.com/dictionary/conjugal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-058",
+    "anchor": "the new crockery",
+    "layer": "vocab",
+    "note": "Crockery: dishes and pots made of baked clay.",
+    "source": "Merriam-Webster, “crockery”, https://www.merriam-webster.com/dictionary/crockery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-059",
+    "anchor": "the new house linen",
+    "layer": "vocab",
+    "note": "House linen: sheets, tablecloths, and towels used in a household.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-060",
+    "anchor": "early months of his wife’s pregnancy",
+    "layer": "vocab",
+    "note": "Pregnancy: the period when a woman carries an unborn child.",
+    "source": "Merriam-Webster, “pregnancy”, https://www.merriam-webster.com/dictionary/pregnancy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-061",
+    "anchor": "unexpected, unpleasant, tiresome and unseemly",
+    "layer": "vocab",
+    "note": "Unseemly: improper, not fitting for the occasion.",
+    "source": "Merriam-Webster, “unseemly”, https://www.merriam-webster.com/dictionary/unseemly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-062",
+    "anchor": "de gaité de cœur",
+    "layer": "vocab",
+    "note": "French: “from lightness of heart,” meaning for no good reason, out of mere whim.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-063",
+    "anchor": "agreeableness and decorum",
+    "layer": "vocab",
+    "note": "Decorum: correct, polite behavior that society expects.",
+    "source": "Merriam-Webster, “decorum”, https://www.merriam-webster.com/dictionary/decorum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-064",
+    "anchor": "to be jealous, exacting in her demands",
+    "layer": "vocab",
+    "note": "Exacting: demanding a great deal.",
+    "source": "Merriam-Webster, “exacting”, https://www.merriam-webster.com/dictionary/exacting",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-065",
+    "anchor": "squabbled over everything",
+    "layer": "vocab",
+    "note": "Squabbled: argued over small matters.",
+    "source": "Merriam-Webster, “squabble”, https://www.merriam-webster.com/dictionary/squabble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-066",
+    "anchor": "the coarsest and most unpleasant scenes",
+    "layer": "vocab",
+    "note": "Coarsest: roughest and crudest in manner.",
+    "source": "Merriam-Webster, “coarse”, https://www.merriam-webster.com/dictionary/coarse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-067",
+    "anchor": "that matrimony, at least",
+    "layer": "vocab",
+    "note": "Matrimony: marriage, the state of being husband and wife.",
+    "source": "Merriam-Webster, “matrimony”, https://www.merriam-webster.com/dictionary/matrimony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-068",
+    "anchor": "not invariably conducive",
+    "layer": "vocab",
+    "note": "Conducive: tending to bring something about.",
+    "source": "Merriam-Webster, “conducive”, https://www.merriam-webster.com/dictionary/conducive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-069",
+    "anchor": "the pleasures and proprieties of life",
+    "layer": "vocab",
+    "note": "Proprieties: the rules of correct behavior.",
+    "source": "Merriam-Webster, “propriety”, https://www.merriam-webster.com/dictionary/propriety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-070",
+    "anchor": "antagonism and querulousness",
+    "layer": "vocab",
+    "note": "Querulousness: a habit of complaining.",
+    "source": "Merriam-Webster, “querulous”, https://www.merriam-webster.com/dictionary/querulous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-071",
+    "anchor": "he found solace",
+    "layer": "vocab",
+    "note": "Solace: comfort in time of sorrow or trouble.",
+    "source": "Merriam-Webster, “solace”, https://www.merriam-webster.com/dictionary/solace",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-072",
+    "anchor": "assistant public prosecutor",
+    "layer": "vocab",
+    "note": "Assistant public prosecutor: the junior government lawyer who brings criminal cases to court.",
+    "source": "Merriam-Webster, “prosecutor”, https://www.merriam-webster.com/dictionary/prosecutor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-073",
+    "anchor": "concealed hostility",
+    "layer": "vocab",
+    "note": "Hostility: open or hidden enmity.",
+    "source": "Merriam-Webster, “hostility”, https://www.merriam-webster.com/dictionary/hostility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-074",
+    "anchor": "secure his tranquillity",
+    "layer": "vocab",
+    "note": "Tranquillity: peace and calm, freedom from disturbance.",
+    "source": "Merriam-Webster, “tranquillity”, https://www.merriam-webster.com/dictionary/tranquillity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-075",
+    "anchor": "his masterly handling of cases",
+    "layer": "vocab",
+    "note": "Masterly: showing great skill, like that of a master.",
+    "source": "Merriam-Webster, “masterly”, https://www.merriam-webster.com/dictionary/masterly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-076",
+    "anchor": "a subject of dissension",
+    "layer": "vocab",
+    "note": "Dissension: disagreement that leads to quarrels.",
+    "source": "Merriam-Webster, “dissension”, https://www.merriam-webster.com/dictionary/dissension",
+    "status": "draft",
+    "checker": null
+  }
+]

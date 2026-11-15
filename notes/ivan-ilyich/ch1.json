@@ -1,0 +1,575 @@
+[
+  {
+    "id": "ch1-001",
+    "anchor": "the great building of the Law Courts",
+    "layer": "history",
+    "note": "Russia’s courts were rebuilt by the judicial reform of 1864, on partly English and partly French models, with independent judges, public trials, and juries.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Russia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Russia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-002",
+    "anchor": "members of the judicial council",
+    "layer": "vocab",
+    "note": "Judicial: having to do with courts and judges.",
+    "source": "Merriam-Webster, “judicial”, https://www.merriam-webster.com/dictionary/judicial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-003",
+    "anchor": "the public prosecutor",
+    "layer": "vocab",
+    "note": "Public prosecutor: the government’s lawyer, who brings criminal charges in court.",
+    "source": "Merriam-Webster, “prosecutor”, https://www.merriam-webster.com/dictionary/prosecutor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-004",
+    "anchor": "in the jurisdiction of the court",
+    "layer": "vocab",
+    "note": "Jurisdiction: the legal power of a court to hear a certain kind of case.",
+    "source": "Merriam-Webster, “jurisdiction”, https://www.merriam-webster.com/dictionary/jurisdiction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-005",
+    "anchor": "with heartfelt affliction",
+    "layer": "vocab",
+    "note": "Affliction: deep sorrow or distress.",
+    "source": "Merriam-Webster, “affliction”, https://www.merriam-webster.com/dictionary/affliction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-006",
+    "anchor": "the decease of",
+    "layer": "vocab",
+    "note": "Decease: death. A formal word used in notices.",
+    "source": "Merriam-Webster, “decease”, https://www.merriam-webster.com/dictionary/decease",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-007",
+    "anchor": "said to be incurable",
+    "layer": "vocab",
+    "note": "Incurable: that cannot be cured or healed.",
+    "source": "Merriam-Webster, “incurable”, https://www.merriam-webster.com/dictionary/incurable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-008",
+    "anchor": "eight hundred roubles",
+    "layer": "vocab",
+    "note": "Rouble: the basic Russian unit of money, worth one hundred kopecks.",
+    "source": "Merriam-Webster, “ruble”, https://www.merriam-webster.com/dictionary/ruble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-009",
+    "anchor": "to petition for my brother-in-law",
+    "layer": "vocab",
+    "note": "Petition: to make a formal written request to someone in authority.",
+    "source": "Merriam-Webster, “petition”, https://www.merriam-webster.com/dictionary/petition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-010",
+    "anchor": "transferred from Kaluga",
+    "layer": "place",
+    "note": "Kaluga is a city in west central Russia, on the Oka River, west-northwest of Tula. It lies far from the capital, which is why the transfer matters.",
+    "source": "Merriam-Webster, “Kaluga”, https://www.merriam-webster.com/dictionary/Kaluga",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-011",
+    "anchor": "likely to ensue from this death",
+    "layer": "vocab",
+    "note": "Ensue: to follow as a result.",
+    "source": "Merriam-Webster, “ensue”, https://www.merriam-webster.com/dictionary/ensue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-012",
+    "anchor": "the exceedingly tiresome social duties",
+    "layer": "vocab",
+    "note": "Exceedingly: to an unusually high degree.",
+    "source": "Merriam-Webster, “exceedingly”, https://www.merriam-webster.com/dictionary/exceedingly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-013",
+    "anchor": "a visit of condolence",
+    "layer": "vocab",
+    "note": "Condolence: an expression of sympathy to someone who is grieving.",
+    "source": "Merriam-Webster, “condolence”, https://www.merriam-webster.com/dictionary/condolence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-014",
+    "anchor": "at the school of jurisprudence",
+    "layer": "vocab",
+    "note": "Jurisprudence: the science and philosophy of law. A school of jurisprudence trained young men for legal careers.",
+    "source": "Merriam-Webster, “jurisprudence”, https://www.merriam-webster.com/dictionary/jurisprudence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-015",
+    "anchor": "into their circuit",
+    "layer": "vocab",
+    "note": "Circuit: a district through which judges travel to hold court.",
+    "source": "Merriam-Webster, “circuit”, https://www.merriam-webster.com/dictionary/circuit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-016",
+    "anchor": "put on his frockcoat",
+    "layer": "vocab",
+    "note": "Frockcoat: a man’s long, close-fitting formal coat, reaching the knees.",
+    "source": "Merriam-Webster, “frock coat”, https://www.merriam-webster.com/dictionary/frock%20coat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-017",
+    "anchor": "two hired flies",
+    "layer": "vocab",
+    "note": "Flies: light, hired, horse-drawn carriages, a kind of cab.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-018",
+    "anchor": "hatstand",
+    "layer": "vocab",
+    "note": "Hatstand: a stand with pegs for hanging hats and coats.",
+    "source": "Merriam-Webster, “hatstand”, https://www.merriam-webster.com/dictionary/hatstand",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-019",
+    "anchor": "tassels and braiding",
+    "layer": "vocab",
+    "note": "Braiding: a trimming of woven cord or ribbon.",
+    "source": "Merriam-Webster, “braiding”, https://www.merriam-webster.com/dictionary/braiding",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-020",
+    "anchor": "freshly rubbed up with pipeclay",
+    "layer": "vocab",
+    "note": "Pipeclay: a fine, white clay used to whiten and polish things.",
+    "source": "Merriam-Webster, “pipe clay”, https://www.merriam-webster.com/dictionary/pipe%20clay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-021",
+    "anchor": "a special piquancy",
+    "layer": "vocab",
+    "note": "Piquancy: a sharp, lively interest that stirs the mind.",
+    "source": "Merriam-Webster, “piquancy”, https://www.merriam-webster.com/dictionary/piquancy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-022",
+    "anchor": "in uncertainty as to what he would have to do there",
+    "layer": "vocab",
+    "note": "Uncertainty: not knowing what to do or what is expected.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-023",
+    "anchor": "that crossing oneself never comes amiss",
+    "layer": "vocab",
+    "note": "Amiss: wrong, out of place.",
+    "source": "Merriam-Webster, “amiss”, https://www.merriam-webster.com/dictionary/amiss",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-024",
+    "anchor": "A deacon in a frockcoat",
+    "layer": "vocab",
+    "note": "Deacon: a church officer who ranks below a priest and helps with the services.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Deacon”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Deacon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-025",
+    "anchor": "an expression that precluded all possibility of contradiction",
+    "layer": "vocab",
+    "note": "Precluded: made impossible ahead of time.",
+    "source": "Merriam-Webster, “preclude”, https://www.merriam-webster.com/dictionary/preclude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-026",
+    "anchor": "the duties of a sicknurse",
+    "layer": "vocab",
+    "note": "Sicknurse: a person who cares for someone who is ill.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-027",
+    "anchor": "in a direction intermediate between",
+    "layer": "vocab",
+    "note": "Intermediate: lying between two things.",
+    "source": "Merriam-Webster, “intermediate”, https://www.merriam-webster.com/dictionary/intermediate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-028",
+    "anchor": "to scrutinise the dead man",
+    "layer": "vocab",
+    "note": "Scrutinise: to look at very closely and carefully.",
+    "source": "Merriam-Webster, “scrutinize”, https://www.merriam-webster.com/dictionary/scrutinize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-029",
+    "anchor": "his yellow waxen forehead",
+    "layer": "vocab",
+    "note": "Waxen: pale and smooth like wax.",
+    "source": "Merriam-Webster, “waxen”, https://www.merriam-webster.com/dictionary/waxen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-030",
+    "anchor": "a reproach or a reminder for the living",
+    "layer": "vocab",
+    "note": "Reproach: blame or disapproval, a look of criticism.",
+    "source": "Merriam-Webster, “reproach”, https://www.merriam-webster.com/dictionary/reproach",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-031",
+    "anchor": "not quite in accordance with the proprieties",
+    "layer": "vocab",
+    "note": "Proprieties: the rules of polite, correct behavior.",
+    "source": "Merriam-Webster, “propriety”, https://www.merriam-webster.com/dictionary/propriety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-032",
+    "anchor": "playing with his top hat",
+    "layer": "vocab",
+    "note": "Top hat: a man’s tall, flat-topped silk hat, worn with formal clothes.",
+    "source": "Merriam-Webster, “top hat”, https://www.merriam-webster.com/dictionary/top%20hat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-033",
+    "anchor": "A single glance at the playful, sleek",
+    "layer": "vocab",
+    "note": "Sleek: smooth, polished, and well groomed.",
+    "source": "Merriam-Webster, “sleek”, https://www.merriam-webster.com/dictionary/sleek",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-034",
+    "anchor": "cannot possibly constitute a sufficient ground",
+    "layer": "vocab",
+    "note": "Constitute: to make up, to amount to.",
+    "source": "Merriam-Webster, “constitute”, https://www.merriam-webster.com/dictionary/constitute",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-035",
+    "anchor": "an indefinite bow",
+    "layer": "vocab",
+    "note": "Indefinite: not clear or fixed, vague.",
+    "source": "Merriam-Webster, “indefinite”, https://www.merriam-webster.com/dictionary/indefinite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-036",
+    "anchor": "upholstered with pink cretonne",
+    "layer": "vocab",
+    "note": "Cretonne: a strong, printed cotton cloth, used for curtains and chair covers.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Cretonne”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cretonne",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-037",
+    "anchor": "a low ottoman",
+    "layer": "vocab",
+    "note": "Ottoman: a low, cushioned seat or footstool with no back or arms.",
+    "source": "Merriam-Webster, “ottoman”, https://www.merriam-webster.com/dictionary/ottoman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-038",
+    "anchor": "deranged springs",
+    "layer": "vocab",
+    "note": "Deranged: thrown out of order, not working right.",
+    "source": "Merriam-Webster, “deranged”, https://www.merriam-webster.com/dictionary/deranged",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-039",
+    "anchor": "yielded spasmodically",
+    "layer": "vocab",
+    "note": "Spasmodically: in sudden jerks and starts.",
+    "source": "Merriam-Webster, “spasmodically”, https://www.merriam-webster.com/dictionary/spasmodically",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-040",
+    "anchor": "her black fichu",
+    "layer": "vocab",
+    "note": "Fichu: a light triangular scarf worn over a woman’s shoulders.",
+    "source": "Merriam-Webster, “fichu”, https://www.merriam-webster.com/dictionary/fichu",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-041",
+    "anchor": "to disentangle it for her",
+    "layer": "vocab",
+    "note": "Disentangle: to free from a tangle.",
+    "source": "Merriam-Webster, “disentangle”, https://www.merriam-webster.com/dictionary/disentangle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-042",
+    "anchor": "the mutinous ottoman springs",
+    "layer": "vocab",
+    "note": "Mutinous: rebelling against control. Here, jokingly, the springs refuse to behave.",
+    "source": "Merriam-Webster, “mutinous”, https://www.merriam-webster.com/dictionary/mutinous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-043",
+    "anchor": "a clean cambric handkerchief",
+    "layer": "vocab",
+    "note": "Cambric: a fine, thin white linen cloth.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Cambric”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cambric",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-044",
+    "anchor": "his unhesitating conviction",
+    "layer": "vocab",
+    "note": "Conviction: a firm belief that one is sure about.",
+    "source": "Merriam-Webster, “conviction”, https://www.merriam-webster.com/dictionary/conviction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-045",
+    "anchor": "magnanimous",
+    "layer": "vocab",
+    "note": "Magnanimous: generous and noble in spirit.",
+    "source": "Merriam-Webster, “magnanimous”, https://www.merriam-webster.com/dictionary/magnanimous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-046",
+    "anchor": "her very circumstantial inquiries",
+    "layer": "vocab",
+    "note": "Circumstantial: full of details, covering every small point.",
+    "source": "Merriam-Webster, “circumstantial”, https://www.merriam-webster.com/dictionary/circumstantial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-047",
+    "anchor": "about the choristers",
+    "layer": "vocab",
+    "note": "Choristers: singers in a church choir.",
+    "source": "Merriam-Webster, “chorister”, https://www.merriam-webster.com/dictionary/chorister",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-048",
+    "anchor": "moving on one side the albums",
+    "layer": "vocab",
+    "note": "Albums: books with blank pages for photographs, or collections of pictures.",
+    "source": "Merriam-Webster, “album”, https://www.merriam-webster.com/dictionary/album",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-049",
+    "anchor": "a partner at whist",
+    "layer": "vocab",
+    "note": "Whist: a card game played by four players in two pairs of partners.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Whist”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Whist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-050",
+    "anchor": "the unpleasant consciousness of his own and this woman’s hypocrisy",
+    "layer": "vocab",
+    "note": "Hypocrisy: pretending to feel something one does not.",
+    "source": "Merriam-Webster, “hypocrisy”, https://www.merriam-webster.com/dictionary/hypocrisy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-051",
+    "anchor": "as though death were a mischance",
+    "layer": "vocab",
+    "note": "Mischance: a piece of bad luck.",
+    "source": "Merriam-Webster, “mischance”, https://www.merriam-webster.com/dictionary/mischance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-052",
+    "anchor": "not at all incidental to himself",
+    "layer": "vocab",
+    "note": "Incidental: happening by chance, as a minor event.",
+    "source": "Merriam-Webster, “incidental”, https://www.merriam-webster.com/dictionary/incidental",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-053",
+    "anchor": "out of politeness abusing the government for its stinginess",
+    "layer": "vocab",
+    "note": "Stinginess: unwillingness to spend or give.",
+    "source": "Merriam-Webster, “stinginess”, https://www.merriam-webster.com/dictionary/stinginess",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-054",
+    "anchor": "the bric-à-brac clock",
+    "layer": "vocab",
+    "note": "Bric-à-brac: small decorative objects, such as ornaments and trinkets, used to dress up a room.",
+    "source": "Merriam-Webster, “bric-a-brac”, https://www.merriam-webster.com/dictionary/bric-a-brac",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-055",
+    "anchor": "almost wrathful expression",
+    "layer": "vocab",
+    "note": "Wrathful: full of anger, ready to lash out.",
+    "source": "Merriam-Webster, “wrathful”, https://www.merriam-webster.com/dictionary/wrathful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-056",
+    "anchor": "an examining magistrate",
+    "layer": "vocab",
+    "note": "Examining magistrate: an official who investigates a crime and gathers evidence before a trial.",
+    "source": "Merriam-Webster, “magistrate”, https://www.merriam-webster.com/dictionary/magistrate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-057",
+    "anchor": "the young lady’s fiancé",
+    "layer": "vocab",
+    "note": "Fiancé: a man engaged to be married.",
+    "source": "Merriam-Webster, “fiancé”, https://www.merriam-webster.com/dictionary/fianc%C3%A9",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-058",
+    "anchor": "He bowed dejectedly",
+    "layer": "vocab",
+    "note": "Dejectedly: in a sad, low-spirited way.",
+    "source": "Merriam-Webster, “dejectedly”, https://www.merriam-webster.com/dictionary/dejectedly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-059",
+    "anchor": "scowled morosely and bashfully",
+    "layer": "vocab",
+    "note": "Morosely: in a sullen, gloomy way. Bashfully: shyly.",
+    "source": "Merriam-Webster, “morosely”, https://www.merriam-webster.com/dictionary/morosely",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-060",
+    "anchor": "tossed over with his strong hand all the fur cloaks",
+    "layer": "vocab",
+    "note": "Cloaks: long, loose outer garments without sleeves.",
+    "source": "Merriam-Webster, “cloak”, https://www.merriam-webster.com/dictionary/cloak",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-061",
+    "anchor": "as though bethinking himself of what he had to do next",
+    "layer": "vocab",
+    "note": "Bethinking himself: reminding himself, recalling.",
+    "source": "Merriam-Webster, “bethink”, https://www.merriam-webster.com/dictionary/bethink",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-062",
+    "anchor": "the smell of incense",
+    "layer": "vocab",
+    "note": "Incense: a substance burned to give off a sweet smell, used in church services.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Incense”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Incense",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-063",
+    "anchor": "carbolic acid",
+    "layer": "vocab",
+    "note": "Carbolic acid: phenol, a strong-smelling, poisonous chemical used as an antiseptic.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Carbolic Acid”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Carbolic_Acid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-064",
+    "anchor": "just finishing the first rubber",
+    "layer": "vocab",
+    "note": "Rubber: a set of games in cards, such as whist, won by the first side to win two.",
+    "source": "Merriam-Webster, “rubber”, https://www.merriam-webster.com/dictionary/rubber",
+    "status": "draft",
+    "checker": null
+  }
+]
