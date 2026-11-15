@@ -1,3 +1,8 @@
 bookworm.jpg <- https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg
 fragonard.jpg <- https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg
 charon.jpg <- https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_10_%28Canto_III_-_Charon_herds_the_sinners_onto_his_boat%29.jpg
+bookworm.jpg <- https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg
+fragonard.jpg <- https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg
+kramskoi.jpg <- https://commons.wikimedia.org/wiki/File:Ivan_Nikolayevich_Kramskoi_-_Inconsolable_grief%2C_1884.jpg
+wallst.jpg <- https://commons.wikimedia.org/wiki/File:Wall_Street%2C_Half_Past_Two%2C_October_13%2C_1857_MET_DP241867.jpg
+ganges.jpg <- https://commons.wikimedia.org/wiki/File:Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg

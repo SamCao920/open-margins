@@ -28,7 +28,7 @@ jobs:
               if not line or line.startswith("#"):
                   continue
               name, spec = line.split("|", 1)
-              if os.path.exists(f"site/art/{name}.jpg") or os.path.exists(f"site/art/{name}-1800.jpg"):
+              if os.path.exists(f"site/art/{name}.jpg") or __import__("glob").glob(f"site/art/{name}-*.jpg"):
                   continue
               title = spec
               if spec.startswith("search:"):

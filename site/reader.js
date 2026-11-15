@@ -39,7 +39,7 @@
 
   // Arabic numerals: easier to read than the original Roman ones.
   const chName = n => book.unit + ' ' + n;
-  document.getElementById('title').textContent = chName(ch);
+  document.getElementById('title').textContent = chName(ch) + (book.titles ? ': ' + book.titles[ch - 1] : '');
   document.getElementById('crumb-chapter').textContent = chName(ch);
   document.title = book.title + ', ' + chName(ch) + ' · Open Margins';
   const bookLink = document.getElementById('book-link');

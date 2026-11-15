@@ -1,0 +1,602 @@
+[
+  {
+    "id": "ch4-001",
+    "anchor": "the symptoms Ivan Ilyitch sometimes complained of",
+    "layer": "vocab",
+    "note": "Symptoms: signs that show a person is ill.",
+    "source": "Merriam-Webster, “symptom”, https://www.merriam-webster.com/dictionary/symptom",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-002",
+    "anchor": "This irritable temper",
+    "layer": "vocab",
+    "note": "Irritable: quick to become annoyed.",
+    "source": "Merriam-Webster, “irritable”, https://www.merriam-webster.com/dictionary/irritable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-003",
+    "anchor": "mar the agreeable easiness and decorum",
+    "layer": "vocab",
+    "note": "Mar: to spoil or damage.",
+    "source": "Merriam-Webster, “mar”, https://www.merriam-webster.com/dictionary/mar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-004",
+    "anchor": "the easiness and amenity of life",
+    "layer": "vocab",
+    "note": "Amenity: pleasantness, the quality of being agreeable.",
+    "source": "Merriam-Webster, “amenity”, https://www.merriam-webster.com/dictionary/amenity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-005",
+    "anchor": "the sea of contention",
+    "layer": "vocab",
+    "note": "Contention: angry argument and disagreement.",
+    "source": "Merriam-Webster, “contention”, https://www.merriam-webster.com/dictionary/contention",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-006",
+    "anchor": "a trying temper",
+    "layer": "vocab",
+    "note": "Trying: hard to put up with.",
+    "source": "Merriam-Webster, “trying”, https://www.merriam-webster.com/dictionary/trying",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-007",
+    "anchor": "her characteristic exaggeration",
+    "layer": "vocab",
+    "note": "Exaggeration: making something seem bigger or worse than it is.",
+    "source": "Merriam-Webster, “exaggeration”, https://www.merriam-webster.com/dictionary/exaggeration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-008",
+    "anchor": "retorted in the same strain",
+    "layer": "vocab",
+    "note": "Retorted: answered back sharply, with an angry reply.",
+    "source": "Merriam-Webster, “retort”, https://www.merriam-webster.com/dictionary/retort",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-009",
+    "anchor": "flown into such a frenzy",
+    "layer": "vocab",
+    "note": "Frenzy: a wild fit of rage or excitement.",
+    "source": "Merriam-Webster, “frenzy”, https://www.merriam-webster.com/dictionary/frenzy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-010",
+    "anchor": "due to physical derangement",
+    "layer": "vocab",
+    "note": "Derangement: a disorder or upset of the body or mind.",
+    "source": "Merriam-Webster, “derangement”, https://www.merriam-webster.com/dictionary/derangement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-011",
+    "anchor": "The waiting and the assumption of dignity",
+    "layer": "vocab",
+    "note": "Assumption: here, the putting on of an air or manner.",
+    "source": "Merriam-Webster, “assumption”, https://www.merriam-webster.com/dictionary/assumption",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-012",
+    "anchor": "were foregone conclusions",
+    "layer": "vocab",
+    "note": "Foregone conclusion: an outcome so obvious it was decided in advance.",
+    "source": "Merriam-Webster, “foregone conclusion”, https://www.merriam-webster.com/dictionary/foregone%20conclusion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-013",
+    "anchor": "seemed to insinuate",
+    "layer": "vocab",
+    "note": "Insinuate: to suggest something indirectly.",
+    "source": "Merriam-Webster, “insinuate”, https://www.merriam-webster.com/dictionary/insinuate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-014",
+    "anchor": "certain and incontestable",
+    "layer": "vocab",
+    "note": "Incontestable: too clear to be argued against.",
+    "source": "Merriam-Webster, “incontestable”, https://www.merriam-webster.com/dictionary/incontestable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-015",
+    "anchor": "a man brought up for judgment",
+    "layer": "vocab",
+    "note": "Brought up for judgment: made to appear in court to hear the sentence.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-016",
+    "anchor": "the balance of probabilities",
+    "layer": "vocab",
+    "note": "Probabilities: the chances that something is true.",
+    "source": "Merriam-Webster, “probability”, https://www.merriam-webster.com/dictionary/probability",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-017",
+    "anchor": "a loose kidney",
+    "layer": "vocab",
+    "note": "Loose kidney: a floating kidney, one that has slipped out of its normal place in the body.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-018",
+    "anchor": "chronic catarrh",
+    "layer": "vocab",
+    "note": "Chronic: lasting a long time. Catarrh: an inflamed throat or nose with a flow of mucus.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Catarrh”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Catarrh",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-019",
+    "anchor": "appendicitis",
+    "layer": "vocab",
+    "note": "Appendicitis: inflammation of the appendix, a small pouch on the intestine.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Appendicitis”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Appendicitis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-020",
+    "anchor": "the intestinal appendix",
+    "layer": "vocab",
+    "note": "Appendix: a small, narrow pouch attached to the large intestine.",
+    "source": "Merriam-Webster, “appendix”, https://www.merriam-webster.com/dictionary/appendix",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-021",
+    "anchor": "with the reservation that",
+    "layer": "vocab",
+    "note": "Reservation: a condition or doubt kept in mind.",
+    "source": "Merriam-Webster, “reservation”, https://www.merriam-webster.com/dictionary/reservation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-022",
+    "anchor": "analysis of the water might",
+    "layer": "vocab",
+    "note": "Water: here, urine, which doctors tested for signs of disease.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-023",
+    "anchor": "a fresh clue",
+    "layer": "vocab",
+    "note": "Clue: a sign that helps solve a puzzle or mystery.",
+    "source": "Merriam-Webster, “clue”, https://www.merriam-webster.com/dictionary/clue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-024",
+    "anchor": "his summing-up",
+    "layer": "vocab",
+    "note": "Summing-up: a judge’s review of the evidence for the jury.",
+    "source": "Merriam-Webster, “summing up”, https://www.merriam-webster.com/dictionary/summing%20up",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-025",
+    "anchor": "glanced over his spectacles at the prisoner in the dock",
+    "layer": "vocab",
+    "note": "Dock: the enclosed place in a courtroom where an accused person stands.",
+    "source": "Merriam-Webster, “dock”, https://www.merriam-webster.com/dictionary/dock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-026",
+    "anchor": "impressed Ivan Ilyitch morbidly",
+    "layer": "vocab",
+    "note": "Morbidly: in a sick, gloomy way.",
+    "source": "Merriam-Webster, “morbidly”, https://www.merriam-webster.com/dictionary/morbidly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-027",
+    "anchor": "from the precincts of the court",
+    "layer": "vocab",
+    "note": "Precincts: the grounds or area around a building.",
+    "source": "Merriam-Webster, “precinct”, https://www.merriam-webster.com/dictionary/precinct",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-028",
+    "anchor": "The sledge-drivers were dismal",
+    "layer": "vocab",
+    "note": "Sledge: a vehicle on runners, drawn by horses over snow.",
+    "source": "Merriam-Webster, “sledge”, https://www.merriam-webster.com/dictionary/sledge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-029",
+    "anchor": "obscure utterances",
+    "layer": "vocab",
+    "note": "Obscure: not clear, hard to understand.",
+    "source": "Merriam-Webster, “obscure”, https://www.merriam-webster.com/dictionary/obscure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-030",
+    "anchor": "to the chemist’s",
+    "layer": "vocab",
+    "note": "Chemist: in Britain, a pharmacist who sells medicines.",
+    "source": "Merriam-Webster, “chemist”, https://www.merriam-webster.com/dictionary/chemist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-031",
+    "anchor": "as regards hygiene and medicine",
+    "layer": "vocab",
+    "note": "Hygiene: the rules and practices that keep a person healthy.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hygiene”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hygiene",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-032",
+    "anchor": "the careful observation of his ailment",
+    "layer": "vocab",
+    "note": "Ailment: an illness, usually a minor one.",
+    "source": "Merriam-Webster, “ailment”, https://www.merriam-webster.com/dictionary/ailment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-033",
+    "anchor": "an unlucky hand at",
+    "layer": "vocab",
+    "note": "Hand: here, the set of cards dealt to a player.",
+    "source": "Merriam-Webster, “hand”, https://www.merriam-webster.com/dictionary/hand",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-034",
+    "anchor": "he was at once acutely sensible of his illness",
+    "layer": "vocab",
+    "note": "Sensible: aware of something, able to feel it clearly.",
+    "source": "Merriam-Webster, “sensible”, https://www.merriam-webster.com/dictionary/sensible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-035",
+    "anchor": "to retrieve the mistake",
+    "layer": "vocab",
+    "note": "Retrieve: to recover, to set right.",
+    "source": "Merriam-Webster, “retrieve”, https://www.merriam-webster.com/dictionary/retrieve",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-036",
+    "anchor": "furious against the mischance",
+    "layer": "vocab",
+    "note": "Mischance: a piece of bad luck, an unlucky accident.",
+    "source": "Merriam-Webster, “mischance”, https://www.merriam-webster.com/dictionary/mischance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-037",
+    "anchor": "this exasperation against circumstances",
+    "layer": "vocab",
+    "note": "Exasperation: strong irritation and anger.",
+    "source": "Merriam-Webster, “exasperation”, https://www.merriam-webster.com/dictionary/exasperation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-038",
+    "anchor": "aggravating his disease",
+    "layer": "vocab",
+    "note": "Aggravating: making a bad situation worse than it was.",
+    "source": "Merriam-Webster, “aggravate”, https://www.merriam-webster.com/dictionary/aggravate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-039",
+    "anchor": "The second celebrity",
+    "layer": "vocab",
+    "note": "Celebrity: here, a famous person, a leading doctor.",
+    "source": "Merriam-Webster, “celebrity”, https://www.merriam-webster.com/dictionary/celebrity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-040",
+    "anchor": "only redoubled the doubts",
+    "layer": "vocab",
+    "note": "Redoubled: made twice as great.",
+    "source": "Merriam-Webster, “redouble”, https://www.merriam-webster.com/dictionary/redouble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-041",
+    "anchor": "diagnosed the disease quite differently",
+    "layer": "vocab",
+    "note": "Diagnosed: named the illness by studying its signs.",
+    "source": "Merriam-Webster, “diagnose”, https://www.merriam-webster.com/dictionary/diagnose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-042",
+    "anchor": "he guaranteed recovery",
+    "layer": "vocab",
+    "note": "Guaranteed: promised for certain, gave his word.",
+    "source": "Merriam-Webster, “guarantee”, https://www.merriam-webster.com/dictionary/guarantee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-043",
+    "anchor": "his suppositions",
+    "layer": "vocab",
+    "note": "Suppositions: things assumed to be true without proof.",
+    "source": "Merriam-Webster, “supposition”, https://www.merriam-webster.com/dictionary/supposition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-044",
+    "anchor": "A homœopath",
+    "layer": "vocab",
+    "note": "Homeopath: a doctor who gives tiny doses of a drug that in a healthy person would cause the same symptoms.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Homoeopathy”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Homoeopathy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-045",
+    "anchor": "the healing wrought by the holy pictures",
+    "layer": "vocab",
+    "note": "Holy pictures: icons, the painted images of sacred persons used in the Eastern Church.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Icon”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Icon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-046",
+    "anchor": "the facts alleged",
+    "layer": "vocab",
+    "note": "Alleged: claimed to be true, without proof.",
+    "source": "Merriam-Webster, “alleged”, https://www.merriam-webster.com/dictionary/alleged",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-047",
+    "anchor": "Can I have degenerated",
+    "layer": "vocab",
+    "note": "Degenerated: sunk to a worse state.",
+    "source": "Merriam-Webster, “degenerate”, https://www.merriam-webster.com/dictionary/degenerate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-048",
+    "anchor": "intellectual feebleness",
+    "layer": "vocab",
+    "note": "Feebleness: weakness of body or of mind, lack of strength.",
+    "source": "Merriam-Webster, “feebleness”, https://www.merriam-webster.com/dictionary/feebleness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-049",
+    "anchor": "adhere strictly to his treatment",
+    "layer": "vocab",
+    "note": "Adhere: to stick closely to a plan.",
+    "source": "Merriam-Webster, “adhere”, https://www.merriam-webster.com/dictionary/adhere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-050",
+    "anchor": "this wavering",
+    "layer": "vocab",
+    "note": "Wavering: being unable to make up one’s mind.",
+    "source": "Merriam-Webster, “waver”, https://www.merriam-webster.com/dictionary/waver",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-051",
+    "anchor": "seeming to grow more acute and ever more incessant",
+    "layer": "vocab",
+    "note": "Acute: sharp and severe. Incessant: never stopping.",
+    "source": "Merriam-Webster, “acute”, https://www.merriam-webster.com/dictionary/acute; Merriam-Webster, “incessant”, https://www.merriam-webster.com/dictionary/incessant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-052",
+    "anchor": "a loathsome smell",
+    "layer": "vocab",
+    "note": "Loathsome: disgusting, so bad that it causes hatred.",
+    "source": "Merriam-Webster, “loathsome”, https://www.merriam-webster.com/dictionary/loathsome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-053",
+    "anchor": "his appetite and strength kept dwindling",
+    "layer": "vocab",
+    "note": "Dwindling: growing steadily smaller or weaker.",
+    "source": "Merriam-Webster, “dwindle”, https://www.merriam-webster.com/dictionary/dwindle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-054",
+    "anchor": "a nuisance to them",
+    "layer": "vocab",
+    "note": "Nuisance: a person or thing that is annoying.",
+    "source": "Merriam-Webster, “nuisance”, https://www.merriam-webster.com/dictionary/nuisance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-055",
+    "anchor": "eat sturgeon",
+    "layer": "vocab",
+    "note": "Sturgeon: a large fish prized for its flesh and its eggs, which are made into caviar.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Sturgeon”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sturgeon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-056",
+    "anchor": "asked in vexation",
+    "layer": "vocab",
+    "note": "Vexation: annoyance, the state of being irritated and upset.",
+    "source": "Merriam-Webster, “vexation”, https://www.merriam-webster.com/dictionary/vexation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-057",
+    "anchor": "looking inquisitively at him",
+    "layer": "vocab",
+    "note": "Inquisitively: curiously, in a prying way.",
+    "source": "Merriam-Webster, “inquisitively”, https://www.merriam-webster.com/dictionary/inquisitively",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-058",
+    "anchor": "to vacate his position",
+    "layer": "vocab",
+    "note": "Vacate: to leave empty, to give up a post.",
+    "source": "Merriam-Webster, “vacate”, https://www.merriam-webster.com/dictionary/vacate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-059",
+    "anchor": "begin chaffing him",
+    "layer": "vocab",
+    "note": "Chaffing: teasing in a friendly way.",
+    "source": "Merriam-Webster, “chaff”, https://www.merriam-webster.com/dictionary/chaff",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-060",
+    "anchor": "irresistibly dragging him away",
+    "layer": "vocab",
+    "note": "Irresistibly: in a way that cannot be stopped or resisted.",
+    "source": "Merriam-Webster, “irresistibly”, https://www.merriam-webster.com/dictionary/irresistibly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-061",
+    "anchor": "with his jocoseness",
+    "layer": "vocab",
+    "note": "Jocoseness: a joking, playful manner, always ready with a jest.",
+    "source": "Merriam-Webster, “jocose”, https://www.merriam-webster.com/dictionary/jocose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-062",
+    "anchor": "Diamonds were led",
+    "layer": "vocab",
+    "note": "Led: played first in a round of cards.",
+    "source": "Merriam-Webster, “lead”, https://www.merriam-webster.com/dictionary/lead",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-063",
+    "anchor": "Can’t trump",
+    "layer": "vocab",
+    "note": "Trump: to play a card of the trump suit, the suit that beats all others in that game.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Trump”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trump",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-064",
+    "anchor": "something grotesque",
+    "layer": "vocab",
+    "note": "Grotesque: oddly and unnaturally absurd.",
+    "source": "Merriam-Webster, “grotesque”, https://www.merriam-webster.com/dictionary/grotesque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-065",
+    "anchor": "affably and indulgently abstains",
+    "layer": "vocab",
+    "note": "Indulgently: with kindness that gives way to another’s wishes.",
+    "source": "Merriam-Webster, “indulgently”, https://www.merriam-webster.com/dictionary/indulgently",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-066",
+    "anchor": "he cannot disperse it",
+    "layer": "vocab",
+    "note": "Disperse: to scatter and drive away.",
+    "source": "Merriam-Webster, “disperse”, https://www.merriam-webster.com/dictionary/disperse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-067",
+    "anchor": "on the edge of the precipice",
+    "layer": "vocab",
+    "note": "Precipice: the steep edge of a cliff.",
+    "source": "Merriam-Webster, “precipice”, https://www.merriam-webster.com/dictionary/precipice",
+    "status": "draft",
+    "checker": null
+  }
+]

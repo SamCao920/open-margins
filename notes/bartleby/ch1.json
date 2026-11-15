@@ -1,0 +1,788 @@
+[
+  {
+    "id": "ch1-001",
+    "anchor": "The nature of my avocations",
+    "layer": "vocab",
+    "note": "Avocations: here, regular jobs or occupations.",
+    "source": "Merriam-Webster, “avocation”, https://www.merriam-webster.com/dictionary/avocation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-002",
+    "anchor": "the law-copyists or scriveners",
+    "layer": "vocab",
+    "note": "Scriveners: clerks who copied documents by hand, before copying machines existed.",
+    "source": "Merriam-Webster, “scrivener”, https://www.merriam-webster.com/dictionary/scrivener",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-003",
+    "anchor": "could relate divers histories",
+    "layer": "vocab",
+    "note": "Divers: several, various, a number of different ones.",
+    "source": "Merriam-Webster, “divers”, https://www.merriam-webster.com/dictionary/divers",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-004",
+    "anchor": "But I waive the biographies",
+    "layer": "vocab",
+    "note": "Waive: to give up, to set aside.",
+    "source": "Merriam-Webster, “waive”, https://www.merriam-webster.com/dictionary/waive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-005",
+    "anchor": "an irreparable loss to literature",
+    "layer": "vocab",
+    "note": "Irreparable: impossible to repair or make good.",
+    "source": "Merriam-Webster, “irreparable”, https://www.merriam-webster.com/dictionary/irreparable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-006",
+    "anchor": "nothing is ascertainable",
+    "layer": "vocab",
+    "note": "Ascertainable: able to be found out for certain.",
+    "source": "Merriam-Webster, “ascertainable”, https://www.merriam-webster.com/dictionary/ascertainable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-007",
+    "anchor": "which will appear in the sequel",
+    "layer": "vocab",
+    "note": "Sequel: the part that comes after, a continuation.",
+    "source": "Merriam-Webster, “sequel”, https://www.merriam-webster.com/dictionary/sequel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-008",
+    "anchor": "Ere introducing the scrivener",
+    "layer": "vocab",
+    "note": "Ere: before (an old word).",
+    "source": "Merriam-Webster, “ere”, https://www.merriam-webster.com/dictionary/ere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-009",
+    "anchor": "my employés",
+    "layer": "vocab",
+    "note": "Employés: French for “employees,” the people who work for him.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-010",
+    "anchor": "Imprimis",
+    "layer": "vocab",
+    "note": "Imprimis: Latin for “first of all,” used to begin a list.",
+    "source": "Merriam-Webster, “imprimis”, https://www.merriam-webster.com/dictionary/imprimis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-011",
+    "anchor": "a profession proverbially energetic",
+    "layer": "vocab",
+    "note": "Proverbially: well known, as the proverb says.",
+    "source": "Merriam-Webster, “proverbially”, https://www.merriam-webster.com/dictionary/proverbially",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-012",
+    "anchor": "even to turbulence",
+    "layer": "vocab",
+    "note": "Turbulence: wild disorder and commotion.",
+    "source": "Merriam-Webster, “turbulence”, https://www.merriam-webster.com/dictionary/turbulence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-013",
+    "anchor": "a snug retreat",
+    "layer": "vocab",
+    "note": "Snug: warm, comfortable, and safe.",
+    "source": "Merriam-Webster, “snug”, https://www.merriam-webster.com/dictionary/snug",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-014",
+    "anchor": "rich men’s bonds and mortgages and title-deeds",
+    "layer": "vocab",
+    "note": "Mortgages: loans for buying property, secured by the property itself. Title-deeds: papers proving who owns it.",
+    "source": "Merriam-Webster, “mortgage”, https://www.merriam-webster.com/dictionary/mortgage; Merriam-Webster, “title deed”, https://www.merriam-webster.com/dictionary/title%20deed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-015",
+    "anchor": "an eminently safe man",
+    "layer": "vocab",
+    "note": "Eminently: to a very high degree.",
+    "source": "Merriam-Webster, “eminently”, https://www.merriam-webster.com/dictionary/eminently",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-016",
+    "anchor": "The late John Jacob Astor",
+    "layer": "history",
+    "note": "John Jacob Astor made an enormous fortune in the fur trade. The Britannica calls it the largest made by any American up to that time.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Astor, John Jacob”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Astor%2C_John_Jacob",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-017",
+    "anchor": "a personage little given",
+    "layer": "vocab",
+    "note": "Personage: an important or well-known person.",
+    "source": "Merriam-Webster, “personage”, https://www.merriam-webster.com/dictionary/personage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-018",
+    "anchor": "a rounded and orbicular sound",
+    "layer": "vocab",
+    "note": "Orbicular: round, like a ball or circle.",
+    "source": "Merriam-Webster, “orbicular”, https://www.merriam-webster.com/dictionary/orbicular",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-019",
+    "anchor": "rings like unto bullion",
+    "layer": "vocab",
+    "note": "Bullion: gold or silver in bars or lumps, valued by weight.",
+    "source": "Merriam-Webster, “bullion”, https://www.merriam-webster.com/dictionary/bullion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-020",
+    "anchor": "I was not insensible to",
+    "layer": "vocab",
+    "note": "Insensible: not aware of, not unmoved by.",
+    "source": "Merriam-Webster, “insensible”, https://www.merriam-webster.com/dictionary/insensible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-021",
+    "anchor": "a Master in Chancery",
+    "layer": "history",
+    "note": "Chancery was a court that decided cases by fairness (equity) rather than strict law. A master in chancery held an office attached to such a court.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Chancery”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Chancery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-022",
+    "anchor": "It was not a very arduous office",
+    "layer": "vocab",
+    "note": "Arduous: hard to do, demanding great effort.",
+    "source": "Merriam-Webster, “arduous”, https://www.merriam-webster.com/dictionary/arduous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-023",
+    "anchor": "very pleasantly remunerative",
+    "layer": "vocab",
+    "note": "Remunerative: bringing in good pay.",
+    "source": "Merriam-Webster, “remunerative”, https://www.merriam-webster.com/dictionary/remunerative",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-024",
+    "anchor": "the sudden and violent abrogation",
+    "layer": "vocab",
+    "note": "Abrogation: the official ending of a law or office.",
+    "source": "Merriam-Webster, “abrogation”, https://www.merriam-webster.com/dictionary/abrogation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-025",
+    "anchor": "premature act",
+    "layer": "vocab",
+    "note": "Premature: happening too soon, before the right time.",
+    "source": "Merriam-Webster, “premature”, https://www.merriam-webster.com/dictionary/premature",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-026",
+    "anchor": "inasmuch as I had counted upon",
+    "layer": "vocab",
+    "note": "Inasmuch as: since, because, seeing that.",
+    "source": "Merriam-Webster, “inasmuch as”, https://www.merriam-webster.com/dictionary/inasmuch%20as",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-027",
+    "anchor": "My chambers were up stairs",
+    "layer": "vocab",
+    "note": "Chambers: a lawyer’s rooms or office.",
+    "source": "Merriam-Webster, “chambers”, https://www.merriam-webster.com/dictionary/chambers",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-028",
+    "anchor": "at No.—Wall-street",
+    "layer": "place",
+    "note": "Wall Street is in lower Manhattan, about a third of a mile above the Battery. The city’s financial business centers on it.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “New York City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_York_City",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-029",
+    "anchor": "a spacious sky-light shaft",
+    "layer": "vocab",
+    "note": "Sky-light shaft: a tall, narrow well through a building that lets daylight in from the roof.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-030",
+    "anchor": "required no spy-glass",
+    "layer": "vocab",
+    "note": "Spy-glass: a small telescope for seeing far away.",
+    "source": "Merriam-Webster, “spyglass”, https://www.merriam-webster.com/dictionary/spyglass",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-031",
+    "anchor": "its lurking beauties",
+    "layer": "vocab",
+    "note": "Lurking: hiding out of sight.",
+    "source": "Merriam-Webster, “lurk”, https://www.merriam-webster.com/dictionary/lurk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-032",
+    "anchor": "a huge square cistern",
+    "layer": "vocab",
+    "note": "Cistern: a large tank for holding water.",
+    "source": "Merriam-Webster, “cistern”, https://www.merriam-webster.com/dictionary/cistern",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-033",
+    "anchor": "just preceding the advent of Bartleby",
+    "layer": "vocab",
+    "note": "Advent: the arrival of something important.",
+    "source": "Merriam-Webster, “advent”, https://www.merriam-webster.com/dictionary/advent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-034",
+    "anchor": "the Directory",
+    "layer": "vocab",
+    "note": "Directory: a printed list of the names and addresses of a city’s people and businesses.",
+    "source": "Merriam-Webster, “directory”, https://www.merriam-webster.com/dictionary/directory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-035",
+    "anchor": "a short, pursy Englishman",
+    "layer": "vocab",
+    "note": "Pursy: short of breath, and fat.",
+    "source": "Merriam-Webster, “pursy”, https://www.merriam-webster.com/dictionary/pursy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-036",
+    "anchor": "a fine florid hue",
+    "layer": "vocab",
+    "note": "Florid: red or flushed in color.",
+    "source": "Merriam-Webster, “florid”, https://www.merriam-webster.com/dictionary/florid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-037",
+    "anchor": "meridian—his dinner hour",
+    "layer": "vocab",
+    "note": "Meridian: noon, when the sun is at its highest point.",
+    "source": "Merriam-Webster, “meridian”, https://www.merriam-webster.com/dictionary/meridian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-038",
+    "anchor": "with the like regularity and undiminished glory",
+    "layer": "vocab",
+    "note": "Undiminished: not made any smaller.",
+    "source": "Merriam-Webster, “undiminished”, https://www.merriam-webster.com/dictionary/undiminished",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-039",
+    "anchor": "flighty recklessness",
+    "layer": "vocab",
+    "note": "Flighty: changeable, not steady or serious.",
+    "source": "Merriam-Webster, “flighty”, https://www.merriam-webster.com/dictionary/flighty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-040",
+    "anchor": "with augmented blazonry",
+    "layer": "vocab",
+    "note": "Blazonry: a showy, bright display. Augmented: increased.",
+    "source": "Merriam-Webster, “blazonry”, https://www.merriam-webster.com/dictionary/blazonry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-041",
+    "anchor": "cannel coal had been heaped on anthracite",
+    "layer": "vocab",
+    "note": "Cannel coal burns with a bright flame. Anthracite is a hard coal that burns with intense heat.",
+    "source": "Merriam-Webster, “cannel coal”, https://www.merriam-webster.com/dictionary/cannel%20coal; Merriam-Webster, “anthracite”, https://www.merriam-webster.com/dictionary/anthracite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-042",
+    "anchor": "spilled his sand-box",
+    "layer": "vocab",
+    "note": "Sand-box: a box of fine sand shaken over wet ink to dry it.",
+    "source": "Merriam-Webster, “sandbox”, https://www.merriam-webster.com/dictionary/sandbox",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-043",
+    "anchor": "boxing his papers about in a most indecorous manner",
+    "layer": "vocab",
+    "note": "Indecorous: not proper, lacking good manners.",
+    "source": "Merriam-Webster, “indecorous”, https://www.merriam-webster.com/dictionary/indecorous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-044",
+    "anchor": "I remonstrated with him",
+    "layer": "vocab",
+    "note": "Remonstrated: protested, argued with him to change his ways.",
+    "source": "Merriam-Webster, “remonstrate”, https://www.merriam-webster.com/dictionary/remonstrate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-045",
+    "anchor": "the blandest and most reverential of men",
+    "layer": "vocab",
+    "note": "Blandest: most smooth and mild in manner. Reverential: showing deep respect.",
+    "source": "Merriam-Webster, “bland”, https://www.merriam-webster.com/dictionary/bland; Merriam-Webster, “reverential”, https://www.merriam-webster.com/dictionary/reverential",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-046",
+    "anchor": "rash with his tongue, in fact, insolent",
+    "layer": "vocab",
+    "note": "Insolent: rude and disrespectful toward someone.",
+    "source": "Merriam-Webster, “insolent”, https://www.merriam-webster.com/dictionary/insolent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-047",
+    "anchor": "by my admonitions",
+    "layer": "vocab",
+    "note": "Admonitions: gentle warnings or reproofs.",
+    "source": "Merriam-Webster, “admonition”, https://www.merriam-webster.com/dictionary/admonition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-048",
+    "anchor": "unseemly retorts",
+    "layer": "vocab",
+    "note": "Unseemly: improper, not fitting. Retorts: sharp replies.",
+    "source": "Merriam-Webster, “unseemly”, https://www.merriam-webster.com/dictionary/unseemly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-049",
+    "anchor": "to abridge his labors",
+    "layer": "vocab",
+    "note": "Abridge: to shorten or cut down.",
+    "source": "Merriam-Webster, “abridge”, https://www.merriam-webster.com/dictionary/abridge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-050",
+    "anchor": "his afternoon devotions",
+    "layer": "vocab",
+    "note": "Devotions: here, jokingly, his faithful dedication to his work.",
+    "source": "Merriam-Webster, “devotion”, https://www.merriam-webster.com/dictionary/devotion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-051",
+    "anchor": "intolerably fervid",
+    "layer": "vocab",
+    "note": "Fervid: glowing, intensely hot or eager.",
+    "source": "Merriam-Webster, “fervid”, https://www.merriam-webster.com/dictionary/fervid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-052",
+    "anchor": "as he oratorically assured me",
+    "layer": "vocab",
+    "note": "Oratorically: in the manner of a public speaker.",
+    "source": "Merriam-Webster, “oratorical”, https://www.merriam-webster.com/dictionary/oratorical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-053",
+    "anchor": "gesticulating with a long ruler",
+    "layer": "vocab",
+    "note": "Gesticulating: waving the arms to make a point.",
+    "source": "Merriam-Webster, “gesticulate”, https://www.merriam-webster.com/dictionary/gesticulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-054",
+    "anchor": "I but marshal and deploy my columns",
+    "layer": "vocab",
+    "note": "Marshal and deploy: gather and spread out troops for battle. Turkey talks of himself as a general.",
+    "source": "Merriam-Webster, “deploy”, https://www.merriam-webster.com/dictionary/deploy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-055",
+    "anchor": "charge the foe",
+    "layer": "vocab",
+    "note": "Foe: an enemy, someone to fight against.",
+    "source": "Merriam-Webster, “foe”, https://www.merriam-webster.com/dictionary/foe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-056",
+    "anchor": "a whiskered, sallow, and, upon the whole, rather piratical-looking young man",
+    "layer": "vocab",
+    "note": "Sallow: of a sickly, yellowish color.",
+    "source": "Merriam-Webster, “sallow”, https://www.merriam-webster.com/dictionary/sallow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-057",
+    "anchor": "the victim of two evil powers—ambition and indigestion",
+    "layer": "vocab",
+    "note": "Indigestion: trouble digesting food, which gives pain and bad temper.",
+    "source": "Merriam-Webster, “indigestion”, https://www.merriam-webster.com/dictionary/indigestion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-058",
+    "anchor": "an unwarrantable usurpation",
+    "layer": "vocab",
+    "note": "Usurpation: taking over a place or power that is not rightly one’s own.",
+    "source": "Merriam-Webster, “usurpation”, https://www.merriam-webster.com/dictionary/usurpation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-059",
+    "anchor": "betokened in an occasional nervous testiness",
+    "layer": "vocab",
+    "note": "Betokened: was a sign of. Testiness: touchy, quick temper.",
+    "source": "Merriam-Webster, “betoken”, https://www.merriam-webster.com/dictionary/betoken; Merriam-Webster, “testiness”, https://www.merriam-webster.com/dictionary/testiness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-060",
+    "anchor": "unnecessary maledictions",
+    "layer": "vocab",
+    "note": "Maledictions: curses, angry words wishing harm on someone.",
+    "source": "Merriam-Webster, “malediction”, https://www.merriam-webster.com/dictionary/malediction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-061",
+    "anchor": "ambiguous-looking fellows in seedy coats",
+    "layer": "vocab",
+    "note": "Ambiguous: unclear, of doubtful character. Seedy: shabby and worn.",
+    "source": "Merriam-Webster, “seedy”, https://www.merriam-webster.com/dictionary/seedy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-062",
+    "anchor": "considerable of a ward-politician",
+    "layer": "vocab",
+    "note": "Ward-politician: a worker for a political party in one district of a city.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-063",
+    "anchor": "the Justices’ courts",
+    "layer": "vocab",
+    "note": "Justices’ courts: small local courts for minor cases.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-064",
+    "anchor": "the steps of the Tombs",
+    "layer": "place",
+    "note": "The Tombs was the New York city prison, with the criminal courts next to it. Nippers hangs about it looking for clients.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “New York City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_York_City",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-065",
+    "anchor": "was no other than a dun",
+    "layer": "vocab",
+    "note": "Dun: a person who presses another to pay a debt.",
+    "source": "Merriam-Webster, “dun”, https://www.merriam-webster.com/dictionary/dun",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-066",
+    "anchor": "a gentlemanly sort of deportment",
+    "layer": "vocab",
+    "note": "Deportment: the way a person behaves and carries himself.",
+    "source": "Merriam-Webster, “deportment”, https://www.merriam-webster.com/dictionary/deportment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-067",
+    "anchor": "His coats were execrable",
+    "layer": "vocab",
+    "note": "Execrable: very bad, deserving to be hated.",
+    "source": "Merriam-Webster, “execrable”, https://www.merriam-webster.com/dictionary/execrable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-068",
+    "anchor": "his rashness and obstreperousness",
+    "layer": "vocab",
+    "note": "Obstreperousness: noisy, unruly, hard-to-control behavior.",
+    "source": "Merriam-Webster, “obstreperousness”, https://www.merriam-webster.com/dictionary/obstreperousness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-069",
+    "anchor": "a pernicious effect",
+    "layer": "vocab",
+    "note": "Pernicious: very harmful in a quiet, gradual way.",
+    "source": "Merriam-Webster, “pernicious”, https://www.merriam-webster.com/dictionary/pernicious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-070",
+    "anchor": "a rash, restive horse",
+    "layer": "vocab",
+    "note": "Restive: restless, unwilling to be controlled.",
+    "source": "Merriam-Webster, “restive”, https://www.merriam-webster.com/dictionary/restive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-071",
+    "anchor": "nature herself seemed to have been his vintner",
+    "layer": "vocab",
+    "note": "Vintner: a wine merchant. Nature supplied Nippers’s “brandy-like” temper.",
+    "source": "Merriam-Webster, “vintner”, https://www.merriam-webster.com/dictionary/vintner",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-072",
+    "anchor": "all subsequent potations were needless",
+    "layer": "vocab",
+    "note": "Potations: drinks, usually alcoholic ones.",
+    "source": "Merriam-Webster, “potation”, https://www.merriam-webster.com/dictionary/potation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-073",
+    "anchor": "a perverse voluntary agent",
+    "layer": "vocab",
+    "note": "Perverse: stubborn, doing the wrong thing on purpose.",
+    "source": "Merriam-Webster, “perverse”, https://www.merriam-webster.com/dictionary/perverse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-074",
+    "anchor": "Turkey’s paroxysms",
+    "layer": "vocab",
+    "note": "Paroxysms: sudden fits of strong feeling or action.",
+    "source": "Merriam-Webster, “paroxysm”, https://www.merriam-webster.com/dictionary/paroxysm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-075",
+    "anchor": "vice versa",
+    "layer": "vocab",
+    "note": "Vice versa: Latin for “the other way around.”",
+    "source": "Merriam-Webster, “vice versa”, https://www.merriam-webster.com/dictionary/vice%20versa",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-076",
+    "anchor": "His father was a carman",
+    "layer": "vocab",
+    "note": "Carman: a man who drives a cart for hire.",
+    "source": "Merriam-Webster, “carman”, https://www.merriam-webster.com/dictionary/carman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-077",
+    "anchor": "with the most alacrity",
+    "layer": "vocab",
+    "note": "Alacrity: quick, cheerful readiness to act on something.",
+    "source": "Merriam-Webster, “alacrity”, https://www.merriam-webster.com/dictionary/alacrity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-078",
+    "anchor": "cake and apple purveyor",
+    "layer": "vocab",
+    "note": "Purveyor: someone who supplies food and goods.",
+    "source": "Merriam-Webster, “purveyor”, https://www.merriam-webster.com/dictionary/purveyor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-079",
+    "anchor": "Spitzenbergs",
+    "layer": "vocab",
+    "note": "Spitzenbergs: a kind of red American apple.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-080",
+    "anchor": "the numerous stalls nigh the Custom House and Post Office",
+    "layer": "vocab",
+    "note": "Nigh: near, close by (an old-fashioned word).",
+    "source": "Merriam-Webster, “nigh”, https://www.merriam-webster.com/dictionary/nigh",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-081",
+    "anchor": "I came within an ace of dismissing him",
+    "layer": "vocab",
+    "note": "Within an ace of: very close to doing something.",
+    "source": "Merriam-Webster, “within an ace of”, https://www.merriam-webster.com/dictionary/within%20an%20ace%20of",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-082",
+    "anchor": "But he mollified me",
+    "layer": "vocab",
+    "note": "Mollified: calmed down, made less angry.",
+    "source": "Merriam-Webster, “mollify”, https://www.merriam-webster.com/dictionary/mollify",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-083",
+    "anchor": "an oriental bow",
+    "layer": "vocab",
+    "note": "Oriental: of the East. A deep, graceful bow was seen as an Eastern custom.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-084",
+    "anchor": "to find you in stationery",
+    "layer": "vocab",
+    "note": "Stationery: paper and writing supplies. Turkey jokes that he used a ginger-cake as a seal.",
+    "source": "Merriam-Webster, “stationery”, https://www.merriam-webster.com/dictionary/stationery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-085",
+    "anchor": "a conveyancer and title hunter",
+    "layer": "vocab",
+    "note": "Conveyancer: a lawyer who prepares documents that transfer property. Title hunter: one who traces who owns land.",
+    "source": "Merriam-Webster, “conveyancer”, https://www.merriam-webster.com/dictionary/conveyancer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-086",
+    "anchor": "drawer-up of recondite documents",
+    "layer": "vocab",
+    "note": "Recondite: hard to understand, known only to experts.",
+    "source": "Merriam-Webster, “recondite”, https://www.merriam-webster.com/dictionary/recondite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-087",
+    "anchor": "a motionless young man",
+    "layer": "vocab",
+    "note": "Motionless: not moving at all, perfectly still.",
+    "source": "Merriam-Webster, “motionless”, https://www.merriam-webster.com/dictionary/motionless",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-088",
+    "anchor": "pallidly neat, pitiably respectable, incurably forlorn",
+    "layer": "vocab",
+    "note": "Pallidly: in a pale, lifeless way. Forlorn: sad and abandoned.",
+    "source": "Merriam-Webster, “pallidly”, https://www.merriam-webster.com/dictionary/pallidly; Merriam-Webster, “forlorn”, https://www.merriam-webster.com/dictionary/forlorn",
+    "status": "draft",
+    "checker": null
+  }
+]

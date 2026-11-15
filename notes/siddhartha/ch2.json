@@ -1,0 +1,405 @@
+[
+  {
+    "id": "ch2-001",
+    "anchor": "the skinny Samanas",
+    "layer": "history",
+    "note": "Samanas were wandering ascetics of ancient India. They gave up family and possessions and used fasting, pain, and meditation to seek release.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha; Merriam-Webster, “sramana”, https://www.merriam-webster.com/dictionary/sramana",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-002",
+    "anchor": "the loincloth",
+    "layer": "vocab",
+    "note": "Loincloth: a cloth worn around the hips as one’s only clothing.",
+    "source": "Merriam-Webster, “loincloth”, https://www.merriam-webster.com/dictionary/loincloth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-003",
+    "anchor": "He fasted for fifteen days",
+    "layer": "vocab",
+    "note": "Fasted: went without food on purpose, as a religious practice.",
+    "source": "Merriam-Webster, “fast”, https://www.merriam-webster.com/dictionary/fast",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-004",
+    "anchor": "The flesh waned from his thighs",
+    "layer": "vocab",
+    "note": "Waned: grew smaller and weaker, as the moon does.",
+    "source": "Merriam-Webster, “wane”, https://www.merriam-webster.com/dictionary/wane",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-005",
+    "anchor": "on his parched fingers",
+    "layer": "vocab",
+    "note": "Parched: dried out from lack of water.",
+    "source": "Merriam-Webster, “parched”, https://www.merriam-webster.com/dictionary/parched",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-006",
+    "anchor": "his mouth twitched with contempt",
+    "layer": "vocab",
+    "note": "Contempt: a feeling that something is worthless and beneath one.",
+    "source": "Merriam-Webster, “contempt”, https://www.merriam-webster.com/dictionary/contempt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-007",
+    "anchor": "determining the most suitable day for seeding",
+    "layer": "vocab",
+    "note": "Seeding: planting seed for a crop.",
+    "source": "Merriam-Webster, “seeding”, https://www.merriam-webster.com/dictionary/seeding",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-008",
+    "anchor": "concealed putrefaction",
+    "layer": "vocab",
+    "note": "Putrefaction: the rotting of something dead.",
+    "source": "Merriam-Webster, “putrefaction”, https://www.merriam-webster.com/dictionary/putrefaction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-009",
+    "anchor": "to find tranquility with an emptied heart",
+    "layer": "vocab",
+    "note": "Tranquility: a state of peace and calm.",
+    "source": "Merriam-Webster, “tranquility”, https://www.merriam-webster.com/dictionary/tranquility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-010",
+    "anchor": "and the penitent stood there",
+    "layer": "vocab",
+    "note": "Penitent: a person who does hard penance to make up for sin.",
+    "source": "Merriam-Webster, “penitent”, https://www.merriam-webster.com/dictionary/penitent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-011",
+    "anchor": "Silently, he cowered in the thorny bushes",
+    "layer": "vocab",
+    "note": "Cowered: crouched down, shrinking away.",
+    "source": "Merriam-Webster, “cower”, https://www.merriam-webster.com/dictionary/cower",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-012",
+    "anchor": "from festering wounds dripped pus",
+    "layer": "vocab",
+    "note": "Festering: forming pus and rotting.",
+    "source": "Merriam-Webster, “fester”, https://www.merriam-webster.com/dictionary/fester",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-013",
+    "anchor": "learned to breathe sparingly",
+    "layer": "vocab",
+    "note": "Sparingly: in small amounts, with great economy.",
+    "source": "Merriam-Webster, “sparingly”, https://www.merriam-webster.com/dictionary/sparingly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-014",
+    "anchor": "A heron flew over the bamboo forest",
+    "layer": "vocab",
+    "note": "Heron: a tall wading bird with a long neck and legs that eats fish.",
+    "source": "Merriam-Webster, “heron”, https://www.merriam-webster.com/dictionary/heron",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-015",
+    "anchor": "got bloated, stank",
+    "layer": "vocab",
+    "note": "Bloated: swollen up with gas.",
+    "source": "Merriam-Webster, “bloated”, https://www.merriam-webster.com/dictionary/bloated",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-016",
+    "anchor": "was dismembered by hyaenas",
+    "layer": "vocab",
+    "note": "Hyaenas: strong, doglike animals of Africa and Asia that eat dead flesh.",
+    "source": "Merriam-Webster, “hyena”, https://www.merriam-webster.com/dictionary/hyena",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-017",
+    "anchor": "was skinned by vultures",
+    "layer": "vocab",
+    "note": "Vultures: large birds that feed on the bodies of dead animals.",
+    "source": "Merriam-Webster, “vulture”, https://www.merriam-webster.com/dictionary/vulture",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-018",
+    "anchor": "had tasted the gloomy intoxication of the cycle",
+    "layer": "history",
+    "note": "The “cycle” is samsara, the endless round of birth, death, and rebirth in Indian belief. Release from it is the goal.",
+    "source": "Merriam-Webster, “samsara”, https://www.merriam-webster.com/dictionary/samsara",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-019",
+    "anchor": "was an animal, was carrion",
+    "layer": "vocab",
+    "note": "Carrion: the dead, rotting flesh of an animal.",
+    "source": "Merriam-Webster, “carrion”, https://www.merriam-webster.com/dictionary/carrion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-020",
+    "anchor": "void of all conceptions",
+    "layer": "vocab",
+    "note": "Void: completely empty, containing nothing at all.",
+    "source": "Merriam-Webster, “void”, https://www.merriam-webster.com/dictionary/void",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-021",
+    "anchor": "the return was inevitable",
+    "layer": "vocab",
+    "note": "Inevitable: certain to happen, impossible to avoid.",
+    "source": "Merriam-Webster, “inevitable”, https://www.merriam-webster.com/dictionary/inevitable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-022",
+    "anchor": "inescapable was the hour",
+    "layer": "vocab",
+    "note": "Inescapable: impossible to flee from.",
+    "source": "Merriam-Webster, “inescapable”, https://www.merriam-webster.com/dictionary/inescapable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-023",
+    "anchor": "among carters and gamblers",
+    "layer": "vocab",
+    "note": "Carters: men who drive carts for hire.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-024",
+    "anchor": "a short escape of the agony of being a self",
+    "layer": "vocab",
+    "note": "Agony: extreme pain of body or mind.",
+    "source": "Merriam-Webster, “agony”, https://www.merriam-webster.com/dictionary/agony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-025",
+    "anchor": "short numbing of the senses against",
+    "layer": "vocab",
+    "note": "Numbing: making unable to feel.",
+    "source": "Merriam-Webster, “numbing”, https://www.merriam-webster.com/dictionary/numbing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-026",
+    "anchor": "drinking a few bowls of rice-wine",
+    "layer": "vocab",
+    "note": "Rice-wine: an alcoholic drink brewed from fermented rice.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-027",
+    "anchor": "has gathered no enlightenment",
+    "layer": "vocab",
+    "note": "Enlightenment: deep spiritual understanding and wisdom.",
+    "source": "Merriam-Webster, “enlightenment”, https://www.merriam-webster.com/dictionary/enlightenment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-028",
+    "anchor": "a spiral, we have already ascended many a level",
+    "layer": "vocab",
+    "note": "Spiral: a curve that winds around a center, moving steadily upward or outward.",
+    "source": "Merriam-Webster, “spiral”, https://www.merriam-webster.com/dictionary/spiral",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-029",
+    "anchor": "He has lived for sixty years and has not reached the nirvana",
+    "layer": "history",
+    "note": "Nirvana, a Buddhist term, means release from the cycle of rebirth and the end of craving and suffering.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Nirvana”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nirvana; Merriam-Webster, “nirvana”, https://www.merriam-webster.com/dictionary/nirvana",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-030",
+    "anchor": "we learn feats, to deceive others",
+    "layer": "vocab",
+    "note": "Feats: remarkable acts of skill or strength.",
+    "source": "Merriam-Webster, “feat”, https://www.merriam-webster.com/dictionary/feat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-031",
+    "anchor": "among so many austere and venerable Samanas",
+    "layer": "vocab",
+    "note": "Austere: strict and severe in manner and way of life.",
+    "source": "Merriam-Webster, “austere”, https://www.merriam-webster.com/dictionary/austere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-032",
+    "anchor": "I have asked the holy Vedas",
+    "layer": "history",
+    "note": "The Vedas are the oldest sacred writings of the Hindus, collections of hymns, prayers, and rites.",
+    "source": "Merriam-Webster, “Veda”, https://www.merriam-webster.com/dictionary/Veda",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-033",
+    "anchor": "if I had asked the hornbill-bird",
+    "layer": "vocab",
+    "note": "Hornbill: a large tropical bird with a huge curved bill.",
+    "source": "Merriam-Webster, “hornbill”, https://www.merriam-webster.com/dictionary/hornbill",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-034",
+    "anchor": "what would become of the sanctity of prayer",
+    "layer": "vocab",
+    "note": "Sanctity: holiness, the quality of being sacred.",
+    "source": "Merriam-Webster, “sanctity”, https://www.merriam-webster.com/dictionary/sanctity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-035",
+    "anchor": "a verse from an Upanishad",
+    "layer": "vocab",
+    "note": "Upanishad: one of a group of ancient Indian texts about the soul and the universe.",
+    "source": "Merriam-Webster, “upanishad”, https://www.merriam-webster.com/dictionary/upanishad",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-036",
+    "anchor": "unexpressable by words",
+    "layer": "vocab",
+    "note": "Unexpressable: impossible to put into words.",
+    "source": "Merriam-Webster, “unexpressable”, https://www.merriam-webster.com/dictionary/unexpressable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-037",
+    "anchor": "Gotama by name, the exalted one, the Buddha",
+    "layer": "history",
+    "note": "Gotama was the family name of the historical Buddha, whose personal name was Siddhattha (Siddhartha). He is the founder of Buddhism.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-038",
+    "anchor": "with praise and with defamation",
+    "layer": "vocab",
+    "note": "Defamation: false talk that harms someone’s good name.",
+    "source": "Merriam-Webster, “defamation”, https://www.merriam-webster.com/dictionary/defamation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-039",
+    "anchor": "whose word and breath was enough to heal everyone who had been infected with the pestilence",
+    "layer": "vocab",
+    "note": "Pestilence: a deadly, spreading disease, a plague.",
+    "source": "Merriam-Webster, “pestilence”, https://www.merriam-webster.com/dictionary/pestilence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-040",
+    "anchor": "the wise man of the family of Sakya",
+    "layer": "history",
+    "note": "The Sakyas were a clan of northern India, ruled as a small republic. Gotama was born into this family.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha; Merriam-Webster, “Sakya”, https://www.merriam-webster.com/dictionary/Sakya",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-041",
+    "anchor": "neither exercises nor self-castigation",
+    "layer": "vocab",
+    "note": "Self-castigation: harsh punishment of oneself.",
+    "source": "Merriam-Webster, “self-castigation”, https://www.merriam-webster.com/dictionary/self-castigation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-042",
+    "anchor": "from Magadha, who has seen the Buddha",
+    "layer": "place",
+    "note": "Magadha was an ancient kingdom of northern India south of the Ganges River, where the Buddha taught.",
+    "source": "Merriam-Webster, “Magadha”, https://www.merriam-webster.com/dictionary/Magadha; Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-043",
+    "anchor": "subdued him under his own will",
+    "layer": "vocab",
+    "note": "Subdued: brought under control, overpowered.",
+    "source": "Merriam-Webster, “subdue”, https://www.merriam-webster.com/dictionary/subdue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-044",
+    "anchor": "his will was paralysed",
+    "layer": "vocab",
+    "note": "Paralysed: made unable to move or act.",
+    "source": "Merriam-Webster, “paralyzed”, https://www.merriam-webster.com/dictionary/paralyzed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-045",
+    "anchor": "went on their way with salutations",
+    "layer": "vocab",
+    "note": "Salutations: polite greetings or farewells.",
+    "source": "Merriam-Webster, “salutation”, https://www.merriam-webster.com/dictionary/salutation",
+    "status": "draft",
+    "checker": null
+  }
+]

@@ -17,7 +17,7 @@
   const textEl = document.getElementById('type-text');
   const input = document.getElementById('type-input');
   const q = 'book=' + bookId + '&ch=';
-  document.getElementById('title').textContent = book.unit + ' ' + ch;
+  document.getElementById('title').textContent = book.unit + ' ' + ch + (book.titles ? ': ' + book.titles[ch - 1] : '');
   document.querySelectorAll('.unit-lc').forEach(e => { e.textContent = book.unit.toLowerCase(); });
   document.getElementById('crumb-chapter').textContent = book.unit + ' ' + ch;
   document.title = book.title + ', ' + book.unit + ' ' + ch + ' · Type through · Open Margins';

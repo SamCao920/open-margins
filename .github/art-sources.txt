@@ -5,3 +5,6 @@ temeraire|The Fighting Temeraire, JMW Turner, National Gallery.jpg
 bookworm|Carl Spitzweg - "The Bookworm".jpg
 fragonard|search:Fragonard Young Girl Reading National Gallery of Art
 charon|search:Gustave Dore Inferno Canto III Charon herds the sinners onto his boat
+kramskoi|search:Kramskoi Inconsolable Grief
+wallst|search:Wall Street Half Past Two October 13 1857 Cafferty Rosenberg
+ganges|search:Edwin Lord Weeks Benares

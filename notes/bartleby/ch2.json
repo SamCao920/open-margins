@@ -1,0 +1,531 @@
+[
+  {
+    "id": "ch2-001",
+    "anchor": "my corps of copyists",
+    "layer": "vocab",
+    "note": "Corps: a group of people working together, as in an army corps.",
+    "source": "Merriam-Webster, “corps”, https://www.merriam-webster.com/dictionary/corps",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-002",
+    "anchor": "so singularly sedate an aspect",
+    "layer": "vocab",
+    "note": "Sedate: calm, quiet, and serious.",
+    "source": "Merriam-Webster, “sedate”, https://www.merriam-webster.com/dictionary/sedate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-003",
+    "anchor": "operate beneficially",
+    "layer": "vocab",
+    "note": "Beneficially: in a helpful, good way.",
+    "source": "Merriam-Webster, “beneficially”, https://www.merriam-webster.com/dictionary/beneficially",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-004",
+    "anchor": "a lateral view of certain grimy back-yards",
+    "layer": "vocab",
+    "note": "Lateral: from the side, sideways.",
+    "source": "Merriam-Webster, “lateral”, https://www.merriam-webster.com/dictionary/lateral",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-005",
+    "anchor": "owing to subsequent erections",
+    "layer": "vocab",
+    "note": "Erections: here, buildings put up later.",
+    "source": "Merriam-Webster, “erection”, https://www.merriam-webster.com/dictionary/erection",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-006",
+    "anchor": "privacy and society were conjoined",
+    "layer": "vocab",
+    "note": "Conjoined: joined together, united as one.",
+    "source": "Merriam-Webster, “conjoined”, https://www.merriam-webster.com/dictionary/conjoined",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-007",
+    "anchor": "As if long famishing for something to copy",
+    "layer": "vocab",
+    "note": "Famishing: starving, suffering from great hunger.",
+    "source": "Merriam-Webster, “famish”, https://www.merriam-webster.com/dictionary/famish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-008",
+    "anchor": "he seemed to gorge himself",
+    "layer": "vocab",
+    "note": "Gorge: to stuff oneself with food.",
+    "source": "Merriam-Webster, “gorge”, https://www.merriam-webster.com/dictionary/gorge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-009",
+    "anchor": "I should have been quite delighted with his application",
+    "layer": "vocab",
+    "note": "Application: steady hard work and attention.",
+    "source": "Merriam-Webster, “application”, https://www.merriam-webster.com/dictionary/application",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-010",
+    "anchor": "a very dull, wearisome, and lethargic affair",
+    "layer": "vocab",
+    "note": "Lethargic: slow, sleepy, and without energy.",
+    "source": "Merriam-Webster, “lethargic”, https://www.merriam-webster.com/dictionary/lethargic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-011",
+    "anchor": "to some sanguine temperaments",
+    "layer": "vocab",
+    "note": "Sanguine: hopeful and cheerful by nature.",
+    "source": "Merriam-Webster, “sanguine”, https://www.merriam-webster.com/dictionary/sanguine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-012",
+    "anchor": "the mettlesome poet Byron",
+    "layer": "allusion",
+    "note": "Lord Byron (1788–1824) was a famous English poet. “Mettlesome” means spirited and full of fire.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Byron, George Gordon Byron, 6th Baron”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Byron%2C_George_Gordon_Byron%2C_6th_Baron",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-013",
+    "anchor": "closely written in a crimpy hand",
+    "layer": "vocab",
+    "note": "Crimpy: tightly crowded and cramped.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-014",
+    "anchor": "Imagine my surprise, nay, my consternation",
+    "layer": "vocab",
+    "note": "Consternation: shock and alarm that leaves one confused.",
+    "source": "Merriam-Webster, “consternation”, https://www.merriam-webster.com/dictionary/consternation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-015",
+    "anchor": "rallying my stunned faculties",
+    "layer": "vocab",
+    "note": "Faculties: the powers of the mind, such as thinking and reasoning.",
+    "source": "Merriam-Webster, “faculty”, https://www.merriam-webster.com/dictionary/faculty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-016",
+    "anchor": "Are you moon-struck?",
+    "layer": "vocab",
+    "note": "Moon-struck: crazy, as if driven mad by the moon.",
+    "source": "Merriam-Webster, “moonstruck”, https://www.merriam-webster.com/dictionary/moonstruck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-017",
+    "anchor": "my pale plaster-of-paris bust of Cicero",
+    "layer": "allusion",
+    "note": "Cicero was a famous Roman orator, statesman, and writer. His works were admired for their beauty of style, so a lawyer might keep his bust.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Cicero”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cicero",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-018",
+    "anchor": "quadruplicates of a week’s testimony",
+    "layer": "vocab",
+    "note": "Quadruplicates: four identical copies of a document.",
+    "source": "Merriam-Webster, “quadruplicate”, https://www.merriam-webster.com/dictionary/quadruplicate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-019",
+    "anchor": "my High Court of Chancery",
+    "layer": "history",
+    "note": "Chancery was a court, headed in England by the lord chancellor, that decided cases by fairness (equity) rather than strict law.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Chancery”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Chancery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-020",
+    "anchor": "standing at the entrance of his hermitage",
+    "layer": "vocab",
+    "note": "Hermitage: the home of a hermit, a person who lives alone, far from others.",
+    "source": "Merriam-Webster, “hermitage”, https://www.merriam-webster.com/dictionary/hermitage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-021",
+    "anchor": "turned into a pillar of salt",
+    "layer": "allusion",
+    "note": "From the Bible: Lot’s wife looked back at the burning city of Sodom and became “a pillar of salt.”",
+    "source": "The Bible (King James Version), Genesis 19:26, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-022",
+    "anchor": "thrust him ignominiously from my presence",
+    "layer": "vocab",
+    "note": "Ignominiously: in a shameful, humiliating way.",
+    "source": "Merriam-Webster, “ignominiously”, https://www.merriam-webster.com/dictionary/ignominiously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-023",
+    "anchor": "touched and disconcerted me",
+    "layer": "vocab",
+    "note": "Disconcerted: upset and thrown off balance.",
+    "source": "Merriam-Webster, “disconcert”, https://www.merriam-webster.com/dictionary/disconcert",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-024",
+    "anchor": "could not gainsay the irresistible conclusions",
+    "layer": "vocab",
+    "note": "Gainsay: to deny or argue against.",
+    "source": "Merriam-Webster, “gainsay”, https://www.merriam-webster.com/dictionary/gainsay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-025",
+    "anchor": "some paramount consideration prevailed",
+    "layer": "vocab",
+    "note": "Paramount: more important than anything else.",
+    "source": "Merriam-Webster, “paramount”, https://www.merriam-webster.com/dictionary/paramount",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-026",
+    "anchor": "his decision was irreversible",
+    "layer": "vocab",
+    "note": "Irreversible: impossible to change back.",
+    "source": "Merriam-Webster, “irreversible”, https://www.merriam-webster.com/dictionary/irreversible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-027",
+    "anchor": "a man is browbeaten",
+    "layer": "vocab",
+    "note": "Browbeaten: bullied and frightened by harsh, stern talk.",
+    "source": "Merriam-Webster, “browbeat”, https://www.merriam-webster.com/dictionary/browbeat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-028",
+    "anchor": "in some unprecedented and violently unreasonable way",
+    "layer": "vocab",
+    "note": "Unprecedented: never done or known before.",
+    "source": "Merriam-Webster, “unprecedented”, https://www.merriam-webster.com/dictionary/unprecedented",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-029",
+    "anchor": "vaguely to surmise",
+    "layer": "vocab",
+    "note": "Surmise: to guess without proof.",
+    "source": "Merriam-Webster, “surmise”, https://www.merriam-webster.com/dictionary/surmise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-030",
+    "anchor": "if any disinterested persons are present",
+    "layer": "vocab",
+    "note": "Disinterested: having no personal stake, fair.",
+    "source": "Merriam-Webster, “disinterested”, https://www.merriam-webster.com/dictionary/disinterested",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-031",
+    "anchor": "some reinforcement for his own faltering mind",
+    "layer": "vocab",
+    "note": "Faltering: becoming weak and unsure.",
+    "source": "Merriam-Webster, “falter”, https://www.merriam-webster.com/dictionary/falter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-032",
+    "anchor": "to enlist the smallest suffrage in my behalf",
+    "layer": "vocab",
+    "note": "Suffrage: a vote, an expression of opinion.",
+    "source": "Merriam-Webster, “suffrage”, https://www.merriam-webster.com/dictionary/suffrage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-033",
+    "anchor": "a little luny",
+    "layer": "vocab",
+    "note": "Luny: a slang form of “loony,” meaning crazy.",
+    "source": "Merriam-Webster, “loony”, https://www.merriam-webster.com/dictionary/loony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-034",
+    "anchor": "But he vouchsafed no reply",
+    "layer": "vocab",
+    "note": "Vouchsafed: kindly allowed, deigned to give.",
+    "source": "Merriam-Webster, “vouchsafe”, https://www.merriam-webster.com/dictionary/vouchsafe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-035",
+    "anchor": "in sore perplexity",
+    "layer": "vocab",
+    "note": "Perplexity: confusion, not knowing what to think.",
+    "source": "Merriam-Webster, “perplexity”, https://www.merriam-webster.com/dictionary/perplexity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-036",
+    "anchor": "this dilemma",
+    "layer": "vocab",
+    "note": "Dilemma: a hard choice between two unpleasant options.",
+    "source": "Merriam-Webster, “dilemma”, https://www.merriam-webster.com/dictionary/dilemma",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-037",
+    "anchor": "Turkey deferentially dropped his opinion",
+    "layer": "vocab",
+    "note": "Deferentially: with polite respect for another’s opinion.",
+    "source": "Merriam-Webster, “deferentially”, https://www.merriam-webster.com/dictionary/deferentially",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-038",
+    "anchor": "with a dyspeptic nervousness",
+    "layer": "vocab",
+    "note": "Dyspeptic: having an upset stomach, and so cranky.",
+    "source": "Merriam-Webster, “dyspeptic”, https://www.merriam-webster.com/dictionary/dyspeptic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-039",
+    "anchor": "against the stubborn oaf",
+    "layer": "vocab",
+    "note": "Oaf: a clumsy, stupid person.",
+    "source": "Merriam-Webster, “oaf”, https://www.merriam-webster.com/dictionary/oaf",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-040",
+    "anchor": "oblivious to every thing but",
+    "layer": "vocab",
+    "note": "Oblivious: not noticing, unaware of what is around.",
+    "source": "Merriam-Webster, “oblivious”, https://www.merriam-webster.com/dictionary/oblivious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-041",
+    "anchor": "a perpetual sentry",
+    "layer": "vocab",
+    "note": "Sentry: a soldier who stands guard.",
+    "source": "Merriam-Webster, “sentry”, https://www.merriam-webster.com/dictionary/sentry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-042",
+    "anchor": "reveries concerning the probable effects",
+    "layer": "vocab",
+    "note": "Reveries: daydreams, dreamy and absent-minded thoughts.",
+    "source": "Merriam-Webster, “reverie”, https://www.merriam-webster.com/dictionary/reverie",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-043",
+    "anchor": "as a passive resistance",
+    "layer": "vocab",
+    "note": "Passive resistance: refusing to obey, without using force.",
+    "source": "Merriam-Webster, “passive resistance”, https://www.merriam-webster.com/dictionary/passive%20resistance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-044",
+    "anchor": "charitably to construe to his imagination",
+    "layer": "vocab",
+    "note": "Construe: to explain or interpret.",
+    "source": "Merriam-Webster, “construe”, https://www.merriam-webster.com/dictionary/construe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-045",
+    "anchor": "a sweet morsel for my conscience",
+    "layer": "vocab",
+    "note": "Morsel: a small, tasty piece of food.",
+    "source": "Merriam-Webster, “morsel”, https://www.merriam-webster.com/dictionary/morsel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-046",
+    "anchor": "strangely goaded on",
+    "layer": "vocab",
+    "note": "Goaded: urged on, provoked, as with a sharp stick.",
+    "source": "Merriam-Webster, “goad”, https://www.merriam-webster.com/dictionary/goad",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-047",
+    "anchor": "to elicit some angry spark",
+    "layer": "vocab",
+    "note": "Elicit: to draw out, to bring forth.",
+    "source": "Merriam-Webster, “elicit”, https://www.merriam-webster.com/dictionary/elicit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-048",
+    "anchor": "I might as well have essayed to strike fire",
+    "layer": "vocab",
+    "note": "Essayed: tried, attempted, made an effort at.",
+    "source": "Merriam-Webster, “essay”, https://www.merriam-webster.com/dictionary/essay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-049",
+    "anchor": "a bit of Windsor soap",
+    "layer": "vocab",
+    "note": "Windsor soap: a brown, scented soap made in England, very soft.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-050",
+    "anchor": "that mulish vagary",
+    "layer": "vocab",
+    "note": "Mulish: stubborn like a mule. Vagary: an odd, unreasonable notion.",
+    "source": "Merriam-Webster, “mulish”, https://www.merriam-webster.com/dictionary/mulish; Merriam-Webster, “vagary”, https://www.merriam-webster.com/dictionary/vagary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-051",
+    "anchor": "a pugilistic position",
+    "layer": "vocab",
+    "note": "Pugilistic: of boxing, with fists raised for a fight.",
+    "source": "Merriam-Webster, “pugilistic”, https://www.merriam-webster.com/dictionary/pugilistic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-052",
+    "anchor": "Turkey’s combativeness",
+    "layer": "vocab",
+    "note": "Combativeness: eagerness to fight, a quarrelsome nature.",
+    "source": "Merriam-Webster, “combativeness”, https://www.merriam-webster.com/dictionary/combativeness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-053",
+    "anchor": "additional incentives tempting me to my fate",
+    "layer": "vocab",
+    "note": "Incentives: things that move a person to act.",
+    "source": "Merriam-Webster, “incentive”, https://www.merriam-webster.com/dictionary/incentive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-054",
+    "anchor": "My blind inveteracy returned",
+    "layer": "vocab",
+    "note": "Inveteracy: fixed, stubborn habit that has lasted long.",
+    "source": "Merriam-Webster, “inveteracy”, https://www.merriam-webster.com/dictionary/inveteracy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-055",
+    "anchor": "this lean, penniless wight",
+    "layer": "vocab",
+    "note": "Wight: a person (an old word, often used jokingly).",
+    "source": "Merriam-Webster, “wight”, https://www.merriam-webster.com/dictionary/wight",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-056",
+    "anchor": "agreeably to the laws of magical invocation",
+    "layer": "vocab",
+    "note": "Invocation: the calling up of a spirit by magic words.",
+    "source": "Merriam-Webster, “invocation”, https://www.merriam-webster.com/dictionary/invocation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-057",
+    "anchor": "some terrible retribution very close at hand",
+    "layer": "vocab",
+    "note": "Retribution: punishment for a wrong.",
+    "source": "Merriam-Webster, “retribution”, https://www.merriam-webster.com/dictionary/retribution",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-058",
+    "anchor": "four cents a folio (one hundred words)",
+    "layer": "vocab",
+    "note": "Folio: here, a standard unit of copied text, counted at about one hundred words.",
+    "source": "Merriam-Webster, “folio”, https://www.merriam-webster.com/dictionary/folio",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-059",
+    "anchor": "he would refuse pointblank",
+    "layer": "vocab",
+    "note": "Pointblank: bluntly, directly, with no softening.",
+    "source": "Merriam-Webster, “point-blank”, https://www.merriam-webster.com/dictionary/point-blank",
+    "status": "draft",
+    "checker": null
+  }
+]

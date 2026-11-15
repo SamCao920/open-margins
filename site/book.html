@@ -52,6 +52,32 @@
     <figcaption><span class="plate-no">Frontispiece.</span> Gustave Doré, <em>Charon Herds the Sinners onto His Boat</em>, illustration for Dante’s <em>Inferno</em>, Canto III, 1861 (engraving). Public domain.</figcaption>
   </figure>
 
+  <figure class="plate book-frontispiece" id="frontispiece-ivan-ilyich" hidden>
+    <div class="plate-mount" style="max-width: 24rem; margin-left: auto; margin-right: auto;">
+      <img src="art/kramskoi-620.jpg" width="620" height="1022" loading="lazy"
+           alt="A widow in a long black dress stands in a dim drawing-room, pressing a handkerchief to her mouth, beside a coffin heaped with flowers.">
+    </div>
+    <figcaption><span class="plate-no">Frontispiece.</span> Ivan Kramskoi, <em>Inconsolable Grief</em>, 1884. Public domain.</figcaption>
+  </figure>
+
+  <figure class="plate book-frontispiece" id="frontispiece-bartleby" hidden>
+    <div class="plate-mount" style="max-width: 26rem; margin-left: auto; margin-right: auto;">
+      <img src="art/wallst-800.jpg" srcset="art/wallst-800.jpg 800w, art/wallst-1400.jpg 1400w"
+           sizes="(max-width: 700px) 90vw, 24rem" width="800" height="1012" loading="lazy"
+           alt="A crowd of men in top hats presses together on a Wall Street sidewalk under a stormy sky, with the spire of Trinity Church at the end of the street.">
+    </div>
+    <figcaption><span class="plate-no">Frontispiece.</span> James H. Cafferty and Charles G. Rosenberg, <em>Wall Street, Half Past Two, October 13, 1857</em>, 1858. Metropolitan Museum of Art; public domain.</figcaption>
+  </figure>
+
+  <figure class="plate book-frontispiece" id="frontispiece-siddhartha" hidden>
+    <div class="plate-mount">
+      <img src="art/ganges-800.jpg" srcset="art/ganges-800.jpg 800w, art/ganges-1000.jpg 1000w"
+           sizes="(max-width: 700px) 90vw, 36rem" width="800" height="546" loading="lazy"
+           alt="Boats float on the Ganges in front of the tall stone buildings and temples of Benares under a deep blue sky, the water reflecting red and gold.">
+    </div>
+    <figcaption><span class="plate-no">Frontispiece.</span> Edwin Lord Weeks, <em>The Barge of the Maharaja of Benares</em>. Public domain.</figcaption>
+  </figure>
+
   <h2 id="contents-head">Contents</h2>
   <ol class="contents" id="toc"></ol>
   <p class="type-pointer" id="type-pointer"></p>
@@ -68,13 +94,13 @@
   document.getElementById('crumb-book').textContent = b.title;
   const cover = document.getElementById('cover');
   cover.style.setProperty('--cloth', b.cloth);
-  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.title.length > 10 ? ' long' : '') + '">' + b.title.replace(/ of /, ' of<br>') + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
+  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.coverClass ? ' ' + b.coverClass : b.title.length > 20 ? ' xlong' : b.title.length > 10 ? ' long' : '') + '">' + (b.coverTitle || b.title.replace(/ of /, ' of<br>')) + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
   document.getElementById('book-title').textContent = b.title;
   document.getElementById('book-by').innerHTML = b.sub + ' \u00b7 by <em>' + b.author + '</em> \u00b7 ' + b.year;
   document.getElementById('book-blurb').textContent = b.blurb;
-  document.getElementById('frontispiece-' + bookId).hidden = false;
-  document.getElementById('type-pointer').innerHTML = 'Want to learn Conrad\u2019s diction by hand? <a href="type.html?book=' + bookId + '&amp;ch=1">Type through the book</a>, a ' + unit + ' at a time; each ' + unit + ' has a <em>Type</em> button.';
-  document.getElementById('book-foot').innerHTML = 'Text: Project Gutenberg eBook #' + b.gutenberg + ', public domain.' +
+  const fr = document.getElementById('frontispiece-' + bookId); if (fr) fr.hidden = false;
+  document.getElementById('type-pointer').innerHTML = ((b.translator || b.translated) ? 'Want to learn the prose by hand? ' : 'Want to learn ' + b.author.split(' ').pop() + '\u2019s diction by hand? ') + '<a href="type.html?book=' + bookId + '&amp;ch=1">Type through the book</a>, a ' + unit + ' at a time; each ' + unit + ' has a <em>Type</em> button.';
+  document.getElementById('book-foot').innerHTML = 'Text: ' + (b.translator ? 'translated by ' + b.translator + ', ' : '') + 'Project Gutenberg eBook #' + b.gutenberg + ', public domain.' +
     (bookId === 'lord-jim' ? ' The Author\u2019s Note (1917) is not included in the reader.' : '') +
     ' <a href="sources.html?book=' + bookId + '">Sources for the notes</a> \u00b7 <a href="index.html">Back to the library</a> \u00b7 <a href="https://github.com/samcao920/scholia">GitHub</a>.';
 </script>
@@ -84,7 +110,7 @@
   const toc = document.getElementById('toc');
   for (let n = 1; n <= b.chapters; n++) {
     const li = document.createElement('li');
-    li.innerHTML = '<span class="what"><a href="chapter.html?book=' + bookId + '&amp;ch=' + n + '">' + b.unit + ' ' + n + '</a></span>';
+    li.innerHTML = '<span class="what"><a href="chapter.html?book=' + bookId + '&amp;ch=' + n + '">' + b.unit + ' ' + n + (b.titles ? ': ' + b.titles[n - 1] : '') + '</a></span>';
     toc.appendChild(li);
   }
 </script>
