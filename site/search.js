@@ -11,7 +11,7 @@
 (function () {
   'use strict';
 
-  const BOOKS = { 'lord-jim': { title: 'Lord Jim', chapters: 45 } };
+  const BOOKS = window.OMBOOKS;
   const STOP = new Set(('a an and are as at be but by for from had has have he her his i in is it its me my of on or ' +
     'she so that the their them there they this to was we were what when which who will with you').split(' '));
 
@@ -203,15 +203,15 @@
       let html = '';
       if (p.fixes.length) html += '<p class="search-meta">Showing results for ' + p.fixes.map(([a, b]) => '<em>' + esc(b) + '</em> (not “' + esc(a) + '”)').join(', ') + '.</p>';
       html += '<p class="search-meta">' + (partial ? 'No passage has every word; closest matches. ' : '') +
-        results.length + (results.length === 1 ? ' match' : ' matches') + ' in ' + chs.size + (chs.size === 1 ? ' chapter' : ' chapters') + '.</p><ol class="search-list">';
+        results.length + (results.length === 1 ? ' match' : ' matches') + ' in ' + chs.size + ' ' + book.unit.toLowerCase() + (chs.size === 1 ? '' : 's') + '.</p><ol class="search-list">';
       results.slice(0, shown).forEach(r => {
         const d = r.d;
-        const here = opts.chapter === d.ch ? ' <span class="here">this chapter</span>' : '';
+        const here = opts.chapter === d.ch ? ' <span class="here">this ' + book.unit.toLowerCase() + '</span>' : '';
         if (d.kind === 'text') {
-          html += '<li><a href="' + chapterHref(d.ch, d.para, q) + '"><span class="where">Chapter ' + d.ch + here + '</span>' +
+          html += '<li><a href="' + chapterHref(d.ch, d.para, q) + '"><span class="where">' + book.unit + ' ' + d.ch + here + '</span>' +
             '<span class="snip">' + snippet(d.text, r.hits, 220) + '</span></a></li>';
         } else {
-          html += '<li class="note-hit"><a href="' + chapterHref(d.ch, null, q) + '"><span class="where">Note · Chapter ' + d.ch + here + '</span>' +
+          html += '<li class="note-hit"><a href="' + chapterHref(d.ch, null, q) + '"><span class="where">Note · ' + book.unit + ' ' + d.ch + here + '</span>' +
             '<span class="snip">' + snippet(d.text, r.hits, 220) + '</span></a></li>';
         }
       });

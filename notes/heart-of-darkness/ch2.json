@@ -1,0 +1,1446 @@
+[
+  {
+    "id": "ch2-001",
+    "anchor": "I don’t like to be dictated to",
+    "layer": "vocab",
+    "note": "Dictated to: told what to do by someone with authority.",
+    "source": "Merriam-Webster, “dictate”, https://www.merriam-webster.com/dictionary/dictate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-002",
+    "anchor": "made several bizarre remarks",
+    "layer": "vocab",
+    "note": "Bizarre: very odd and strange.",
+    "source": "Merriam-Webster, “bizarre”, https://www.merriam-webster.com/dictionary/bizarre",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-003",
+    "anchor": "got the better of my drowsiness",
+    "layer": "vocab",
+    "note": "Drowsiness: a sleepy, heavy feeling.",
+    "source": "Merriam-Webster, “drowsiness”, https://www.merriam-webster.com/dictionary/drowsiness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-004",
+    "anchor": "Can you imagine such impudence!",
+    "layer": "vocab",
+    "note": "Impudence: rude, shameless boldness toward a superior.",
+    "source": "Merriam-Webster, “impudence”, https://www.merriam-webster.com/dictionary/impudence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-005",
+    "anchor": "asked the other hoarsely",
+    "layer": "vocab",
+    "note": "Hoarsely: in a rough, harsh voice.",
+    "source": "Merriam-Webster, “hoarsely”, https://www.merriam-webster.com/dictionary/hoarsely",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-006",
+    "anchor": "‘Invoice,’",
+    "layer": "vocab",
+    "note": "Invoice: a bill listing goods sent and their price.",
+    "source": "Merriam-Webster, “invoice”, https://www.merriam-webster.com/dictionary/invoice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-007",
+    "anchor": "having no inducement to change my position",
+    "layer": "vocab",
+    "note": "Inducement: a reason that makes someone act.",
+    "source": "Merriam-Webster, “inducement”, https://www.merriam-webster.com/dictionary/inducement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-008",
+    "anchor": "in a small dugout",
+    "layer": "vocab",
+    "note": "Dugout: a canoe made by hollowing out a large log.",
+    "source": "Merriam-Webster, “dugout”, https://www.merriam-webster.com/dictionary/dugout",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-009",
+    "anchor": "great prudence and pluck",
+    "layer": "vocab",
+    "note": "Prudence: careful good sense. Pluck: courage.",
+    "source": "Merriam-Webster, “prudence”, https://www.merriam-webster.com/dictionary/prudence; Merriam-Webster, “pluck”, https://www.merriam-webster.com/dictionary/pluck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-010",
+    "anchor": "a pestilential fellow",
+    "layer": "vocab",
+    "note": "Pestilential: deadly, or just very annoying.",
+    "source": "Merriam-Webster, “pestilential”, https://www.merriam-webster.com/dictionary/pestilential",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-011",
+    "anchor": "the pestiferous absurdity of his talk",
+    "layer": "vocab",
+    "note": "Pestiferous: troublesome, annoying, and harmful.",
+    "source": "Merriam-Webster, “pestiferous”, https://www.merriam-webster.com/dictionary/pestiferous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-012",
+    "anchor": "like a beacon on the road",
+    "layer": "vocab",
+    "note": "Beacon: a signal fire or light that guides travelers.",
+    "source": "Merriam-Webster, “beacon”, https://www.merriam-webster.com/dictionary/beacon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-013",
+    "anchor": "his sagacious relative",
+    "layer": "vocab",
+    "note": "Sagacious: wise, shrewd, and quick to understand.",
+    "source": "Merriam-Webster, “sagacious”, https://www.merriam-webster.com/dictionary/sagacious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-014",
+    "anchor": "his short flipper of an arm",
+    "layer": "vocab",
+    "note": "Flipper: a broad flat limb of a sea animal, used for swimming.",
+    "source": "Merriam-Webster, “flipper”, https://www.merriam-webster.com/dictionary/flipper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-015",
+    "anchor": "a dishonouring flourish",
+    "layer": "vocab",
+    "note": "Flourish: a grand, showy sweep of the hand.",
+    "source": "Merriam-Webster, “flourish”, https://www.merriam-webster.com/dictionary/flourish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-016",
+    "anchor": "to the lurking death",
+    "layer": "vocab",
+    "note": "Lurking: waiting out of sight, ready to strike.",
+    "source": "Merriam-Webster, “lurk”, https://www.merriam-webster.com/dictionary/lurk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-017",
+    "anchor": "an impenetrable forest",
+    "layer": "vocab",
+    "note": "Impenetrable: too thick to be passed through.",
+    "source": "Merriam-Webster, “impenetrable”, https://www.merriam-webster.com/dictionary/impenetrable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-018",
+    "anchor": "warm, thick, heavy, sluggish",
+    "layer": "vocab",
+    "note": "Sluggish: slow-moving and lacking energy.",
+    "source": "Merriam-Webster, “sluggish”, https://www.merriam-webster.com/dictionary/sluggish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-019",
+    "anchor": "butted all day long against shoals",
+    "layer": "vocab",
+    "note": "Shoals: shallow places where sand or rock lies near the surface.",
+    "source": "Merriam-Webster, “shoal”, https://www.merriam-webster.com/dictionary/shoal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-020",
+    "anchor": "an implacable force",
+    "layer": "vocab",
+    "note": "Implacable: that cannot be soothed or turned aside.",
+    "source": "Merriam-Webster, “implacable”, https://www.merriam-webster.com/dictionary/implacable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-021",
+    "anchor": "a vengeful aspect",
+    "layer": "vocab",
+    "note": "Vengeful: eager to take revenge.",
+    "source": "Merriam-Webster, “vengeful”, https://www.merriam-webster.com/dictionary/vengeful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-022",
+    "anchor": "to discern, mostly by inspiration",
+    "layer": "vocab",
+    "note": "Discern: to see or recognize with difficulty.",
+    "source": "Merriam-Webster, “discern”, https://www.merriam-webster.com/dictionary/discern",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-023",
+    "anchor": "I shaved by a fluke",
+    "layer": "vocab",
+    "note": "Shaved by a fluke: just missed by a stroke of luck.",
+    "source": "Merriam-Webster, “fluke”, https://www.merriam-webster.com/dictionary/fluke",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-024",
+    "anchor": "sly old snag",
+    "layer": "vocab",
+    "note": "Snag: a tree or branch stuck in a river bed, dangerous to boats.",
+    "source": "Merriam-Webster, “snag”, https://www.merriam-webster.com/dictionary/snag",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-025",
+    "anchor": "half-a-crown a tumble",
+    "layer": "vocab",
+    "note": "Half-a-crown: a British coin worth two shillings and sixpence.",
+    "source": "Merriam-Webster, “half crown”, https://www.merriam-webster.com/dictionary/half%20crown",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-026",
+    "anchor": "drive a van over a bad road",
+    "layer": "vocab",
+    "note": "Van: a covered wagon for carrying goods.",
+    "source": "Merriam-Webster, “van”, https://www.merriam-webster.com/dictionary/van",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-027",
+    "anchor": "the unpardonable sin",
+    "layer": "vocab",
+    "note": "Unpardonable: too serious to be forgiven.",
+    "source": "Merriam-Webster, “unpardonable”, https://www.merriam-webster.com/dictionary/unpardonable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-028",
+    "anchor": "a tumble-down hovel",
+    "layer": "vocab",
+    "note": "Tumble-down: ready to fall apart from age.",
+    "source": "Merriam-Webster, “tumbledown”, https://www.merriam-webster.com/dictionary/tumbledown",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-029",
+    "anchor": "reverberating in hollow claps",
+    "layer": "vocab",
+    "note": "Reverberating: echoing back again and again.",
+    "source": "Merriam-Webster, “reverberate”, https://www.merriam-webster.com/dictionary/reverberate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-030",
+    "anchor": "the ponderous beat of the stern-wheel",
+    "layer": "vocab",
+    "note": "Stern-wheel: a paddle wheel at the back of a steamboat.",
+    "source": "Merriam-Webster, “stern wheel”, https://www.merriam-webster.com/dictionary/stern%20wheel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-031",
+    "anchor": "the little begrimed steamboat",
+    "layer": "vocab",
+    "note": "Begrimed: covered with dirt and soot.",
+    "source": "Merriam-Webster, “begrimed”, https://www.merriam-webster.com/dictionary/begrimed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-032",
+    "anchor": "a lofty portico",
+    "layer": "vocab",
+    "note": "Portico: a roofed porch held up by columns, at a building’s entrance.",
+    "source": "Merriam-Webster, “portico”, https://www.merriam-webster.com/dictionary/portico",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-033",
+    "anchor": "an accursed inheritance",
+    "layer": "vocab",
+    "note": "Accursed: lying under a curse, doomed.",
+    "source": "Merriam-Webster, “accursed”, https://www.merriam-webster.com/dictionary/accursed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-034",
+    "anchor": "the shackled form of a conquered monster",
+    "layer": "vocab",
+    "note": "Shackled: chained, held in irons.",
+    "source": "Merriam-Webster, “shackle”, https://www.merriam-webster.com/dictionary/shackle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-035",
+    "anchor": "white-lead and strips of woolen blanket",
+    "layer": "history",
+    "note": "White lead is a heavy lead paint that was used as a sealing paste. Marlow wraps it with wool strips around leaky steam pipes.",
+    "source": "Merriam-Webster, “white lead”, https://www.merriam-webster.com/dictionary/white%20lead",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-036",
+    "anchor": "as edifying as seeing a dog",
+    "layer": "vocab",
+    "note": "Edifying: improving, uplifting. Said here with irony.",
+    "source": "Merriam-Webster, “edify”, https://www.merriam-webster.com/dictionary/edify",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-037",
+    "anchor": "a parody of breeches",
+    "layer": "vocab",
+    "note": "Parody: a comic copy that makes fun of the original.",
+    "source": "Merriam-Webster, “parody”, https://www.merriam-webster.com/dictionary/parody",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-038",
+    "anchor": "evident effort of intrepidity",
+    "layer": "vocab",
+    "note": "Intrepidity: fearless courage in the face of danger.",
+    "source": "Merriam-Webster, “intrepid”, https://www.merriam-webster.com/dictionary/intrepid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-039",
+    "anchor": "a thrall to strange witchcraft",
+    "layer": "vocab",
+    "note": "Thrall: a person held in servitude, a slave.",
+    "source": "Merriam-Webster, “thrall”, https://www.merriam-webster.com/dictionary/thrall",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-040",
+    "anchor": "an impromptu charm",
+    "layer": "vocab",
+    "note": "Impromptu: made on the spot, without preparation.",
+    "source": "Merriam-Webster, “impromptu”, https://www.merriam-webster.com/dictionary/impromptu",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-041",
+    "anchor": "a hut of reeds",
+    "layer": "vocab",
+    "note": "Reeds: tall, slender water grasses with hollow stems.",
+    "source": "Merriam-Webster, “reed”, https://www.merriam-webster.com/dictionary/reed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-042",
+    "anchor": "When deciphered it said",
+    "layer": "vocab",
+    "note": "Deciphered: worked out the meaning of hard-to-read writing.",
+    "source": "Merriam-Webster, “decipher”, https://www.merriam-webster.com/dictionary/decipher",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-043",
+    "anchor": "it was illegible",
+    "layer": "vocab",
+    "note": "Illegible: too unclear to be read.",
+    "source": "Merriam-Webster, “illegible”, https://www.merriam-webster.com/dictionary/illegible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-044",
+    "anchor": "A torn curtain of red twill",
+    "layer": "vocab",
+    "note": "Twill: cloth woven with a pattern of fine diagonal lines.",
+    "source": "Merriam-Webster, “twill”, https://www.merriam-webster.com/dictionary/twill",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-045",
+    "anchor": "a state of extremely dirty softness",
+    "layer": "vocab",
+    "note": "Thumbed: worn soft by handling.",
+    "source": "Merriam-Webster, “thumb”, https://www.merriam-webster.com/dictionary/thumb",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-046",
+    "anchor": "Master in his Majesty’s Navy",
+    "layer": "history",
+    "note": "In the Royal Navy the master was the officer who navigated the ship and handled its sailing, under the captain’s orders.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Master of a ship-of-war”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-047",
+    "anchor": "the breaking strain of ships’ chains and tackle",
+    "layer": "vocab",
+    "note": "Breaking strain: the pull a chain or rope can bear before it snaps. Tackle: ropes and pulleys for lifting.",
+    "source": "Merriam-Webster, “tackle”, https://www.merriam-webster.com/dictionary/tackle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-048",
+    "anchor": "his talk of chains and purchases",
+    "layer": "vocab",
+    "note": "Purchases: ropes and pulleys arranged to give extra pulling power.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Purchase”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-049",
+    "anchor": "They were in cipher",
+    "layer": "vocab",
+    "note": "Cipher: a secret code, writing meant to be hard to read.",
+    "source": "Merriam-Webster, “cipher”, https://www.merriam-webster.com/dictionary/cipher",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-050",
+    "anchor": "an extravagant mystery",
+    "layer": "vocab",
+    "note": "Extravagant: going far beyond what is normal or reasonable.",
+    "source": "Merriam-Webster, “extravagant”, https://www.merriam-webster.com/dictionary/extravagant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-051",
+    "anchor": "looking back malevolently",
+    "layer": "vocab",
+    "note": "Malevolently: with spite and ill will.",
+    "source": "Merriam-Webster, “malevolent”, https://www.merriam-webster.com/dictionary/malevolent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-052",
+    "anchor": "with assumed innocence",
+    "layer": "vocab",
+    "note": "Assumed: put on, not real.",
+    "source": "Merriam-Webster, “assumed”, https://www.merriam-webster.com/dictionary/assumed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-053",
+    "anchor": "the stern-wheel flopped languidly",
+    "layer": "vocab",
+    "note": "Flopped: moved with a heavy, loose slap.",
+    "source": "Merriam-Webster, “flop”, https://www.merriam-webster.com/dictionary/flop",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-054",
+    "anchor": "a beautiful resignation",
+    "layer": "vocab",
+    "note": "Resignation: calm acceptance of what cannot be changed.",
+    "source": "Merriam-Webster, “resignation”, https://www.merriam-webster.com/dictionary/resignation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-055",
+    "anchor": "a mere futility",
+    "layer": "vocab",
+    "note": "Futility: uselessness, the quality of having no effect.",
+    "source": "Merriam-Webster, “futility”, https://www.merriam-webster.com/dictionary/futility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-056",
+    "anchor": "beyond my power of meddling",
+    "layer": "vocab",
+    "note": "Meddling: interfering in things that are not one’s business.",
+    "source": "Merriam-Webster, “meddle”, https://www.merriam-webster.com/dictionary/meddle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-057",
+    "anchor": "I brought up in the middle of the stream",
+    "layer": "vocab",
+    "note": "Brought up: came to a stop and anchored.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-058",
+    "anchor": "very warm and clammy",
+    "layer": "vocab",
+    "note": "Clammy: damp, sticky, and unpleasant to the touch.",
+    "source": "Merriam-Webster, “clammy”, https://www.merriam-webster.com/dictionary/clammy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-059",
+    "anchor": "sliding in greased grooves",
+    "layer": "vocab",
+    "note": "Grooves: narrow channels cut into a surface to guide something sliding.",
+    "source": "Merriam-Webster, “groove”, https://www.merriam-webster.com/dictionary/groove",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-060",
+    "anchor": "to be paid out again",
+    "layer": "vocab",
+    "note": "Paid out: let out gradually, as a rope or chain is.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-061",
+    "anchor": "soared slowly in the opaque air",
+    "layer": "vocab",
+    "note": "Opaque: not letting light through, cloudy.",
+    "source": "Merriam-Webster, “opaque”, https://www.merriam-webster.com/dictionary/opaque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-062",
+    "anchor": "modulated in savage discords",
+    "layer": "vocab",
+    "note": "Modulated: changed in pitch or tone. Discords: harsh, clashing sounds.",
+    "source": "Merriam-Webster, “modulate”, https://www.merriam-webster.com/dictionary/modulate; Merriam-Webster, “discord”, https://www.merriam-webster.com/dictionary/discord",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-063",
+    "anchor": "this tumultuous and mournful uproar",
+    "layer": "vocab",
+    "note": "Tumultuous: loud, wild, and disorderly.",
+    "source": "Merriam-Webster, “tumultuous”, https://www.merriam-webster.com/dictionary/tumultuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-064",
+    "anchor": "sidespring boots",
+    "layer": "vocab",
+    "note": "Sidespring boots: ankle boots with elastic panels in the sides.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-065",
+    "anchor": "to rush out incontinently",
+    "layer": "vocab",
+    "note": "Incontinently: at once, without any delay.",
+    "source": "Merriam-Webster, “incontinently”, https://www.merriam-webster.com/dictionary/incontinently",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-066",
+    "anchor": "Winchesters at ‘ready’",
+    "layer": "vocab",
+    "note": "Winchesters: repeating rifles made by the Winchester company.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-067",
+    "anchor": "to trip the anchor",
+    "layer": "vocab",
+    "note": "Trip the anchor: pull the anchor free of the river bottom.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Trip”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-068",
+    "anchor": "greatly discomposed",
+    "layer": "vocab",
+    "note": "Discomposed: upset, with calm and balance lost.",
+    "source": "Merriam-Webster, “discompose”, https://www.merriam-webster.com/dictionary/discompose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-069",
+    "anchor": "hair all done up artfully in oily ringlets",
+    "layer": "vocab",
+    "note": "Ringlets: long, curled locks of hair.",
+    "source": "Merriam-Webster, “ringlet”, https://www.merriam-webster.com/dictionary/ringlet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-070",
+    "anchor": "a bloodshot widening of his eyes",
+    "layer": "vocab",
+    "note": "Bloodshot: red from swollen blood vessels.",
+    "source": "Merriam-Webster, “bloodshot”, https://www.merriam-webster.com/dictionary/bloodshot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-071",
+    "anchor": "a shocking hullabaloo",
+    "layer": "vocab",
+    "note": "Hullabaloo: a loud, confused uproar.",
+    "source": "Merriam-Webster, “hullabaloo”, https://www.merriam-webster.com/dictionary/hullabaloo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-072",
+    "anchor": "a high-handed proceeding",
+    "layer": "vocab",
+    "note": "High-handed: using power in a bossy way, without asking anyone.",
+    "source": "Merriam-Webster, “high-handed”, https://www.merriam-webster.com/dictionary/high-handed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-073",
+    "anchor": "your precarious grip on existence",
+    "layer": "vocab",
+    "note": "Precarious: unsafe, likely to fail at any moment.",
+    "source": "Merriam-Webster, “precarious”, https://www.merriam-webster.com/dictionary/precarious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-074",
+    "anchor": "three pieces of brass wire",
+    "layer": "history",
+    "note": "On the middle and upper Congo, brass wire or rods served as money. The Company paid its crew in them, though there was nothing to buy.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Congo Free State”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congo_Free_State",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-075",
+    "anchor": "some more or less recondite reason",
+    "layer": "vocab",
+    "note": "Recondite: hard to understand, known to few.",
+    "source": "Merriam-Webster, “recondite”, https://www.merriam-webster.com/dictionary/recondite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-076",
+    "anchor": "a good tuck-in for once",
+    "layer": "vocab",
+    "note": "Tuck-in: a hearty meal, a good feed.",
+    "source": "Merriam-Webster, “tuck”, https://www.merriam-webster.com/dictionary/tuck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-077",
+    "anchor": "how unwholesome the pilgrims looked",
+    "layer": "vocab",
+    "note": "Unwholesome: unhealthy, looking sickly and not good for the body.",
+    "source": "Merriam-Webster, “unwholesome”, https://www.merriam-webster.com/dictionary/unwholesome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-078",
+    "anchor": "the preliminary trifling before the more serious onslaught",
+    "layer": "vocab",
+    "note": "Onslaught: a fierce, violent attack.",
+    "source": "Merriam-Webster, “onslaught”, https://www.merriam-webster.com/dictionary/onslaught",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-079",
+    "anchor": "an inexorable physical necessity",
+    "layer": "vocab",
+    "note": "Inexorable: relentless, impossible to stop or sway.",
+    "source": "Merriam-Webster, “inexorable”, https://www.merriam-webster.com/dictionary/inexorable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-080",
+    "anchor": "the perdition of one’s soul",
+    "layer": "vocab",
+    "note": "Perdition: eternal damnation, the loss of the soul.",
+    "source": "Merriam-Webster, “perdition”, https://www.merriam-webster.com/dictionary/perdition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-081",
+    "anchor": "no earthly reason for any kind of scruple",
+    "layer": "vocab",
+    "note": "Scruple: a doubt about whether an act is right.",
+    "source": "Merriam-Webster, “scruple”, https://www.merriam-webster.com/dictionary/scruple",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-082",
+    "anchor": "a hyena prowling",
+    "layer": "vocab",
+    "note": "Hyena: a doglike African animal that feeds on dead bodies.",
+    "source": "Merriam-Webster, “hyena”, https://www.merriam-webster.com/dictionary/hyena",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-083",
+    "anchor": "an unfathomable enigma",
+    "layer": "vocab",
+    "note": "Unfathomable: too deep to measure or understand.",
+    "source": "Merriam-Webster, “unfathomable”, https://www.merriam-webster.com/dictionary/unfathomable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-084",
+    "anchor": "I would be desolated",
+    "layer": "vocab",
+    "note": "Desolated: filled with grief, left miserable.",
+    "source": "Merriam-Webster, “desolate”, https://www.merriam-webster.com/dictionary/desolate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-085",
+    "anchor": "I must defer to your judgment",
+    "layer": "vocab",
+    "note": "Defer: to give way to another’s opinion out of respect.",
+    "source": "Merriam-Webster, “defer”, https://www.merriam-webster.com/dictionary/defer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-086",
+    "anchor": "an enchanted princess sleeping in a fabulous castle",
+    "layer": "allusion",
+    "note": "This is the fairy tale of Sleeping Beauty, a princess in an enchanted sleep, waked by a prince’s kiss.",
+    "source": "Merriam-Webster, “Sleeping Beauty”, https://www.merriam-webster.com/dictionary/Sleeping%20Beauty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-087",
+    "anchor": "the fierce character boding immediate hostile intention",
+    "layer": "vocab",
+    "note": "Boding: signaling that something is about to happen.",
+    "source": "Merriam-Webster, “bode”, https://www.merriam-webster.com/dictionary/bode",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-088",
+    "anchor": "The danger, if any, I expounded",
+    "layer": "vocab",
+    "note": "Expounded: explained in careful, full detail.",
+    "source": "Merriam-Webster, “expound”, https://www.merriam-webster.com/dictionary/expound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-089",
+    "anchor": "takes the form of apathy",
+    "layer": "vocab",
+    "note": "Apathy: lack of feeling or interest, numb indifference.",
+    "source": "Merriam-Webster, “apathy”, https://www.merriam-webster.com/dictionary/apathy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-090",
+    "anchor": "or even to revile me",
+    "layer": "vocab",
+    "note": "Revile: attack with insulting, abusive words.",
+    "source": "Merriam-Webster, “revile”, https://www.merriam-webster.com/dictionary/revile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-091",
+    "anchor": "an attempt at repulse",
+    "layer": "vocab",
+    "note": "Repulse: the driving back of an attacker.",
+    "source": "Merriam-Webster, “repulse”, https://www.merriam-webster.com/dictionary/repulse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-092",
+    "anchor": "We had just floundered and flopped round a bend",
+    "layer": "vocab",
+    "note": "Floundered: struggled clumsily forward, stumbling along.",
+    "source": "Merriam-Webster, “flounder”, https://www.merriam-webster.com/dictionary/flounder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-093",
+    "anchor": "a mere grassy hummock",
+    "layer": "vocab",
+    "note": "Hummock: a small rounded hill or mound.",
+    "source": "Merriam-Webster, “hummock”, https://www.merriam-webster.com/dictionary/hummock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-094",
+    "anchor": "the trees stood in serried ranks",
+    "layer": "vocab",
+    "note": "Serried: pressed close together in rows.",
+    "source": "Merriam-Webster, “serried”, https://www.merriam-webster.com/dictionary/serried",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-095",
+    "anchor": "I sheered her well inshore",
+    "layer": "vocab",
+    "note": "Sheered: steered the boat off to one side, toward the bank.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Sheer”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-096",
+    "anchor": "my hungry and forbearing friends",
+    "layer": "vocab",
+    "note": "Forbearing: patient and holding back, not striking out.",
+    "source": "Merriam-Webster, “forbearing”, https://www.merriam-webster.com/dictionary/forbearing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-097",
+    "anchor": "exactly like a decked scow",
+    "layer": "vocab",
+    "note": "Scow: a large, flat-bottomed boat with square ends.",
+    "source": "Merriam-Webster, “scow”, https://www.merriam-webster.com/dictionary/scow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-098",
+    "anchor": "supported on stanchions",
+    "layer": "vocab",
+    "note": "Stanchions: upright posts that hold up a roof or deck.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Stanchions”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-099",
+    "anchor": "a pilot-house",
+    "layer": "vocab",
+    "note": "Pilot-house: the small cabin where the steersman works the wheel.",
+    "source": "Merriam-Webster, “pilothouse”, https://www.merriam-webster.com/dictionary/pilothouse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-100",
+    "anchor": "a loaded Martini-Henry",
+    "layer": "history",
+    "note": "The Martini-Henry was a breech-loading rifle that became the British army’s service rifle about 1870. Explorers and traders also carried it.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Rifle”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Rifle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-101",
+    "anchor": "thought all the world of himself",
+    "layer": "vocab",
+    "note": "Thought all the world of himself: had a very high opinion of himself.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-102",
+    "anchor": "with no end of a swagger",
+    "layer": "vocab",
+    "note": "Swagger: a proud, showy way of walking and acting.",
+    "source": "Merriam-Webster, “swagger”, https://www.merriam-webster.com/dictionary/swagger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-103",
+    "anchor": "champing his mouth",
+    "layer": "vocab",
+    "note": "Champing: biting at something, grinding the teeth.",
+    "source": "Merriam-Webster, “champ”, https://www.merriam-webster.com/dictionary/champ",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-104",
+    "anchor": "like a reined-in horse",
+    "layer": "vocab",
+    "note": "Reined-in: held back by the straps of the bridle.",
+    "source": "Merriam-Webster, “rein in”, https://www.merriam-webster.com/dictionary/rein%20in",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-105",
+    "anchor": "A fusillade burst out under my feet",
+    "layer": "vocab",
+    "note": "Fusillade: many guns firing at once or in quick bursts.",
+    "source": "Merriam-Webster, “fusillade”, https://www.merriam-webster.com/dictionary/fusillade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-106",
+    "anchor": "distinct, incomplete, evanescent",
+    "layer": "vocab",
+    "note": "Evanescent: quickly fading away, like vapor.",
+    "source": "Merriam-Webster, “evanescent”, https://www.merriam-webster.com/dictionary/evanescent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-107",
+    "anchor": "a frightful gash",
+    "layer": "vocab",
+    "note": "Gash: a long, deep cut.",
+    "source": "Merriam-Webster, “gash”, https://www.merriam-webster.com/dictionary/gash",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-108",
+    "anchor": "an amazing lustre",
+    "layer": "vocab",
+    "note": "Lustre: a soft shine or glow.",
+    "source": "Merriam-Webster, “luster”, https://www.merriam-webster.com/dictionary/luster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-109",
+    "anchor": "I put the helm hard a-starboard",
+    "layer": "vocab",
+    "note": "A-starboard: to the right side of the ship. Hard a-starboard means turn the wheel as far right as it goes.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Starboard”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-110",
+    "anchor": "his lustrous and inquiring glance",
+    "layer": "vocab",
+    "note": "Lustrous: shining softly, with a gentle glow.",
+    "source": "Merriam-Webster, “lustrous”, https://www.merriam-webster.com/dictionary/lustrous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-111",
+    "anchor": "He looked very dubious",
+    "layer": "vocab",
+    "note": "Dubious: doubtful, not at all sure about something.",
+    "source": "Merriam-Webster, “dubious”, https://www.merriam-webster.com/dictionary/dubious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-112",
+    "anchor": "bartered, swindled, or stolen",
+    "layer": "vocab",
+    "note": "Bartered: traded goods for other goods, without using money.",
+    "source": "Merriam-Webster, “barter”, https://www.merriam-webster.com/dictionary/barter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-113",
+    "anchor": "that stood out preeminently",
+    "layer": "vocab",
+    "note": "Preeminently: above all others, most of all.",
+    "source": "Merriam-Webster, “preeminently”, https://www.merriam-webster.com/dictionary/preeminently",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-114",
+    "anchor": "the pulsating stream of light",
+    "layer": "vocab",
+    "note": "Pulsating: beating or throbbing in a steady rhythm.",
+    "source": "Merriam-Webster, “pulsating”, https://www.merriam-webster.com/dictionary/pulsating",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-115",
+    "anchor": "the deceitful flow",
+    "layer": "vocab",
+    "note": "Deceitful: meant to trick and mislead.",
+    "source": "Merriam-Webster, “deceitful”, https://www.merriam-webster.com/dictionary/deceitful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-116",
+    "anchor": "each moored with two good addresses",
+    "layer": "vocab",
+    "note": "Moored: held in place by lines or anchors, as a ship is.",
+    "source": "Merriam-Webster, “moor”, https://www.merriam-webster.com/dictionary/moor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-117",
+    "anchor": "proud of my fortitude",
+    "layer": "vocab",
+    "note": "Fortitude: strength of mind that bears pain or trouble bravely.",
+    "source": "Merriam-Webster, “fortitude”, https://www.merriam-webster.com/dictionary/fortitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-118",
+    "anchor": "the inestimable privilege",
+    "layer": "vocab",
+    "note": "Inestimable: too valuable to be measured.",
+    "source": "Merriam-Webster, “inestimable”, https://www.merriam-webster.com/dictionary/inestimable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-119",
+    "anchor": "impalpable, like a dying vibration",
+    "layer": "vocab",
+    "note": "Impalpable: too faint or fine to be felt or grasped.",
+    "source": "Merriam-Webster, “impalpable”, https://www.merriam-webster.com/dictionary/impalpable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-120",
+    "anchor": "silly, atrocious, sordid, savage",
+    "layer": "vocab",
+    "note": "Atrocious: horribly cruel or very bad.",
+    "source": "Merriam-Webster, “atrocious”, https://www.merriam-webster.com/dictionary/atrocious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-121",
+    "anchor": "the disinterred body of Mr. Kurtz",
+    "layer": "vocab",
+    "note": "Disinterred: dug up out of the grave.",
+    "source": "Merriam-Webster, “disinter”, https://www.merriam-webster.com/dictionary/disinter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-122",
+    "anchor": "saying, ‘My Intended.’",
+    "layer": "vocab",
+    "note": "Intended: the person someone is engaged to marry.",
+    "source": "Merriam-Webster, “intended”, https://www.merriam-webster.com/dictionary/intended",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-123",
+    "anchor": "its spoiled and pampered favourite",
+    "layer": "vocab",
+    "note": "Pampered: treated with too much kindness and indulgence.",
+    "source": "Merriam-Webster, “pamper”, https://www.merriam-webster.com/dictionary/pamper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-124",
+    "anchor": "‘Mostly fossil,’",
+    "layer": "history",
+    "note": "Fossil ivory is ivory buried long enough to turn yellowish or dark. The manager calls Kurtz’s ivory “fossil” in a disparaging tone.",
+    "source": "Merriam-Webster, “fossil ivory”, https://www.merriam-webster.com/dictionary/fossil%20ivory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-125",
+    "anchor": "remarked, disparagingly",
+    "layer": "vocab",
+    "note": "Disparagingly: in a way that belittles something.",
+    "source": "Merriam-Webster, “disparagingly”, https://www.merriam-webster.com/dictionary/disparagingly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-126",
+    "anchor": "a prodigious peal of laughter",
+    "layer": "vocab",
+    "note": "Prodigious: enormous, amazing in size.",
+    "source": "Merriam-Webster, “prodigious”, https://www.merriam-webster.com/dictionary/prodigious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-127",
+    "anchor": "a man’s untrammelled feet",
+    "layer": "vocab",
+    "note": "Untrammelled: free, not held back by any limits.",
+    "source": "Merriam-Webster, “untrammeled”, https://www.merriam-webster.com/dictionary/untrammeled",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-128",
+    "anchor": "not be contaminated",
+    "layer": "vocab",
+    "note": "Contaminated: made impure or unclean.",
+    "source": "Merriam-Webster, “contaminate”, https://www.merriam-webster.com/dictionary/contaminate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-129",
+    "anchor": "the digging of unostentatious holes",
+    "layer": "vocab",
+    "note": "Unostentatious: quiet and plain, not showy.",
+    "source": "Merriam-Webster, “unostentatious”, https://www.merriam-webster.com/dictionary/unostentatious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-130",
+    "anchor": "This initiated wraith",
+    "layer": "vocab",
+    "note": "Wraith: a ghost or ghostly figure.",
+    "source": "Merriam-Webster, “wraith”, https://www.merriam-webster.com/dictionary/wraith",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-131",
+    "anchor": "too high-strung, I think",
+    "layer": "vocab",
+    "note": "High-strung: nervous and tightly wound.",
+    "source": "Merriam-Webster, “high-strung”, https://www.merriam-webster.com/dictionary/high-strung",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-132",
+    "anchor": "The peroration was magnificent",
+    "layer": "vocab",
+    "note": "Peroration: the closing part of a speech.",
+    "source": "Merriam-Webster, “peroration”, https://www.merriam-webster.com/dictionary/peroration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-133",
+    "anchor": "an exotic Immensity",
+    "layer": "vocab",
+    "note": "Exotic: strange and exciting because it comes from far away.",
+    "source": "Merriam-Webster, “exotic”, https://www.merriam-webster.com/dictionary/exotic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-134",
+    "anchor": "an august Benevolence",
+    "layer": "vocab",
+    "note": "Benevolence: kindness, a wish to do good.",
+    "source": "Merriam-Webster, “benevolence”, https://www.merriam-webster.com/dictionary/benevolence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-135",
+    "anchor": "every altruistic sentiment",
+    "layer": "vocab",
+    "note": "Altruistic: unselfishly concerned for others’ welfare.",
+    "source": "Merriam-Webster, “altruistic”, https://www.merriam-webster.com/dictionary/altruistic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-136",
+    "anchor": "that valuable postscriptum",
+    "layer": "vocab",
+    "note": "Postscriptum: Latin for postscript, a note added at the end.",
+    "source": "Merriam-Webster, “postscript”, https://www.merriam-webster.com/dictionary/postscript",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-137",
+    "anchor": "he repeatedly entreated me",
+    "layer": "vocab",
+    "note": "Entreated: begged earnestly, asking again and again.",
+    "source": "Merriam-Webster, “entreat”, https://www.merriam-webster.com/dictionary/entreat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-138",
+    "anchor": "the indisputable right",
+    "layer": "vocab",
+    "note": "Indisputable: certain, not open to doubt.",
+    "source": "Merriam-Webster, “indisputable”, https://www.merriam-webster.com/dictionary/indisputable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-139",
+    "anchor": "the dust-bin of progress",
+    "layer": "vocab",
+    "note": "Dust-bin: a British word for a garbage can.",
+    "source": "Merriam-Webster, “dustbin”, https://www.merriam-webster.com/dictionary/dustbin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-140",
+    "anchor": "rudimentary souls",
+    "layer": "vocab",
+    "note": "Rudimentary: basic, little developed, still at an early stage.",
+    "source": "Merriam-Webster, “rudimentary”, https://www.merriam-webster.com/dictionary/rudimentary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-141",
+    "anchor": "an aggravated witch-dance",
+    "layer": "vocab",
+    "note": "Aggravated: made worse, more intense.",
+    "source": "Merriam-Webster, “aggravate”, https://www.merriam-webster.com/dictionary/aggravate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-142",
+    "anchor": "bitter misgivings",
+    "layer": "vocab",
+    "note": "Misgivings: feelings of doubt or worry about what may happen.",
+    "source": "Merriam-Webster, “misgiving”, https://www.merriam-webster.com/dictionary/misgiving",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-143",
+    "anchor": "a grain of sand in a black Sahara",
+    "layer": "place",
+    "note": "The Sahara is the great desert of northern Africa. Marlow uses it as a picture of vast emptiness.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Sahara”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sahara",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-144",
+    "anchor": "worried about his deficiencies",
+    "layer": "vocab",
+    "note": "Deficiencies: shortcomings, faults, or things lacking.",
+    "source": "Merriam-Webster, “deficiency”, https://www.merriam-webster.com/dictionary/deficiency",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-145",
+    "anchor": "on the awning-deck",
+    "layer": "vocab",
+    "note": "Awning-deck: the roofed upper deck, shaded by a cover.",
+    "source": "Merriam-Webster, “awning”, https://www.merriam-webster.com/dictionary/awning",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-146",
+    "anchor": "a scandalized murmur",
+    "layer": "vocab",
+    "note": "Scandalized: shocked by something thought improper.",
+    "source": "Merriam-Webster, “scandalize”, https://www.merriam-webster.com/dictionary/scandalize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-147",
+    "anchor": "my heartless promptitude",
+    "layer": "vocab",
+    "note": "Promptitude: quickness, readiness to act at once.",
+    "source": "Merriam-Webster, “promptitude”, https://www.merriam-webster.com/dictionary/promptitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-148",
+    "anchor": "Embalm it, maybe",
+    "layer": "vocab",
+    "note": "Embalm: treat a dead body so that it does not decay.",
+    "source": "Merriam-Webster, “embalm”, https://www.merriam-webster.com/dictionary/embalm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-149",
+    "anchor": "quite inadmissible",
+    "layer": "vocab",
+    "note": "Inadmissible: not allowable, not to be accepted.",
+    "source": "Merriam-Webster, “inadmissible”, https://www.merriam-webster.com/dictionary/inadmissible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-150",
+    "anchor": "a hopeless duffer",
+    "layer": "vocab",
+    "note": "Duffer: a clumsy, stupid person (British slang).",
+    "source": "Merriam-Webster, “duffer”, https://www.merriam-webster.com/dictionary/duffer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-151",
+    "anchor": "interspersed with rare trees",
+    "layer": "vocab",
+    "note": "Interspersed: scattered here and there among other things.",
+    "source": "Merriam-Webster, “intersperse”, https://www.merriam-webster.com/dictionary/intersperse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-152",
+    "anchor": "As I manoeuvred to get alongside",
+    "layer": "vocab",
+    "note": "Manoeuvred: moved a vessel carefully to a desired position.",
+    "source": "Merriam-Webster, “maneuver”, https://www.merriam-webster.com/dictionary/maneuver",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-153",
+    "anchor": "He looked like a harlequin",
+    "layer": "vocab",
+    "note": "Harlequin: a clown in pantomime who wears a patchwork costume.",
+    "source": "Merriam-Webster, “harlequin”, https://www.merriam-webster.com/dictionary/harlequin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-154",
+    "anchor": "brown holland",
+    "layer": "vocab",
+    "note": "Holland: a plain linen or cotton cloth, often undyed.",
+    "source": "Merriam-Webster, “holland”, https://www.merriam-webster.com/dictionary/holland",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-155",
+    "anchor": "wonderfully neat withal",
+    "layer": "vocab",
+    "note": "Withal: in addition, besides, all the same.",
+    "source": "Merriam-Webster, “withal”, https://www.merriam-webster.com/dictionary/withal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-156",
+    "anchor": "his little pug-nose",
+    "layer": "vocab",
+    "note": "Pug-nose: a short, turned-up nose.",
+    "source": "Merriam-Webster, “pug nose”, https://www.merriam-webster.com/dictionary/pug%20nose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-157",
+    "anchor": "Then vivaciously",
+    "layer": "vocab",
+    "note": "Vivaciously: in a lively, animated way.",
+    "source": "Merriam-Webster, “vivaciously”, https://www.merriam-webster.com/dictionary/vivaciously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-158",
+    "anchor": "with severe exaltation",
+    "layer": "vocab",
+    "note": "Exaltation: a state of intense, uplifted feeling.",
+    "source": "Merriam-Webster, “exaltation”, https://www.merriam-webster.com/dictionary/exaltation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-159",
+    "anchor": "depths of despondency",
+    "layer": "vocab",
+    "note": "Despondency: deep dejection, loss of hope.",
+    "source": "Merriam-Webster, “despondency”, https://www.merriam-webster.com/dictionary/despondency",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-160",
+    "anchor": "while he gabbled",
+    "layer": "vocab",
+    "note": "Gabbled: talked fast and unclearly.",
+    "source": "Merriam-Webster, “gabble”, https://www.merriam-webster.com/dictionary/gabble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-161",
+    "anchor": "son of an arch-priest",
+    "layer": "vocab",
+    "note": "Arch-priest: a priest of high rank.",
+    "source": "Merriam-Webster, “arch-priest”, https://www.merriam-webster.com/dictionary/arch-priest",
+    "status": "draft",
+    "checker": null
+  }
+]

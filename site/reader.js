@@ -6,7 +6,7 @@
 (function () {
   'use strict';
 
-  const BOOKS = { 'lord-jim': { title: 'Lord Jim', chapters: 45 } };
+  const BOOKS = window.OMBOOKS;
   const LAYERS = ['vocab', 'allusion', 'history', 'place'];
   const LAYER_NAMES = { vocab: 'Vocab', allusion: 'Allusion', history: 'History', place: 'Place' };
   // Vocabulary goes on the right; references to the wider world on the left.
@@ -38,7 +38,7 @@
   const ticks = { left: document.getElementById('ticks-left'), right: document.getElementById('ticks-right') };
 
   // Arabic numerals: easier to read than the original Roman ones.
-  const chName = n => 'Chapter ' + n;
+  const chName = n => book.unit + ' ' + n;
   document.getElementById('title').textContent = chName(ch);
   document.getElementById('crumb-chapter').textContent = chName(ch);
   document.title = book.title + ', ' + chName(ch) + ' · Open Margins';
@@ -584,7 +584,7 @@
     const notesPath = 'notes/' + bookId + '/ch' + ch + '.json';
     const raw = await fetchFirst([textPath, '../' + textPath], r => r.text());
     if (raw === null) {
-      textEl.innerHTML = '<p class="status">Could not load the text for this chapter.</p>';
+      textEl.innerHTML = '<p class="status">Could not load the text for this ' + book.unit.toLowerCase() + '.</p>';
       return;
     }
     const all = (await fetchFirst([notesPath, '../' + notesPath], r => r.json())) || [];

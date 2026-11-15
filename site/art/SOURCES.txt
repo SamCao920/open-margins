@@ -1,0 +1,3 @@
+bookworm.jpg <- https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg
+fragonard.jpg <- https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg
+charon.jpg <- https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_10_%28Canto_III_-_Charon_herds_the_sinners_onto_his_boat%29.jpg

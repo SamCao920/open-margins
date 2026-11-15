@@ -4,7 +4,7 @@ Free, open annotated editions of classic books for high school and college stude
 
 Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Open Margins puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
 
-**First edition:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters.
+**Library:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters; *Heart of Darkness* by Joseph Conrad (1899), all three parts.
 
 ## Why?
 
@@ -26,8 +26,10 @@ Classic books are free to read online, but they are full of words, places, peopl
 ```
 texts/lord_jim.txt         Full public domain text (Project Gutenberg boilerplate removed)
 texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch45.txt
+texts/heart-of-darkness/   Parts I to III as ch01.txt to ch03.txt
 notes/SCHEMA.md            Annotation format
-notes/lord-jim/ch1.json    Annotations, one JSON file per chapter
+notes/lord-jim/ch1.json    Annotations, one JSON file per chapter (heart-of-darkness/ likewise, per part)
+site/books.js              The library registry shared by every page
 site/                      Static site: home page (index.html), book contents (book.html), chapter reader (chapter.html), type-through mode (type.html), search (search.js), sources (sources.html)
 site/fonts/                Old Standard TT and EB Garamond web fonts (SIL Open Font License)
 site/brand/                Logo mark and favicons
@@ -69,6 +71,10 @@ We need checkers. To help:
 Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly editions, and primary sources for allusions and history. Wikipedia is a starting point, not a final source.
 
 ## Status
+
+*Heart of Darkness*: 605 draft notes (Part I 306, Part II 161, Part III 138), none verified by a person yet.
+
+*Lord Jim*:
 
 | Chapter | Drafted | Verified |
 |---|---|---|

@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "ch3-001",
+    "anchor": "in motley",
+    "layer": "vocab",
+    "note": "Motley: the many-colored patchwork clothes of a jester or clown.",
+    "source": "Merriam-Webster, “motley”, https://www.merriam-webster.com/dictionary/motley",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-002",
+    "anchor": "a troupe of mimes",
+    "layer": "vocab",
+    "note": "Mimes: actors who perform comic or dramatic scenes, often silently.",
+    "source": "Merriam-Webster, “mime”, https://www.merriam-webster.com/dictionary/mime",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-003",
+    "anchor": "improbable, inexplicable",
+    "layer": "vocab",
+    "note": "Inexplicable: impossible to explain or account for.",
+    "source": "Merriam-Webster, “inexplicable”, https://www.merriam-webster.com/dictionary/inexplicable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-004",
+    "anchor": "parti-coloured rags",
+    "layer": "vocab",
+    "note": "Parti-coloured: marked with patches of different colors.",
+    "source": "Merriam-Webster, “parti-colored”, https://www.merriam-webster.com/dictionary/parti-colored",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-005",
+    "anchor": "his destitution",
+    "layer": "vocab",
+    "note": "Destitution: extreme poverty, having nothing.",
+    "source": "Merriam-Webster, “destitution”, https://www.merriam-webster.com/dictionary/destitution",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-006",
+    "anchor": "his futile wanderings",
+    "layer": "vocab",
+    "note": "Futile: pointless, producing no result.",
+    "source": "Merriam-Webster, “futile”, https://www.merriam-webster.com/dictionary/futile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-007",
+    "anchor": "indestructible solely by the virtue",
+    "layer": "vocab",
+    "note": "Indestructible: impossible to destroy or wear away.",
+    "source": "Merriam-Webster, “indestructible”, https://www.merriam-webster.com/dictionary/indestructible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-008",
+    "anchor": "glamour kept him unscathed",
+    "layer": "vocab",
+    "note": "Glamour: here a kind of magic spell. Unscathed: not harmed at all.",
+    "source": "Merriam-Webster, “glamour”, https://www.merriam-webster.com/dictionary/glamour",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-009",
+    "anchor": "with a maximum of privation",
+    "layer": "vocab",
+    "note": "Privation: lack of what one needs to live in comfort.",
+    "source": "Merriam-Webster, “privation”, https://www.merriam-webster.com/dictionary/privation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-010",
+    "anchor": "this bepatched youth",
+    "layer": "vocab",
+    "note": "Bepatched: covered all over with patches.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-011",
+    "anchor": "eager fatalism",
+    "layer": "vocab",
+    "note": "Fatalism: the belief that events are fixed and cannot be changed.",
+    "source": "Merriam-Webster, “fatalism”, https://www.merriam-webster.com/dictionary/fatalism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-012",
+    "anchor": "like two ships becalmed",
+    "layer": "vocab",
+    "note": "Becalmed: stopped because there is no wind.",
+    "source": "Merriam-Webster, “becalmed”, https://www.merriam-webster.com/dictionary/becalmed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-013",
+    "anchor": "quite transported at the recollection",
+    "layer": "vocab",
+    "note": "Transported: carried away by strong feeling.",
+    "source": "Merriam-Webster, “transported”, https://www.merriam-webster.com/dictionary/transported",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-014",
+    "anchor": "I had taken up my binoculars",
+    "layer": "vocab",
+    "note": "Binoculars: a pair of small telescopes joined for use with both eyes.",
+    "source": "Merriam-Webster, “binoculars”, https://www.merriam-webster.com/dictionary/binoculars",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-015",
+    "anchor": "I made a brusque movement",
+    "layer": "vocab",
+    "note": "Brusque: sudden, abrupt, and a little rude.",
+    "source": "Merriam-Webster, “brusque”, https://www.merriam-webster.com/dictionary/brusque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-016",
+    "anchor": "certain attempts at ornamentation",
+    "layer": "vocab",
+    "note": "Ornamentation: decoration, things added to make a place pretty.",
+    "source": "Merriam-Webster, “ornamentation”, https://www.merriam-webster.com/dictionary/ornamentation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-017",
+    "anchor": "in the ruinous aspect of the place",
+    "layer": "vocab",
+    "note": "Ruinous: falling to pieces, in ruins.",
+    "source": "Merriam-Webster, “ruinous”, https://www.merriam-webster.com/dictionary/ruinous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-018",
+    "anchor": "not ornamental but symbolic",
+    "layer": "vocab",
+    "note": "Symbolic: standing for an idea or meaning beyond the thing itself.",
+    "source": "Merriam-Webster, “symbolic”, https://www.merriam-webster.com/dictionary/symbolic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-019",
+    "anchor": "food for thought and also for vultures",
+    "layer": "vocab",
+    "note": "Vultures: large birds that feed on dead animals.",
+    "source": "Merriam-Webster, “vulture”, https://www.merriam-webster.com/dictionary/vulture",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-020",
+    "anchor": "some endless and jocose dream",
+    "layer": "vocab",
+    "note": "Jocose: joking, playful, full of fun.",
+    "source": "Merriam-Webster, “jocose”, https://www.merriam-webster.com/dictionary/jocose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-021",
+    "anchor": "the gratification of his various lusts",
+    "layer": "vocab",
+    "note": "Gratification: satisfaction of a desire.",
+    "source": "Merriam-Webster, “gratification”, https://www.merriam-webster.com/dictionary/gratification",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-022",
+    "anchor": "into inaccessible distance",
+    "layer": "vocab",
+    "note": "Inaccessible: impossible to reach or get near.",
+    "source": "Merriam-Webster, “inaccessible”, https://www.merriam-webster.com/dictionary/inaccessible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-023",
+    "anchor": "His ascendancy was extraordinary",
+    "layer": "vocab",
+    "note": "Ascendancy: controlling power or influence over others.",
+    "source": "Merriam-Webster, “ascendancy”, https://www.merriam-webster.com/dictionary/ascendancy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-024",
+    "anchor": "these splendid monologues",
+    "layer": "vocab",
+    "note": "Monologues: long speeches by one person.",
+    "source": "Merriam-Webster, “monologue”, https://www.merriam-webster.com/dictionary/monologue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-025",
+    "anchor": "the veriest savage of them all",
+    "layer": "vocab",
+    "note": "Veriest: most complete, the utmost possible.",
+    "source": "Merriam-Webster, “verier”, https://www.merriam-webster.com/dictionary/verier",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-026",
+    "anchor": "Those rebellious heads looked very subdued",
+    "layer": "vocab",
+    "note": "Subdued: quiet, tamed, and without spirit.",
+    "source": "Merriam-Webster, “subdued”, https://www.merriam-webster.com/dictionary/subdued",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-027",
+    "anchor": "Kurtz’s last disciple",
+    "layer": "vocab",
+    "note": "Disciple: a follower who learns from a teacher and spreads his ideas.",
+    "source": "Merriam-Webster, “disciple”, https://www.merriam-webster.com/dictionary/disciple",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-028",
+    "anchor": "a murky and overshadowed bend",
+    "layer": "vocab",
+    "note": "Murky: dark, dim, and cloudy.",
+    "source": "Merriam-Webster, “murky”, https://www.merriam-webster.com/dictionary/murky",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-029",
+    "anchor": "in a compact body",
+    "layer": "vocab",
+    "note": "Compact: tightly packed together in a small space.",
+    "source": "Merriam-Webster, “compact”, https://www.merriam-webster.com/dictionary/compact",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-030",
+    "anchor": "bearing an improvised stretcher",
+    "layer": "vocab",
+    "note": "Improvised: made quickly from whatever is at hand.",
+    "source": "Merriam-Webster, “improvise”, https://www.merriam-webster.com/dictionary/improvise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-031",
+    "anchor": "a cry arose whose shrillness",
+    "layer": "vocab",
+    "note": "Shrillness: a high, sharp, piercing sound.",
+    "source": "Merriam-Webster, “shrillness”, https://www.merriam-webster.com/dictionary/shrillness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-032",
+    "anchor": "attentive immobility",
+    "layer": "vocab",
+    "note": "Immobility: complete stillness, not moving at all.",
+    "source": "Merriam-Webster, “immobility”, https://www.merriam-webster.com/dictionary/immobility",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-033",
+    "anchor": "as if petrified",
+    "layer": "vocab",
+    "note": "Petrified: frozen with fear, unable to move.",
+    "source": "Merriam-Webster, “petrified”, https://www.merriam-webster.com/dictionary/petrified",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-034",
+    "anchor": "that atrocious phantom",
+    "layer": "vocab",
+    "note": "Phantom: a ghost, something that seems real but is not.",
+    "source": "Merriam-Webster, “phantom”, https://www.merriam-webster.com/dictionary/phantom",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-035",
+    "anchor": "the eyes of that apparition",
+    "layer": "vocab",
+    "note": "Apparition: a ghostly figure that appears suddenly.",
+    "source": "Merriam-Webster, “apparition”, https://www.merriam-webster.com/dictionary/apparition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-036",
+    "anchor": "a winding-sheet",
+    "layer": "vocab",
+    "note": "Winding-sheet: the cloth wrapped around a dead body for burial.",
+    "source": "Merriam-Webster, “winding sheet”, https://www.merriam-webster.com/dictionary/winding%20sheet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-037",
+    "anchor": "a weirdly voracious aspect",
+    "layer": "vocab",
+    "note": "Voracious: hugely hungry, wanting to swallow everything.",
+    "source": "Merriam-Webster, “voracious”, https://www.merriam-webster.com/dictionary/voracious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-038",
+    "anchor": "drawn in a long aspiration",
+    "layer": "vocab",
+    "note": "Aspiration: here, the drawing in of breath.",
+    "source": "Merriam-Webster, “aspiration”, https://www.merriam-webster.com/dictionary/aspiration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-039",
+    "anchor": "a light revolver-carbine",
+    "layer": "vocab",
+    "note": "Revolver-carbine: a short rifle with a revolving chamber that holds several shots.",
+    "source": "Merriam-Webster, “carbine”, https://www.merriam-webster.com/dictionary/carbine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-040",
+    "anchor": "the thunderbolts of that pitiful Jupiter",
+    "layer": "allusion",
+    "note": "Jupiter was the chief god of the Romans, ruler of the sky and weather. Marlow calls Kurtz’s guns the “thunderbolts” of a pitiful Jupiter.",
+    "source": "Merriam-Webster, “Jupiter”, https://www.merriam-webster.com/dictionary/Jupiter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-041",
+    "anchor": "his belated correspondence",
+    "layer": "vocab",
+    "note": "Belated: arriving late, long overdue.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-042",
+    "anchor": "the composed languor of his expression",
+    "layer": "vocab",
+    "note": "Languor: a calm, weary stillness.",
+    "source": "Merriam-Webster, “languor”, https://www.merriam-webster.com/dictionary/languor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-043",
+    "anchor": "satiated and calm",
+    "layer": "vocab",
+    "note": "Satiated: fully satisfied, even to excess.",
+    "source": "Merriam-Webster, “satiate”, https://www.merriam-webster.com/dictionary/satiate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-044",
+    "anchor": "factitious no doubt",
+    "layer": "vocab",
+    "note": "Factitious: artificial, not natural or real.",
+    "source": "Merriam-Webster, “factitious”, https://www.merriam-webster.com/dictionary/factitious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-045",
+    "anchor": "in statuesque repose",
+    "layer": "vocab",
+    "note": "Statuesque: still and dignified, like a statue.",
+    "source": "Merriam-Webster, “statuesque”, https://www.merriam-webster.com/dictionary/statuesque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-046",
+    "anchor": "brass wire gauntlets to the elbow",
+    "layer": "vocab",
+    "note": "Gauntlets: here, long cuffs or gloves reaching up the arm.",
+    "source": "Merriam-Webster, “gauntlet”, https://www.merriam-webster.com/dictionary/gauntlet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-047",
+    "anchor": "her tawny cheek",
+    "layer": "vocab",
+    "note": "Tawny: warm brownish-orange in color.",
+    "source": "Merriam-Webster, “tawny”, https://www.merriam-webster.com/dictionary/tawny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-048",
+    "anchor": "the fecund and mysterious life",
+    "layer": "vocab",
+    "note": "Fecund: fertile, producing much life.",
+    "source": "Merriam-Webster, “fecund”, https://www.merriam-webster.com/dictionary/fecund",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-049",
+    "anchor": "its own tenebrous and passionate soul",
+    "layer": "vocab",
+    "note": "Tenebrous: dark, shadowy, and full of gloom.",
+    "source": "Merriam-Webster, “tenebrous”, https://www.merriam-webster.com/dictionary/tenebrous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-050",
+    "anchor": "the unswerving steadiness of her glance",
+    "layer": "vocab",
+    "note": "Unswerving: not turning aside, steady.",
+    "source": "Merriam-Webster, “unswerving”, https://www.merriam-webster.com/dictionary/unswerving",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-051",
+    "anchor": "A formidable silence",
+    "layer": "vocab",
+    "note": "Formidable: causing fear or awe by its size or power.",
+    "source": "Merriam-Webster, “formidable”, https://www.merriam-webster.com/dictionary/formidable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-052",
+    "anchor": "your little peddling notions",
+    "layer": "vocab",
+    "note": "Peddling: small-minded, like a petty street seller’s.",
+    "source": "Merriam-Webster, “peddling”, https://www.merriam-webster.com/dictionary/peddling",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-053",
+    "anchor": "‘Exactly,’ he exulted",
+    "layer": "vocab",
+    "note": "Exulted: rejoiced greatly, in triumph.",
+    "source": "Merriam-Webster, “exult”, https://www.merriam-webster.com/dictionary/exult",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-054",
+    "anchor": "as a partisan of methods",
+    "layer": "vocab",
+    "note": "Partisan: a strong supporter of a person or cause.",
+    "source": "Merriam-Webster, “partisan”, https://www.merriam-webster.com/dictionary/partisan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-055",
+    "anchor": "the unseen presence of victorious corruption",
+    "layer": "vocab",
+    "note": "Corruption: rot and decay, the spoiling of what was once whole.",
+    "source": "Merriam-Webster, “corruption”, https://www.merriam-webster.com/dictionary/corruption",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-056",
+    "anchor": "a complete discretion",
+    "layer": "vocab",
+    "note": "Discretion: care in keeping secrets and avoiding trouble.",
+    "source": "Merriam-Webster, “discretion”, https://www.merriam-webster.com/dictionary/discretion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-057",
+    "anchor": "whether it was possible to meet such a phenomenon",
+    "layer": "vocab",
+    "note": "Phenomenon: a remarkable person or thing.",
+    "source": "Merriam-Webster, “phenomenon”, https://www.merriam-webster.com/dictionary/phenomenon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-058",
+    "anchor": "illuminating fitfully",
+    "layer": "vocab",
+    "note": "Fitfully: in short bursts, not steadily.",
+    "source": "Merriam-Webster, “fitfully”, https://www.merriam-webster.com/dictionary/fitfully",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-059",
+    "anchor": "a picket of a few of our blacks",
+    "layer": "vocab",
+    "note": "Picket: a small guard sent out to watch for danger.",
+    "source": "Merriam-Webster, “picket”, https://www.merriam-webster.com/dictionary/picket",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-060",
+    "anchor": "confused columnar shapes",
+    "layer": "vocab",
+    "note": "Columnar: shaped like pillars or columns.",
+    "source": "Merriam-Webster, “columnar”, https://www.merriam-webster.com/dictionary/columnar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-061",
+    "anchor": "keeping their uneasy vigil",
+    "layer": "vocab",
+    "note": "Vigil: a period of staying awake to keep watch.",
+    "source": "Merriam-Webster, “vigil”, https://www.merriam-webster.com/dictionary/vigil",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-062",
+    "anchor": "some weird incantation",
+    "layer": "vocab",
+    "note": "Incantation: words chanted as a magic spell.",
+    "source": "Merriam-Webster, “incantation”, https://www.merriam-webster.com/dictionary/incantation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-063",
+    "anchor": "a strange narcotic effect",
+    "layer": "vocab",
+    "note": "Narcotic: dulling the senses and bringing on sleep.",
+    "source": "Merriam-Webster, “narcotic”, https://www.merriam-webster.com/dictionary/narcotic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-064",
+    "anchor": "pent-up",
+    "layer": "vocab",
+    "note": "Pent-up: held in and not allowed to get out.",
+    "source": "Merriam-Webster, “pent-up”, https://www.merriam-webster.com/dictionary/pent-up",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-065",
+    "anchor": "an ulster",
+    "layer": "vocab",
+    "note": "Ulster: a long, loose, heavy overcoat.",
+    "source": "Merriam-Webster, “ulster”, https://www.merriam-webster.com/dictionary/ulster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-066",
+    "anchor": "a drubbing",
+    "layer": "vocab",
+    "note": "Drubbing: a beating, a thrashing.",
+    "source": "Merriam-Webster, “drubbing”, https://www.merriam-webster.com/dictionary/drubbing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-067",
+    "anchor": "imbecile thoughts",
+    "layer": "vocab",
+    "note": "Imbecile: very stupid, foolish, and silly.",
+    "source": "Merriam-Webster, “imbecile”, https://www.merriam-webster.com/dictionary/imbecile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-068",
+    "anchor": "obtruded herself",
+    "layer": "vocab",
+    "note": "Obtruded: pushed itself forward uninvited.",
+    "source": "Merriam-Webster, “obtrude”, https://www.merriam-webster.com/dictionary/obtrude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-069",
+    "anchor": "strangely cocksure",
+    "layer": "vocab",
+    "note": "Cocksure: completely sure, often without good reason.",
+    "source": "Merriam-Webster, “cocksure”, https://www.merriam-webster.com/dictionary/cocksure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-070",
+    "anchor": "I verily believe",
+    "layer": "vocab",
+    "note": "Verily: truly, in fact (an old word).",
+    "source": "Merriam-Webster, “verily”, https://www.merriam-webster.com/dictionary/verily",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-071",
+    "anchor": "circumventing Kurtz",
+    "layer": "vocab",
+    "note": "Circumventing: going around to get past or outwit.",
+    "source": "Merriam-Webster, “circumvent”, https://www.merriam-webster.com/dictionary/circumvent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-072",
+    "anchor": "a speaking-trumpet",
+    "layer": "vocab",
+    "note": "Speaking-trumpet: a cone-shaped horn that makes a voice carry farther.",
+    "source": "Merriam-Webster, “speaking trumpet”, https://www.merriam-webster.com/dictionary/speaking%20trumpet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-073",
+    "anchor": "fisticuffs",
+    "layer": "vocab",
+    "note": "Fisticuffs: a fight with fists.",
+    "source": "Merriam-Webster, “fisticuffs”, https://www.merriam-webster.com/dictionary/fisticuffs",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-074",
+    "anchor": "irretrievably lost",
+    "layer": "vocab",
+    "note": "Irretrievably: in a way that cannot be recovered.",
+    "source": "Merriam-Webster, “irretrievably”, https://www.merriam-webster.com/dictionary/irretrievably",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-075",
+    "anchor": "irresolutely",
+    "layer": "vocab",
+    "note": "Irresolutely: hesitantly, without firm purpose.",
+    "source": "Merriam-Webster, “irresolute”, https://www.merriam-webster.com/dictionary/irresolute",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-076",
+    "anchor": "a wistfulness of tone",
+    "layer": "vocab",
+    "note": "Wistfulness: a quiet, sad longing.",
+    "source": "Merriam-Webster, “wistfulness”, https://www.merriam-webster.com/dictionary/wistfulness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-077",
+    "anchor": "this alone had beguiled his unlawful soul",
+    "layer": "vocab",
+    "note": "Beguiled: led astray by charm or trickery.",
+    "source": "Merriam-Webster, “beguile”, https://www.merriam-webster.com/dictionary/beguile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-078",
+    "anchor": "terrific suggestiveness",
+    "layer": "vocab",
+    "note": "Terrific: here, causing terror. Suggestiveness: the power to call up ideas.",
+    "source": "Merriam-Webster, “terrific”, https://www.merriam-webster.com/dictionary/terrific",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-079",
+    "anchor": "quivering, bronze bodies",
+    "layer": "vocab",
+    "note": "Quivering: shaking with small, fast movements.",
+    "source": "Merriam-Webster, “quiver”, https://www.merriam-webster.com/dictionary/quiver",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-080",
+    "anchor": "plastered with bright red earth",
+    "layer": "vocab",
+    "note": "Plastered: covered thickly, as with a coat of plaster.",
+    "source": "Merriam-Webster, “plaster”, https://www.merriam-webster.com/dictionary/plaster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-081",
+    "anchor": "a mangy skin",
+    "layer": "vocab",
+    "note": "Mangy: shabby, with fur worn away.",
+    "source": "Merriam-Webster, “mangy”, https://www.merriam-webster.com/dictionary/mangy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-082",
+    "anchor": "some satanic litany",
+    "layer": "vocab",
+    "note": "Litany: a prayer in which a leader calls and a crowd answers.",
+    "source": "Merriam-Webster, “litany”, https://www.merriam-webster.com/dictionary/litany",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-083",
+    "anchor": "articulated, rapid, breathless utterance",
+    "layer": "vocab",
+    "note": "Articulated: spoken in clear, separate syllables.",
+    "source": "Merriam-Webster, “articulate”, https://www.merriam-webster.com/dictionary/articulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-084",
+    "anchor": "jolly lark",
+    "layer": "vocab",
+    "note": "Lark: a bit of mischievous fun.",
+    "source": "Merriam-Webster, “lark”, https://www.merriam-webster.com/dictionary/lark",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-085",
+    "anchor": "abject terror",
+    "layer": "vocab",
+    "note": "Abject: sunk to the lowest, most miserable state.",
+    "source": "Merriam-Webster, “abject”, https://www.merriam-webster.com/dictionary/abject",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-086",
+    "anchor": "disconsolately",
+    "layer": "vocab",
+    "note": "Disconsolately: in a hopeless, unhappy way.",
+    "source": "Merriam-Webster, “disconsolately”, https://www.merriam-webster.com/dictionary/disconsolately",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-087",
+    "anchor": "ebbing, ebbing",
+    "layer": "vocab",
+    "note": "Ebbing: flowing back, fading away, like a falling tide.",
+    "source": "Merriam-Webster, “ebb”, https://www.merriam-webster.com/dictionary/ebb",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-088",
+    "anchor": "inexorable time",
+    "layer": "vocab",
+    "note": "Inexorable: cannot be stopped or changed by any plea.",
+    "source": "Merriam-Webster, “inexorable”, https://www.merriam-webster.com/dictionary/inexorable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-089",
+    "anchor": "The manager was very placid",
+    "layer": "vocab",
+    "note": "Placid: calm, quiet, and not at all troubled.",
+    "source": "Merriam-Webster, “placid”, https://www.merriam-webster.com/dictionary/placid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-090",
+    "anchor": "obsequiously",
+    "layer": "vocab",
+    "note": "Obsequiously: in a fawning way, too eager to please.",
+    "source": "Merriam-Webster, “obsequiously”, https://www.merriam-webster.com/dictionary/obsequiously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-091",
+    "anchor": "the hollow sham",
+    "layer": "vocab",
+    "note": "Sham: a fake, something that pretends to be real.",
+    "source": "Merriam-Webster, “sham”, https://www.merriam-webster.com/dictionary/sham",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-092",
+    "anchor": "the mould of primeval earth",
+    "layer": "vocab",
+    "note": "Mould: loose, crumbly, rich soil, the earth of a grave.",
+    "source": "Merriam-Webster, “mold”, https://www.merriam-webster.com/dictionary/mold",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-093",
+    "anchor": "avid of lying fame",
+    "layer": "vocab",
+    "note": "Avid: eager and greedy, craving something badly.",
+    "source": "Merriam-Webster, “avid”, https://www.merriam-webster.com/dictionary/avid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-094",
+    "anchor": "contemptibly childish",
+    "layer": "vocab",
+    "note": "Contemptibly: in a way that deserves scorn.",
+    "source": "Merriam-Webster, “contemptible”, https://www.merriam-webster.com/dictionary/contemptible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-095",
+    "anchor": "secular trees",
+    "layer": "vocab",
+    "note": "Secular: here, lasting for ages, a century or more old.",
+    "source": "Merriam-Webster, “secular”, https://www.merriam-webster.com/dictionary/secular",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-096",
+    "anchor": "This noxious fool",
+    "layer": "vocab",
+    "note": "Noxious: harmful, poisonous, or deeply unpleasant.",
+    "source": "Merriam-Webster, “noxious”, https://www.merriam-webster.com/dictionary/noxious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-097",
+    "anchor": "ratchet-drills",
+    "layer": "vocab",
+    "note": "Ratchet-drills: hand drills that turn a bit one way by a toothed wheel.",
+    "source": "Merriam-Webster, “ratchet drill”, https://www.merriam-webster.com/dictionary/ratchet%20drill",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-098",
+    "anchor": "a wretched scrap-heap",
+    "layer": "vocab",
+    "note": "Scrap-heap: a pile of old, broken metal.",
+    "source": "Merriam-Webster, “scrap heap”, https://www.merriam-webster.com/dictionary/scrap%20heap",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-099",
+    "anchor": "a little tremulously",
+    "layer": "vocab",
+    "note": "Tremulously: with a shaking, trembling voice.",
+    "source": "Merriam-Webster, “tremulously”, https://www.merriam-webster.com/dictionary/tremulously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-100",
+    "anchor": "stood over him as if transfixed",
+    "layer": "vocab",
+    "note": "Transfixed: held motionless, as if pinned in place.",
+    "source": "Merriam-Webster, “transfixed”, https://www.merriam-webster.com/dictionary/transfixed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-101",
+    "anchor": "as though a veil had been rent",
+    "layer": "vocab",
+    "note": "Rent: torn apart, split open by force.",
+    "source": "Merriam-Webster, “rend”, https://www.merriam-webster.com/dictionary/rend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-102",
+    "anchor": "expression of sombre pride",
+    "layer": "vocab",
+    "note": "Sombre: dark, gloomy, and serious.",
+    "source": "Merriam-Webster, “somber”, https://www.merriam-webster.com/dictionary/somber",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-103",
+    "anchor": "of ruthless power",
+    "layer": "vocab",
+    "note": "Ruthless: showing no pity or mercy at all.",
+    "source": "Merriam-Webster, “ruthless”, https://www.merriam-webster.com/dictionary/ruthless",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-104",
+    "anchor": "of craven terror",
+    "layer": "vocab",
+    "note": "Craven: shamefully cowardly, with no courage at all.",
+    "source": "Merriam-Webster, “craven”, https://www.merriam-webster.com/dictionary/craven",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-105",
+    "anchor": "sealing the unexpressed depths of his meanness",
+    "layer": "vocab",
+    "note": "Meanness: here, petty, selfish stinginess.",
+    "source": "Merriam-Webster, “meanness”, https://www.merriam-webster.com/dictionary/meanness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-106",
+    "anchor": "scathing contempt",
+    "layer": "vocab",
+    "note": "Scathing: harsh and bitterly critical.",
+    "source": "Merriam-Webster, “scathing”, https://www.merriam-webster.com/dictionary/scathing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-107",
+    "anchor": "brutally callous",
+    "layer": "vocab",
+    "note": "Callous: cold and unfeeling toward others.",
+    "source": "Merriam-Webster, “callous”, https://www.merriam-webster.com/dictionary/callous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-108",
+    "anchor": "an impalpable greyness",
+    "layer": "vocab",
+    "note": "Impalpable: so faint it cannot be touched or grasped.",
+    "source": "Merriam-Webster, “impalpable”, https://www.merriam-webster.com/dictionary/impalpable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-109",
+    "anchor": "a sickly atmosphere of tepid scepticism",
+    "layer": "vocab",
+    "note": "Tepid: lukewarm, with no real feeling.",
+    "source": "Merriam-Webster, “tepid”, https://www.merriam-webster.com/dictionary/tepid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-110",
+    "anchor": "a hair’s breadth",
+    "layer": "vocab",
+    "note": "A hair’s breadth: a tiny distance, the width of a hair.",
+    "source": "Merriam-Webster, “hair's breadth”, https://www.merriam-webster.com/dictionary/hair's%20breadth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-111",
+    "anchor": "it had candour",
+    "layer": "vocab",
+    "note": "Candour: honest, open frankness in what one says.",
+    "source": "Merriam-Webster, “candor”, https://www.merriam-webster.com/dictionary/candor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-112",
+    "anchor": "the evanescence of all things",
+    "layer": "vocab",
+    "note": "Evanescence: the quality of fading quickly away.",
+    "source": "Merriam-Webster, “evanescence”, https://www.merriam-webster.com/dictionary/evanescence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-113",
+    "anchor": "that inappreciable moment of time",
+    "layer": "vocab",
+    "note": "Inappreciable: too small to be noticed or measured.",
+    "source": "Merriam-Webster, “inappreciable”, https://www.merriam-webster.com/dictionary/inappreciable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-114",
+    "anchor": "translucently pure",
+    "layer": "vocab",
+    "note": "Translucently: letting light through, like frosted glass.",
+    "source": "Merriam-Webster, “translucent”, https://www.merriam-webster.com/dictionary/translucent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-115",
+    "anchor": "the sepulchral city",
+    "layer": "vocab",
+    "note": "Sepulchral: gloomy and tomb-like, as if from a grave.",
+    "source": "Merriam-Webster, “sepulchral”, https://www.merriam-webster.com/dictionary/sepulchral",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-116",
+    "anchor": "to filch a little money",
+    "layer": "vocab",
+    "note": "Filch: to steal in small amounts.",
+    "source": "Merriam-Webster, “filch”, https://www.merriam-webster.com/dictionary/filch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-117",
+    "anchor": "the outrageous flauntings of folly",
+    "layer": "vocab",
+    "note": "Flauntings: boastful, shameless showing off.",
+    "source": "Merriam-Webster, “flaunt”, https://www.merriam-webster.com/dictionary/flaunt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-118",
+    "anchor": "suavely pressing",
+    "layer": "vocab",
+    "note": "Suavely: in a smooth, polished manner.",
+    "source": "Merriam-Webster, “suave”, https://www.merriam-webster.com/dictionary/suave",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-119",
+    "anchor": "denominate certain",
+    "layer": "vocab",
+    "note": "Denominate: to name or call.",
+    "source": "Merriam-Webster, “denominate”, https://www.merriam-webster.com/dictionary/denominate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-120",
+    "anchor": "the postscriptum torn off",
+    "layer": "vocab",
+    "note": "Postscriptum: Latin for postscript, a note added at the end of a letter or text.",
+    "source": "Merriam-Webster, “postscript”, https://www.merriam-webster.com/dictionary/postscript",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-121",
+    "anchor": "senile agitation",
+    "layer": "vocab",
+    "note": "Senile: weak in mind and body from old age.",
+    "source": "Merriam-Webster, “senile”, https://www.merriam-webster.com/dictionary/senile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-122",
+    "anchor": "memoranda",
+    "layer": "vocab",
+    "note": "Memoranda: short written notes kept as reminders.",
+    "source": "Merriam-Webster, “memorandum”, https://www.merriam-webster.com/dictionary/memorandum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-123",
+    "anchor": "becoming expansive",
+    "layer": "vocab",
+    "note": "Expansive: open and talkative, freely sharing his thoughts.",
+    "source": "Merriam-Webster, “expansive”, https://www.merriam-webster.com/dictionary/expansive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-124",
+    "anchor": "insatiable of splendid appearances",
+    "layer": "vocab",
+    "note": "Insatiable: never satisfied, always wanting more.",
+    "source": "Merriam-Webster, “insatiable”, https://www.merriam-webster.com/dictionary/insatiable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-125",
+    "anchor": "The vision seemed to enter the house with me",
+    "layer": "vocab",
+    "note": "Vision: here, a sudden, vivid mental picture of Kurtz.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-126",
+    "anchor": "his collected languid manner",
+    "layer": "vocab",
+    "note": "Languid: slow and weak, without energy.",
+    "source": "Merriam-Webster, “languid”, https://www.merriam-webster.com/dictionary/languid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-127",
+    "anchor": "bedraped columns",
+    "layer": "vocab",
+    "note": "Bedraped: hung or covered with draped curtains.",
+    "source": "Merriam-Webster, “drape”, https://www.merriam-webster.com/dictionary/drape",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-128",
+    "anchor": "a sombre and polished sarcophagus",
+    "layer": "vocab",
+    "note": "Sarcophagus: a stone coffin, often carved and kept above ground.",
+    "source": "Merriam-Webster, “sarcophagus”, https://www.merriam-webster.com/dictionary/sarcophagus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-129",
+    "anchor": "an ashy halo",
+    "layer": "vocab",
+    "note": "Halo: a ring of light around the head, as in paintings of saints.",
+    "source": "Merriam-Webster, “halo”, https://www.merriam-webster.com/dictionary/halo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-130",
+    "anchor": "guileless",
+    "layer": "vocab",
+    "note": "Guileless: honest and without trickery.",
+    "source": "Merriam-Webster, “guileless”, https://www.merriam-webster.com/dictionary/guileless",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-131",
+    "anchor": "by Jove",
+    "layer": "vocab",
+    "note": "By Jove: a mild oath meaning “by Jupiter,” the Roman chief god.",
+    "source": "Merriam-Webster, “by jove”, https://www.merriam-webster.com/dictionary/by%20jove",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-132",
+    "anchor": "the certitude of my sympathy",
+    "layer": "vocab",
+    "note": "Certitude: complete certainty, with no doubt at all.",
+    "source": "Merriam-Webster, “certitude”, https://www.merriam-webster.com/dictionary/certitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-133",
+    "anchor": "the soughing of the trees",
+    "layer": "vocab",
+    "note": "Soughing: a soft, murmuring sound like wind in leaves.",
+    "source": "Merriam-Webster, “sough”, https://www.merriam-webster.com/dictionary/sough",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-134",
+    "anchor": "a tragic and familiar Shade",
+    "layer": "vocab",
+    "note": "Shade: a ghost, the spirit of a dead person.",
+    "source": "Merriam-Webster, “shade”, https://www.merriam-webster.com/dictionary/shade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-135",
+    "anchor": "bedecked with powerless charms",
+    "layer": "vocab",
+    "note": "Bedecked: richly decorated and adorned with fine things.",
+    "source": "Merriam-Webster, “bedeck”, https://www.merriam-webster.com/dictionary/bedeck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-136",
+    "anchor": "the pose of a meditating Buddha",
+    "layer": "allusion",
+    "note": "Marlow sits cross-legged, still and silent, like the Buddha in meditation, as he did when he began his tale.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-137",
+    "anchor": "We have lost the first of the ebb",
+    "layer": "vocab",
+    "note": "The ebb: the falling tide, which would carry the yawl out to sea.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Ebb”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-138",
+    "anchor": "The offing was barred",
+    "layer": "vocab",
+    "note": "Offing: the open sea beyond the anchorage, here seen as a black bar of cloud.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Offing”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  }
+]

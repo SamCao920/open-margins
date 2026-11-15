@@ -3,18 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lord Jim · Open Margins</title>
+<title>Book · Open Margins</title>
 <link rel="icon" href="brand/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="brand/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
 <script src="prefs.js?v=dev"></script>
+<script src="books.js?v=dev"></script>
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
 <body>
 <header class="bar">
   <div class="bar-inner">
     <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Open Margins</a>
-    <nav class="running" aria-label="Breadcrumb"><span>Lord Jim</span></nav>
+    <nav class="running" aria-label="Breadcrumb"><span id="crumb-book">Book</span></nav>
     <span class="bar-spacer"></span>
     <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
   </div>
@@ -22,20 +23,18 @@
 </header>
 <main class="page">
   <header class="title-block with-cover">
-    <div class="cover" style="--cloth: #22403a" aria-hidden="true">
-      <span class="cover-frame"><span class="cover-title">Lord Jim</span><span class="cover-rule"></span><span class="cover-sub">A Tale</span><span class="cover-author">Joseph Conrad</span><span class="logo"></span></span>
-    </div>
+    <div class="cover" id="cover" aria-hidden="true"></div>
     <div>
-      <h1>Lord Jim</h1>
-      <p class="by">A Tale · by <em>Joseph Conrad</em> · 1900</p>
-      <p class="blurb">A parson’s son trains for a life of adventure at sea.</p>
+      <h1 id="book-title">Book</h1>
+      <p class="by" id="book-by"></p>
+      <p class="blurb" id="book-blurb"></p>
     </div>
   </header>
 
   <h2 class="sr-only">Search</h2>
   <div id="book-search"></div>
 
-  <figure class="plate book-frontispiece">
+  <figure class="plate book-frontispiece" id="frontispiece-lord-jim" hidden>
     <div class="plate-mount">
       <img src="art/temeraire-900.jpg" srcset="art/temeraire-900.jpg 900w, art/temeraire-1800.jpg 1800w"
            sizes="(max-width: 700px) 90vw, 36rem" width="900" height="669" loading="lazy"
@@ -44,21 +43,48 @@
     <figcaption><span class="plate-no">Frontispiece.</span> J. M. W. Turner, <em>The Fighting Temeraire</em>, 1839. National Gallery, London; public domain.</figcaption>
   </figure>
 
-  <h2>Contents</h2>
-  <ol class="contents" id="toc"></ol>
-  <p class="type-pointer">Want to learn Conrad’s diction by hand? <a href="type.html?book=lord-jim&amp;ch=1">Type through the book</a>, a chapter at a time; each chapter has a <em>Type</em> button.</p>
+  <figure class="plate book-frontispiece" id="frontispiece-heart-of-darkness" hidden>
+    <div class="plate-mount">
+      <img src="art/charon-900.jpg" srcset="art/charon-900.jpg 900w, art/charon-1800.jpg 1800w"
+           sizes="(max-width: 700px) 90vw, 36rem" width="900" height="737" loading="lazy"
+           alt="A crowd of naked, huddled figures is driven onto a boat by a man with a raised oar, to cross a dark river beneath black cliffs.">
+    </div>
+    <figcaption><span class="plate-no">Frontispiece.</span> Gustave Doré, <em>Charon Herds the Sinners onto His Boat</em>, illustration for Dante’s <em>Inferno</em>, Canto III, 1861 (engraving). Public domain.</figcaption>
+  </figure>
 
-  <p class="foot">Text: Project Gutenberg eBook #5658, public domain. The Author’s Note (1917) is not included in the reader. <a href="sources.html?book=lord-jim">Sources for the notes</a> · <a href="index.html">Back to the library</a> · <a href="https://github.com/samcao920/scholia">GitHub</a>.</p>
+  <h2 id="contents-head">Contents</h2>
+  <ol class="contents" id="toc"></ol>
+  <p class="type-pointer" id="type-pointer"></p>
+
+  <p class="foot" id="book-foot"></p>
 </main>
 <script src="search.js?v=dev"></script>
 <script>
-  const q0 = new URLSearchParams(location.search).get('q');
-  OMSearch.mount(document.getElementById('book-search'), { book: 'lord-jim', id: 'q-book', initial: q0 });
-  const CHAPTERS = 45;
+  const params = new URLSearchParams(location.search);
+  const bookId = window.OMBOOKS[params.get('book')] ? params.get('book') : 'lord-jim';
+  const b = window.OMBOOKS[bookId];
+  const unit = b.unit.toLowerCase();
+  document.title = b.title + ' \u00b7 Open Margins';
+  document.getElementById('crumb-book').textContent = b.title;
+  const cover = document.getElementById('cover');
+  cover.style.setProperty('--cloth', b.cloth);
+  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.title.length > 10 ? ' long' : '') + '">' + b.title.replace(/ of /, ' of<br>') + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
+  document.getElementById('book-title').textContent = b.title;
+  document.getElementById('book-by').innerHTML = b.sub + ' \u00b7 by <em>' + b.author + '</em> \u00b7 ' + b.year;
+  document.getElementById('book-blurb').textContent = b.blurb;
+  document.getElementById('frontispiece-' + bookId).hidden = false;
+  document.getElementById('type-pointer').innerHTML = 'Want to learn Conrad\u2019s diction by hand? <a href="type.html?book=' + bookId + '&amp;ch=1">Type through the book</a>, a ' + unit + ' at a time; each ' + unit + ' has a <em>Type</em> button.';
+  document.getElementById('book-foot').innerHTML = 'Text: Project Gutenberg eBook #' + b.gutenberg + ', public domain.' +
+    (bookId === 'lord-jim' ? ' The Author\u2019s Note (1917) is not included in the reader.' : '') +
+    ' <a href="sources.html?book=' + bookId + '">Sources for the notes</a> \u00b7 <a href="index.html">Back to the library</a> \u00b7 <a href="https://github.com/samcao920/scholia">GitHub</a>.';
+</script>
+<script>
+  const q0 = params.get('q');
+  OMSearch.mount(document.getElementById('book-search'), { book: bookId, id: 'q-book', initial: q0 });
   const toc = document.getElementById('toc');
-  for (let n = 1; n <= CHAPTERS; n++) {
+  for (let n = 1; n <= b.chapters; n++) {
     const li = document.createElement('li');
-    li.innerHTML = '<span class="what"><a href="chapter.html?book=lord-jim&amp;ch=' + n + '">Chapter ' + n + '</a></span>';
+    li.innerHTML = '<span class="what"><a href="chapter.html?book=' + bookId + '&amp;ch=' + n + '">' + b.unit + ' ' + n + '</a></span>';
     toc.appendChild(li);
   }
 </script>
