@@ -6,3 +6,4 @@ fragonard.jpg <- https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader
 kramskoi.jpg <- https://commons.wikimedia.org/wiki/File:Ivan_Nikolayevich_Kramskoi_-_Inconsolable_grief%2C_1884.jpg
 wallst.jpg <- https://commons.wikimedia.org/wiki/File:Wall_Street%2C_Half_Past_Two%2C_October_13%2C_1857_MET_DP241867.jpg
 ganges.jpg <- https://commons.wikimedia.org/wiki/File:Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg
+shelley.jpg <- https://commons.wikimedia.org/wiki/File:Joseph_Severn_%281793-1879%29_-_Shelley_Composing_%E2%80%98Prometheus_Unbound%E2%80%99_in_the_Baths_of_Caracalla_-_2006.L2_-_Dove_Cottage.jpg
