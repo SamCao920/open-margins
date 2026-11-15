@@ -1,0 +1,423 @@
+[
+  {
+    "id": "ch1-001",
+    "anchor": "the shade of the Sal-wood forest",
+    "layer": "vocab",
+    "note": "Sal: a tall tree of India with hard, valuable timber, sacred in Buddhist tradition.",
+    "source": "Merriam-Webster, “sal tree”, https://www.merriam-webster.com/dictionary/sal%20tree",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-002",
+    "anchor": "the handsome son of the Brahman",
+    "layer": "history",
+    "note": "Brahmans were India’s priestly class, the highest of the four castes. They studied the Vedas and led sacrifices.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Caste”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Caste",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-003",
+    "anchor": "performing the sacred ablutions",
+    "layer": "vocab",
+    "note": "Ablutions: ritual washings of the body, done as part of worship.",
+    "source": "Merriam-Webster, “ablution”, https://www.merriam-webster.com/dictionary/ablution",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-004",
+    "anchor": "In the mango grove",
+    "layer": "vocab",
+    "note": "Mango: a tropical fruit tree of India, grown in shady groves.",
+    "source": "Merriam-Webster, “mango”, https://www.merriam-webster.com/dictionary/mango",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-005",
+    "anchor": "practising debate with Govinda",
+    "layer": "vocab",
+    "note": "Debate: a formal argument in which two sides test their ideas.",
+    "source": "Merriam-Webster, “debate”, https://www.merriam-webster.com/dictionary/debate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-006",
+    "anchor": "the service of meditation",
+    "layer": "vocab",
+    "note": "Meditation: quiet, focused thought, often with a religious purpose.",
+    "source": "Merriam-Webster, “meditation”, https://www.merriam-webster.com/dictionary/meditation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-007",
+    "anchor": "speak the Om silently",
+    "layer": "vocab",
+    "note": "Om: a sacred syllable of Hinduism, spoken in prayer and meditation.",
+    "source": "Merriam-Webster, “om”, https://www.merriam-webster.com/dictionary/om",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-008",
+    "anchor": "feel Atman in the depths of his being",
+    "layer": "history",
+    "note": "Atman is the Sanskrit word for the true self or soul. In Hindu thought it is the same as the universal spirit, Brahman.",
+    "source": "Merriam-Webster, “atman”, https://www.merriam-webster.com/dictionary/atman; Encyclopædia Britannica, 11th ed. (1911), “Brahmanism”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brahmanism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-009",
+    "anchor": "a prince among the Brahmans",
+    "layer": "vocab",
+    "note": "Brahman: a member of India’s priestly caste, also spelled Brahmin.",
+    "source": "Merriam-Webster, “brahman”, https://www.merriam-webster.com/dictionary/brahman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-010",
+    "anchor": "the perfect decency of his movements",
+    "layer": "vocab",
+    "note": "Decency: proper, dignified, and respectful behavior.",
+    "source": "Merriam-Webster, “decency”, https://www.merriam-webster.com/dictionary/decency",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-011",
+    "anchor": "his transcendent, fiery thoughts",
+    "layer": "vocab",
+    "note": "Transcendent: rising above ordinary limits.",
+    "source": "Merriam-Webster, “transcendent”, https://www.merriam-webster.com/dictionary/transcendent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-012",
+    "anchor": "his ardent will",
+    "layer": "vocab",
+    "note": "Ardent: full of strong feeling and eagerness.",
+    "source": "Merriam-Webster, “ardent”, https://www.merriam-webster.com/dictionary/ardent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-013",
+    "anchor": "a lazy official in charge of offerings",
+    "layer": "vocab",
+    "note": "Offerings: gifts of food or flowers made to the gods in worship.",
+    "source": "Merriam-Webster, “offering”, https://www.merriam-webster.com/dictionary/offering",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-014",
+    "anchor": "a vain, vacuous speaker",
+    "layer": "vocab",
+    "note": "Vacuous: empty, lacking ideas or content.",
+    "source": "Merriam-Webster, “vacuous”, https://www.merriam-webster.com/dictionary/vacuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-015",
+    "anchor": "his spear-carrier",
+    "layer": "vocab",
+    "note": "Spear-carrier: a soldier or servant who follows and serves a hero.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-016",
+    "anchor": "the grove of contemplation",
+    "layer": "vocab",
+    "note": "Contemplation: deep, quiet thought, often spent on spiritual things.",
+    "source": "Merriam-Webster, “contemplation”, https://www.merriam-webster.com/dictionary/contemplation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-017",
+    "anchor": "the bath of repentance",
+    "layer": "vocab",
+    "note": "Repentance: sorrow for wrongdoing and a wish to change.",
+    "source": "Merriam-Webster, “repentance”, https://www.merriam-webster.com/dictionary/repentance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-018",
+    "anchor": "fuming from the sacrifices",
+    "layer": "vocab",
+    "note": "Fuming: giving off smoke or vapor.",
+    "source": "Merriam-Webster, “fuming”, https://www.merriam-webster.com/dictionary/fuming",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-019",
+    "anchor": "the verses of the Rig-Veda",
+    "layer": "history",
+    "note": "The Rig-Veda is the oldest collection of Sanskrit hymns, the foundation of Hindu sacred writings and rites.",
+    "source": "Merriam-Webster, “Rig-Veda”, https://www.merriam-webster.com/dictionary/Rig-Veda",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-020",
+    "anchor": "being infused into him, drop by drop",
+    "layer": "vocab",
+    "note": "Infused: poured in slowly so as to fill completely.",
+    "source": "Merriam-Webster, “infuse”, https://www.merriam-webster.com/dictionary/infuse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-021",
+    "anchor": "his venerable father",
+    "layer": "vocab",
+    "note": "Venerable: deserving respect because of age or wisdom.",
+    "source": "Merriam-Webster, “venerable”, https://www.merriam-webster.com/dictionary/venerable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-022",
+    "anchor": "filled his expecting vessel",
+    "layer": "vocab",
+    "note": "Vessel: a container, such as a bowl or jar.",
+    "source": "Merriam-Webster, “vessel”, https://www.merriam-webster.com/dictionary/vessel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-023",
+    "anchor": "the invocation of the gods",
+    "layer": "vocab",
+    "note": "Invocation: a prayer or call asking a god to come or help.",
+    "source": "Merriam-Webster, “invocation”, https://www.merriam-webster.com/dictionary/invocation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-024",
+    "anchor": "Was it really Prajapati who had created the world?",
+    "layer": "history",
+    "note": "Prajapati means “lord of creatures.” In the Vedas it is a title given to a great god, such as the sun, Indra, or Agni.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Brahmanism”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brahmanism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-025",
+    "anchor": "the Upanishades of Samaveda",
+    "layer": "history",
+    "note": "The Upanishads are Hindu texts that ask about the soul and the universe. The Samaveda is a Veda of hymns to be sung.",
+    "source": "Merriam-Webster, “upanishad”, https://www.merriam-webster.com/dictionary/upanishad; Merriam-Webster, “Samaveda”, https://www.merriam-webster.com/dictionary/Samaveda",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-026",
+    "anchor": "Marvellous wisdom was in these verses",
+    "layer": "vocab",
+    "note": "Marvellous: wonderful, causing great astonishment.",
+    "source": "Merriam-Webster, “marvelous”, https://www.merriam-webster.com/dictionary/marvelous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-027",
+    "anchor": "pure as honey collected by bees",
+    "layer": "vocab",
+    "note": "Pure as honey: a simile for something rich, sweet, and refined.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-028",
+    "anchor": "the tremendous amount of enlightenment",
+    "layer": "vocab",
+    "note": "Enlightenment: deep understanding, spiritual wisdom.",
+    "source": "Merriam-Webster, “enlightenment”, https://www.merriam-webster.com/dictionary/enlightenment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-029",
+    "anchor": "the knowledgeable one who wove his spell",
+    "layer": "vocab",
+    "note": "Spell: a set of words thought to have magic power.",
+    "source": "Merriam-Webster, “spell”, https://www.merriam-webster.com/dictionary/spell",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-030",
+    "anchor": "the pure one, the scholar",
+    "layer": "vocab",
+    "note": "Scholar: a person who has studied a subject deeply.",
+    "source": "Merriam-Webster, “scholar”, https://www.merriam-webster.com/dictionary/scholar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-031",
+    "anchor": "the irreproachable one",
+    "layer": "vocab",
+    "note": "Irreproachable: free from fault, beyond blame.",
+    "source": "Merriam-Webster, “irreproachable”, https://www.merriam-webster.com/dictionary/irreproachable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-032",
+    "anchor": "did not the pristine source spring from his heart",
+    "layer": "vocab",
+    "note": "Pristine: original, pure, untouched by anything later.",
+    "source": "Merriam-Webster, “pristine”, https://www.merriam-webster.com/dictionary/pristine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-033",
+    "anchor": "a Chandogya-Upanishad",
+    "layer": "history",
+    "note": "The Chandogya Upanishad is one of the oldest Upanishads, a Sanskrit text on the nature of the Brahman and the self.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Brahmanism”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brahmanism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-034",
+    "anchor": "under the Banyan tree",
+    "layer": "vocab",
+    "note": "Banyan: a large Indian fig tree whose branches send roots down to the ground.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Banyan”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Banyan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-035",
+    "anchor": "Om is the bow, the arrow is soul",
+    "layer": "history",
+    "note": "This verse is from the Mundaka Upanishad. The soul is the arrow shot at the Brahman, the highest reality.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Brahmanism”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brahmanism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-036",
+    "anchor": "his soul sent after the Brahman as an arrow",
+    "layer": "vocab",
+    "note": "Brahman: here, the highest reality, the divine spirit behind all things.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Brahmanism”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brahmanism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-037",
+    "anchor": "Samanas had travelled through Siddhartha’s town",
+    "layer": "history",
+    "note": "Samanas were wandering ascetics of ancient India who gave up home and possessions to seek truth through self-denial.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha; Merriam-Webster, “sramana”, https://www.merriam-webster.com/dictionary/sramana",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-038",
+    "anchor": "ascetics on a pilgrimage",
+    "layer": "vocab",
+    "note": "Ascetics: people who live a life of strict self-denial for religious reasons.",
+    "source": "Merriam-Webster, “ascetic”, https://www.merriam-webster.com/dictionary/ascetic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-039",
+    "anchor": "scorched by the sun",
+    "layer": "vocab",
+    "note": "Scorched: burned on the surface by heat.",
+    "source": "Merriam-Webster, “scorched”, https://www.merriam-webster.com/dictionary/scorched",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-040",
+    "anchor": "lank jackals",
+    "layer": "vocab",
+    "note": "Jackals: wild dogs of Asia and Africa that scavenge for food.",
+    "source": "Merriam-Webster, “jackal”, https://www.merriam-webster.com/dictionary/jackal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-041",
+    "anchor": "a hot scent of quiet passion, of destructive service, of merciless self-denial",
+    "layer": "vocab",
+    "note": "Self-denial: giving up comforts and pleasures.",
+    "source": "Merriam-Webster, “self-denial”, https://www.merriam-webster.com/dictionary/self-denial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-042",
+    "anchor": "a mat of bast",
+    "layer": "vocab",
+    "note": "Bast: tough plant fiber from the inner bark of trees, used to weave mats.",
+    "source": "Merriam-Webster, “bast”, https://www.merriam-webster.com/dictionary/bast",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-043",
+    "anchor": "Quoth the Brahman",
+    "layer": "vocab",
+    "note": "Quoth: said (an old-fashioned word).",
+    "source": "Merriam-Webster, “quoth”, https://www.merriam-webster.com/dictionary/quoth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-044",
+    "anchor": "’ere the silence was broken",
+    "layer": "vocab",
+    "note": "’Ere: before (an old-fashioned word).",
+    "source": "Merriam-Webster, “ere”, https://www.merriam-webster.com/dictionary/ere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-045",
+    "anchor": "But indignation is in my heart",
+    "layer": "vocab",
+    "note": "Indignation: anger at something unjust or insulting.",
+    "source": "Merriam-Webster, “indignation”, https://www.merriam-webster.com/dictionary/indignation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-046",
+    "anchor": "Indignant, the father left",
+    "layer": "vocab",
+    "note": "Indignant: angry at something that seems unfair or insulting.",
+    "source": "Merriam-Webster, “indignant”, https://www.merriam-webster.com/dictionary/indignant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-047",
+    "anchor": "filled his heart with anguish",
+    "layer": "vocab",
+    "note": "Anguish: severe mental pain and distress.",
+    "source": "Merriam-Webster, “anguish”, https://www.merriam-webster.com/dictionary/anguish",
+    "status": "draft",
+    "checker": null
+  }
+]

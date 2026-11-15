@@ -1,0 +1,441 @@
+[
+  {
+    "id": "ch5-001",
+    "anchor": "and his heart was enchanted",
+    "layer": "vocab",
+    "note": "Enchanted: delighted, as if under a magic spell.",
+    "source": "Merriam-Webster, “enchanted”, https://www.merriam-webster.com/dictionary/enchanted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-002",
+    "anchor": "the crescent of the moon",
+    "layer": "vocab",
+    "note": "Crescent: the thin, curved shape of the moon before or after it is full.",
+    "source": "Merriam-Webster, “crescent”, https://www.merriam-webster.com/dictionary/crescent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-003",
+    "anchor": "the glistening dew",
+    "layer": "vocab",
+    "note": "Glistening: shining with a wet sparkle.",
+    "source": "Merriam-Webster, “glistening”, https://www.merriam-webster.com/dictionary/glistening",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-004",
+    "anchor": "a fleeting, deceptive veil",
+    "layer": "vocab",
+    "note": "Fleeting: passing quickly, not lasting.",
+    "source": "Merriam-Webster, “fleeting”, https://www.merriam-webster.com/dictionary/fleeting",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-005",
+    "anchor": "heard their savage, greedy song",
+    "layer": "vocab",
+    "note": "Savage: wild, untamed, and fierce, like a beast.",
+    "source": "Merriam-Webster, “savage”, https://www.merriam-webster.com/dictionary/savage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-006",
+    "anchor": "the pike hungrily hunting",
+    "layer": "vocab",
+    "note": "Pike: a long, fierce freshwater fish that hunts other fish.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-007",
+    "anchor": "the hasty eddies of the water",
+    "layer": "vocab",
+    "note": "Eddies: small whirlpools in moving water.",
+    "source": "Merriam-Webster, “eddy”, https://www.merriam-webster.com/dictionary/eddy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-008",
+    "anchor": "impetuously hunting",
+    "layer": "vocab",
+    "note": "Impetuously: with sudden, rushing energy and little thought.",
+    "source": "Merriam-Webster, “impetuously”, https://www.merriam-webster.com/dictionary/impetuously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-009",
+    "anchor": "the unexpressable and not teachable",
+    "layer": "vocab",
+    "note": "Unexpressable: impossible to put into words.",
+    "source": "Merriam-Webster, “unexpressable”, https://www.merriam-webster.com/dictionary/unexpressable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-010",
+    "anchor": "the secret voices of the innermost truth",
+    "layer": "vocab",
+    "note": "Innermost: deepest inside, most private.",
+    "source": "Merriam-Webster, “innermost”, https://www.merriam-webster.com/dictionary/innermost",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-011",
+    "anchor": "under the bo-tree, where the enlightenment hit him",
+    "layer": "history",
+    "note": "The Buddha is said to have found enlightenment while seated under a large fig tree, now called the bo-tree or bodhi tree.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha; Merriam-Webster, “bo tree”, https://www.merriam-webster.com/dictionary/bo%20tree",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-012",
+    "anchor": "slept in the straw hut of a ferryman",
+    "layer": "vocab",
+    "note": "Ferryman: a person who carries passengers across a river by boat.",
+    "source": "Merriam-Webster, “ferryman”, https://www.merriam-webster.com/dictionary/ferryman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-013",
+    "anchor": "It intoxicated him and rendered him unconscious",
+    "layer": "vocab",
+    "note": "Intoxicated: made drunk, or filled with strong feeling.",
+    "source": "Merriam-Webster, “intoxicate”, https://www.merriam-webster.com/dictionary/intoxicate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-014",
+    "anchor": "on his bamboo-raft",
+    "layer": "vocab",
+    "note": "Raft: a flat floating platform of tied logs or bamboo, used to cross water.",
+    "source": "Merriam-Webster, “raft”, https://www.merriam-webster.com/dictionary/raft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-015",
+    "anchor": "I thank you, my benefactor",
+    "layer": "vocab",
+    "note": "Benefactor: a person who helps others by giving gifts or aid.",
+    "source": "Merriam-Webster, “benefactor”, https://www.merriam-webster.com/dictionary/benefactor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-016",
+    "anchor": "Siddhartha, disembarking on the other side",
+    "layer": "vocab",
+    "note": "Disembarking: getting off a boat.",
+    "source": "Merriam-Webster, “disembark”, https://www.merriam-webster.com/dictionary/disembark",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-017",
+    "anchor": "for your hospitality",
+    "layer": "vocab",
+    "note": "Hospitality: friendly, generous welcome to guests.",
+    "source": "Merriam-Webster, “hospitality”, https://www.merriam-webster.com/dictionary/hospitality",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-018",
+    "anchor": "Commemorate me, when you’ll make offerings",
+    "layer": "vocab",
+    "note": "Commemorate: to remember and honor.",
+    "source": "Merriam-Webster, “commemorate”, https://www.merriam-webster.com/dictionary/commemorate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-019",
+    "anchor": "All are submissive",
+    "layer": "vocab",
+    "note": "Submissive: yielding to others, not resisting.",
+    "source": "Merriam-Webster, “submissive”, https://www.merriam-webster.com/dictionary/submissive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-020",
+    "anchor": "beautifully her wet mouth was shimmering",
+    "layer": "vocab",
+    "note": "Shimmering: shining with a soft, wavering light.",
+    "source": "Merriam-Webster, “shimmer”, https://www.merriam-webster.com/dictionary/shimmer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-021",
+    "anchor": "exchanged humorous banter with him",
+    "layer": "vocab",
+    "note": "Banter: playful, teasing talk between friends.",
+    "source": "Merriam-Webster, “banter”, https://www.merriam-webster.com/dictionary/banter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-022",
+    "anchor": "shuddering with awe",
+    "layer": "vocab",
+    "note": "Awe: deep wonder mixed with respect or fear.",
+    "source": "Merriam-Webster, “awe”, https://www.merriam-webster.com/dictionary/awe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-023",
+    "anchor": "bamboo-wood",
+    "layer": "vocab",
+    "note": "Bamboo: a tall tropical grass with hollow, jointed stems.",
+    "source": "Merriam-Webster, “bamboo”, https://www.merriam-webster.com/dictionary/bamboo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-024",
+    "anchor": "carried by four servants in an ornamental sedan-chair",
+    "layer": "vocab",
+    "note": "Sedan-chair: a covered chair carried on poles by two or more men.",
+    "source": "Merriam-Webster, “sedan chair”, https://www.merriam-webster.com/dictionary/sedan%20chair",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-025",
+    "anchor": "under a colourful canopy",
+    "layer": "vocab",
+    "note": "Canopy: a cover held up over a person as a decoration or for shade.",
+    "source": "Merriam-Webster, “canopy”, https://www.merriam-webster.com/dictionary/canopy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-026",
+    "anchor": "a brightly red mouth, like a freshly cracked fig",
+    "layer": "vocab",
+    "note": "Fig: a soft, sweet fruit with a red or purple inside.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-027",
+    "anchor": "long and thin, with wide golden bracelets",
+    "layer": "vocab",
+    "note": "Bracelets: bands worn around the wrist as jewelry.",
+    "source": "Merriam-Webster, “bracelet”, https://www.merriam-webster.com/dictionary/bracelet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-028",
+    "anchor": "his heart rejoiced",
+    "layer": "vocab",
+    "note": "Rejoiced: felt great joy and delight.",
+    "source": "Merriam-Webster, “rejoice”, https://www.merriam-webster.com/dictionary/rejoice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-029",
+    "anchor": "a charming omen",
+    "layer": "vocab",
+    "note": "Omen: a sign of good or bad luck to come.",
+    "source": "Merriam-Webster, “omen”, https://www.merriam-webster.com/dictionary/omen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-030",
+    "anchor": "the famous courtesan",
+    "layer": "vocab",
+    "note": "Courtesan: a woman who was the paid companion of rich, important men. Kamala is also trained in art and conversation.",
+    "source": "Merriam-Webster, “courtesan”, https://www.merriam-webster.com/dictionary/courtesan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-031",
+    "anchor": "friends with barber’s assistant",
+    "layer": "vocab",
+    "note": "Barber: a man who cuts hair and shaves beards.",
+    "source": "Merriam-Webster, “barber”, https://www.merriam-webster.com/dictionary/barber",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-032",
+    "anchor": "praying in a temple of Vishnu",
+    "layer": "history",
+    "note": "Vishnu is the Hindu god who preserves the world. He and Siva are the two great gods that Hindus worship.",
+    "source": "Merriam-Webster, “Vishnu”, https://www.merriam-webster.com/dictionary/Vishnu; Encyclopædia Britannica, 11th ed. (1911), “Hinduism”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hinduism",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-033",
+    "anchor": "told about stories of Vishnu and the Lakshmi",
+    "layer": "history",
+    "note": "Lakshmi is the Hindu goddess of beauty and good fortune, who is Vishnu’s wife and partner.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hinduism”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hinduism; Merriam-Webster, “Lakshmi”, https://www.merriam-webster.com/dictionary/Lakshmi",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-034",
+    "anchor": "anoint it with fine oil",
+    "layer": "vocab",
+    "note": "Anoint: to rub with oil, as for beauty or in a ceremony.",
+    "source": "Merriam-Webster, “anoint”, https://www.merriam-webster.com/dictionary/anoint",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-035",
+    "anchor": "without a word into a pavilion",
+    "layer": "vocab",
+    "note": "Pavilion: a light, open building in a garden, for rest or amusement.",
+    "source": "Merriam-Webster, “pavilion”, https://www.merriam-webster.com/dictionary/pavilion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-036",
+    "anchor": "her fan of peacocks’ feathers",
+    "layer": "vocab",
+    "note": "Peacock: a large Indian bird whose male has bright, eyed tail feathers.",
+    "source": "Merriam-Webster, “peacock”, https://www.merriam-webster.com/dictionary/peacock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-037",
+    "anchor": "his learning, and his religious devotion",
+    "layer": "vocab",
+    "note": "Devotion: deep loyalty and dedication, especially to religion.",
+    "source": "Merriam-Webster, “devotion”, https://www.merriam-webster.com/dictionary/devotion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-038",
+    "anchor": "to tackle it in such a wrong manner",
+    "layer": "vocab",
+    "note": "Tackle: to set about dealing with a hard task.",
+    "source": "Merriam-Webster, “tackle”, https://www.merriam-webster.com/dictionary/tackle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-039",
+    "anchor": "a poor, ignorant Samana",
+    "layer": "vocab",
+    "note": "Ignorant: lacking knowledge or education.",
+    "source": "Merriam-Webster, “ignorant”, https://www.merriam-webster.com/dictionary/ignorant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-040",
+    "anchor": "seeing the lotus’s blossom",
+    "layer": "vocab",
+    "note": "Lotus: a water plant of India with large pink or white flowers, a sacred symbol.",
+    "source": "Merriam-Webster, “lotus”, https://www.merriam-webster.com/dictionary/lotus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-041",
+    "anchor": "he tilted his head",
+    "layer": "vocab",
+    "note": "Tilted: leaned to one side.",
+    "source": "Merriam-Webster, “tilt”, https://www.merriam-webster.com/dictionary/tilt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-042",
+    "anchor": "lured him",
+    "layer": "vocab",
+    "note": "Lured: tempted, drew in with a promise of pleasure.",
+    "source": "Merriam-Webster, “lure”, https://www.merriam-webster.com/dictionary/lure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-043",
+    "anchor": "the cornucopia of knowledge",
+    "layer": "vocab",
+    "note": "Cornucopia: a horn overflowing with fruit and grain, a sign of plenty.",
+    "source": "Merriam-Webster, “cornucopia”, https://www.merriam-webster.com/dictionary/cornucopia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-044",
+    "anchor": "stammered Siddhartha",
+    "layer": "vocab",
+    "note": "Stammered: spoke with pauses and repeated sounds from nervousness.",
+    "source": "Merriam-Webster, “stammer”, https://www.merriam-webster.com/dictionary/stammer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-045",
+    "anchor": "I have read the scriptures",
+    "layer": "vocab",
+    "note": "Scriptures: sacred writings of a religion.",
+    "source": "Merriam-Webster, “scripture”, https://www.merriam-webster.com/dictionary/scripture",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-046",
+    "anchor": "the pious Brahman",
+    "layer": "vocab",
+    "note": "Pious: devoted to religion and its duties.",
+    "source": "Merriam-Webster, “pious”, https://www.merriam-webster.com/dictionary/pious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-047",
+    "anchor": "toilsome, and ultimately hopeless",
+    "layer": "vocab",
+    "note": "Toilsome: needing hard, tiring work.",
+    "source": "Merriam-Webster, “toilsome”, https://www.merriam-webster.com/dictionary/toilsome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-048",
+    "anchor": "he’ll entrust you with a lot",
+    "layer": "vocab",
+    "note": "Entrust: to give a person charge of something.",
+    "source": "Merriam-Webster, “entrust”, https://www.merriam-webster.com/dictionary/entrust",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-049",
+    "anchor": "by means of the daemons",
+    "layer": "vocab",
+    "note": "Daemons: spirits, in this old spelling of “demons.”",
+    "source": "Merriam-Webster, “daemon”, https://www.merriam-webster.com/dictionary/daemon",
+    "status": "draft",
+    "checker": null
+  }
+]

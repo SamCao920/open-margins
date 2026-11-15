@@ -4,7 +4,7 @@ Free, open annotated editions of classic books for high school and college stude
 
 Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Open Margins puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
 
-**Library:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters; *Heart of Darkness* by Joseph Conrad (1899), all three parts; *The Death of Ivan Ilyich* by Leo Tolstoy (1886, trans. Constance Garnett), all twelve chapters; *Bartleby, the Scrivener* by Herman Melville (1853), all six parts.
+**Library:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters; *Heart of Darkness* by Joseph Conrad (1899), all three parts; *The Death of Ivan Ilyich* by Leo Tolstoy (1886, trans. Constance Garnett), all twelve chapters; *Bartleby, the Scrivener* by Herman Melville (1853), all six parts; *Siddhartha* by Hermann Hesse (1922), all twelve chapters.
 
 ## Why?
 
@@ -29,6 +29,7 @@ texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch45.txt
 texts/heart-of-darkness/   Parts I to III as ch01.txt to ch03.txt
 texts/ivan-ilyich/         Chapters 1 to 12 as ch01.txt to ch12.txt
 texts/bartleby/            Parts 1 to 6 as ch01.txt to ch06.txt
+texts/siddhartha/          Chapters 1 to 12 as ch01.txt to ch12.txt
 notes/SCHEMA.md            Annotation format
 notes/lord-jim/ch1.json    Annotations, one JSON file per chapter (heart-of-darkness/ likewise, per part)
 site/books.js              The library registry shared by every page
@@ -75,6 +76,8 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 ## Status
 
 *Heart of Darkness*: 605 draft notes (Part I 306, Part II 161, Part III 138), none verified by a person yet.
+
+*Siddhartha*: 312 draft notes across 12 chapters, none verified by a person yet.
 
 *Bartleby, the Scrivener*: 306 draft notes across 6 parts, none verified by a person yet.
 
