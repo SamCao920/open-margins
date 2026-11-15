@@ -28,7 +28,7 @@ texts/lord_jim.txt         Full public domain text (Project Gutenberg boilerplat
 texts/lord-jim/ch01.txt    One file per chapter, ch01.txt to ch45.txt
 notes/SCHEMA.md            Annotation format
 notes/lord-jim/ch1.json    Annotations, one JSON file per chapter
-site/                      Static site: home page (index.html), book contents (book.html), chapter reader (chapter.html), sources (sources.html)
+site/                      Static site: home page (index.html), book contents (book.html), chapter reader (chapter.html), type-through mode (type.html), search (search.js), sources (sources.html)
 site/fonts/                Old Standard TT and EB Garamond web fonts (SIL Open Font License)
 site/brand/                Logo mark and favicons
 site/art/                  Public domain paintings used as plates (sources in CREDITS.md)
