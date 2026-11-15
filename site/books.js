@@ -26,7 +26,7 @@ window.OMBOOKS = {
   },
   'siddhartha': {
     title: 'Siddhartha', sub: 'An Indian Tale', author: 'Hermann Hesse', year: 1922, chapters: 12,
-    unit: 'Chapter', cloth: '#7a4b1c', gutenberg: 2500, translated: true,
+    unit: 'Chapter', cloth: '#7a4b1c', gutenberg: 2500, translated: true, coverClass: 'xlong',
     titles: ['The Son of the Brahman', 'With the Samanas', 'Gotama', 'Awakening', 'Kamala', 'With the Childlike People', 'Sansara', 'By the River', 'The Ferryman', 'The Son', 'Om', 'Govinda'],
     blurb: 'A young Brahman in ancient India leaves his father\u2019s house to search for peace and finds it only by living.',
     meta: 'The complete novel, in twelve chapters'

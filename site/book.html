@@ -69,6 +69,15 @@
     <figcaption><span class="plate-no">Frontispiece.</span> James H. Cafferty and Charles G. Rosenberg, <em>Wall Street, Half Past Two, October 13, 1857</em>, 1858. Metropolitan Museum of Art; public domain.</figcaption>
   </figure>
 
+  <figure class="plate book-frontispiece" id="frontispiece-siddhartha" hidden>
+    <div class="plate-mount">
+      <img src="art/ganges-800.jpg" srcset="art/ganges-800.jpg 800w, art/ganges-1000.jpg 1000w"
+           sizes="(max-width: 700px) 90vw, 36rem" width="800" height="546" loading="lazy"
+           alt="Boats float on the Ganges in front of the tall stone buildings and temples of Benares under a deep blue sky, the water reflecting red and gold.">
+    </div>
+    <figcaption><span class="plate-no">Frontispiece.</span> Edwin Lord Weeks, <em>The Barge of the Maharaja of Benares</em>. Public domain.</figcaption>
+  </figure>
+
   <h2 id="contents-head">Contents</h2>
   <ol class="contents" id="toc"></ol>
   <p class="type-pointer" id="type-pointer"></p>
@@ -85,7 +94,7 @@
   document.getElementById('crumb-book').textContent = b.title;
   const cover = document.getElementById('cover');
   cover.style.setProperty('--cloth', b.cloth);
-  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.title.length > 20 ? ' xlong' : b.title.length > 10 ? ' long' : '') + '">' + (b.coverTitle || b.title.replace(/ of /, ' of<br>')) + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
+  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.coverClass ? ' ' + b.coverClass : b.title.length > 20 ? ' xlong' : b.title.length > 10 ? ' long' : '') + '">' + (b.coverTitle || b.title.replace(/ of /, ' of<br>')) + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
   document.getElementById('book-title').textContent = b.title;
   document.getElementById('book-by').innerHTML = b.sub + ' \u00b7 by <em>' + b.author + '</em> \u00b7 ' + b.year;
   document.getElementById('book-blurb').textContent = b.blurb;
