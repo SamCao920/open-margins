@@ -4,3 +4,4 @@ charon.jpg <- https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_
 bookworm.jpg <- https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_-_%22The_Bookworm%22.jpg
 fragonard.jpg <- https://commons.wikimedia.org/wiki/File:Fragonard%2C_The_Reader.jpg
 kramskoi.jpg <- https://commons.wikimedia.org/wiki/File:Ivan_Nikolayevich_Kramskoi_-_Inconsolable_grief%2C_1884.jpg
+wallst.jpg <- https://commons.wikimedia.org/wiki/File:Wall_Street%2C_Half_Past_Two%2C_October_13%2C_1857_MET_DP241867.jpg
