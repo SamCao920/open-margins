@@ -17,5 +17,11 @@ window.OMBOOKS = {
     unit: 'Chapter', cloth: '#2f3a52', gutenberg: 79990, translator: 'Constance Garnett',
     blurb: 'A Russian judge\u2019s colleagues read of his death in the newspaper, and the story goes back to show how he lived.',
     meta: 'The complete novella, in twelve chapters'
+  },
+  'bartleby': {
+    title: 'Bartleby, the Scrivener', coverTitle: 'Bartleby,<br>the Scrivener', sub: 'A Story', author: 'Herman Melville', year: 1853, chapters: 6,
+    unit: 'Part', cloth: '#5a3e2b', gutenberg: 11231,
+    blurb: 'A Wall Street lawyer hires a quiet copyist who answers every request with the same polite refusal.',
+    meta: 'The complete story, in six parts'
   }
 };

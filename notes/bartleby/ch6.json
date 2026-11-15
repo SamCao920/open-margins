@@ -1,0 +1,340 @@
+[
+  {
+    "id": "ch6-001",
+    "anchor": "a perturbed looking stranger",
+    "layer": "vocab",
+    "note": "Perturbed: worried and upset, thrown into disorder.",
+    "source": "Merriam-Webster, “perturbed”, https://www.merriam-webster.com/dictionary/perturbed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-002",
+    "anchor": "Full of forebodings",
+    "layer": "vocab",
+    "note": "Forebodings: feelings that something bad will happen.",
+    "source": "Merriam-Webster, “foreboding”, https://www.merriam-webster.com/dictionary/foreboding",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-003",
+    "anchor": "a certain squeamishness",
+    "layer": "vocab",
+    "note": "Squeamishness: easy discomfort, unwillingness to face unpleasant things.",
+    "source": "Merriam-Webster, “squeamishness”, https://www.merriam-webster.com/dictionary/squeamishness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-004",
+    "anchor": "a portly person among them",
+    "layer": "vocab",
+    "note": "Portly: rather fat and dignified.",
+    "source": "Merriam-Webster, “portly”, https://www.merriam-webster.com/dictionary/portly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-005",
+    "anchor": "sitting upon the banisters of the stairs",
+    "layer": "vocab",
+    "note": "Banisters: the railings along a staircase.",
+    "source": "Merriam-Webster, “banister”, https://www.merriam-webster.com/dictionary/banister",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-006",
+    "anchor": "the cause of great tribulation to me",
+    "layer": "vocab",
+    "note": "Tribulation: great trouble and distress.",
+    "source": "Merriam-Webster, “tribulation”, https://www.merriam-webster.com/dictionary/tribulation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-007",
+    "anchor": "a clerkship in a dry-goods store",
+    "layer": "vocab",
+    "note": "Dry-goods store: a shop selling cloth, thread, and clothing.",
+    "source": "Merriam-Webster, “dry goods”, https://www.merriam-webster.com/dictionary/dry%20goods",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-008",
+    "anchor": "a bar-tender’s business",
+    "layer": "vocab",
+    "note": "Bar-tender: a person who serves drinks at a bar.",
+    "source": "Merriam-Webster, “bartender”, https://www.merriam-webster.com/dictionary/bartender",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-009",
+    "anchor": "collecting bills for the merchants",
+    "layer": "vocab",
+    "note": "Collecting bills: going from door to door to get customers to pay what they owe.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-010",
+    "anchor": "I like to be stationary",
+    "layer": "vocab",
+    "note": "Stationary: staying in one place. The lawyer puns on this word and “stationery.”",
+    "source": "Merriam-Webster, “stationary”, https://www.merriam-webster.com/dictionary/stationary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-011",
+    "anchor": "I rather absurdly concluded",
+    "layer": "vocab",
+    "note": "Absurdly: in a foolish, ridiculous way.",
+    "source": "Merriam-Webster, “absurdly”, https://www.merriam-webster.com/dictionary/absurdly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-012",
+    "anchor": "jumping into the first omnibus",
+    "layer": "vocab",
+    "note": "Omnibus: a large horse-drawn carriage carrying many passengers along a fixed route.",
+    "source": "Merriam-Webster, “omnibus”, https://www.merriam-webster.com/dictionary/omnibus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-013",
+    "anchor": "care-free and quiescent",
+    "layer": "vocab",
+    "note": "Quiescent: quiet, still, at rest.",
+    "source": "Merriam-Webster, “quiescent”, https://www.merriam-webster.com/dictionary/quiescent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-014",
+    "anchor": "suburbs, in my rockaway",
+    "layer": "vocab",
+    "note": "Rockaway: a light, four-wheeled carriage with a fixed top, drawn by horses.",
+    "source": "Merriam-Webster, “rockaway”, https://www.merriam-webster.com/dictionary/rockaway",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-015",
+    "anchor": "crossed over to Jersey City and Hoboken",
+    "layer": "place",
+    "note": "Jersey City and Hoboken are New Jersey cities on the Hudson River, just across the water from Manhattan, where railways and steamships ended.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “New York City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_York_City",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-016",
+    "anchor": "Manhattanville and Astoria",
+    "layer": "place",
+    "note": "Manhattanville was a village on upper Manhattan Island. Astoria lay across the East River on the Long Island shore.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “New York City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_York_City",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-017",
+    "anchor": "removed to the Tombs as a vagrant",
+    "layer": "place",
+    "note": "The Tombs was New York’s city prison. It stood beside the criminal courts, which the narrator calls the Halls of Justice.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “New York City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_York_City",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-018",
+    "anchor": "silently acquiesced",
+    "layer": "vocab",
+    "note": "Acquiesced: agreed quietly, without protest.",
+    "source": "Merriam-Webster, “acquiesce”, https://www.merriam-webster.com/dictionary/acquiesce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-019",
+    "anchor": "the compassionate and curious bystanders",
+    "layer": "vocab",
+    "note": "Compassionate: feeling pity for others’ suffering.",
+    "source": "Merriam-Webster, “compassionate”, https://www.merriam-webster.com/dictionary/compassionate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-020",
+    "anchor": "one of the constables",
+    "layer": "vocab",
+    "note": "Constables: low-ranking police officers who make arrests.",
+    "source": "Merriam-Webster, “constable”, https://www.merriam-webster.com/dictionary/constable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-021",
+    "anchor": "the alms-house must receive him",
+    "layer": "vocab",
+    "note": "Alms-house: a home for the poor, paid for by the public.",
+    "source": "Merriam-Webster, “almshouse”, https://www.merriam-webster.com/dictionary/almshouse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-022",
+    "anchor": "inclosed grass-platted yard",
+    "layer": "vocab",
+    "note": "Grass-platted: laid out in small plots of grass.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-023",
+    "anchor": "the narrow slits of the jail windows",
+    "layer": "vocab",
+    "note": "Slits: long, narrow openings, such as a prison window.",
+    "source": "Merriam-Webster, “slit”, https://www.merriam-webster.com/dictionary/slit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-024",
+    "anchor": "I am the grub-man",
+    "layer": "vocab",
+    "note": "Grub-man: here, a prison cook who sells meals to prisoners who can pay.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-025",
+    "anchor": "turning to the turnkey",
+    "layer": "vocab",
+    "note": "Turnkey: a prison guard who keeps the keys.",
+    "source": "Merriam-Webster, “turnkey”, https://www.merriam-webster.com/dictionary/turnkey",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-026",
+    "anchor": "Your sarvant, sir",
+    "layer": "vocab",
+    "note": "Sarvant: how the grub-man says “servant,” a polite greeting of the time.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-027",
+    "anchor": "a gentleman forger",
+    "layer": "vocab",
+    "note": "Forger: a person who makes false documents or signatures to commit fraud.",
+    "source": "Merriam-Webster, “forger”, https://www.merriam-webster.com/dictionary/forger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-028",
+    "anchor": "he died of consumption at Sing-Sing",
+    "layer": "place",
+    "note": "Sing Sing was a famous state prison at Ossining, New York. Consumption is an old name for tuberculosis, a wasting lung disease.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Ossining”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ossining; Merriam-Webster, “consumption”, https://www.merriam-webster.com/dictionary/consumption",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-029",
+    "anchor": "The Egyptian character of the masonry",
+    "layer": "vocab",
+    "note": "Masonry: stonework. The narrator says the prison’s thick walls look Egyptian, like the walls of the pyramids.",
+    "source": "Merriam-Webster, “masonry”, https://www.merriam-webster.com/dictionary/masonry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-030",
+    "anchor": "through the clefts",
+    "layer": "vocab",
+    "note": "Clefts: narrow cracks or splits.",
+    "source": "Merriam-Webster, “cleft”, https://www.merriam-webster.com/dictionary/cleft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-031",
+    "anchor": "a tingling shiver",
+    "layer": "vocab",
+    "note": "Tingling: a stinging, prickling feeling.",
+    "source": "Merriam-Webster, “tingling”, https://www.merriam-webster.com/dictionary/tingling",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-032",
+    "anchor": "With kings and counselors",
+    "layer": "allusion",
+    "note": "From the Bible: Job says that in death he would rest “with kings and counsellors of the earth.” Death is a great leveler.",
+    "source": "The Bible (King James Version), Job 3:14, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-033",
+    "anchor": "poor Bartleby’s interment",
+    "layer": "vocab",
+    "note": "Interment: burial in a grave.",
+    "source": "Merriam-Webster, “interment”, https://www.merriam-webster.com/dictionary/interment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-034",
+    "anchor": "I hardly know whether I should divulge",
+    "layer": "vocab",
+    "note": "Divulge: to reveal a secret.",
+    "source": "Merriam-Webster, “divulge”, https://www.merriam-webster.com/dictionary/divulge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-035",
+    "anchor": "a subordinate clerk in the Dead Letter Office at Washington",
+    "layer": "history",
+    "note": "Dead letters are letters the post office can neither deliver nor return. Special offices handled them, opening them to find the sender.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Post and Postal Service”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Post_and_Postal_Service",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-036",
+    "anchor": "a change in the administration",
+    "layer": "vocab",
+    "note": "Administration: here, the government in power, whose change could cost officeholders their jobs.",
+    "source": "Merriam-Webster, “administration”, https://www.merriam-webster.com/dictionary/administration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-037",
+    "anchor": "the finger it was meant for, perhaps, moulders in the grave",
+    "layer": "vocab",
+    "note": "Moulders: slowly rots and turns to dust.",
+    "source": "Merriam-Webster, “moulder”, https://www.merriam-webster.com/dictionary/moulder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-038",
+    "anchor": "unrelieved calamities",
+    "layer": "vocab",
+    "note": "Calamities: great disasters and misfortunes.",
+    "source": "Merriam-Webster, “calamity”, https://www.merriam-webster.com/dictionary/calamity",
+    "status": "draft",
+    "checker": null
+  }
+]
