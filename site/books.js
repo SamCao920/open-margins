@@ -30,5 +30,13 @@ window.OMBOOKS = {
     titles: ['The Son of the Brahman', 'With the Samanas', 'Gotama', 'Awakening', 'Kamala', 'With the Childlike People', 'Sansara', 'By the River', 'The Ferryman', 'The Son', 'Om', 'Govinda'],
     blurb: 'A young Brahman in ancient India leaves his father\u2019s house to search for peace and finds it only by living.',
     meta: 'The complete novel, in twelve chapters'
+  },
+  'romantic-poets': {
+    title: 'The Romantic Poets', coverTitle: 'The Romantic<br>Poets', sub: 'From the Golden Treasury', author: 'F. T. Palgrave, ed.', year: 1861, chapters: 12,
+    unit: 'Poet', cloth: '#3f4a3a', gutenberg: 19221, verse: true, coverClass: 'xlong',
+    titles: ['William Wordsworth', 'Walter Scott', 'Samuel Taylor Coleridge', 'Robert Southey', 'Charles Lamb', 'Thomas Campbell', 'Thomas Moore', 'Lord Byron', 'Percy Bysshe Shelley', 'John Keats', 'Thomas Hood', 'Hartley Coleridge, Allan Cunningham, and Charles Wolfe'],
+    textNote: 'Palgrave\u2019s Fourth Book (poems 166 to 288), regrouped by poet and kept in his numbering; his notes and the other three books are not included.',
+    blurb: 'A hundred and twenty-three lyrics by the poets of the Romantic age, picked by a Victorian anthologist.',
+    meta: 'A selection, in twelve poets'
   }
 };

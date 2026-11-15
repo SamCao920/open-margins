@@ -477,6 +477,10 @@ a.cover:hover { transform: translateY(-3px); }
    indented as a block, a size smaller, line breaks kept. */
 #text p.extract { margin: .7em 0 .7em 2.5em; text-indent: 0; text-align: left; font-size: .9em; line-height: 1.55; }
 @media (max-width: 600px) { #text p.extract { margin-left: 1.2em; } }
+/* Verse books: every stanza keeps its line breaks, at full size. */
+.verse #text p.extract { margin: .9em 0 .9em .6em; font-size: 1em; line-height: 1.6; }
+.verse #text p:not(.extract) { margin-top: 2.4em; margin-bottom: .5em; text-indent: 0; font-size: 1.05em; }
+@media (max-width: 600px) { .verse #text p.extract { margin-left: .2em; } }
 #text .status { text-indent: 0; color: var(--muted); font-style: italic; }
 
 .anchor {
@@ -654,3 +658,5 @@ body:not(.type-focus) .type-text .caret { box-shadow: inset 0 -2px 0 var(--faint
 @media (max-width: 600px) { .type-text p.extract { margin-left: 1.2em; } .type-stats { top: 0; position: static; } }
 @media (prefers-reduced-motion: reduce) { .type-text .caret.miss { animation: none; outline: 2px solid #c0392b; } }
 .type-pointer { text-align: center; color: var(--muted); font-size: .92rem; margin-top: 1.6rem; }
+
+.verse #text p:first-child::first-letter { font-size: inherit; float: none; line-height: inherit; padding: 0; margin: 0; font-weight: inherit; }

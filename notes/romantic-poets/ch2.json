@@ -1,0 +1,578 @@
+[
+  {
+    "id": "ch2-001",
+    "anchor": "O Brignall banks are wild and fair",
+    "layer": "vocab",
+    "note": "Banks: here, wooded hillsides along a river. Brignall is a village in northern England.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-002",
+    "anchor": "And as I rode by Dalton-Hall",
+    "layer": "vocab",
+    "note": "Hall: a nobleman’s large country house.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-003",
+    "anchor": "Beneath the turrets high",
+    "layer": "vocab",
+    "note": "Turrets: small towers built onto the corner of a castle.",
+    "source": "Merriam-Webster, “turret”, https://www.merriam-webster.com/dictionary/turret",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-004",
+    "anchor": "As blithe as Queen of May",
+    "layer": "vocab",
+    "note": "Blithe: cheerful, light of heart. The Queen of May was a girl crowned at the spring festival.",
+    "source": "Merriam-Webster, “blithe”, https://www.merriam-webster.com/dictionary/blithe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-005",
+    "anchor": "I read you by your bugle-horn",
+    "layer": "vocab",
+    "note": "Bugle-horn: a small brass horn used for hunting or giving signals.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-006",
+    "anchor": "And by your palfrey good",
+    "layer": "vocab",
+    "note": "Palfrey: a gentle saddle horse, ridden by ladies.",
+    "source": "Merriam-Webster, “palfrey”, https://www.merriam-webster.com/dictionary/palfrey",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-007",
+    "anchor": "I read you for a ranger sworn",
+    "layer": "vocab",
+    "note": "Ranger: a keeper of a royal forest.",
+    "source": "Merriam-Webster, “ranger”, https://www.merriam-webster.com/dictionary/ranger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-008",
+    "anchor": "With burnish’d brand and musketoon",
+    "layer": "vocab",
+    "note": "Burnish’d: polished. Brand: a sword. Musketoon: a short, wide-mouthed musket.",
+    "source": "Merriam-Webster, “musketoon”, https://www.merriam-webster.com/dictionary/musketoon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-009",
+    "anchor": "I read you for a bold Dragoon",
+    "layer": "vocab",
+    "note": "Dragoon: a mounted soldier who carried a gun.",
+    "source": "Merriam-Webster, “dragoon”, https://www.merriam-webster.com/dictionary/dragoon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-010",
+    "anchor": "That lists the tuck of drum",
+    "layer": "vocab",
+    "note": "Lists: listens to. The tuck of drum is the beat of the drum.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-011",
+    "anchor": "But when the beetle sounds his hum",
+    "layer": "vocab",
+    "note": "Beetle: here, the beetle that flies at dusk with a humming sound.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-012",
+    "anchor": "Yet mickle must the maiden dare",
+    "layer": "vocab",
+    "note": "Mickle: much, a great deal (Scots).",
+    "source": "Merriam-Webster, “mickle”, https://www.merriam-webster.com/dictionary/mickle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-013",
+    "anchor": "The fiend whose lantern lights the mead",
+    "layer": "vocab",
+    "note": "Fiend: a devil. The “lantern” is the will-o’-the-wisp, a flickering light over marshes. Mead: a meadow.",
+    "source": "Merriam-Webster, “fiend”, https://www.merriam-webster.com/dictionary/fiend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-014",
+    "anchor": "Sae comely to be seen",
+    "layer": "vocab",
+    "note": "Sae: so (Scots). Comely: pleasing to look at.",
+    "source": "Merriam-Webster, “comely”, https://www.merriam-webster.com/dictionary/comely",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-015",
+    "anchor": "But aye she loot the tears doon fa’",
+    "layer": "vocab",
+    "note": "Aye: always. Loot: let. Doon fa’: fall down (Scots).",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-016",
+    "anchor": "Now let this wilfu’ grief be done",
+    "layer": "vocab",
+    "note": "Wilfu’: willful, stubborn, set on its own way.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-017",
+    "anchor": "Nor braid to bind your hair",
+    "layer": "vocab",
+    "note": "Braid: a ribbon or cord used to bind or trim the hair.",
+    "source": "Merriam-Webster, “braid”, https://www.merriam-webster.com/dictionary/braid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-018",
+    "anchor": "Nor mettled hound, nor managed hawk",
+    "layer": "vocab",
+    "note": "Mettled: spirited, full of courage. Managed: trained.",
+    "source": "Merriam-Webster, “mettled”, https://www.merriam-webster.com/dictionary/mettled",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-019",
+    "anchor": "The kirk was deck’d at morning-tide",
+    "layer": "vocab",
+    "note": "Kirk: the Scots word for a church.",
+    "source": "Merriam-Webster, “kirk”, https://www.merriam-webster.com/dictionary/kirk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-020",
+    "anchor": "They sought her baith by bower and ha’",
+    "layer": "vocab",
+    "note": "Baith: both. Ha’: hall. Bower: a lady’s private room.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-021",
+    "anchor": "She’s o’er the Border, and awa’",
+    "layer": "vocab",
+    "note": "The Border is the line between Scotland and England. Awa’ means “away.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-022",
+    "anchor": "by lattice high",
+    "layer": "vocab",
+    "note": "Lattice: a window of crossed strips of wood or metal.",
+    "source": "Merriam-Webster, “lattice”, https://www.merriam-webster.com/dictionary/lattice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-023",
+    "anchor": "Sings high-born Cavalier",
+    "layer": "vocab",
+    "note": "Cavalier: a gallant gentleman, especially a horseman or knight.",
+    "source": "Merriam-Webster, “cavalier”, https://www.merriam-webster.com/dictionary/cavalier",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-024",
+    "anchor": "To pull the thorn thy brow to braid",
+    "layer": "vocab",
+    "note": "Braid: to weave together. The thorn is a symbol of a hard lot.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-025",
+    "anchor": "And press the rue for wine",
+    "layer": "vocab",
+    "note": "Rue: a bitter herb, a sign of sorrow.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-026",
+    "anchor": "A lightsome eye, a soldier’s mien",
+    "layer": "vocab",
+    "note": "Lightsome: lively, light-hearted. Mien: a person’s bearing and manner.",
+    "source": "Merriam-Webster, “lightsome”, https://www.merriam-webster.com/dictionary/lightsome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-027",
+    "anchor": "A doublet of the Lincoln green",
+    "layer": "vocab",
+    "note": "Doublet: a man’s close-fitting jacket. Lincoln green was a green cloth made in Lincoln, worn by outlaws and foresters.",
+    "source": "Merriam-Webster, “doublet”, https://www.merriam-webster.com/dictionary/doublet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-028",
+    "anchor": "The morn is merry June, I trow",
+    "layer": "vocab",
+    "note": "Trow: to believe, to suppose.",
+    "source": "Merriam-Webster, “trow”, https://www.merriam-webster.com/dictionary/trow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-029",
+    "anchor": "The rose is budding fain",
+    "layer": "vocab",
+    "note": "Fain: gladly, willingly, with pleasure.",
+    "source": "Merriam-Webster, “fain”, https://www.merriam-webster.com/dictionary/fain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-030",
+    "anchor": "He turn’d his charger as he spake",
+    "layer": "vocab",
+    "note": "Charger: a horse trained for battle.",
+    "source": "Merriam-Webster, “charger”, https://www.merriam-webster.com/dictionary/charger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-031",
+    "anchor": "a sultry hectic hue",
+    "layer": "vocab",
+    "note": "Hectic: here, a flushed red, as in a fever.",
+    "source": "Merriam-Webster, “hectic”, https://www.merriam-webster.com/dictionary/hectic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-032",
+    "anchor": "Ere scarce a distant form was kenn’d",
+    "layer": "vocab",
+    "note": "Kenn’d: seen, known from afar. Ere: before.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-033",
+    "anchor": "And o’er the battlement did bend",
+    "layer": "vocab",
+    "note": "Battlement: the notched wall around a castle’s roof.",
+    "source": "Merriam-Webster, “battlement”, https://www.merriam-webster.com/dictionary/battlement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-034",
+    "anchor": "Lost in his courser’s prancing",
+    "layer": "vocab",
+    "note": "Courser: a swift, spirited horse.",
+    "source": "Merriam-Webster, “courser”, https://www.merriam-webster.com/dictionary/courser",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-035",
+    "anchor": "Gathering Song of Donald the Black",
+    "layer": "vocab",
+    "note": "Pibroch: music for the Highland bagpipe, here a war call.",
+    "source": "Merriam-Webster, “pibroch”, https://www.merriam-webster.com/dictionary/pibroch; Encyclopædia Britannica, 11th ed. (1911), “Bagpipe”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bagpipe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-036",
+    "anchor": "Summon Clan Conuil",
+    "layer": "vocab",
+    "note": "Clan: a Scottish Highland tribe whose members share a family name and a chief.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Clan”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Clan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-037",
+    "anchor": "The war-pipe and pennon",
+    "layer": "vocab",
+    "note": "Pennon: a long narrow flag carried on a lance.",
+    "source": "Merriam-Webster, “pennon”, https://www.merriam-webster.com/dictionary/pennon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-038",
+    "anchor": "Broadswords and targes",
+    "layer": "vocab",
+    "note": "Broadswords: heavy swords with wide blades. Targes: small round shields.",
+    "source": "Merriam-Webster, “targe”, https://www.merriam-webster.com/dictionary/targe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-039",
+    "anchor": "Chief, vassal, page and groom",
+    "layer": "vocab",
+    "note": "Vassal: a person who served a lord in return for protection. Page: a boy attendant.",
+    "source": "Merriam-Webster, “vassal”, https://www.merriam-webster.com/dictionary/vassal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-040",
+    "anchor": "Cast your plaids, draw your blades",
+    "layer": "vocab",
+    "note": "Plaids: long woolen cloaks in tartan, worn by Highland men.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-041",
+    "anchor": "Knell for the onset!",
+    "layer": "vocab",
+    "note": "Knell: the slow ringing of a bell. Onset: an attack.",
+    "source": "Merriam-Webster, “onset”, https://www.merriam-webster.com/dictionary/onset",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-042",
+    "anchor": "When six braw gentlemen",
+    "layer": "vocab",
+    "note": "Braw: fine, handsome, well dressed (Scots).",
+    "source": "Merriam-Webster, “braw”, https://www.merriam-webster.com/dictionary/braw",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-043",
+    "anchor": "The gray-headed sexton",
+    "layer": "vocab",
+    "note": "Sexton: a church worker who looks after the building and digs graves.",
+    "source": "Merriam-Webster, “sexton”, https://www.merriam-webster.com/dictionary/sexton",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-044",
+    "anchor": "That delves the grave duly",
+    "layer": "vocab",
+    "note": "Delves: digs, as one digs a grave.",
+    "source": "Merriam-Webster, “delve”, https://www.merriam-webster.com/dictionary/delve",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-045",
+    "anchor": "The glowworm o’er grave and stone",
+    "layer": "vocab",
+    "note": "Glowworm: a beetle whose larvae give off a soft light at night.",
+    "source": "Merriam-Webster, “glowworm”, https://www.merriam-webster.com/dictionary/glowworm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-046",
+    "anchor": "Coronach",
+    "layer": "vocab",
+    "note": "Coronach: in Scotland, a song of mourning for a dead person.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Coronach”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Coronach",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-047",
+    "anchor": "Waft the leaves that are serest",
+    "layer": "vocab",
+    "note": "Serest: driest and most withered.",
+    "source": "Merriam-Webster, “serest”, https://www.merriam-webster.com/dictionary/serest",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-048",
+    "anchor": "Fleet foot on the correi",
+    "layer": "vocab",
+    "note": "Correi: a hollow in a hillside where game takes shelter.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 234, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-049",
+    "anchor": "Sage counsel in cumber",
+    "layer": "vocab",
+    "note": "Cumber: trouble, distress, a heavy burden.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 234, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-050",
+    "anchor": "Red hand in the foray",
+    "layer": "vocab",
+    "note": "Foray: a raid, a quick attack for plunder.",
+    "source": "Merriam-Webster, “foray”, https://www.merriam-webster.com/dictionary/foray",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-051",
+    "anchor": "Nor tempt the stormy firth to-day",
+    "layer": "vocab",
+    "note": "Firth: a narrow arm of the sea, an estuary in Scotland.",
+    "source": "Merriam-Webster, “firth”, https://www.merriam-webster.com/dictionary/firth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-052",
+    "anchor": "To inch and rock the sea-mews fly",
+    "layer": "vocab",
+    "note": "Inch: a small island. Sea-mews: sea gulls.",
+    "source": "Merriam-Webster, “sea-mew”, https://www.merriam-webster.com/dictionary/sea-mew",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-053",
+    "anchor": "A wet shroud swathed round lady gay",
+    "layer": "vocab",
+    "note": "Shroud: a cloth wrapped round a corpse. Swathed: wrapped.",
+    "source": "Merriam-Webster, “shroud”, https://www.merriam-webster.com/dictionary/shroud",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-054",
+    "anchor": "Lord Lindesay’s heir To-night at Roslin leads the ball",
+    "layer": "vocab",
+    "note": "Roslin is a village and castle near Edinburgh, home of the Sinclair family and their chapel.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Sinclair”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sinclair",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-055",
+    "anchor": "Sheathed in his iron panoply",
+    "layer": "vocab",
+    "note": "Panoply: a full suit of armor.",
+    "source": "Merriam-Webster, “panoply”, https://www.merriam-webster.com/dictionary/panoply",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-056",
+    "anchor": "Deep sacristy and altar’s pale",
+    "layer": "vocab",
+    "note": "Sacristy: a room in a church where sacred objects are kept.",
+    "source": "Merriam-Webster, “sacristy”, https://www.merriam-webster.com/dictionary/sacristy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-057",
+    "anchor": "Blazed every rose-carved buttress fair",
+    "layer": "vocab",
+    "note": "Buttress: a stone support built against a wall.",
+    "source": "Merriam-Webster, “buttress”, https://www.merriam-webster.com/dictionary/buttress",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-058",
+    "anchor": "The lordly line of high Saint Clair",
+    "layer": "history",
+    "note": "Saint Clair is a form of Sinclair, an old Scottish noble family, whose lords were buried at Roslin.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Sinclair”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sinclair",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-059",
+    "anchor": "The dirge of lovely Rosabelle",
+    "layer": "vocab",
+    "note": "Dirge: a slow, sad song of mourning.",
+    "source": "Merriam-Webster, “dirge”, https://www.merriam-webster.com/dictionary/dirge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-060",
+    "anchor": "Hounds are in their couples yelling",
+    "layer": "vocab",
+    "note": "Couples: pairs of hounds leashed together.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-061",
+    "anchor": "Diamonds on the brake are gleaming",
+    "layer": "vocab",
+    "note": "Brake: a thicket of bushes and brambles.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-062",
+    "anchor": "When ’gainst the oak his antlers fray’d",
+    "layer": "vocab",
+    "note": "Fray’d: rubbed. A stag scrapes his antlers against trees.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-063",
+    "anchor": "You shall see him brought to bay",
+    "layer": "vocab",
+    "note": "Brought to bay: cornered by hounds, unable to run any farther.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-064",
+    "anchor": "Time, stern huntsman! who can baulk",
+    "layer": "vocab",
+    "note": "Baulk: to hold back, to check or dodge.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-065",
+    "anchor": "Staunch as hound and fleet as hawk",
+    "layer": "vocab",
+    "note": "Staunch: loyal and steady. Fleet: swift.",
+    "source": "Merriam-Webster, “staunch”, https://www.merriam-webster.com/dictionary/staunch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-066",
+    "anchor": "Yet Leonard tarries long",
+    "layer": "vocab",
+    "note": "Tarries: waits, lingers, is late in coming.",
+    "source": "Merriam-Webster, “tarry”, https://www.merriam-webster.com/dictionary/tarry",
+    "status": "draft",
+    "checker": null
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "id": "ch8-001",
+    "anchor": "O talk not to me of a name great in story",
+    "layer": "vocab",
+    "note": "Story: here, history or tradition. A name great in story means a famous name.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-002",
+    "anchor": "The days of our youth are the days of our glory",
+    "layer": "vocab",
+    "note": "The speaker says youth’s glory outweighs the fame of a name in history.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-003",
+    "anchor": "And the myrtle and ivy of sweet two-and-twenty",
+    "layer": "vocab",
+    "note": "Myrtle: an evergreen shrub sacred to Venus, goddess of love. Ivy: a clinging evergreen vine.",
+    "source": "Merriam-Webster, “myrtle”, https://www.merriam-webster.com/dictionary/myrtle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-004",
+    "anchor": "Are worth all your laurels",
+    "layer": "vocab",
+    "note": "Laurels: a wreath of laurel leaves, the ancient prize for victors and poets.",
+    "source": "Merriam-Webster, “laurel”, https://www.merriam-webster.com/dictionary/laurel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-005",
+    "anchor": "What are garlands and crowns to the brow that is wrinkled?",
+    "layer": "vocab",
+    "note": "Garlands and crowns: wreaths of honor. A wrinkled brow can no longer enjoy them.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-006",
+    "anchor": "Then away with all such from the head that is hoary",
+    "layer": "vocab",
+    "note": "Hoary: gray or white with age.",
+    "source": "Merriam-Webster, “hoary”, https://www.merriam-webster.com/dictionary/hoary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-007",
+    "anchor": "What care I for the wreaths that can only give glory?",
+    "layer": "vocab",
+    "note": "Wreaths: crowns of leaves given as honors.",
+    "source": "Merriam-Webster, “wreath”, https://www.merriam-webster.com/dictionary/wreath",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-008",
+    "anchor": "O Fame!—if I e’er took delight in thy praises",
+    "layer": "vocab",
+    "note": "Fame is addressed as a person.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-009",
+    "anchor": "’Twas less for the sake of thy high-sounding phrases",
+    "layer": "vocab",
+    "note": "He valued fame less for its praise than for what it meant to his beloved.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-010",
+    "anchor": "There chiefly I sought thee, there only I found thee",
+    "layer": "vocab",
+    "note": "He found fame’s true value only in her eyes.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-011",
+    "anchor": "There be none of Beauty’s daughters",
+    "layer": "vocab",
+    "note": "Be: are, an old plural form.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-012",
+    "anchor": "With a magic like Thee",
+    "layer": "vocab",
+    "note": "Beauty’s daughters are beautiful women, none with her magic.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-013",
+    "anchor": "And like music on the waters",
+    "layer": "vocab",
+    "note": "The speaker compares her voice to music heard over the sea.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-014",
+    "anchor": "The charmed ocean’s pausing",
+    "layer": "vocab",
+    "note": "Charmed: held spellbound, as if by magic.",
+    "source": "Merriam-Webster, “charm”, https://www.merriam-webster.com/dictionary/charm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-015",
+    "anchor": "The waves lie still and gleaming",
+    "layer": "vocab",
+    "note": "The sea becomes calm and shining as the music sounds.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-016",
+    "anchor": "And the lull’d winds seem dreaming",
+    "layer": "vocab",
+    "note": "Lull’d: soothed to quiet, made calm and still.",
+    "source": "Merriam-Webster, “lull”, https://www.merriam-webster.com/dictionary/lull",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-017",
+    "anchor": "And the midnight moon is weaving",
+    "layer": "vocab",
+    "note": "The moon weaves a chain of light across the water.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-018",
+    "anchor": "To listen and adore thee",
+    "layer": "vocab",
+    "note": "Adore: to love deeply, to worship.",
+    "source": "Merriam-Webster, “adore”, https://www.merriam-webster.com/dictionary/adore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-019",
+    "anchor": "She walks in beauty, like the night",
+    "layer": "vocab",
+    "note": "The poem compares a woman to a clear, starry night.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-020",
+    "anchor": "Of cloudless climes and starry skies",
+    "layer": "vocab",
+    "note": "Climes: regions or climates. Her beauty is like a clear starry night.",
+    "source": "Merriam-Webster, “clime”, https://www.merriam-webster.com/dictionary/clime",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-021",
+    "anchor": "Meets in her aspect and her eyes",
+    "layer": "vocab",
+    "note": "Aspect: the look of a face, its expression.",
+    "source": "Merriam-Webster, “aspect”, https://www.merriam-webster.com/dictionary/aspect",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-022",
+    "anchor": "Thus mellow’d to that tender light",
+    "layer": "vocab",
+    "note": "Mellow’d: softened and ripened, made gentle in tone.",
+    "source": "Merriam-Webster, “mellow”, https://www.merriam-webster.com/dictionary/mellow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-023",
+    "anchor": "Which heaven to gaudy day denies",
+    "layer": "vocab",
+    "note": "Gaudy: too bright and showy.",
+    "source": "Merriam-Webster, “gaudy”, https://www.merriam-webster.com/dictionary/gaudy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-024",
+    "anchor": "One shade the more, one ray the less",
+    "layer": "vocab",
+    "note": "The balance of shade and light in her is perfect, so even a small change would spoil it.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-025",
+    "anchor": "Had half impair’d the nameless grace",
+    "layer": "vocab",
+    "note": "Impair’d: damaged, made less perfect.",
+    "source": "Merriam-Webster, “impair”, https://www.merriam-webster.com/dictionary/impair",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-026",
+    "anchor": "Which waves in every raven tress",
+    "layer": "vocab",
+    "note": "Raven: glossy black, like the bird. Tress: a lock of hair.",
+    "source": "Merriam-Webster, “raven”, https://www.merriam-webster.com/dictionary/raven",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-027",
+    "anchor": "The smiles that win, the tints that glow",
+    "layer": "vocab",
+    "note": "Tints: shades of color, here in her face.",
+    "source": "Merriam-Webster, “tint”, https://www.merriam-webster.com/dictionary/tint",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-028",
+    "anchor": "When we two parted",
+    "layer": "vocab",
+    "note": "A poem of secret love ended, whose sorrow he cannot speak of.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-029",
+    "anchor": "Half broken-hearted",
+    "layer": "vocab",
+    "note": "Broken-hearted: crushed by grief. The two lovers part in sorrow.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-030",
+    "anchor": "To sever for years",
+    "layer": "vocab",
+    "note": "Sever: to separate. The lovers will be apart for years.",
+    "source": "Merriam-Webster, “sever”, https://www.merriam-webster.com/dictionary/sever",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-031",
+    "anchor": "The dew of the morning",
+    "layer": "vocab",
+    "note": "Sunk chill on my brow: the cold dew felt like a warning of grief to come.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-032",
+    "anchor": "Thy vows are all broken",
+    "layer": "vocab",
+    "note": "Vows: solemn promises. Her promises have been broken.",
+    "source": "Merriam-Webster, “vow”, https://www.merriam-webster.com/dictionary/vow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-033",
+    "anchor": "A knell to mine ear",
+    "layer": "vocab",
+    "note": "Knell: the sound of a bell rung slowly for a death.",
+    "source": "Merriam-Webster, “knell”, https://www.merriam-webster.com/dictionary/knell",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-034",
+    "anchor": "Long, long shall I rue thee",
+    "layer": "vocab",
+    "note": "Rue: to feel sorrow or regret about.",
+    "source": "Merriam-Webster, “rue”, https://www.merriam-webster.com/dictionary/rue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-035",
+    "anchor": "That thy heart could forget",
+    "layer": "vocab",
+    "note": "He grieves in silence that she could forget him.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-036",
+    "anchor": "Elegy on Thyrza",
+    "layer": "vocab",
+    "note": "An elegy is a poem of mourning. Thyrza is the name Byron gave the dead woman he mourns.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-037",
+    "anchor": "As aught of mortal birth",
+    "layer": "vocab",
+    "note": "Aught: anything. Mortal: subject to death.",
+    "source": "Merriam-Webster, “aught”, https://www.merriam-webster.com/dictionary/aught",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-038",
+    "anchor": "Too soon return’d to Earth",
+    "layer": "vocab",
+    "note": "She died young, and her body has gone back to the earth.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-039",
+    "anchor": "There is an eye which could not brook",
+    "layer": "vocab",
+    "note": "Brook: to put up with, to endure.",
+    "source": "Merriam-Webster, “brook”, https://www.merriam-webster.com/dictionary/brook",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-040",
+    "anchor": "Nor gaze upon the spot",
+    "layer": "vocab",
+    "note": "He will not even look at where she is buried.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-041",
+    "anchor": "’Tis Nothing that I loved so well",
+    "layer": "vocab",
+    "note": "He wants no tombstone to remind him that the thing he loved is now nothing.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-042",
+    "anchor": "As fervently as thou",
+    "layer": "vocab",
+    "note": "Fervently: with intense feeling. His love lasted to the end.",
+    "source": "Merriam-Webster, “fervent”, https://www.merriam-webster.com/dictionary/fervent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-043",
+    "anchor": "Nor falsehood disavow",
+    "layer": "vocab",
+    "note": "Disavow: to deny, to refuse to acknowledge.",
+    "source": "Merriam-Webster, “disavow”, https://www.merriam-webster.com/dictionary/disavow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-044",
+    "anchor": "the storm that lours",
+    "layer": "vocab",
+    "note": "Lours: frowns, darkens threateningly, as a storm does.",
+    "source": "Merriam-Webster, “lour”, https://www.merriam-webster.com/dictionary/lour",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-045",
+    "anchor": "I envy now too much to weep",
+    "layer": "vocab",
+    "note": "He envies the dead their peaceful sleep too much to weep.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-046",
+    "anchor": "Nor need I to repine",
+    "layer": "vocab",
+    "note": "Repine: to complain, to feel discontent.",
+    "source": "Merriam-Webster, “repine”, https://www.merriam-webster.com/dictionary/repine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-047",
+    "anchor": "Though by no hand untimely snatch’d",
+    "layer": "vocab",
+    "note": "Untimely: too soon. Even without early death, the flower’s leaves would drop.",
+    "source": "Merriam-Webster, “untimely”, https://www.merriam-webster.com/dictionary/untimely",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-048",
+    "anchor": "Extinguish’d, not decay’d",
+    "layer": "vocab",
+    "note": "She died while still lovely rather than fading slowly.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-049",
+    "anchor": "As stars that shoot along the sky",
+    "layer": "vocab",
+    "note": "Shooting stars shine most brightly as they fall.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-050",
+    "anchor": "One vigil o’er thy bed",
+    "layer": "vocab",
+    "note": "Vigil: a period of watching or staying awake beside someone.",
+    "source": "Merriam-Webster, “vigil”, https://www.merriam-webster.com/dictionary/vigil",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-051",
+    "anchor": "To gaze, how fondly! on thy face",
+    "layer": "vocab",
+    "note": "Fondly: with great affection. He wishes he had watched over her.",
+    "source": "Merriam-Webster, “fondly”, https://www.merriam-webster.com/dictionary/fondly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-052",
+    "anchor": "Uphold thy drooping head",
+    "layer": "vocab",
+    "note": "He wishes to have held her head up in her last hours.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-053",
+    "anchor": "And more thy buried love endears",
+    "layer": "vocab",
+    "note": "Endears: makes dear. Her love is dearer for being buried.",
+    "source": "Merriam-Webster, “endear”, https://www.merriam-webster.com/dictionary/endear",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-054",
+    "anchor": "Eternal Spirit of the chainless Mind!",
+    "layer": "history",
+    "note": "Chillon is a castle on Lake Geneva. François Bonnivard was imprisoned in its dungeon by the Duke of Savoy for defending his city’s liberty.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 209, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-055",
+    "anchor": "Brightest in dungeons, Liberty, thou art",
+    "layer": "vocab",
+    "note": "Dungeons: underground prison cells. Liberty shines most in such places.",
+    "source": "Merriam-Webster, “dungeon”, https://www.merriam-webster.com/dictionary/dungeon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-056",
+    "anchor": "The heart which love of Thee alone can bind",
+    "layer": "vocab",
+    "note": "Only love of liberty can bind the heart.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-057",
+    "anchor": "To fetters, and the damp vault’s dayless gloom",
+    "layer": "vocab",
+    "note": "Fetters: chains for the feet. Vault: an underground chamber.",
+    "source": "Merriam-Webster, “fetter”, https://www.merriam-webster.com/dictionary/fetter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-058",
+    "anchor": "Their country conquers with their martyrdom",
+    "layer": "vocab",
+    "note": "Martyrdom: suffering or death for one’s beliefs.",
+    "source": "Merriam-Webster, “martyrdom”, https://www.merriam-webster.com/dictionary/martyrdom",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-059",
+    "anchor": "And thy sad floor an altar",
+    "layer": "vocab",
+    "note": "Byron treats the floor of the dungeon as an altar to liberty.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-060",
+    "anchor": "Until his very steps have left a trace",
+    "layer": "vocab",
+    "note": "A prisoner’s long pacing has worn a trace into the stone.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-061",
+    "anchor": "Worn as if thy cold pavement were a sod, By Bonnivard!",
+    "layer": "history",
+    "note": "Bonnivard was a Genevan who fought the tyranny of Piedmont in the 1500s. Byron says his footsteps wore marks in the dungeon floor.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 209, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-062",
+    "anchor": "For they appeal from tyranny to God",
+    "layer": "vocab",
+    "note": "Tyranny: cruel and unjust rule.",
+    "source": "Merriam-Webster, “tyranny”, https://www.merriam-webster.com/dictionary/tyranny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-063",
+    "anchor": "On thee shall press no ponderous tomb",
+    "layer": "vocab",
+    "note": "Ponderous: heavy and weighty, hard to lift.",
+    "source": "Merriam-Webster, “ponderous”, https://www.merriam-webster.com/dictionary/ponderous",
+    "status": "draft",
+    "checker": null
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ch11-001",
+    "anchor": "The laburnum on his birthday",
+    "layer": "vocab",
+    "note": "Laburnum: an ornamental tree with hanging clusters of yellow flowers, whose seeds are poisonous.",
+    "source": "Merriam-Webster, “laburnum”, https://www.merriam-webster.com/dictionary/laburnum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-002",
+    "anchor": "Rashly importunate",
+    "layer": "vocab",
+    "note": "Importunate: persistently pressing, troublesome. Desperation presses her to a rash act.",
+    "source": "Merriam-Webster, “importunate”, https://www.merriam-webster.com/dictionary/importunate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-003",
+    "anchor": "Clinging like cerements",
+    "layer": "vocab",
+    "note": "Cerements: the cloth wrappings in which a corpse is buried, a shroud.",
+    "source": "Merriam-Webster, “cerement”, https://www.merriam-webster.com/dictionary/cerement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-004",
+    "anchor": "Make no deep scrutiny",
+    "layer": "vocab",
+    "note": "Scrutiny: close, careful examination. The poem asks the reader not to probe her private story.",
+    "source": "Merriam-Webster, “scrutiny”, https://www.merriam-webster.com/dictionary/scrutiny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-005",
+    "anchor": "Into her mutiny",
+    "layer": "vocab",
+    "note": "Mutiny: open rebellion against authority. Here it is her rebellion against life, and against the rules of her society.",
+    "source": "Merriam-Webster, “mutiny”, https://www.merriam-webster.com/dictionary/mutiny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-006",
+    "anchor": "One of Eve’s family",
+    "layer": "allusion",
+    "note": "Eve, the first woman in the Book of Genesis. Hood reminds readers that the fallen girl shares in the common human family, which sinned in Adam and Eve.",
+    "source": "The Bible (King James Version), Genesis 3, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-007",
+    "anchor": "Dissolute Man!",
+    "layer": "vocab",
+    "note": "Dissolute: lacking moral restraint, given to vice. Hood speaks to the men whose conduct helped destroy her.",
+    "source": "Merriam-Webster, “dissolute”, https://www.merriam-webster.com/dictionary/dissolute",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-008",
+    "anchor": "Lave in it, drink of it",
+    "layer": "vocab",
+    "note": "Lave: to wash or bathe. The poet challenges the reader to enter the same cold river.",
+    "source": "Merriam-Webster, “lave”, https://www.merriam-webster.com/dictionary/lave",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch11-009",
+    "anchor": "Spurr’d by contumely",
+    "layer": "vocab",
+    "note": "Contumely: insolent, humiliating treatment, scornful abuse by others.",
+    "source": "Merriam-Webster, “contumely”, https://www.merriam-webster.com/dictionary/contumely",
+    "status": "draft",
+    "checker": null
+  }
+]

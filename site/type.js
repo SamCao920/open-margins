@@ -10,6 +10,7 @@
   const params = new URLSearchParams(location.search);
   const bookId = BOOKS[params.get('book')] ? params.get('book') : 'lord-jim';
   const book = BOOKS[bookId];
+  if (book.verse) document.body.classList.add('verse');
   const ch = Math.min(book.chapters, Math.max(1, parseInt(params.get('ch'), 10) || 1));
   const KEY = 'openmargins.type.' + bookId + '.' + ch;
   const IDLE = 5000; // a pause longer than this is not counted as typing time
