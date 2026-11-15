@@ -18,8 +18,7 @@ Classic books are free to read online, but they are full of words, places, peopl
 ## How it works
 
 - **Layers you can toggle.** Notes are grouped into layers: vocabulary, allusions, history, and places. A 10th grader can turn everything on; a college reader can hide vocabulary.
-- **AI-drafted, human-verified.** Notes are drafted with AI, then checked by a person against a cited source before they are marked verified.
-- **Audited.** We recheck a random sample of verified notes and publish the error rate.
+- **AI-drafted, not yet human-reviewed.** Notes are drafted with AI and checked against a cited source by AI. No note has been reviewed by a person yet, and some will be wrong. A note is marked verified only after a person checks it.
 
 ## Repository layout
 

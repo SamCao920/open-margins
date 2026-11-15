@@ -16,7 +16,7 @@ Open Margins publishes free annotated editions of public-domain classics. A shor
 Detailed annotations, including student-friendly vocabulary glosses that most annotated editions skip, released under an open license (CC BY 4.0) so teachers and other projects can reuse every note.
 
 ## Operating Context
-Long-form reading of one chapter at a time, on laptops and phones. Notes are grouped into four layers (vocab, allusion, history, place) that readers can turn on or off. Notes are drafted with AI and verified by a person against a cited source. Draft status is kept in the data, not shown to readers.
+Long-form reading of one chapter at a time, on laptops and phones. Notes are grouped into four layers (vocab, allusion, history, place) that readers can turn on or off. Notes are drafted with AI and checked against a cited source by AI; no person has reviewed them yet. Draft status is kept in the data, not shown to readers.
 
 ## Capabilities and Constraints
 - Static site: plain HTML, CSS, and JavaScript, no framework, no build step, deployed to GitHub Pages from `site/`, `texts/`, and `notes/`.
