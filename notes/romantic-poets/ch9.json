@@ -1,0 +1,726 @@
+[
+  {
+    "id": "ch9-001",
+    "anchor": "The champak odours fail",
+    "layer": "vocab",
+    "note": "Champak: a tree of India with strongly scented yellow-orange flowers.",
+    "source": "Merriam-Webster, “champak”, https://www.merriam-webster.com/dictionary/champak",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-002",
+    "anchor": "Touching all with thine opiate wand",
+    "layer": "vocab",
+    "note": "Opiate: bringing sleep, like opium. Wand: a magic rod.",
+    "source": "Merriam-Webster, “opiate”, https://www.merriam-webster.com/dictionary/opiate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-003",
+    "anchor": "Thy sweet child Sleep, the filmy-eyed",
+    "layer": "vocab",
+    "note": "Filmy-eyed: with eyes covered by a thin veil, as in drowsiness.",
+    "source": "Merriam-Webster, “filmy”, https://www.merriam-webster.com/dictionary/filmy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-004",
+    "anchor": "Of neither would I ask the boon",
+    "layer": "vocab",
+    "note": "Boon: a favor, a blessing asked for.",
+    "source": "Merriam-Webster, “boon”, https://www.merriam-webster.com/dictionary/boon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-005",
+    "anchor": "No song but sad dirges",
+    "layer": "vocab",
+    "note": "Dirges: slow, mournful songs for the dead.",
+    "source": "Merriam-Webster, “dirge”, https://www.merriam-webster.com/dictionary/dirge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-006",
+    "anchor": "Or the mournful surges",
+    "layer": "vocab",
+    "note": "Surges: great swelling waves, rolling in from the sea.",
+    "source": "Merriam-Webster, “surge”, https://www.merriam-webster.com/dictionary/surge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-007",
+    "anchor": "For your cradle, your home, and your bier",
+    "layer": "vocab",
+    "note": "Bier: a stand on which a coffin or corpse is placed.",
+    "source": "Merriam-Webster, “bier”, https://www.merriam-webster.com/dictionary/bier",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-008",
+    "anchor": "One word is too often profaned",
+    "layer": "vocab",
+    "note": "Profaned: treated without respect, made common. The word is “love.”",
+    "source": "Merriam-Webster, “profane”, https://www.merriam-webster.com/dictionary/profane",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-009",
+    "anchor": "Thou with sorrow art dismay’d",
+    "layer": "vocab",
+    "note": "Dismay’d: made afraid, robbed of courage.",
+    "source": "Merriam-Webster, “dismay”, https://www.merriam-webster.com/dictionary/dismay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-010",
+    "anchor": "Let me set my mournful ditty",
+    "layer": "vocab",
+    "note": "Ditty: a short, simple song.",
+    "source": "Merriam-Webster, “ditty”, https://www.merriam-webster.com/dictionary/ditty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-011",
+    "anchor": "Untainted by man’s misery",
+    "layer": "vocab",
+    "note": "Untainted: not spoiled or made impure.",
+    "source": "Merriam-Webster, “untainted”, https://www.merriam-webster.com/dictionary/untainted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-012",
+    "anchor": "Stanzas Written in Dejection near Naples",
+    "layer": "place",
+    "note": "Naples is a great city and port of southern Italy, on the Bay of Naples under Mount Vesuvius. Shelley wrote this poem there in 1818.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Naples”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Naples",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-013",
+    "anchor": "Breathe o’er my dying brain its last monotony",
+    "layer": "vocab",
+    "note": "Monotony: dull sameness, the same sound over and over.",
+    "source": "Merriam-Webster, “monotony”, https://www.merriam-webster.com/dictionary/monotony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-014",
+    "anchor": "Hail to thee, blithe Spirit!",
+    "layer": "vocab",
+    "note": "Blithe: cheerful, carefree, full of happy spirit.",
+    "source": "Merriam-Webster, “blithe”, https://www.merriam-webster.com/dictionary/blithe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-015",
+    "anchor": "In profuse strains of unpremeditated art",
+    "layer": "vocab",
+    "note": "Profuse: pouring out freely. Strains: tunes. Unpremeditated: not planned beforehand.",
+    "source": "Merriam-Webster, “unpremeditated”, https://www.merriam-webster.com/dictionary/unpremeditated",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-016",
+    "anchor": "Like an unbodied joy",
+    "layer": "vocab",
+    "note": "Unbodied: without a body, pure spirit.",
+    "source": "Merriam-Webster, “unbodied”, https://www.merriam-webster.com/dictionary/unbodied",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-017",
+    "anchor": "Whose intense lamp narrows",
+    "layer": "vocab",
+    "note": "Narrows: shrinks. The “silver sphere” is the morning star fading at dawn.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-018",
+    "anchor": "Singing hymns unbidden",
+    "layer": "vocab",
+    "note": "Unbidden: not asked, offered freely.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-019",
+    "anchor": "Scattering unbeholden",
+    "layer": "vocab",
+    "note": "Unbeholden: not seen, hidden from view.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-020",
+    "anchor": "Its aerial hue",
+    "layer": "vocab",
+    "note": "Aerial: of the air, light and delicate.",
+    "source": "Merriam-Webster, “aerial”, https://www.merriam-webster.com/dictionary/aerial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-021",
+    "anchor": "Like a rose embower’d",
+    "layer": "vocab",
+    "note": "Embower’d: sheltered in a leafy bower.",
+    "source": "Merriam-Webster, “embower”, https://www.merriam-webster.com/dictionary/embower",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-022",
+    "anchor": "By warm winds deflower’d",
+    "layer": "vocab",
+    "note": "Deflower’d: stripped of its petals.",
+    "source": "Merriam-Webster, “deflower”, https://www.merriam-webster.com/dictionary/deflower",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-023",
+    "anchor": "Sound of vernal showers",
+    "layer": "vocab",
+    "note": "Vernal: of spring, belonging to the spring season.",
+    "source": "Merriam-Webster, “vernal”, https://www.merriam-webster.com/dictionary/vernal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-024",
+    "anchor": "Chorus hymeneal Or triumphal chaunt",
+    "layer": "vocab",
+    "note": "Hymeneal: of a wedding. Chaunt: an old spelling of “chant.”",
+    "source": "Merriam-Webster, “hymeneal”, https://www.merriam-webster.com/dictionary/hymeneal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-025",
+    "anchor": "But an empty vaunt",
+    "layer": "vocab",
+    "note": "Vaunt: a vain boast, a show of one’s own worth.",
+    "source": "Merriam-Webster, “vaunt”, https://www.merriam-webster.com/dictionary/vaunt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-026",
+    "anchor": "With thy clear keen joyance",
+    "layer": "vocab",
+    "note": "Joyance: joy, delight, a feeling of gladness.",
+    "source": "Merriam-Webster, “joyance”, https://www.merriam-webster.com/dictionary/joyance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-027",
+    "anchor": "love’s sad satiety",
+    "layer": "vocab",
+    "note": "Satiety: the state of having had too much, of being sickened by plenty.",
+    "source": "Merriam-Webster, “satiety”, https://www.merriam-webster.com/dictionary/satiety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-028",
+    "anchor": "a shatter’d visage lies",
+    "layer": "vocab",
+    "note": "Visage: a face. Here, a broken stone face lying in the sand.",
+    "source": "Merriam-Webster, “visage”, https://www.merriam-webster.com/dictionary/visage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-029",
+    "anchor": "on the pedestal these words appear",
+    "layer": "vocab",
+    "note": "Pedestal: the base on which a statue stands.",
+    "source": "Merriam-Webster, “pedestal”, https://www.merriam-webster.com/dictionary/pedestal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-030",
+    "anchor": "Of that colossal wreck",
+    "layer": "vocab",
+    "note": "Colossal: huge, of enormous size.",
+    "source": "Merriam-Webster, “colossal”, https://www.merriam-webster.com/dictionary/colossal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-031",
+    "anchor": "Ariel to Miranda:—Take",
+    "layer": "allusion",
+    "note": "In Shakespeare’s The Tempest, Ariel is a spirit who serves the magician Prospero. Miranda is Prospero’s daughter, and she falls in love with Ferdinand, a prince of Naples.",
+    "source": "William Shakespeare, The Tempest, Act 1, Scene 2, https://www.gutenberg.org/ebooks/100",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-032",
+    "anchor": "From Prospero’s enchanted cell",
+    "layer": "allusion",
+    "note": "Prospero is the exiled Duke of Milan who lives with his daughter on an island, ruling spirits through magic.",
+    "source": "William Shakespeare, The Tempest, Act 1, Scene 2, https://www.gutenberg.org/ebooks/100",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-033",
+    "anchor": "In her interlunar swoon",
+    "layer": "vocab",
+    "note": "Interlunar: of the days between the old moon and the new, when the moon cannot be seen.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 252, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-034",
+    "anchor": "On the wind-swept Apennine",
+    "layer": "place",
+    "note": "The Apennines are the long chain of mountains that runs down the length of Italy, from north to south.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Apennines”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Apennines",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-035",
+    "anchor": "Found, it seems, the halcyon morn",
+    "layer": "vocab",
+    "note": "Halcyon: calm and peaceful, from a bird said to calm the winds.",
+    "source": "Merriam-Webster, “halcyon”, https://www.merriam-webster.com/dictionary/halcyon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-036",
+    "anchor": "Where the pine its garland weaves Of sapless green",
+    "layer": "vocab",
+    "note": "Sapless: dried out, without sap.",
+    "source": "Merriam-Webster, “sapless”, https://www.merriam-webster.com/dictionary/sapless",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-037",
+    "anchor": "Up, do thy wonted work!",
+    "layer": "vocab",
+    "note": "Wonted: usual, accustomed, the way one is used to.",
+    "source": "Merriam-Webster, “wonted”, https://www.merriam-webster.com/dictionary/wonted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-038",
+    "anchor": "The epitaph of glory fled",
+    "layer": "vocab",
+    "note": "Epitaph: words written to honor someone dead.",
+    "source": "Merriam-Webster, “epitaph”, https://www.merriam-webster.com/dictionary/epitaph",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-039",
+    "anchor": "The inviolable quietness",
+    "layer": "vocab",
+    "note": "Inviolable: not to be broken or disturbed.",
+    "source": "Merriam-Webster, “inviolable”, https://www.merriam-webster.com/dictionary/inviolable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-040",
+    "anchor": "A spirit interfused around",
+    "layer": "vocab",
+    "note": "Interfused: poured through and mixed.",
+    "source": "Merriam-Webster, “interfused”, https://www.merriam-webster.com/dictionary/interfused",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-041",
+    "anchor": "A firmament of purple light",
+    "layer": "vocab",
+    "note": "Firmament: the vault of the sky.",
+    "source": "Merriam-Webster, “firmament”, https://www.merriam-webster.com/dictionary/firmament",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-042",
+    "anchor": "With an Elysian glow",
+    "layer": "allusion",
+    "note": "Elysium was the Greek paradise where the blessed lived after death. Elysian means heavenly and blissful.",
+    "source": "Merriam-Webster, “Elysian”, https://www.merriam-webster.com/dictionary/Elysian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-043",
+    "anchor": "Its very leaf and lineament",
+    "layer": "vocab",
+    "note": "Lineament: a distinct line or feature, an outline.",
+    "source": "Merriam-Webster, “lineament”, https://www.merriam-webster.com/dictionary/lineament",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-044",
+    "anchor": "Under a copse",
+    "layer": "vocab",
+    "note": "Copse: a small thicket of trees.",
+    "source": "Merriam-Webster, “copse”, https://www.merriam-webster.com/dictionary/copse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-045",
+    "anchor": "There grew pied wind-flowers",
+    "layer": "vocab",
+    "note": "Pied: marked in patches of two colors.",
+    "source": "Merriam-Webster, “pied”, https://www.merriam-webster.com/dictionary/pied",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-046",
+    "anchor": "Daisies, those pearl’d Arcturi of the earth",
+    "layer": "vocab",
+    "note": "Arcturi: seemingly used for northern stars, by Palgrave’s note. Arcturus is a bright star.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 268, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-047",
+    "anchor": "The constellated flower that never sets",
+    "layer": "vocab",
+    "note": "Constellated: arranged like a constellation of stars.",
+    "source": "Merriam-Webster, “constellated”, https://www.merriam-webster.com/dictionary/constellated",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-048",
+    "anchor": "Faint oxlips",
+    "layer": "vocab",
+    "note": "Oxlips: yellow wild primroses of spring.",
+    "source": "Merriam-Webster, “oxlip”, https://www.merriam-webster.com/dictionary/oxlip",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-049",
+    "anchor": "There grew broad flag-flowers, purple prankt with white",
+    "layer": "vocab",
+    "note": "Flag-flowers: irises, which grow by water. Prankt: decked out, adorned.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-050",
+    "anchor": "And starry river-buds among the sedge",
+    "layer": "vocab",
+    "note": "Sedge: a grasslike plant that grows in wet ground.",
+    "source": "Merriam-Webster, “sedge”, https://www.merriam-webster.com/dictionary/sedge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-051",
+    "anchor": "And bulrushes, and reeds",
+    "layer": "vocab",
+    "note": "Bulrushes: tall water plants with brown, velvety heads.",
+    "source": "Merriam-Webster, “bulrush”, https://www.merriam-webster.com/dictionary/bulrush",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-052",
+    "anchor": "I made a nosegay",
+    "layer": "vocab",
+    "note": "Nosegay: a small bunch of flowers.",
+    "source": "Merriam-Webster, “nosegay”, https://www.merriam-webster.com/dictionary/nosegay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-053",
+    "anchor": "imprison’d children of the Hours",
+    "layer": "allusion",
+    "note": "In Greek myth the Hours (Horae) were goddesses of the seasons and of the order of time.",
+    "source": "Merriam-Webster, “Horae”, https://www.merriam-webster.com/dictionary/Horae",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-054",
+    "anchor": "Or the mariner, worn and wan",
+    "layer": "vocab",
+    "note": "Wan: pale and sickly-looking, worn with weariness.",
+    "source": "Merriam-Webster, “wan”, https://www.merriam-webster.com/dictionary/wan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-055",
+    "anchor": "Riving sail, and cord, and plank",
+    "layer": "vocab",
+    "note": "Riving: splitting, tearing apart with great force.",
+    "source": "Merriam-Webster, “rive”, https://www.merriam-webster.com/dictionary/rive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-056",
+    "anchor": "Weltering through eternity",
+    "layer": "vocab",
+    "note": "Weltering: tossing and rolling helplessly.",
+    "source": "Merriam-Webster, “welter”, https://www.merriam-webster.com/dictionary/welter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-057",
+    "anchor": "I stood listening to the paean",
+    "layer": "vocab",
+    "note": "Paean: a song of joy and praise.",
+    "source": "Merriam-Webster, “paean”, https://www.merriam-webster.com/dictionary/paean",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-058",
+    "anchor": "With which the legion’d rooks did hail",
+    "layer": "vocab",
+    "note": "Legion’d: in great numbers, like an army. Rooks: black birds of the crow family.",
+    "source": "Merriam-Webster, “rook”, https://www.merriam-webster.com/dictionary/rook",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-059",
+    "anchor": "Gathering round with wings all hoar",
+    "layer": "vocab",
+    "note": "Hoar: gray or white, like frost.",
+    "source": "Merriam-Webster, “hoar”, https://www.merriam-webster.com/dictionary/hoar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-060",
+    "anchor": "The waveless plain of Lombardy",
+    "layer": "place",
+    "note": "Lombardy is the wide, flat plain of northern Italy, crossed by the River Po, with many rich cities.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Lombardy”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lombardy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-061",
+    "anchor": "Ocean’s nursling, Venice lies",
+    "layer": "place",
+    "note": "Venice is the Italian city built on islands in a lagoon at the head of the Adriatic Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Venice”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Venice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-062",
+    "anchor": "Amphitrite’s destined halls",
+    "layer": "allusion",
+    "note": "Amphitrite was the wife of Poseidon, the sea god, and the daughter of Ocean. She was queen of the sea.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 274, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-063",
+    "anchor": "Shine like obelisks of fire",
+    "layer": "vocab",
+    "note": "Obelisks: tall, four-sided stone pillars that taper to a point.",
+    "source": "Merriam-Webster, “obelisk”, https://www.merriam-webster.com/dictionary/obelisk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-064",
+    "anchor": "Where Apollo spoke of old",
+    "layer": "allusion",
+    "note": "Apollo, the Greek god of prophecy, spoke through the priestess at his temple at Delphi.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Delphi”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Delphi",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-065",
+    "anchor": "O’er thine isles depopulate",
+    "layer": "vocab",
+    "note": "Depopulate: emptied of its people.",
+    "source": "Merriam-Webster, “depopulate”, https://www.merriam-webster.com/dictionary/depopulate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-066",
+    "anchor": "Lead a rapid masque of death",
+    "layer": "vocab",
+    "note": "Masque: a play or procession of masked figures.",
+    "source": "Merriam-Webster, “masque”, https://www.merriam-webster.com/dictionary/masque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-067",
+    "anchor": "Like a vaporous amethyst",
+    "layer": "vocab",
+    "note": "Amethyst: a purple quartz gem.",
+    "source": "Merriam-Webster, “amethyst”, https://www.merriam-webster.com/dictionary/amethyst",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-068",
+    "anchor": "Piercing with their trellised lines",
+    "layer": "vocab",
+    "note": "Trellised: trained along a lattice, as grapevines are.",
+    "source": "Merriam-Webster, “trellis”, https://www.merriam-webster.com/dictionary/trellis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-069",
+    "anchor": "Leading the infantine moon",
+    "layer": "vocab",
+    "note": "Infantine: childlike, newly begun, like a young moon.",
+    "source": "Merriam-Webster, “infantine”, https://www.merriam-webster.com/dictionary/infantine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-070",
+    "anchor": "Yellow, and black, and pale, and hectic red",
+    "layer": "vocab",
+    "note": "Hectic: here, a flushed, feverish red.",
+    "source": "Merriam-Webster, “hectic”, https://www.merriam-webster.com/dictionary/hectic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-071",
+    "anchor": "Who chariotest to their dark wintry bed",
+    "layer": "vocab",
+    "note": "Chariotest: carry, as in a chariot.",
+    "source": "Merriam-Webster, “chariot”, https://www.merriam-webster.com/dictionary/chariot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-072",
+    "anchor": "Her clarion o’er the dreaming earth",
+    "layer": "vocab",
+    "note": "Clarion: a trumpet with a clear, ringing sound.",
+    "source": "Merriam-Webster, “clarion”, https://www.merriam-webster.com/dictionary/clarion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-073",
+    "anchor": "Like the bright hair uplifted from the head Of some fierce Maenad",
+    "layer": "allusion",
+    "note": "A maenad was a wild woman follower of Dionysus, god of wine, who danced in a frenzy.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 275, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-074",
+    "anchor": "zenith’s height",
+    "layer": "vocab",
+    "note": "Zenith: the highest point in the sky, straight overhead.",
+    "source": "Merriam-Webster, “zenith”, https://www.merriam-webster.com/dictionary/zenith",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-075",
+    "anchor": "Thou dirge Of the dying year",
+    "layer": "vocab",
+    "note": "Dirge: a slow, sad song of mourning.",
+    "source": "Merriam-Webster, “dirge”, https://www.merriam-webster.com/dictionary/dirge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-076",
+    "anchor": "the dome of a vast sepulchre",
+    "layer": "vocab",
+    "note": "Sepulchre: a tomb, a place of burial.",
+    "source": "Merriam-Webster, “sepulchre”, https://www.merriam-webster.com/dictionary/sepulchre",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-077",
+    "anchor": "Beside a pumice isle in Baiae’s bay",
+    "layer": "place",
+    "note": "Baiae is an ancient Roman resort on the Bay of Naples, in a region of volcanic islands. Pumice is a light stone from volcanoes.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Baiae”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baiae; Encyclopædia Britannica, 11th ed. (1911), “Pumice”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pumice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-078",
+    "anchor": "and the oozy woods which wear",
+    "layer": "vocab",
+    "note": "Oozy: slimy, covered with soft mud.",
+    "source": "Merriam-Webster, “oozy”, https://www.merriam-webster.com/dictionary/oozy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-079",
+    "anchor": "And, by the incantation of this verse",
+    "layer": "vocab",
+    "note": "Incantation: words spoken or sung as a magic spell.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-080",
+    "anchor": "Dreaming like a love-adept",
+    "layer": "vocab",
+    "note": "Adept: a person who is very skilled at something.",
+    "source": "Merriam-Webster, “adept”, https://www.merriam-webster.com/dictionary/adept",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch9-081",
+    "anchor": "Nurslings of immortality!",
+    "layer": "vocab",
+    "note": "Nurslings: those who are tenderly fed and cared for.",
+    "source": "Merriam-Webster, “nursling”, https://www.merriam-webster.com/dictionary/nursling",
+    "status": "draft",
+    "checker": null
+  }
+]

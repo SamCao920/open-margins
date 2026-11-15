@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "ch1-001",
+    "anchor": "She was a phantom of delight",
+    "layer": "vocab",
+    "note": "Phantom: a ghost, or an image seen but not touched. Here, a vision of the woman as she first appeared.",
+    "source": "Merriam-Webster, “phantom”, https://www.merriam-webster.com/dictionary/phantom",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-002",
+    "anchor": "A lovely apparition",
+    "layer": "vocab",
+    "note": "Apparition: a sudden, ghostlike appearance.",
+    "source": "Merriam-Webster, “apparition”, https://www.merriam-webster.com/dictionary/apparition",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-003",
+    "anchor": "To haunt, to startle, and waylay",
+    "layer": "vocab",
+    "note": "Waylay: to wait in hiding and stop someone on the way.",
+    "source": "Merriam-Webster, “waylay”, https://www.merriam-webster.com/dictionary/waylay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-004",
+    "anchor": "For transient sorrows, simple wiles",
+    "layer": "vocab",
+    "note": "Transient: lasting only a short time. Wiles: small tricks and charms.",
+    "source": "Merriam-Webster, “transient”, https://www.merriam-webster.com/dictionary/transient",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-005",
+    "anchor": "The very pulse of the machine",
+    "layer": "vocab",
+    "note": "Machine: here, the human body, which works like a machine.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-006",
+    "anchor": "A maid whom there were none to praise",
+    "layer": "vocab",
+    "note": "Maid: a young unmarried woman, a girl.",
+    "source": "Merriam-Webster, “maid”, https://www.merriam-webster.com/dictionary/maid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-007",
+    "anchor": "an overseeing power",
+    "layer": "vocab",
+    "note": "Overseeing: watching over and guiding.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-008",
+    "anchor": "Of mute insensate things",
+    "layer": "vocab",
+    "note": "Insensate: without feeling or awareness.",
+    "source": "Merriam-Webster, “insensate”, https://www.merriam-webster.com/dictionary/insensate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-009",
+    "anchor": "Where rivulets dance their wayward round",
+    "layer": "vocab",
+    "note": "Rivulets: small streams. Wayward: turning where they please.",
+    "source": "Merriam-Webster, “rivulet”, https://www.merriam-webster.com/dictionary/rivulet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-010",
+    "anchor": "Here in this happy dell",
+    "layer": "vocab",
+    "note": "Dell: a small, wooded valley.",
+    "source": "Merriam-Webster, “dell”, https://www.merriam-webster.com/dictionary/dell",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-011",
+    "anchor": "Roll’d round in earth’s diurnal course",
+    "layer": "vocab",
+    "note": "Diurnal: happening every day, such as the earth’s daily turning.",
+    "source": "Merriam-Webster, “diurnal”, https://www.merriam-webster.com/dictionary/diurnal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-012",
+    "anchor": "The mind’s least generous wish a mendicant",
+    "layer": "vocab",
+    "note": "Mendicant: a beggar, someone who lives by asking for gifts.",
+    "source": "Merriam-Webster, “mendicant”, https://www.merriam-webster.com/dictionary/mendicant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-013",
+    "anchor": "Than a forsaken bird’s-nest fill’d with snow",
+    "layer": "vocab",
+    "note": "Forsaken: abandoned, left by everyone.",
+    "source": "Merriam-Webster, “forsaken”, https://www.merriam-webster.com/dictionary/forsaken",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-014",
+    "anchor": "’Mid its own bush of leafless eglantine",
+    "layer": "vocab",
+    "note": "Eglantine: sweetbrier, a wild rose with thorny stems.",
+    "source": "Merriam-Webster, “eglantine”, https://www.merriam-webster.com/dictionary/eglantine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-015",
+    "anchor": "Surprized by joy—impatient as the wind",
+    "layer": "vocab",
+    "note": "Surprized: an old spelling of “surprised.”",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-016",
+    "anchor": "I turn’d to share the transport",
+    "layer": "vocab",
+    "note": "Transport: a strong feeling of joy that carries one away.",
+    "source": "Merriam-Webster, “transport”, https://www.merriam-webster.com/dictionary/transport",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-017",
+    "anchor": "That spot which no vicissitude can find",
+    "layer": "vocab",
+    "note": "Vicissitude: a change in fortune, a turn of luck, good or bad.",
+    "source": "Merriam-Webster, “vicissitude”, https://www.merriam-webster.com/dictionary/vicissitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-018",
+    "anchor": "Stern Daughter of the voice of God!",
+    "layer": "vocab",
+    "note": "Daughter of the voice of God: Duty is pictured as the child of God’s command.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-019",
+    "anchor": "a rod To check the erring, and reprove",
+    "layer": "vocab",
+    "note": "Reprove: to scold gently, to correct.",
+    "source": "Merriam-Webster, “reprove”, https://www.merriam-webster.com/dictionary/reprove",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-020",
+    "anchor": "When empty terrors overawe",
+    "layer": "vocab",
+    "note": "Overawe: to hold in fear and wonder.",
+    "source": "Merriam-Webster, “overawe”, https://www.merriam-webster.com/dictionary/overawe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-021",
+    "anchor": "Upon the genial sense of youth",
+    "layer": "vocab",
+    "note": "Genial: cheerful and warm, friendly.",
+    "source": "Merriam-Webster, “genial”, https://www.merriam-webster.com/dictionary/genial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-022",
+    "anchor": "When love is an unerring light",
+    "layer": "vocab",
+    "note": "Unerring: never making a mistake.",
+    "source": "Merriam-Webster, “unerring”, https://www.merriam-webster.com/dictionary/unerring",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-023",
+    "anchor": "Thy timely mandate, I deferr’d",
+    "layer": "vocab",
+    "note": "Mandate: an order or command. Deferr’d: put off till later.",
+    "source": "Merriam-Webster, “mandate”, https://www.merriam-webster.com/dictionary/mandate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-024",
+    "anchor": "Or strong compunction in me wrought",
+    "layer": "vocab",
+    "note": "Compunction: a pang of conscience, sorrow at having done wrong.",
+    "source": "Merriam-Webster, “compunction”, https://www.merriam-webster.com/dictionary/compunction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-025",
+    "anchor": "I supplicate for thy controul",
+    "layer": "vocab",
+    "note": "Supplicate: to ask humbly, to beg.",
+    "source": "Merriam-Webster, “supplicate”, https://www.merriam-webster.com/dictionary/supplicate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-026",
+    "anchor": "Me this uncharter’d freedom tires",
+    "layer": "vocab",
+    "note": "Uncharter’d: not bound by any rule or law, wholly free.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-027",
+    "anchor": "thy bondman let me live",
+    "layer": "vocab",
+    "note": "Bondman: a servant or slave bound to a master.",
+    "source": "Merriam-Webster, “bondman”, https://www.merriam-webster.com/dictionary/bondman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-028",
+    "anchor": "Thou from thy Alpine holds at length are driven",
+    "layer": "history",
+    "note": "In 1802 the French under Napoleon had overrun Switzerland (1800), driving liberty from its mountain strongholds.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 210, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-029",
+    "anchor": "Once did She hold the gorgeous East in fee",
+    "layer": "vocab",
+    "note": "In fee: in full possession, as a feudal lord holds land.",
+    "source": "Merriam-Webster, “fee”, https://www.merriam-webster.com/dictionary/fee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-030",
+    "anchor": "the eldest child of liberty",
+    "layer": "history",
+    "note": "Venice lost its independence in 1797, when the last doge gave up his office and the city passed under Napoleon.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Doge”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Doge; F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 211, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-031",
+    "anchor": "She must espouse the everlasting Sea",
+    "layer": "history",
+    "note": "Each year the doge of Venice cast a ring into the Adriatic in a symbolic marriage of the city to the sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Doge”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Doge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-032",
+    "anchor": "our life is only drest",
+    "layer": "vocab",
+    "note": "Drest: dressed, here meaning put on for show.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-033",
+    "anchor": "Rapine, avarice, expense",
+    "layer": "vocab",
+    "note": "Rapine: seizing goods by force, plunder. Avarice: greed for money.",
+    "source": "Merriam-Webster, “rapine”, https://www.merriam-webster.com/dictionary/rapine; Merriam-Webster, “avarice”, https://www.merriam-webster.com/dictionary/avarice",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-034",
+    "anchor": "This is idolatry",
+    "layer": "vocab",
+    "note": "Idolatry: worship of idols, or devotion to something that is not God.",
+    "source": "Merriam-Webster, “idolatry”, https://www.merriam-webster.com/dictionary/idolatry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-035",
+    "anchor": "Plain living and high thinking are no more",
+    "layer": "vocab",
+    "note": "A famous line: simple habits of life joined to noble thoughts, which Wordsworth thought had vanished.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-036",
+    "anchor": "Milton! thou shouldst be living at this hour",
+    "layer": "allusion",
+    "note": "John Milton was the great English poet of Paradise Lost, who also wrote for the Puritan cause in the Civil War. Wordsworth calls on him to rouse England.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Milton, John”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Milton%2C_John",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-037",
+    "anchor": "she is a fen Of stagnant waters",
+    "layer": "vocab",
+    "note": "Fen: low, marshy land. Stagnant: still and foul, not flowing.",
+    "source": "Merriam-Webster, “fen”, https://www.merriam-webster.com/dictionary/fen; Merriam-Webster, “stagnant”, https://www.merriam-webster.com/dictionary/stagnant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-038",
+    "anchor": "Have forfeited their ancient English dower",
+    "layer": "vocab",
+    "note": "Forfeited: lost by wrongdoing. Dower: a gift or inheritance.",
+    "source": "Merriam-Webster, “forfeit”, https://www.merriam-webster.com/dictionary/forfeit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-039",
+    "anchor": "When men change swords for ledgers",
+    "layer": "vocab",
+    "note": "Ledgers: account books in which business records are kept.",
+    "source": "Merriam-Webster, “ledger”, https://www.merriam-webster.com/dictionary/ledger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-040",
+    "anchor": "Of those unfilial fears I am ashamed",
+    "layer": "vocab",
+    "note": "Unfilial: not fitting for a loving child, here toward one’s country.",
+    "source": "Merriam-Webster, “unfilial”, https://www.merriam-webster.com/dictionary/unfilial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-041",
+    "anchor": "In thee a bulwark of the cause of men",
+    "layer": "vocab",
+    "note": "Bulwark: a strong wall or defense.",
+    "source": "Merriam-Webster, “bulwark”, https://www.merriam-webster.com/dictionary/bulwark",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-042",
+    "anchor": "In the sweet shire of Cardigan",
+    "layer": "place",
+    "note": "Cardigan, or Cardiganshire, is a hilly county of west Wales, by Cardigan Bay on the Irish Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Cardiganshire”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cardiganshire",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-043",
+    "anchor": "A running huntsman merry",
+    "layer": "vocab",
+    "note": "Huntsman: a man who leads the hounds in a hunt.",
+    "source": "Merriam-Webster, “huntsman”, https://www.merriam-webster.com/dictionary/huntsman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-044",
+    "anchor": "When Echo bandied round and round",
+    "layer": "vocab",
+    "note": "Bandied: tossed back and forth, as in a game.",
+    "source": "Merriam-Webster, “bandy”, https://www.merriam-webster.com/dictionary/bandy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-045",
+    "anchor": "The halloo of Simon Lee",
+    "layer": "vocab",
+    "note": "Halloo: a loud shout used to call hounds or attract attention.",
+    "source": "Merriam-Webster, “halloo”, https://www.merriam-webster.com/dictionary/halloo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-046",
+    "anchor": "For husbandry or tillage",
+    "layer": "vocab",
+    "note": "Husbandry: farming. Tillage: plowing and working the soil.",
+    "source": "Merriam-Webster, “husbandry”, https://www.merriam-webster.com/dictionary/husbandry; Merriam-Webster, “tillage”, https://www.merriam-webster.com/dictionary/tillage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-047",
+    "anchor": "In liveried poverty",
+    "layer": "vocab",
+    "note": "Liveried: dressed in a servant’s uniform, called livery.",
+    "source": "Merriam-Webster, “liveried”, https://www.merriam-webster.com/dictionary/liveried",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-048",
+    "anchor": "His body dwindled and awry",
+    "layer": "vocab",
+    "note": "Awry: twisted to one side, crooked.",
+    "source": "Merriam-Webster, “awry”, https://www.merriam-webster.com/dictionary/awry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-049",
+    "anchor": "Rests upon ankles swoln and thick",
+    "layer": "vocab",
+    "note": "Swoln: an old form of “swollen,” puffed up and thick.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-050",
+    "anchor": "The mattock totter’d in his hand",
+    "layer": "vocab",
+    "note": "Mattock: a digging tool like a pickaxe, with a flat blade.",
+    "source": "Merriam-Webster, “mattock”, https://www.merriam-webster.com/dictionary/mattock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-051",
+    "anchor": "Give me your tool,“ to him I said",
+    "layer": "vocab",
+    "note": "Tool: a hand implement for work, here Simon’s mattock.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-052",
+    "anchor": "my proffer’d aid",
+    "layer": "vocab",
+    "note": "Proffer’d: offered, held out for someone to take.",
+    "source": "Merriam-Webster, “proffer”, https://www.merriam-webster.com/dictionary/proffer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-053",
+    "anchor": "The tangled root I sever’d",
+    "layer": "vocab",
+    "note": "Sever’d: cut apart, cut clean through.",
+    "source": "Merriam-Webster, “sever”, https://www.merriam-webster.com/dictionary/sever",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-054",
+    "anchor": "There is a flower, the Lesser Celandine",
+    "layer": "vocab",
+    "note": "Lesser celandine: a small yellow wild flower that blooms in early spring.",
+    "source": "Merriam-Webster, “lesser celandine”, https://www.merriam-webster.com/dictionary/lesser%20celandine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-055",
+    "anchor": "And buffeted at will by rain and storm",
+    "layer": "vocab",
+    "note": "Buffeted: struck again and again, battered.",
+    "source": "Merriam-Webster, “buffet”, https://www.merriam-webster.com/dictionary/buffet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-056",
+    "anchor": "with inly-mutter’d voice",
+    "layer": "vocab",
+    "note": "Inly: inwardly, in the heart or mind.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-057",
+    "anchor": "And, in my spleen, I smiled that it was gray",
+    "layer": "vocab",
+    "note": "Spleen: a fit of bad temper or low spirits.",
+    "source": "Merriam-Webster, “spleen”, https://www.merriam-webster.com/dictionary/spleen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-058",
+    "anchor": "To be a prodigal’s favourite",
+    "layer": "vocab",
+    "note": "Prodigal: one who wastes money recklessly.",
+    "source": "Merriam-Webster, “prodigal”, https://www.merriam-webster.com/dictionary/prodigal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-059",
+    "anchor": "A miser’s pensioner",
+    "layer": "vocab",
+    "note": "Miser: a stingy person who hoards money. Pensioner: one who lives on a small allowance.",
+    "source": "Merriam-Webster, “miser”, https://www.merriam-webster.com/dictionary/miser",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-060",
+    "anchor": "No tidings of an only child",
+    "layer": "vocab",
+    "note": "Tidings: news, word about what has happened.",
+    "source": "Merriam-Webster, “tidings”, https://www.merriam-webster.com/dictionary/tidings",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-061",
+    "anchor": "Ingenuous, innocent, and bold",
+    "layer": "vocab",
+    "note": "Ingenuous: simple, open, and innocent.",
+    "source": "Merriam-Webster, “ingenuous”, https://www.merriam-webster.com/dictionary/ingenuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-062",
+    "anchor": "Maim’d, mangled by inhuman men",
+    "layer": "vocab",
+    "note": "Maim’d: crippled by a wound. Mangled: badly torn up.",
+    "source": "Merriam-Webster, “maim”, https://www.merriam-webster.com/dictionary/maim",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-063",
+    "anchor": "An incommunicable sleep",
+    "layer": "vocab",
+    "note": "Incommunicable: that cannot be shared or told to others.",
+    "source": "Merriam-Webster, “incommunicable”, https://www.merriam-webster.com/dictionary/incommunicable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-064",
+    "anchor": "That there was ever intercourse",
+    "layer": "vocab",
+    "note": "Intercourse: contact and communication between people.",
+    "source": "Merriam-Webster, “intercourse”, https://www.merriam-webster.com/dictionary/intercourse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-065",
+    "anchor": "My apprehensions come in crowds",
+    "layer": "vocab",
+    "note": "Apprehensions: anxious fears about what may happen.",
+    "source": "Merriam-Webster, “apprehension”, https://www.merriam-webster.com/dictionary/apprehension",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-066",
+    "anchor": "Beyond participation lie",
+    "layer": "vocab",
+    "note": "Participation: sharing in something with others.",
+    "source": "Merriam-Webster, “participation”, https://www.merriam-webster.com/dictionary/participation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-067",
+    "anchor": "Ethereal Minstrel! pilgrim of the sky!",
+    "layer": "vocab",
+    "note": "Ethereal: light and airy, seeming to belong to heaven. Minstrel: a singer.",
+    "source": "Merriam-Webster, “ethereal”, https://www.merriam-webster.com/dictionary/ethereal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-068",
+    "anchor": "Or while the wings aspire",
+    "layer": "vocab",
+    "note": "Aspire: to rise high, to long for something lofty.",
+    "source": "Merriam-Webster, “aspire”, https://www.merriam-webster.com/dictionary/aspire",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-069",
+    "anchor": "Mount, daring warbler!",
+    "layer": "vocab",
+    "note": "Warbler: a bird that sings in trills.",
+    "source": "Merriam-Webster, “warbler”, https://www.merriam-webster.com/dictionary/warbler",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-070",
+    "anchor": "True to the kindred points of Heaven and Home!",
+    "layer": "vocab",
+    "note": "Kindred: related, of the same kind.",
+    "source": "Merriam-Webster, “kindred”, https://www.merriam-webster.com/dictionary/kindred",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-071",
+    "anchor": "In this sequester’d nook how sweet",
+    "layer": "vocab",
+    "note": "Sequester’d: secluded, tucked away. Nook: a small, quiet corner.",
+    "source": "Merriam-Webster, “sequestered”, https://www.merriam-webster.com/dictionary/sequestered",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-072",
+    "anchor": "In all this covert of the blest",
+    "layer": "vocab",
+    "note": "Covert: a thicket where birds and animals hide.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-073",
+    "anchor": "In joy of voice and pinion",
+    "layer": "vocab",
+    "note": "Pinion: a bird’s wing, or its outer feathers.",
+    "source": "Merriam-Webster, “pinion”, https://www.merriam-webster.com/dictionary/pinion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-074",
+    "anchor": "Make all one band of paramours",
+    "layer": "vocab",
+    "note": "Paramours: lovers, those who are in love with each other.",
+    "source": "Merriam-Webster, “paramour”, https://www.merriam-webster.com/dictionary/paramour",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-075",
+    "anchor": "Behold him perch’d in ecstasies",
+    "layer": "vocab",
+    "note": "Ecstasies: states of overwhelming joy.",
+    "source": "Merriam-Webster, “ecstasy”, https://www.merriam-webster.com/dictionary/ecstasy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-076",
+    "anchor": "The voiceless Form he chose to feign",
+    "layer": "vocab",
+    "note": "Feign: to pretend, to put on a false appearance.",
+    "source": "Merriam-Webster, “feign”, https://www.merriam-webster.com/dictionary/feign",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-077",
+    "anchor": "O blithe new-comer!",
+    "layer": "vocab",
+    "note": "Blithe: cheerful and carefree, light of heart.",
+    "source": "Merriam-Webster, “blithe”, https://www.merriam-webster.com/dictionary/blithe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-078",
+    "anchor": "Of visionary hours",
+    "layer": "vocab",
+    "note": "Visionary: seen in imagination, dreamlike.",
+    "source": "Merriam-Webster, “visionary”, https://www.merriam-webster.com/dictionary/visionary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-079",
+    "anchor": "till I do beget",
+    "layer": "vocab",
+    "note": "Beget: to bring into being.",
+    "source": "Merriam-Webster, “beget”, https://www.merriam-webster.com/dictionary/beget",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-080",
+    "anchor": "An unsubstantial, fairy place",
+    "layer": "vocab",
+    "note": "Unsubstantial: not solid or real, like a dream.",
+    "source": "Merriam-Webster, “unsubstantial”, https://www.merriam-webster.com/dictionary/unsubstantial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-081",
+    "anchor": "In his first splendour valley, rock, or hill",
+    "layer": "vocab",
+    "note": "Splendour: great brightness and beauty.",
+    "source": "Merriam-Webster, “splendor”, https://www.merriam-webster.com/dictionary/splendor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-082",
+    "anchor": "Whom mere despite of heart could so far please",
+    "layer": "vocab",
+    "note": "Despite: spite, ill will, a mean desire to hurt.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-083",
+    "anchor": "And love of havoc",
+    "layer": "vocab",
+    "note": "Havoc: widespread destruction and ruin.",
+    "source": "Merriam-Webster, “havoc”, https://www.merriam-webster.com/dictionary/havoc",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-084",
+    "anchor": "Fame taxes him",
+    "layer": "vocab",
+    "note": "Taxes: here, accuses or blames him for.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-085",
+    "anchor": "a noble horde",
+    "layer": "vocab",
+    "note": "Horde: a large crowd, here the trees that stood together.",
+    "source": "Merriam-Webster, “horde”, https://www.merriam-webster.com/dictionary/horde",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-086",
+    "anchor": "Many hearts deplored",
+    "layer": "vocab",
+    "note": "Deplored: felt or expressed deep sorrow for.",
+    "source": "Merriam-Webster, “deplore”, https://www.merriam-webster.com/dictionary/deplore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-087",
+    "anchor": "the gentle Tweed",
+    "layer": "place",
+    "note": "The Tweed is a river of southern Scotland that flows east to the North Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tweed”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tweed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-088",
+    "anchor": "But covet not the abode",
+    "layer": "vocab",
+    "note": "Covet: to long for what belongs to another.",
+    "source": "Merriam-Webster, “covet”, https://www.merriam-webster.com/dictionary/covet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-089",
+    "anchor": "repining while they look",
+    "layer": "vocab",
+    "note": "Repining: complaining and unhappy over what one lacks.",
+    "source": "Merriam-Webster, “repine”, https://www.merriam-webster.com/dictionary/repine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-090",
+    "anchor": "This precious leaf with harsh impiety",
+    "layer": "vocab",
+    "note": "Impiety: lack of reverence, disrespect for what is holy.",
+    "source": "Merriam-Webster, “impiety”, https://www.merriam-webster.com/dictionary/impiety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-091",
+    "anchor": "The roses to the porch which they entwine",
+    "layer": "vocab",
+    "note": "Entwine: to twist around, to wind together.",
+    "source": "Merriam-Webster, “entwine”, https://www.merriam-webster.com/dictionary/entwine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-092",
+    "anchor": "is thy earthly dower",
+    "layer": "vocab",
+    "note": "Dower: a natural gift or endowment.",
+    "source": "Merriam-Webster, “dower”, https://www.merriam-webster.com/dictionary/dower",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-093",
+    "anchor": "have shed Their utmost bounty on thy head",
+    "layer": "vocab",
+    "note": "Bounty: generosity, a gift freely given.",
+    "source": "Merriam-Webster, “bounty”, https://www.merriam-webster.com/dictionary/bounty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-094",
+    "anchor": "never saw I mien or face",
+    "layer": "vocab",
+    "note": "Mien: a person’s look or manner.",
+    "source": "Merriam-Webster, “mien”, https://www.merriam-webster.com/dictionary/mien",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-095",
+    "anchor": "Benignity and home-bred sense",
+    "layer": "vocab",
+    "note": "Benignity: kindness and gentleness of nature.",
+    "source": "Merriam-Webster, “benignity”, https://www.merriam-webster.com/dictionary/benignity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-096",
+    "anchor": "shamefacedness",
+    "layer": "vocab",
+    "note": "Shamefacedness: shyness and modesty, a blush of bashfulness.",
+    "source": "Merriam-Webster, “shamefaced”, https://www.merriam-webster.com/dictionary/shamefaced",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-097",
+    "anchor": "And seemliness complete",
+    "layer": "vocab",
+    "note": "Seemliness: proper, becoming conduct that suits the occasion.",
+    "source": "Merriam-Webster, “seemliness”, https://www.merriam-webster.com/dictionary/seemliness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-098",
+    "anchor": "A bondage sweetly brook’d",
+    "layer": "vocab",
+    "note": "Brook’d: put up with, endured.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-099",
+    "anchor": "a garland cull",
+    "layer": "vocab",
+    "note": "Garland: a wreath of flowers. Cull: to pick out and gather.",
+    "source": "Merriam-Webster, “garland”, https://www.merriam-webster.com/dictionary/garland; Merriam-Webster, “cull”, https://www.merriam-webster.com/dictionary/cull",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-100",
+    "anchor": "Among the farthest Hebrides",
+    "layer": "place",
+    "note": "The Hebrides are a group of islands off the west coast of Scotland, also called the Western Isles.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hebrides”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hebrides",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-101",
+    "anchor": "Perhaps the plaintive numbers flow",
+    "layer": "vocab",
+    "note": "Plaintive: sad and mournful. Numbers: verses, lines of song.",
+    "source": "Merriam-Webster, “plaintive”, https://www.merriam-webster.com/dictionary/plaintive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-102",
+    "anchor": "o’er the sickle bending",
+    "layer": "vocab",
+    "note": "Sickle: a curved hand blade for cutting grain.",
+    "source": "Merriam-Webster, “sickle”, https://www.merriam-webster.com/dictionary/sickle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-103",
+    "anchor": "In such a jocund company",
+    "layer": "vocab",
+    "note": "Jocund: cheerful, merry, full of high spirits.",
+    "source": "Merriam-Webster, “jocund”, https://www.merriam-webster.com/dictionary/jocund",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-104",
+    "anchor": "Oft on the dappled turf at ease",
+    "layer": "vocab",
+    "note": "Dappled: marked with spots or patches of light and shade.",
+    "source": "Merriam-Webster, “dappled”, https://www.merriam-webster.com/dictionary/dappled",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-105",
+    "anchor": "I sit and play with similes",
+    "layer": "vocab",
+    "note": "Similes: comparisons using “like” or “as.” The poet likens the daisy to many things.",
+    "source": "Merriam-Webster, “simile”, https://www.merriam-webster.com/dictionary/simile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-106",
+    "anchor": "A nun demure, of lowly port",
+    "layer": "vocab",
+    "note": "Demure: quiet and modest. Port: bearing, the way one carries oneself.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-107",
+    "anchor": "A starveling in a scanty vest",
+    "layer": "vocab",
+    "note": "Starveling: a person or animal thin with hunger.",
+    "source": "Merriam-Webster, “starveling”, https://www.merriam-webster.com/dictionary/starveling",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-108",
+    "anchor": "Thy appellations",
+    "layer": "vocab",
+    "note": "Appellations: names, titles given to something.",
+    "source": "Merriam-Webster, “appellation”, https://www.merriam-webster.com/dictionary/appellation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-109",
+    "anchor": "A little Cyclops, with one eye",
+    "layer": "allusion",
+    "note": "In Greek myth the Cyclopes were giants with one round eye in the middle of the forehead.",
+    "source": "Merriam-Webster, “Cyclops”, https://www.merriam-webster.com/dictionary/Cyclops",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-110",
+    "anchor": "I call thee and to that cleave fast",
+    "layer": "vocab",
+    "note": "Cleave: to hold fast, to cling.",
+    "source": "Merriam-Webster, “cleave”, https://www.merriam-webster.com/dictionary/cleave",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-111",
+    "anchor": "Do thou, as thou art wont, repair",
+    "layer": "vocab",
+    "note": "Wont: accustomed. Repair: to mend, to restore.",
+    "source": "Merriam-Webster, “wont”, https://www.merriam-webster.com/dictionary/wont",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-112",
+    "anchor": "From Stirling castle we had seen",
+    "layer": "place",
+    "note": "Stirling is a Scottish town on the River Forth, once guarded by a royal castle on a high rock.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Stirling”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Stirling",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-113",
+    "anchor": "The mazy Forth unravell’d",
+    "layer": "place",
+    "note": "The Forth is a river of eastern Scotland that winds in great loops. Mazy: winding like a maze.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Forth”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Forth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-114",
+    "anchor": "banks of Clyde and Tay",
+    "layer": "place",
+    "note": "The Clyde flows through western Scotland, and the Tay is the longest river in Scotland.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Clyde”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Clyde; Encyclopædia Britannica, 11th ed. (1911), “Tay”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-115",
+    "anchor": "And with the Tweed had travell’d",
+    "layer": "place",
+    "note": "The Tweed is a river of southern Scotland that flows east to the North Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tweed”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tweed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-116",
+    "anchor": "my “winsome Marrow.”",
+    "layer": "vocab",
+    "note": "Winsome: pleasing and charming. Marrow: in Scots, a mate or companion.",
+    "source": "Merriam-Webster, “winsome”, https://www.merriam-webster.com/dictionary/winsome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-117",
+    "anchor": "Whate’er betide, we’ll turn aside",
+    "layer": "vocab",
+    "note": "Betide: to happen, to come to pass.",
+    "source": "Merriam-Webster, “betide”, https://www.merriam-webster.com/dictionary/betide",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-118",
+    "anchor": "the Braes of Yarrow",
+    "layer": "place",
+    "note": "The Yarrow is a river and valley in Selkirkshire, in the south of Scotland. Braes: hillsides.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Yarrow”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Yarrow; Merriam-Webster, “brae”, https://www.merriam-webster.com/dictionary/brae",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-119",
+    "anchor": "frae Selkirk town",
+    "layer": "place",
+    "note": "Selkirk is the county town of Selkirkshire in southern Scotland. Frae means “from” in Scots.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Selkirk”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Selkirk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-120",
+    "anchor": "Galla Water, Leader Haughs",
+    "layer": "vocab",
+    "note": "Haughs: low meadows beside a river.",
+    "source": "Merriam-Webster, “haugh”, https://www.merriam-webster.com/dictionary/haugh",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-121",
+    "anchor": "pleasant Tiviotdale",
+    "layer": "place",
+    "note": "Teviotdale is the valley of the River Teviot in the south of Scotland, in Roxburghshire.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Teviotdale”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Teviotdale",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-122",
+    "anchor": "O green,” said I, “are Yarrow’s holms",
+    "layer": "vocab",
+    "note": "Holms: low river-meadows, flat land beside a stream.",
+    "source": "Merriam-Webster, “holm”, https://www.merriam-webster.com/dictionary/holm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-123",
+    "anchor": "O’er hilly path, and open strath",
+    "layer": "vocab",
+    "note": "Strath: a wide river valley.",
+    "source": "Merriam-Webster, “strath”, https://www.merriam-webster.com/dictionary/strath",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-124",
+    "anchor": "or we shall rue it",
+    "layer": "vocab",
+    "note": "Rue: to regret bitterly, to be sorry for.",
+    "source": "Merriam-Webster, “rue”, https://www.merriam-webster.com/dictionary/rue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-125",
+    "anchor": "The water-Wraith ascended thrice",
+    "layer": "vocab",
+    "note": "Wraith: a ghostly image of a living person, often seen as a sign of coming death.",
+    "source": "Merriam-Webster, “wraith”, https://www.merriam-webster.com/dictionary/wraith",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-126",
+    "anchor": "And on my true-love’s forehead plant A crest of blooming heather",
+    "layer": "vocab",
+    "note": "Heather: a low wild shrub with small purple flowers, common on Scottish hills.",
+    "source": "Merriam-Webster, “heather”, https://www.merriam-webster.com/dictionary/heather",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-127",
+    "anchor": "And what if I enwreathed my own?",
+    "layer": "vocab",
+    "note": "Enwreathed: crowned with a wreath.",
+    "source": "Merriam-Webster, “enwreathe”, https://www.merriam-webster.com/dictionary/enwreathe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-128",
+    "anchor": "Accordant to the measure",
+    "layer": "vocab",
+    "note": "Accordant: in agreement with, in tune.",
+    "source": "Merriam-Webster, “accordant”, https://www.merriam-webster.com/dictionary/accordant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-129",
+    "anchor": "Thou liest in Abraham’s bosom all the year",
+    "layer": "allusion",
+    "note": "In Jesus’s parable the poor man Lazarus is carried after death to “Abraham’s bosom,” the place of the blessed.",
+    "source": "The Bible (King James Version), Luke 16:22, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-130",
+    "anchor": "The periwinkle trail’d its wreaths",
+    "layer": "vocab",
+    "note": "Periwinkle: a trailing evergreen plant with blue flowers.",
+    "source": "Merriam-Webster, “periwinkle”, https://www.merriam-webster.com/dictionary/periwinkle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-131",
+    "anchor": "There came a youth from Georgia’s shore",
+    "layer": "place",
+    "note": "Georgia was a British colony on the southeast coast of North America. The story is set at the time of the American Revolution.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Georgia”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Georgia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-132",
+    "anchor": "A military casque he wore",
+    "layer": "vocab",
+    "note": "Casque: a helmet, a piece of armor for the head.",
+    "source": "Merriam-Webster, “casque”, https://www.merriam-webster.com/dictionary/casque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-133",
+    "anchor": "He brought them from the Cherokees",
+    "layer": "history",
+    "note": "The Cherokees were a Native American people of the southeastern United States, a land of mountains and forests.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Cherokee”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cherokee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-134",
+    "anchor": "From battle and from jeopardy",
+    "layer": "vocab",
+    "note": "Jeopardy: danger, risk of harm or loss.",
+    "source": "Merriam-Webster, “jeopardy”, https://www.merriam-webster.com/dictionary/jeopardy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-135",
+    "anchor": "Were perilous to hear",
+    "layer": "vocab",
+    "note": "Perilous: full of danger, very risky.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-136",
+    "anchor": "He told of girls, a happy rout",
+    "layer": "vocab",
+    "note": "Rout: a crowd, a noisy company.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-137",
+    "anchor": "He told of the Magnolia",
+    "layer": "vocab",
+    "note": "Magnolia: a tree of the southern United States with large, sweet-smelling white flowers.",
+    "source": "Merriam-Webster, “magnolia”, https://www.merriam-webster.com/dictionary/magnolia",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-138",
+    "anchor": "The cypress and her spire",
+    "layer": "vocab",
+    "note": "Cypress: a tall, narrow evergreen tree.",
+    "source": "Merriam-Webster, “cypress”, https://www.merriam-webster.com/dictionary/cypress",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-139",
+    "anchor": "The youth of green savannahs spake",
+    "layer": "vocab",
+    "note": "Savannahs: wide, flat, grassy plains with few trees.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-140",
+    "anchor": "A sylvan huntress",
+    "layer": "vocab",
+    "note": "Sylvan: of the woods, living in the forest.",
+    "source": "Merriam-Webster, “sylvan”, https://www.merriam-webster.com/dictionary/sylvan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-141",
+    "anchor": "We in the church our faith will plight",
+    "layer": "vocab",
+    "note": "Plight: to pledge, to promise solemnly.",
+    "source": "Merriam-Webster, “plight”, https://www.merriam-webster.com/dictionary/plight",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-142",
+    "anchor": "This Stripling, sportive, gay, and bold",
+    "layer": "vocab",
+    "note": "Stripling: a young man, not yet fully grown.",
+    "source": "Merriam-Webster, “stripling”, https://www.merriam-webster.com/dictionary/stripling",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-143",
+    "anchor": "And such impetuous blood",
+    "layer": "vocab",
+    "note": "Impetuous: rushing, acting suddenly without thought.",
+    "source": "Merriam-Webster, “impetuous”, https://www.merriam-webster.com/dictionary/impetuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-144",
+    "anchor": "Nor less, to feed voluptuous thought",
+    "layer": "vocab",
+    "note": "Voluptuous: given to pleasures of the senses.",
+    "source": "Merriam-Webster, “voluptuous”, https://www.merriam-webster.com/dictionary/voluptuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-145",
+    "anchor": "I ween That sometimes",
+    "layer": "vocab",
+    "note": "Ween: to suppose, to believe.",
+    "source": "Merriam-Webster, “ween”, https://www.merriam-webster.com/dictionary/ween",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-146",
+    "anchor": "She fearfully caroused",
+    "layer": "vocab",
+    "note": "Caroused: made merry, drank and sang noisily.",
+    "source": "Merriam-Webster, “carouse”, https://www.merriam-webster.com/dictionary/carouse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-147",
+    "anchor": "There came a respite to her pain",
+    "layer": "vocab",
+    "note": "Respite: a short rest, a pause in suffering.",
+    "source": "Merriam-Webster, “respite”, https://www.merriam-webster.com/dictionary/respite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-148",
+    "anchor": "The vernal leaves",
+    "layer": "vocab",
+    "note": "Vernal: of spring, belonging to the spring season.",
+    "source": "Merriam-Webster, “vernal”, https://www.merriam-webster.com/dictionary/vernal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-149",
+    "anchor": "Nor ever tax’d them with the ill",
+    "layer": "vocab",
+    "note": "Tax’d: accused, blamed for a fault.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-150",
+    "anchor": "This flute, made of a hemlock stalk",
+    "layer": "vocab",
+    "note": "Hemlock: a tall plant with hollow stems and poisonous juice.",
+    "source": "Merriam-Webster, “hemlock”, https://www.merriam-webster.com/dictionary/hemlock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-151",
+    "anchor": "in hallow’d mould",
+    "layer": "vocab",
+    "note": "Hallow’d: made holy, blessed. Mould: loose earth, the grave.",
+    "source": "Merriam-Webster, “hallowed”, https://www.merriam-webster.com/dictionary/hallowed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-152",
+    "anchor": "Elysian quiet, without toil or strife",
+    "layer": "allusion",
+    "note": "Elysium, or the Elysian Fields, was the Greek paradise where the blessed lived in peace after death.",
+    "source": "Merriam-Webster, “Elysian”, https://www.merriam-webster.com/dictionary/Elysian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-153",
+    "anchor": "A deep distress hath humanised my soul",
+    "layer": "vocab",
+    "note": "Humanised: made gentler and more feeling. The distress was the death of Wordsworth’s brother John at sea.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 276, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-154",
+    "anchor": "Then, Beaumont, Friend!",
+    "layer": "history",
+    "note": "Sir George Beaumont painted the picture of Peele Castle in a storm. Wordsworth wrote the poem after his brother John was lost in a shipwreck.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 276, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-155",
+    "anchor": "This rueful sky, this pageantry of fear!",
+    "layer": "vocab",
+    "note": "Rueful: causing sorrow or pity. Pageantry: a grand, showy display.",
+    "source": "Merriam-Webster, “rueful”, https://www.merriam-webster.com/dictionary/rueful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-156",
+    "anchor": "a sordid boon!",
+    "layer": "vocab",
+    "note": "Sordid: dirty, low, and mean. Boon: a gift or favor.",
+    "source": "Merriam-Webster, “sordid”, https://www.merriam-webster.com/dictionary/sordid; Merriam-Webster, “boon”, https://www.merriam-webster.com/dictionary/boon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-157",
+    "anchor": "A Pagan suckled in a creed outworn",
+    "layer": "vocab",
+    "note": "Pagan: a worshipper of old gods, such as the Greek gods. Creed: a belief held by a religion.",
+    "source": "Merriam-Webster, “pagan”, https://www.merriam-webster.com/dictionary/pagan",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-158",
+    "anchor": "standing on this pleasant lea",
+    "layer": "vocab",
+    "note": "Lea: open grassland, a meadow.",
+    "source": "Merriam-Webster, “lea”, https://www.merriam-webster.com/dictionary/lea",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-159",
+    "anchor": "Have sight of Proteus rising from the sea",
+    "layer": "allusion",
+    "note": "In Greek myth Proteus was a sea god who kept changing shape. He stands for the sea’s constant change and sameness.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 278, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-160",
+    "anchor": "Tax not the royal Saint with vain expense",
+    "layer": "history",
+    "note": "The royal Saint is Henry VI, founder of King’s College, Cambridge. Wordsworth defends the great sums spent on its chapel.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 279, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-161",
+    "anchor": "Albeit labouring for a scanty band",
+    "layer": "vocab",
+    "note": "Albeit: although, even though, in spite of the fact that.",
+    "source": "Merriam-Webster, “albeit”, https://www.merriam-webster.com/dictionary/albeit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-162",
+    "anchor": "the lore Of nicely-calculated less or more",
+    "layer": "vocab",
+    "note": "Lore: knowledge, learning. Nicely: here, with fine exactness.",
+    "source": "Merriam-Webster, “lore”, https://www.merriam-webster.com/dictionary/lore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-163",
+    "anchor": "With rod and line I sued the sport",
+    "layer": "vocab",
+    "note": "Sued: pursued, went after. The old man had been fishing.",
+    "source": "Merriam-Webster, “sue”, https://www.merriam-webster.com/dictionary/sue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-164",
+    "anchor": "Beside the church-yard yew",
+    "layer": "vocab",
+    "note": "Yew: a dark evergreen tree often planted in churchyards.",
+    "source": "Merriam-Webster, “yew”, https://www.merriam-webster.com/dictionary/yew",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-165",
+    "anchor": "Of wilding in his hand",
+    "layer": "vocab",
+    "note": "Wilding: a wild apple tree, or its fruit.",
+    "source": "Merriam-Webster, “wilding”, https://www.merriam-webster.com/dictionary/wilding",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-166",
+    "anchor": "or catch",
+    "layer": "vocab",
+    "note": "Catch: a round, a short song in which singers take up the tune in turn.",
+    "source": "Merriam-Webster, “catch”, https://www.merriam-webster.com/dictionary/catch",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-167",
+    "anchor": "Let loose their carols",
+    "layer": "vocab",
+    "note": "Carols: joyful songs, here the songs of birds.",
+    "source": "Merriam-Webster, “carol”, https://www.merriam-webster.com/dictionary/carol",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-168",
+    "anchor": "And, ere we came to Leonard’s Rock",
+    "layer": "vocab",
+    "note": "Ere: before (an old-fashioned word).",
+    "source": "Merriam-Webster, “ere”, https://www.merriam-webster.com/dictionary/ere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-169",
+    "anchor": "The Child is father of the Man",
+    "layer": "vocab",
+    "note": "A famous line: the child’s feelings and habits shape the adult he will become.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-170",
+    "anchor": "Bound each to each by natural piety",
+    "layer": "vocab",
+    "note": "Piety: reverence and devotion, here a natural respect for life.",
+    "source": "Merriam-Webster, “piety”, https://www.merriam-webster.com/dictionary/piety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-171",
+    "anchor": "Apparell’d in celestial light",
+    "layer": "vocab",
+    "note": "Apparell’d: clothed, dressed. Celestial: heavenly.",
+    "source": "Merriam-Webster, “apparel”, https://www.merriam-webster.com/dictionary/apparel; Merriam-Webster, “celestial”, https://www.merriam-webster.com/dictionary/celestial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-172",
+    "anchor": "as it hath been of yore",
+    "layer": "vocab",
+    "note": "Of yore: in times long past.",
+    "source": "Merriam-Webster, “of yore”, https://www.merriam-webster.com/dictionary/of%20yore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-173",
+    "anchor": "And while the young lambs bound As to the tabor’s sound",
+    "layer": "vocab",
+    "note": "Tabor: a small drum used to accompany a pipe.",
+    "source": "Merriam-Webster, “tabor”, https://www.merriam-webster.com/dictionary/tabor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-174",
+    "anchor": "The cataracts blow their trumpets from the steep",
+    "layer": "vocab",
+    "note": "Cataracts: waterfalls, here roaring down the mountain.",
+    "source": "Merriam-Webster, “cataract”, https://www.merriam-webster.com/dictionary/cataract",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-175",
+    "anchor": "My head hath its coronal",
+    "layer": "vocab",
+    "note": "Coronal: a crown or wreath for the head.",
+    "source": "Merriam-Webster, “coronal”, https://www.merriam-webster.com/dictionary/coronal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-176",
+    "anchor": "Whither is fled the visionary gleam?",
+    "layer": "vocab",
+    "note": "Visionary gleam: the dreamlike brightness that childhood once cast over the world.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-177",
+    "anchor": "A six years’ darling of a pigmy size",
+    "layer": "vocab",
+    "note": "Pigmy: tiny, a very small person.",
+    "source": "Merriam-Webster, “pygmy”, https://www.merriam-webster.com/dictionary/pygmy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-178",
+    "anchor": "Fretted by sallies of his mother’s kisses",
+    "layer": "vocab",
+    "note": "Sallies: sudden bursts. Fretted: here, teased and troubled.",
+    "source": "Merriam-Webster, “sally”, https://www.merriam-webster.com/dictionary/sally",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-179",
+    "anchor": "The little actor cons another part",
+    "layer": "vocab",
+    "note": "Cons: studies carefully, learns by heart.",
+    "source": "Merriam-Webster, “con”, https://www.merriam-webster.com/dictionary/con",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-180",
+    "anchor": "That life brings with her in her equipage",
+    "layer": "vocab",
+    "note": "Equipage: the carriage, servants, and gear that go with a person.",
+    "source": "Merriam-Webster, “equipage”, https://www.merriam-webster.com/dictionary/equipage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-181",
+    "anchor": "Thou, whose exterior semblance doth belie",
+    "layer": "vocab",
+    "note": "Belie: to give a false picture of. Semblance: outward appearance.",
+    "source": "Merriam-Webster, “belie”, https://www.merriam-webster.com/dictionary/belie",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-182",
+    "anchor": "Full soon thy soul shall have her earthly freight",
+    "layer": "vocab",
+    "note": "Freight: a load carried, here the burden of earthly cares.",
+    "source": "Merriam-Webster, “freight”, https://www.merriam-webster.com/dictionary/freight",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-183",
+    "anchor": "What was so fugitive",
+    "layer": "vocab",
+    "note": "Fugitive: fleeting, quickly passing away.",
+    "source": "Merriam-Webster, “fugitive”, https://www.merriam-webster.com/dictionary/fugitive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-184",
+    "anchor": "Perpetual benediction",
+    "layer": "vocab",
+    "note": "Benediction: a blessing, an expression of thanks.",
+    "source": "Merriam-Webster, “benediction”, https://www.merriam-webster.com/dictionary/benediction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-185",
+    "anchor": "But for those obstinate questionings",
+    "layer": "vocab",
+    "note": "Obstinate: stubborn, refusing to give up.",
+    "source": "Merriam-Webster, “obstinate”, https://www.merriam-webster.com/dictionary/obstinate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-186",
+    "anchor": "Blank misgivings of a creature",
+    "layer": "vocab",
+    "note": "Misgivings: feelings of doubt or fear.",
+    "source": "Merriam-Webster, “misgiving”, https://www.merriam-webster.com/dictionary/misgiving",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-187",
+    "anchor": "In the primal sympathy",
+    "layer": "vocab",
+    "note": "Primal: first, original, belonging to the beginning.",
+    "source": "Merriam-Webster, “primal”, https://www.merriam-webster.com/dictionary/primal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-188",
+    "anchor": "Forebode not any severing of our loves!",
+    "layer": "vocab",
+    "note": "Forebode: to warn of a coming evil. Severing: cutting apart.",
+    "source": "Merriam-Webster, “forebode”, https://www.merriam-webster.com/dictionary/forebode",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-189",
+    "anchor": "I only have relinquish’d one delight",
+    "layer": "vocab",
+    "note": "Relinquish’d: given up, let go of willingly.",
+    "source": "Merriam-Webster, “relinquish”, https://www.merriam-webster.com/dictionary/relinquish",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-190",
+    "anchor": "man’s mortality",
+    "layer": "vocab",
+    "note": "Mortality: the fact that every person must die.",
+    "source": "Merriam-Webster, “mortality”, https://www.merriam-webster.com/dictionary/mortality",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-191",
+    "anchor": "Another race hath been, and other palms are won",
+    "layer": "vocab",
+    "note": "Palms: here, the prizes of victory, as in a race.",
+    "source": "Merriam-Webster, “palm”, https://www.merriam-webster.com/dictionary/palm",
+    "status": "draft",
+    "checker": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ch12-001",
+    "anchor": "A wet sheet and a flowing sea",
+    "layer": "vocab",
+    "note": "A wet sheet: a sail kept wet so it holds the wind. Sailors used the phrase for fair sailing.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-002",
+    "anchor": "Old England on the lee",
+    "layer": "vocab",
+    "note": "On the lee: on the sheltered side, away from the wind. Here England is left behind, downwind of the ship.",
+    "source": "Merriam-Webster, “lee”, https://www.merriam-webster.com/dictionary/lee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-003",
+    "anchor": "As his corpse to the rampart we hurried",
+    "layer": "history",
+    "note": "Moore was fatally wounded at the battle of Corunna in January 1809. By his own wish he was buried before dawn in the ramparts of the town.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Moore, Sir John”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Moore%2C_Sir_John",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-004",
+    "anchor": "The sods with our bayonets turning",
+    "layer": "vocab",
+    "note": "Sods: pieces of turf. The soldiers dig the grave quickly with their bayonets.",
+    "source": "Merriam-Webster, “sod”, https://www.merriam-webster.com/dictionary/sod",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-005",
+    "anchor": "But little he’ll reck",
+    "layer": "vocab",
+    "note": "Reck: to care about, take heed of. He will pay little attention to what the enemy says.",
+    "source": "Merriam-Webster, “reck”, https://www.merriam-webster.com/dictionary/reck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch12-006",
+    "anchor": "That the foe was sullenly firing",
+    "layer": "history",
+    "note": "The French under Soult followed the retreating British army across Spain to Corunna. The poem hears the enemy’s guns as the burial party finishes its work.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Peninsular War”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peninsular_War",
+    "status": "draft",
+    "checker": null
+  }
+]

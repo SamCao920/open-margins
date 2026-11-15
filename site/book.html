@@ -99,9 +99,10 @@
   document.getElementById('book-by').innerHTML = b.sub + ' \u00b7 by <em>' + b.author + '</em> \u00b7 ' + b.year;
   document.getElementById('book-blurb').textContent = b.blurb;
   const fr = document.getElementById('frontispiece-' + bookId); if (fr) fr.hidden = false;
-  document.getElementById('type-pointer').innerHTML = ((b.translator || b.translated) ? 'Want to learn the prose by hand? ' : 'Want to learn ' + b.author.split(' ').pop() + '\u2019s diction by hand? ') + '<a href="type.html?book=' + bookId + '&amp;ch=1">Type through the book</a>, a ' + unit + ' at a time; each ' + unit + ' has a <em>Type</em> button.';
+  document.getElementById('type-pointer').innerHTML = (b.verse ? 'Want to learn these poems by heart? ' : (b.translator || b.translated) ? 'Want to learn the prose by hand? ' : 'Want to learn ' + b.author.split(' ').pop() + '\u2019s diction by hand? ') + '<a href="type.html?book=' + bookId + '&amp;ch=1">Type through the book</a>, a ' + unit + ' at a time; each ' + unit + ' has a <em>Type</em> button.';
   document.getElementById('book-foot').innerHTML = 'Text: ' + (b.translator ? 'translated by ' + b.translator + ', ' : '') + 'Project Gutenberg eBook #' + b.gutenberg + ', public domain.' +
     (bookId === 'lord-jim' ? ' The Author\u2019s Note (1917) is not included in the reader.' : '') +
+    (b.textNote ? ' ' + b.textNote : '') +
     ' <a href="sources.html?book=' + bookId + '">Sources for the notes</a> \u00b7 <a href="index.html">Back to the library</a> \u00b7 <a href="https://github.com/samcao920/scholia">GitHub</a>.';
 </script>
 <script>

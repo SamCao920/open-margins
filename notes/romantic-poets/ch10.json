@@ -1,0 +1,379 @@
+[
+  {
+    "id": "ch10-001",
+    "anchor": "Much have I travell’d in the realms of gold",
+    "layer": "allusion",
+    "note": "George Chapman’s English Homer (1616) was a famous translation of the Iliad and Odyssey. Keats read it with wonder and wrote this sonnet.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Chapman, George”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Chapman%2C_George",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-002",
+    "anchor": "Which bards in fealty to Apollo hold",
+    "layer": "vocab",
+    "note": "Fealty: loyalty owed to a lord. Bards hold the western islands as loyal servants of Apollo, god of poetry.",
+    "source": "Merriam-Webster, “fealty”, https://www.merriam-webster.com/dictionary/fealty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-003",
+    "anchor": "That deep-brow’d Homer ruled as his demesne",
+    "layer": "vocab",
+    "note": "Demesne: land a lord keeps for himself, his own territory.",
+    "source": "Merriam-Webster, “demesne”, https://www.merriam-webster.com/dictionary/demesne",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-004",
+    "anchor": "Yet did I never breathe its pure serene",
+    "layer": "vocab",
+    "note": "Serene: here, a clear, calm sky or atmosphere.",
+    "source": "Merriam-Webster, “serene”, https://www.merriam-webster.com/dictionary/serene",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-005",
+    "anchor": "When a new planet swims into his ken",
+    "layer": "vocab",
+    "note": "Ken: range of sight or knowledge.",
+    "source": "Merriam-Webster, “ken”, https://www.merriam-webster.com/dictionary/ken",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-006",
+    "anchor": "Or like stout Cortez",
+    "layer": "history",
+    "note": "Keats names Cortez, but Palgrave notes that history requires Balboa, the Spaniard who first saw the Pacific from a mountain in 1513.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 166, https://www.gutenberg.org/ebooks/19221; Encyclopædia Britannica, 11th ed. (1911), “Balboa, Vasco Nuñez de”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Balboa%2C_Vasco_Nu%C3%B1ez_de",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-007",
+    "anchor": "Look’d at each other with a wild surmise",
+    "layer": "vocab",
+    "note": "Surmise: a guess, a half-formed idea about something unknown.",
+    "source": "Merriam-Webster, “surmise”, https://www.merriam-webster.com/dictionary/surmise",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-008",
+    "anchor": "Silent, upon a peak in Darien",
+    "layer": "place",
+    "note": "Darien is the eastern part of the isthmus joining Central and South America, now mostly in Panama. Balboa explored it in the 1510s.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Darien”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Darien",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-009",
+    "anchor": "Seated on Elysian lawns",
+    "layer": "allusion",
+    "note": "Elysium was the Greek paradise of the blessed after death. Elysian therefore means heavenly and blissful, and here describes the lawns of the poets’ afterlife.",
+    "source": "Merriam-Webster, “Elysian”, https://www.merriam-webster.com/dictionary/Elysian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-010",
+    "anchor": "Browsed by none but Dian’s fawns",
+    "layer": "allusion",
+    "note": "Dian is Diana, the Roman goddess of the moon and the hunt, whose companions were wild creatures.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Artemis”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Artemis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-011",
+    "anchor": "Never slumber’d, never cloying",
+    "layer": "vocab",
+    "note": "Cloying: so sweet or rich that one is sickened.",
+    "source": "Merriam-Webster, “cloying”, https://www.merriam-webster.com/dictionary/cloying",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-012",
+    "anchor": "Their green felicity",
+    "layer": "vocab",
+    "note": "Felicity: happiness, great joy. The trees’ green felicity is their happy, leafy state.",
+    "source": "Merriam-Webster, “felicity”, https://www.merriam-webster.com/dictionary/felicity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-013",
+    "anchor": "With a sleety whistle through them",
+    "layer": "vocab",
+    "note": "Sleety: with rain frozen into small icy pellets.",
+    "source": "Merriam-Webster, “sleety”, https://www.merriam-webster.com/dictionary/sleety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-014",
+    "anchor": "Writhed not at passed joy?",
+    "layer": "vocab",
+    "note": "Writhed: twisted in pain or distress, as a body does in agony or sorrow.",
+    "source": "Merriam-Webster, “writhe”, https://www.merriam-webster.com/dictionary/writhe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-015",
+    "anchor": "The sedge has wither’d from the lake",
+    "layer": "vocab",
+    "note": "Sedge: a grasslike plant that grows by water.",
+    "source": "Merriam-Webster, “sedge”, https://www.merriam-webster.com/dictionary/sedge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-016",
+    "anchor": "So haggard and so woe-begone",
+    "layer": "vocab",
+    "note": "Haggard: looking worn and gaunt. Woe-begone: overcome by sorrow.",
+    "source": "Merriam-Webster, “haggard”, https://www.merriam-webster.com/dictionary/haggard",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-017",
+    "anchor": "The squirrel’s granary is full",
+    "layer": "vocab",
+    "note": "Granary: a storehouse for grain, here the squirrel’s store of nuts.",
+    "source": "Merriam-Webster, “granary”, https://www.merriam-webster.com/dictionary/granary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-018",
+    "anchor": "And honey wild and manna-dew",
+    "layer": "allusion",
+    "note": "Manna was the food that appeared miraculously on the ground for the Israelites in the desert.",
+    "source": "Merriam-Webster, “manna”, https://www.merriam-webster.com/dictionary/manna; The Bible (King James Version), Exodus 16, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-019",
+    "anchor": "She took me to her elfin grot",
+    "layer": "vocab",
+    "note": "Grot: a grotto, a small cave.",
+    "source": "Merriam-Webster, “grot”, https://www.merriam-webster.com/dictionary/grot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-020",
+    "anchor": "Hath thee in thrall!",
+    "layer": "vocab",
+    "note": "In thrall: in bondage, held as a slave.",
+    "source": "Merriam-Webster, “thrall”, https://www.merriam-webster.com/dictionary/thrall",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-021",
+    "anchor": "I saw their starved lips in the gloam",
+    "layer": "vocab",
+    "note": "Gloam: twilight, the evening dusk.",
+    "source": "Merriam-Webster, “gloam”, https://www.merriam-webster.com/dictionary/gloam",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-022",
+    "anchor": "And this is why I sojourn here",
+    "layer": "vocab",
+    "note": "Sojourn: to stay for a time.",
+    "source": "Merriam-Webster, “sojourn”, https://www.merriam-webster.com/dictionary/sojourn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-023",
+    "anchor": "Like Nature’s patient sleepless Eremite",
+    "layer": "history",
+    "note": "Eremite: a hermit. Palgrave links the word to the fable of the Wandering Jew, who is doomed never to rest.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 198, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-024",
+    "anchor": "Of pure ablution round earth’s human shores",
+    "layer": "vocab",
+    "note": "Ablution: a ritual washing, here the sea washing the shores.",
+    "source": "Merriam-Webster, “ablution”, https://www.merriam-webster.com/dictionary/ablution",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-025",
+    "anchor": "Before my pen has glean’d my teeming brain",
+    "layer": "vocab",
+    "note": "Glean’d: gathered bit by bit. Teeming: overflowing with ideas.",
+    "source": "Merriam-Webster, “glean”, https://www.merriam-webster.com/dictionary/glean",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-026",
+    "anchor": "Hold like rich garners the full-ripen’d grain",
+    "layer": "vocab",
+    "note": "Garners: storehouses for grain, so the books are like rich granaries.",
+    "source": "Merriam-Webster, “garner”, https://www.merriam-webster.com/dictionary/garner",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-027",
+    "anchor": "Choicer than the Mermaid Tavern? Have ye tippled drink more fine",
+    "layer": "history",
+    "note": "The Mermaid Tavern was a London inn where Shakespeare, Ben Jonson, and other writers of that age are said to have met.",
+    "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 229, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-028",
+    "anchor": "Than mine host’s Canary wine",
+    "layer": "vocab",
+    "note": "Canary wine: a sweet wine from the Canary Islands, popular in Shakespeare’s England.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Canary”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Canary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-029",
+    "anchor": "Drest as though bold Robin Hood",
+    "layer": "allusion",
+    "note": "Robin Hood is the outlaw hero of old English ballads who lived in the greenwood with his band and with Maid Marian.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Robin Hood”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Robin_Hood",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-030",
+    "anchor": "The Mermaid in the Zodiac!",
+    "layer": "vocab",
+    "note": "Zodiac: the band of twelve star-groups the sun passes through each year, each with a sign.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Zodiac”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Zodiac",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-031",
+    "anchor": "Thy hair soft-lifted by the winnowing wind",
+    "layer": "vocab",
+    "note": "Winnowing: separating grain from chaff by blowing air through it. Autumn rests on the threshing floor, hair stirred by it.",
+    "source": "Merriam-Webster, “winnow”, https://www.merriam-webster.com/dictionary/winnow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-032",
+    "anchor": "Spares the next swath",
+    "layer": "vocab",
+    "note": "Swath: the strip of grass or grain cut by one sweep of the scythe or hook.",
+    "source": "Merriam-Webster, “swath”, https://www.merriam-webster.com/dictionary/swath",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-033",
+    "anchor": "like a gleaner thou dost keep",
+    "layer": "vocab",
+    "note": "Gleaner: one who gathers leftover grain after the main harvest.",
+    "source": "Merriam-Webster, “gleaner”, https://www.merriam-webster.com/dictionary/gleaner",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-034",
+    "anchor": "Among the river sallows",
+    "layer": "vocab",
+    "note": "Sallows: willow trees, especially low shrubby ones.",
+    "source": "Merriam-Webster, “sallow”, https://www.merriam-webster.com/dictionary/sallow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-035",
+    "anchor": "from hilly bourn",
+    "layer": "vocab",
+    "note": "Bourn: a stream, or a small brook, in southern English dialect.",
+    "source": "Merriam-Webster, “bourn”, https://www.merriam-webster.com/dictionary/bourn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-036",
+    "anchor": "The redbreast whistles from a garden croft",
+    "layer": "vocab",
+    "note": "Croft: a small enclosed field or small farm next to a house.",
+    "source": "Merriam-Webster, “croft”, https://www.merriam-webster.com/dictionary/croft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-037",
+    "anchor": "Sit thee by the ingle",
+    "layer": "vocab",
+    "note": "Ingle: a fire burning on a hearth, or the fireplace itself.",
+    "source": "Merriam-Webster, “ingle”, https://www.merriam-webster.com/dictionary/ingle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-038",
+    "anchor": "The sear faggot blazes bright",
+    "layer": "vocab",
+    "note": "Sear: dry and withered. Faggot: a bundle of sticks bound for fuel.",
+    "source": "Merriam-Webster, “faggot”, https://www.merriam-webster.com/dictionary/faggot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-039",
+    "anchor": "From the ploughboy’s heavy shoon",
+    "layer": "vocab",
+    "note": "Shoon: an old plural of shoe, here the farm boy’s heavy shoes.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-040",
+    "anchor": "She has vassals to attend her",
+    "layer": "vocab",
+    "note": "Vassals: servants or subjects who owe loyalty to a lord. Fancy is pictured as a queen with a court.",
+    "source": "Merriam-Webster, “vassal”, https://www.merriam-webster.com/dictionary/vassal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-041",
+    "anchor": "Sweet birds antheming the morn",
+    "layer": "vocab",
+    "note": "Antheming: singing like an anthem, a song of praise.",
+    "source": "Merriam-Webster, “anthem”, https://www.merriam-webster.com/dictionary/anthem",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch10-042",
+    "anchor": "Dulcet-eyed as Ceres’ daughter",
+    "layer": "vocab",
+    "note": "Dulcet: sweet to the ear or the senses, pleasant and soothing.",
+    "source": "Merriam-Webster, “dulcet”, https://www.merriam-webster.com/dictionary/dulcet",
+    "status": "draft",
+    "checker": null
+  }
+]
