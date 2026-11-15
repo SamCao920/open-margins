@@ -7,4 +7,4 @@ fragonard|search:Fragonard Young Girl Reading National Gallery of Art
 charon|search:Gustave Dore Inferno Canto III Charon herds the sinners onto his boat
 kramskoi|search:Kramskoi Inconsolable Grief
 wallst|search:Wall Street Half Past Two October 13 1857 Cafferty Rosenberg
-ganges|search:Edwin Lord Weeks Ganges Benares ghats painting
+ganges|search:Edwin Lord Weeks Benares
