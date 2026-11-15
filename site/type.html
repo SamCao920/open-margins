@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Type through · Open Margins</title>
+<meta name="description" content="Type a chapter out, word for word, to learn the writer's diction and rhythm.">
+<link rel="icon" href="brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="brand/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
+<script src="prefs.js?v=dev"></script>
+<link rel="stylesheet" href="style.css?v=dev">
+</head>
+<body class="typing">
+<header class="bar">
+  <div class="bar-inner">
+    <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Open Margins</a>
+    <nav class="running" aria-label="Breadcrumb"><a id="book-link" href="book.html">Book</a><span class="chapter-crumb"><span class="sep">·</span><span id="crumb-chapter">Chapter</span></span><span class="chapter-crumb"><span class="sep">·</span><span>Type through</span></span></nav>
+    <span class="bar-spacer"></span>
+    <a class="bar-button" id="read-link" href="chapter.html">Read with notes</a>
+    <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
+  </div>
+  <div class="rule-double"></div>
+</header>
+<main class="page type-page">
+  <header class="chapter-head">
+    <h1 id="title">Chapter</h1>
+    <div class="rule-short" aria-hidden="true"></div>
+  </header>
+  <p class="type-intro">Type the chapter out, word for word. The page waits for the right letter, so you feel every word the writer chose. Plain keys work for curly quotes, dashes, and accents; press Space or Enter at the end of a paragraph. Your place is saved in this browser.</p>
+  <div class="type-stats" aria-live="off">
+    <span><b id="st-progress">0%</b> of the chapter</span>
+    <span><b id="st-wpm">0</b> words a minute</span>
+    <span><b id="st-acc">100%</b> accuracy</span>
+    <button type="button" class="bar-button" id="restart">Start over</button>
+  </div>
+  <div id="type-text" class="type-text" tabindex="-1"><p class="status">Loading…</p></div>
+  <textarea id="type-input" class="type-input" aria-label="Type the text here" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false"></textarea>
+  <nav class="chapnav" id="chapnav" aria-label="Chapters"></nav>
+  <p class="foot"><a href="index.html#type-through">Why type a book out?</a> · <a href="sources.html">Sources</a> · <a href="https://github.com/samcao920/scholia">GitHub</a></p>
+</main>
+<script src="type.js?v=dev"></script>
+</body>
+</html>

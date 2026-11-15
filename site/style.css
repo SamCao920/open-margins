@@ -312,6 +312,17 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 }
 .folio-quote em { font-style: normal; }
 
+/* Reading statistics: three large figures across the spread's full width. */
+.folio-figures { display: block; }
+.folio-figures::before { display: block; }
+.figures { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.6rem clamp(1.5rem, 4vw, 3.5rem); }
+.figure { border-top: 3px double var(--ink); padding-top: .9rem; }
+.figure-num { margin: 0 0 .4rem; font-size: clamp(1.9rem, 3.4vw, 2.7rem); line-height: 1.1; white-space: nowrap; font-variant-numeric: lining-nums; }
+.figure-num .arrow { color: var(--muted); font-size: .7em; vertical-align: .12em; margin: 0 .1em; }
+.figure-what { margin: 0; line-height: 1.5; }
+.figures-source { margin: 1.4rem 0 0; font-size: .82rem; color: var(--muted); line-height: 1.5; max-width: 60rem; }
+@media (max-width: 760px) { .figures { grid-template-columns: 1fr; } }
+
 .colophon {
   box-sizing: border-box; max-width: 72rem; margin: 1rem auto 0; padding: 1.4rem 24px 3rem;
   color: var(--muted); font-size: .86rem; text-align: center;
@@ -603,3 +614,38 @@ body.hide-place    :is(.note, .tick)[data-layer="place"] { display: none; }
 #text p.search-target { animation: search-flash 2.4s ease-out; }
 @keyframes search-flash { from { background: var(--mark); } to { background: transparent; } }
 @media (prefers-reduced-motion: reduce) { #text p.search-target { animation: none; } }
+
+/* ----- Type through: type a chapter out to learn the writer's diction ----- */
+a.bar-button { text-decoration: none; display: inline-block; }
+.type-page { max-width: 42rem; padding-top: 2.6rem; }
+.type-page .chapter-head { margin-bottom: 1.4rem; font-size: 1.2rem; }
+.type-intro { color: var(--muted); font-style: italic; font-size: .95rem; line-height: 1.5; text-align: center; margin: 0 auto 1.4rem; max-width: 36rem; }
+.type-stats {
+  position: sticky; top: 2.6rem; z-index: 5;
+  display: flex; flex-wrap: wrap; gap: .3rem 1.4rem; align-items: center; justify-content: center;
+  padding: .5rem 0; margin-bottom: 1.6rem;
+  background: var(--ground); border-top: 1px solid var(--hair); border-bottom: 1px solid var(--hair);
+  font-size: .8rem; letter-spacing: .06em; color: var(--muted);
+}
+.type-stats b { color: var(--ink); font-size: 1rem; letter-spacing: 0; font-variant-numeric: tabular-nums; }
+.type-stats .bar-button { font-size: .68rem; }
+.type-text { font-family: var(--font); font-size: calc(1.25rem * var(--scale)); line-height: 1.75; cursor: text; outline: none; }
+.type-text p { margin: 0 0 .2em; text-indent: 1.5em; color: var(--muted); opacity: .6; }
+.type-text p:first-child { text-indent: 0; }
+.type-text p.done { color: var(--ink); opacity: .9; }
+.type-text p.current { color: var(--muted); opacity: 1; }
+.type-text p.current .typed { color: var(--ink); }
+.type-text p.extract { margin: .7em 0 .7em 2.5em; text-indent: 0; font-size: .9em; }
+.type-text .caret { background: var(--mark); color: var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+.type-text .caret-end { color: var(--muted); padding: 0 .2em; margin-left: .15em; font-size: .8em; }
+body:not(.type-focus) .type-text .caret { box-shadow: inset 0 -2px 0 var(--faint); }
+.type-text .caret.miss { animation: type-miss .35s ease-out; }
+@keyframes type-miss { from { background: #c0392b; color: #fff; } to { background: var(--mark); color: var(--ink); } }
+.type-text .status { text-indent: 0; font-style: italic; }
+.type-text .type-finished { text-indent: 0; text-align: center; opacity: 1; color: var(--ink); margin-top: 2rem; font-style: italic; }
+/* The textarea only catches keys; it is kept on screen (so phones show a
+   keyboard) but invisible. */
+.type-input { position: fixed; left: 0; bottom: 0; width: 1px; height: 1px; opacity: 0; border: 0; padding: 0; resize: none; font-size: 16px; }
+@media (max-width: 600px) { .type-text p.extract { margin-left: 1.2em; } .type-stats { top: 0; position: static; } }
+@media (prefers-reduced-motion: reduce) { .type-text .caret.miss { animation: none; outline: 2px solid #c0392b; } }
+.type-pointer { text-align: center; color: var(--muted); font-size: .92rem; margin-top: 1.6rem; }

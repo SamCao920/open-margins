@@ -45,6 +45,8 @@
   const bookLink = document.getElementById('book-link');
   bookLink.textContent = book.title;
   bookLink.href = 'book.html?book=' + bookId;
+  const typeLink = document.getElementById('type-link');
+  if (typeLink) typeLink.href = 'type.html?book=' + bookId + '&ch=' + ch;
 
   async function fetchFirst(paths, parse) {
     // The deployed site has texts/ and notes/ beside the pages; a local
