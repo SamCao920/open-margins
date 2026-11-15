@@ -137,7 +137,7 @@
     "id": "ch6-016",
     "anchor": "Manhattanville and Astoria",
     "layer": "place",
-    "note": "Manhattanville was a village on upper Manhattan Island. Astoria lay across the East River on the Long Island shore.",
+    "note": "Manhattanville was a district of upper Manhattan, around West 125th Street. Astoria lay across the East River on the Long Island shore.",
     "source": "Encyclopædia Britannica, 11th ed. (1911), “New York City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_York_City",
     "status": "draft",
     "checker": null
@@ -305,7 +305,7 @@
     "id": "ch6-035",
     "anchor": "a subordinate clerk in the Dead Letter Office at Washington",
     "layer": "history",
-    "note": "Dead letters are letters the post office can neither deliver nor return. Special offices handled them, opening them to find the sender.",
+    "note": "Dead letters are letters that can be neither delivered nor returned to the sender. Post offices kept special offices to deal with them.",
     "source": "Encyclopædia Britannica, 11th ed. (1911), “Post and Postal Service”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Post_and_Postal_Service",
     "status": "draft",
     "checker": null
@@ -324,7 +324,6 @@
     "anchor": "the finger it was meant for, perhaps, moulders in the grave",
     "layer": "vocab",
     "note": "Moulders: slowly rots and turns to dust.",
-    "source": "Merriam-Webster, “moulder”, https://www.merriam-webster.com/dictionary/moulder",
     "status": "draft",
     "checker": null
   },

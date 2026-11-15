@@ -395,7 +395,7 @@
     "id": "ch4-045",
     "anchor": "At the corner of Broadway and Canal-street",
     "layer": "place",
-    "note": "Broadway and Canal Street meet in lower Manhattan, a busy crossing of the city’s streets. It is a short walk from the offices on Wall Street.",
+    "note": "Broadway and Canal Street cross in lower Manhattan. Broadway is the main street of New York, and Canal Street runs across the island.",
     "source": "Encyclopædia Britannica, 11th ed. (1911), “New York City”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_York_City",
     "status": "draft",
     "checker": null
@@ -441,7 +441,6 @@
     "anchor": "a home-thrust",
     "layer": "vocab",
     "note": "Home-thrust: a blow or remark that goes straight to its target.",
-    "source": "Merriam-Webster, “home thrust”, https://www.merriam-webster.com/dictionary/home%20thrust",
     "status": "draft",
     "checker": null
   },
