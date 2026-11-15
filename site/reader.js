@@ -584,7 +584,7 @@
     const notesPath = 'notes/' + bookId + '/ch' + ch + '.json';
     const raw = await fetchFirst([textPath, '../' + textPath], r => r.text());
     if (raw === null) {
-      textEl.innerHTML = '<p class="status">Could not load the text for this chapter.</p>';
+      textEl.innerHTML = '<p class="status">Could not load the text for this ' + book.unit.toLowerCase() + '.</p>';
       return;
     }
     const all = (await fetchFirst([notesPath, '../' + notesPath], r => r.json())) || [];

@@ -18,6 +18,7 @@
   const input = document.getElementById('type-input');
   const q = 'book=' + bookId + '&ch=';
   document.getElementById('title').textContent = book.unit + ' ' + ch;
+  document.querySelectorAll('.unit-lc').forEach(e => { e.textContent = book.unit.toLowerCase(); });
   document.getElementById('crumb-chapter').textContent = book.unit + ' ' + ch;
   document.title = book.title + ', ' + book.unit + ' ' + ch + ' · Type through · Open Margins';
   const bookLink = document.getElementById('book-link');
@@ -214,7 +215,7 @@
     for (const p of [path, '../' + path]) {
       try { const r = await fetch(p, { cache: 'no-cache' }); if (r.ok) { raw = await r.text(); break; } } catch (e) { /* next */ }
     }
-    if (raw === null) { textEl.innerHTML = '<p class="status">Could not load the text for this chapter.</p>'; return; }
+    if (raw === null) { textEl.innerHTML = '<p class="status">Could not load the text for this ' + book.unit.toLowerCase() + '.</p>'; return; }
     paras = parse(raw);
     total = paras.reduce((n, p) => n + p.text.length, 0);
     load();
