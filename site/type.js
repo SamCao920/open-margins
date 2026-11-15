@@ -6,7 +6,7 @@
 (function () {
   'use strict';
 
-  const BOOKS = { 'lord-jim': { title: 'Lord Jim', chapters: 45 } };
+  const BOOKS = window.OMBOOKS;
   const params = new URLSearchParams(location.search);
   const bookId = BOOKS[params.get('book')] ? params.get('book') : 'lord-jim';
   const book = BOOKS[bookId];
@@ -17,17 +17,17 @@
   const textEl = document.getElementById('type-text');
   const input = document.getElementById('type-input');
   const q = 'book=' + bookId + '&ch=';
-  document.getElementById('title').textContent = 'Chapter ' + ch;
-  document.getElementById('crumb-chapter').textContent = 'Chapter ' + ch;
-  document.title = book.title + ', Chapter ' + ch + ' · Type through · Open Margins';
+  document.getElementById('title').textContent = book.unit + ' ' + ch;
+  document.getElementById('crumb-chapter').textContent = book.unit + ' ' + ch;
+  document.title = book.title + ', ' + book.unit + ' ' + ch + ' · Type through · Open Margins';
   const bookLink = document.getElementById('book-link');
   bookLink.textContent = book.title;
   bookLink.href = 'book.html?book=' + bookId;
   document.getElementById('read-link').href = 'chapter.html?' + q + ch;
   document.getElementById('chapnav').innerHTML =
-    '<span class="prev">' + (ch > 1 ? '<a href="type.html?' + q + (ch - 1) + '" rel="prev"><span class="dir">Previous</span> Chapter ' + (ch - 1) + '</a>' : '') + '</span>' +
+    '<span class="prev">' + (ch > 1 ? '<a href="type.html?' + q + (ch - 1) + '" rel="prev"><span class="dir">Previous</span> ' + book.unit + ' ' + (ch - 1) + '</a>' : '') + '</span>' +
     '<span class="up"><a href="book.html?book=' + bookId + '">Contents</a></span>' +
-    '<span class="next">' + (ch < book.chapters ? '<a href="type.html?' + q + (ch + 1) + '" rel="next"><span class="dir">Next</span> Chapter ' + (ch + 1) + '</a>' : '') + '</span>';
+    '<span class="next">' + (ch < book.chapters ? '<a href="type.html?' + q + (ch + 1) + '" rel="next"><span class="dir">Next</span> ' + book.unit + ' ' + (ch + 1) + '</a>' : '') + '</span>';
 
   const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
@@ -115,8 +115,8 @@
 
   function drawAll() {
     textEl.innerHTML = paras.map((p, i) => '<p></p>').join('') +
-      '<p class="type-finished" hidden>End of the chapter. ' +
-      (ch < book.chapters ? '<a href="type.html?' + q + (ch + 1) + '">Type Chapter ' + (ch + 1) + '</a>' : 'That was the whole book.') + '</p>';
+      '<p class="type-finished" hidden>End of the ' + book.unit.toLowerCase() + '. ' +
+      (ch < book.chapters ? '<a href="type.html?' + q + (ch + 1) + '">Type ' + book.unit + ' ' + (ch + 1) + '</a>' : 'That was the whole book.') + '</p>';
     paras.forEach((_, i) => drawPara(i));
     finished();
     stats();

@@ -9,6 +9,7 @@
 <link rel="icon" href="brand/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
 <script src="prefs.js?v=dev"></script>
+<script src="books.js?v=dev"></script>
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
 <body>
@@ -32,6 +33,7 @@
   <h2>Texts</h2>
   <ul class="source-list">
     <li>Joseph Conrad, <em>Lord Jim</em> (1900). Project Gutenberg eBook #5658, <a href="https://www.gutenberg.org/ebooks/5658">gutenberg.org/ebooks/5658</a>. Public domain. Wording, spelling, and punctuation are unchanged; only the Gutenberg licence header and footer are removed.</li>
+    <li>Joseph Conrad, <em>Heart of Darkness</em> (1899; book form 1902). Project Gutenberg eBook #219, <a href="https://www.gutenberg.org/ebooks/219">gutenberg.org/ebooks/219</a>. Public domain. Split into its three parts; wording, spelling, and punctuation are unchanged, and only the Gutenberg licence header and footer are removed.</li>
   </ul>
 
   <h2>Reference works cited in the notes</h2>
@@ -59,7 +61,7 @@
 (async function () {
   // Gathers every note's source at load time, so this page never drifts
   // from the note files.
-  const books = [{ id: 'lord-jim', title: 'Lord Jim', chapters: 45 }];
+  const books = Object.entries(window.OMBOOKS).map(([id, b]) => ({ id, title: b.title, chapters: b.chapters, unit: b.unit }));
   const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const linkify = s => esc(s).replace(/https?:\/\/[^\s;]+/g, u => '<a href="' + u + '">' + u.replace(/^https?:\/\/(www\.)?/, '') + '</a>');
 
@@ -92,14 +94,14 @@
       const notes = all[ch - 1];
       for (const n of notes) {
         if (n.status === 'cut') continue;
-        const row = { book: b.title, ch, n };
+        const row = { book: b.title, unit: b.unit, ch, n };
         if (!n.source) { uncited.push(row); continue; }
         cited[groups.findIndex(g => g.test.test(n.source))].push(row);
       }
     }
   }
 
-  const where = r => '<span class="where">' + esc(r.book) + ', ch. ' + r.ch + '</span> <em>' + esc(r.n.anchor) + '</em>';
+  const where = r => '<span class="where">' + esc(r.book) + ', ' + (r.unit === 'Chapter' ? 'ch.' : r.unit.toLowerCase()) + ' ' + r.ch + '</span> <em>' + esc(r.n.anchor) + '</em>';
   const works = document.getElementById('works');
   works.innerHTML = groups.map((g, i) => {
     const rows = cited[i];

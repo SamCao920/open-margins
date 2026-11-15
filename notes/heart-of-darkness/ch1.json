@@ -1,0 +1,1275 @@
+[
+  {
+    "id": "ch1-001",
+    "anchor": "a cruising yawl",
+    "layer": "vocab",
+    "note": "Yawl: a sailboat with two masts, the shorter one at the back.",
+    "source": "Merriam-Webster, “yawl”, https://www.merriam-webster.com/dictionary/yawl",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-002",
+    "anchor": "The flood had made",
+    "layer": "vocab",
+    "note": "The rising tide had begun to flow in from the sea.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Flood and flood-tide”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-003",
+    "anchor": "bound down the river",
+    "layer": "vocab",
+    "note": "Bound down the river: heading downstream toward the sea.",
+    "source": "Merriam-Webster, “bound”, https://www.merriam-webster.com/dictionary/bound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-004",
+    "anchor": "In the offing",
+    "layer": "vocab",
+    "note": "In the offing: out toward the open sea, beyond where ships anchor.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Offing”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-005",
+    "anchor": "welded",
+    "layer": "vocab",
+    "note": "Welded: joined so firmly that no seam shows.",
+    "source": "Merriam-Webster, “weld”, https://www.merriam-webster.com/dictionary/weld",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-006",
+    "anchor": "gleams of varnished sprits",
+    "layer": "vocab",
+    "note": "Sprits: poles that stretch the top corner of a barge’s sail.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Sprit”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-007",
+    "anchor": "dark above Gravesend",
+    "layer": "place",
+    "note": "Gravesend is a river port in Kent on the south bank of the Thames, about 22 miles east of London.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Gravesend”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gravesend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-008",
+    "anchor": "biggest, and the greatest, town on earth",
+    "layer": "place",
+    "note": "The town is London, the capital of Britain and of its worldwide empire, built along the Thames.",
+    "source": "Merriam-Webster, “London”, https://www.merriam-webster.com/dictionary/London",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-009",
+    "anchor": "tolerant of each other’s yarns",
+    "layer": "vocab",
+    "note": "Yarns: long tales, often of adventure, told by sailors.",
+    "source": "Merriam-Webster, “yarn”, https://www.merriam-webster.com/dictionary/yarn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-010",
+    "anchor": "toying architecturally with the bones",
+    "layer": "vocab",
+    "note": "Bones: here, the pieces of the game of dominoes, which he stacks like a building.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-011",
+    "anchor": "mizzen-mast",
+    "layer": "vocab",
+    "note": "Mizzen-mast: the mast nearest the stern of a sailing ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Mizen-mast”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-012",
+    "anchor": "an ascetic aspect",
+    "layer": "vocab",
+    "note": "Ascetic: strict and plain, like someone who denies himself comforts.",
+    "source": "Merriam-Webster, “ascetic”, https://www.merriam-webster.com/dictionary/ascetic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-013",
+    "anchor": "The water shone pacifically",
+    "layer": "vocab",
+    "note": "Pacifically: in a peaceful, calm way.",
+    "source": "Merriam-Webster, “pacifically”, https://www.merriam-webster.com/dictionary/pacifically",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-014",
+    "anchor": "gauzy",
+    "layer": "vocab",
+    "note": "Gauzy: thin and see-through, like fine cloth.",
+    "source": "Merriam-Webster, “gauzy”, https://www.merriam-webster.com/dictionary/gauzy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-015",
+    "anchor": "diaphanous folds",
+    "layer": "vocab",
+    "note": "Diaphanous: so thin and light that you can see through it.",
+    "source": "Merriam-Webster, “diaphanous”, https://www.merriam-webster.com/dictionary/diaphanous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-016",
+    "anchor": "Forthwith",
+    "layer": "vocab",
+    "note": "Forthwith: at once, without any delay.",
+    "source": "Merriam-Webster, “forthwith”, https://www.merriam-webster.com/dictionary/forthwith",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-017",
+    "anchor": "august light",
+    "layer": "vocab",
+    "note": "August: grand, dignified, and impressive.",
+    "source": "Merriam-Webster, “august”, https://www.merriam-webster.com/dictionary/august",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-018",
+    "anchor": "“followed the sea” with reverence",
+    "layer": "vocab",
+    "note": "Followed the sea: worked as a sailor.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-019",
+    "anchor": "Sir Francis Drake",
+    "layer": "history",
+    "note": "Drake was an English sea captain who sailed around the world, setting out in 1577. Queen Elizabeth I knighted him aboard his ship.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Drake, Sir Francis”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Drake%2C_Sir_Francis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-020",
+    "anchor": "Sir John Franklin",
+    "layer": "history",
+    "note": "Franklin (1786–1847) was an English naval officer and explorer. In 1845 he sailed to find a sea route across the Arctic, and he never returned.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Franklin, Sir John”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Franklin%2C_Sir_John",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-021",
+    "anchor": "knights-errant",
+    "layer": "vocab",
+    "note": "Knights-errant: knights who wandered in search of adventure. Here, great sea adventurers.",
+    "source": "Merriam-Webster, “knight-errant”, https://www.merriam-webster.com/dictionary/knight-errant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-022",
+    "anchor": "Golden Hind",
+    "layer": "history",
+    "note": "The Golden Hind was Drake’s ship. Queen Elizabeth went aboard her at Deptford to knight him, and the ship was kept as a monument.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Drake, Sir Francis”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Drake%2C_Sir_Francis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-023",
+    "anchor": "Erebus and Terror",
+    "layer": "history",
+    "note": "Erebus and Terror were the ships of Franklin’s last expedition, with 129 officers and men. A whaler last saw them in July 1845.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Franklin, Sir John”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Franklin%2C_Sir_John",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-024",
+    "anchor": "from Deptford, from Greenwich, from Erith",
+    "layer": "place",
+    "note": "Deptford, Greenwich, and Erith are towns on the Thames below London, where ships were built, fitted out, and sent to sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Deptford”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Deptford; Encyclopædia Britannica, 11th ed. (1911), “Greenwich”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Greenwich; Encyclopædia Britannica, 11th ed. (1911), “Erith”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Erith",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-025",
+    "anchor": "ships of men on ’Change",
+    "layer": "vocab",
+    "note": "’Change: short for the Exchange, the market where merchants met.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-026",
+    "anchor": "“interlopers” of the Eastern trade",
+    "layer": "history",
+    "note": "Interlopers were traders who sailed to the East without the East India Company’s licence, breaking its monopoly.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “East India Company”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/East_India_Company",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-027",
+    "anchor": "Lights of ships moved in the fairway",
+    "layer": "vocab",
+    "note": "Fairway: the navigable channel where ships pass up and down a river.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Fair-way”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-028",
+    "anchor": "a lurid glare",
+    "layer": "vocab",
+    "note": "Lurid: harsh, glowing, and unnatural.",
+    "source": "Merriam-Webster, “lurid”, https://www.merriam-webster.com/dictionary/lurid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-029",
+    "anchor": "a sedentary life",
+    "layer": "vocab",
+    "note": "Sedentary: spent mostly sitting, staying in one place.",
+    "source": "Merriam-Webster, “sedentary”, https://www.merriam-webster.com/dictionary/sedentary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-030",
+    "anchor": "In the immutability of their surroundings",
+    "layer": "vocab",
+    "note": "Immutability: the state of never changing.",
+    "source": "Merriam-Webster, “immutability”, https://www.merriam-webster.com/dictionary/immutability",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-031",
+    "anchor": "as inscrutable as Destiny",
+    "layer": "vocab",
+    "note": "Inscrutable: impossible to read or understand.",
+    "source": "Merriam-Webster, “inscrutable”, https://www.merriam-webster.com/dictionary/inscrutable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-032",
+    "anchor": "a casual spree on shore",
+    "layer": "vocab",
+    "note": "Spree: a short, lively outing of fun and drink.",
+    "source": "Merriam-Webster, “spree”, https://www.merriam-webster.com/dictionary/spree",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-033",
+    "anchor": "his propensity to spin yarns",
+    "layer": "vocab",
+    "note": "Propensity: a natural tendency to do something.",
+    "source": "Merriam-Webster, “propensity”, https://www.merriam-webster.com/dictionary/propensity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-034",
+    "anchor": "the Romans first came here, nineteen hundred years ago",
+    "layer": "history",
+    "note": "Rome’s conquest of Britain was undertaken by the emperor Claudius in AD 43. Marlow’s “nineteen hundred years” is a round figure.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Britain: Roman”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Britain/Roman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-035",
+    "anchor": "trireme",
+    "layer": "vocab",
+    "note": "Trireme: an ancient warship with three banks of oars.",
+    "source": "Merriam-Webster, “trireme”, https://www.merriam-webster.com/dictionary/trireme",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-036",
+    "anchor": "legionaries",
+    "layer": "vocab",
+    "note": "Legionaries: soldiers of the Roman legions.",
+    "source": "Merriam-Webster, “legionary”, https://www.merriam-webster.com/dictionary/legionary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-037",
+    "anchor": "No Falernian wine here",
+    "layer": "vocab",
+    "note": "Falernian: a famous wine of ancient Rome.",
+    "source": "Merriam-Webster, “Falernian”, https://www.merriam-webster.com/dictionary/Falernian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-038",
+    "anchor": "fleet at Ravenna",
+    "layer": "place",
+    "note": "Ravenna is a city in northeast Italy. The emperor Augustus chose it as the base of a Roman fleet.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Ravenna”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ravenna",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-039",
+    "anchor": "in a toga",
+    "layer": "vocab",
+    "note": "Toga: the loose outer robe worn by a Roman citizen.",
+    "source": "Merriam-Webster, “toga”, https://www.merriam-webster.com/dictionary/toga",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-040",
+    "anchor": "some prefect",
+    "layer": "vocab",
+    "note": "Prefect: a high Roman official in charge of a district.",
+    "source": "Merriam-Webster, “prefect”, https://www.merriam-webster.com/dictionary/prefect",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-041",
+    "anchor": "the pose of a Buddha preaching",
+    "layer": "allusion",
+    "note": "The Buddha was the Indian religious teacher on whose teachings Buddhism is founded. Marlow, sitting cross-legged with palm raised, is compared to him.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Buddha”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Buddha",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-042",
+    "anchor": "their administration was merely a squeeze",
+    "layer": "vocab",
+    "note": "Squeeze: money forced out of people by those in power.",
+    "source": "Merriam-Webster, “squeeze”, https://www.merriam-webster.com/dictionary/squeeze",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-043",
+    "anchor": "fresh-water sailor",
+    "layer": "vocab",
+    "note": "Fresh-water sailor: one who sails rivers and lakes, not the open sea.",
+    "source": "Merriam-Webster, “freshwater”, https://www.merriam-webster.com/dictionary/freshwater",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-044",
+    "anchor": "loafing about",
+    "layer": "vocab",
+    "note": "Loafing: wasting time, doing nothing useful.",
+    "source": "Merriam-Webster, “loaf”, https://www.merriam-webster.com/dictionary/loaf",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-045",
+    "anchor": "had a hankering after",
+    "layer": "vocab",
+    "note": "Hankering: a strong, restless wish.",
+    "source": "Merriam-Webster, “hankering”, https://www.merriam-webster.com/dictionary/hankering",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-046",
+    "anchor": "one river especially",
+    "layer": "place",
+    "note": "The river is the Congo. Conrad wrote in A Personal Record that as a boy he put his finger on the blank map of Africa and later went there.",
+    "source": "Joseph Conrad, A Personal Record (1912), https://www.gutenberg.org/ebooks/687; Encyclopædia Britannica, 11th ed. (1911), “Congo”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-047",
+    "anchor": "a Company for trade on that river",
+    "layer": "history",
+    "note": "In 1885 Leopold II, King of the Belgians, became head of the Congo Free State. Trading companies bought its ivory and rubber.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Congo Free State”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congo_Free_State",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-048",
+    "anchor": "Fleet Street",
+    "layer": "place",
+    "note": "Fleet Street is a street in London long known for its newspapers and printing; its name also meant the London press.",
+    "source": "Merriam-Webster, “Fleet Street”, https://www.merriam-webster.com/dictionary/Fleet%20Street",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-049",
+    "anchor": "a Continental concern",
+    "layer": "vocab",
+    "note": "Continental: from mainland Europe, not Britain.",
+    "source": "Merriam-Webster, “continental”, https://www.merriam-webster.com/dictionary/continental",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-050",
+    "anchor": "by hook or by crook",
+    "layer": "vocab",
+    "note": "By hook or by crook: by any means at all.",
+    "source": "Merriam-Webster, “by hook or by crook”, https://www.merriam-webster.com/dictionary/by%20hook%20or%20by%20crook",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-051",
+    "anchor": "watched him, thunderstruck",
+    "layer": "vocab",
+    "note": "Thunderstruck: astonished, as if hit by lightning.",
+    "source": "Merriam-Webster, “thunderstruck”, https://www.merriam-webster.com/dictionary/thunderstruck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-052",
+    "anchor": "stepped into his shoes",
+    "layer": "vocab",
+    "note": "Stepped into his shoes: took over his job.",
+    "source": "Merriam-Webster, “step into someone's shoes”, https://www.merriam-webster.com/dictionary/step%20into%20someone's%20shoes",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-053",
+    "anchor": "a whited sepulchre",
+    "layer": "allusion",
+    "note": "From the Bible: Jesus calls hypocrites “whited sepulchres,” tombs painted white outside but “full of dead men’s bones” within.",
+    "source": "The Bible (King James Version), Matthew 23:27, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-054",
+    "anchor": "venetian blinds",
+    "layer": "vocab",
+    "note": "Venetian blinds: window blinds made of slats that can be tilted.",
+    "source": "Merriam-Webster, “venetian blind”, https://www.merriam-webster.com/dictionary/venetian%20blind",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-055",
+    "anchor": "somnambulist",
+    "layer": "vocab",
+    "note": "Somnambulist: a person who walks in their sleep.",
+    "source": "Merriam-Webster, “somnambulist”, https://www.merriam-webster.com/dictionary/somnambulist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-056",
+    "anchor": "Deal table",
+    "layer": "vocab",
+    "note": "Deal: pine or fir wood.",
+    "source": "Merriam-Webster, “deal”, https://www.merriam-webster.com/dictionary/deal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-057",
+    "anchor": "lager-beer",
+    "layer": "vocab",
+    "note": "Lager-beer: beer brewed cool and slowly fermented, as in Germany.",
+    "source": "Merriam-Webster, “lager”, https://www.merriam-webster.com/dictionary/lager",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-058",
+    "anchor": "a frock-coat",
+    "layer": "vocab",
+    "note": "Frock-coat: a man’s long, formal coat that reaches the knees.",
+    "source": "Merriam-Webster, “frock coat”, https://www.merriam-webster.com/dictionary/frock%20coat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-059",
+    "anchor": "Bon Voyage",
+    "layer": "vocab",
+    "note": "Bon voyage: French for “have a good trip.”",
+    "source": "Merriam-Webster, “bon voyage”, https://www.merriam-webster.com/dictionary/bon%20voyage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-060",
+    "anchor": "Ave!",
+    "layer": "allusion",
+    "note": "Latin for “hail.” The next line is the Latin salute of fighters before a staged battle: “We who are about to die salute you.”",
+    "source": "Merriam-Webster, “ave”, https://www.merriam-webster.com/dictionary/ave",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-061",
+    "anchor": "Morituri te salutant",
+    "layer": "allusion",
+    "note": "Latin: “those about to die salute you.” In Suetonius, fighters in a staged sea battle gave this salute to Emperor Claudius.",
+    "source": "Suetonius, Lives of the Twelve Caesars, Claudius 21, trans. A. Thomson, https://www.gutenberg.org/ebooks/6400",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-062",
+    "anchor": "a young chap wearing his hat over the left eyebrow",
+    "layer": "vocab",
+    "note": "Chap: a fellow, a man.",
+    "source": "Merriam-Webster, “chap”, https://www.merriam-webster.com/dictionary/chap",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-063",
+    "anchor": "his cravat",
+    "layer": "vocab",
+    "note": "Cravat: a man’s neck-cloth, a kind of necktie.",
+    "source": "Merriam-Webster, “cravat”, https://www.merriam-webster.com/dictionary/cravat",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-064",
+    "anchor": "our vermouths",
+    "layer": "vocab",
+    "note": "Vermouth: a wine flavoured with herbs, often drunk before a meal.",
+    "source": "Merriam-Webster, “vermouth”, https://www.merriam-webster.com/dictionary/vermouth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-065",
+    "anchor": "quoth Plato",
+    "layer": "vocab",
+    "note": "Quoth: said (an old word).",
+    "source": "Merriam-Webster, “quoth”, https://www.merriam-webster.com/dictionary/quoth",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-066",
+    "anchor": "said sententiously",
+    "layer": "vocab",
+    "note": "Sententiously: in a pompous, preachy way.",
+    "source": "Merriam-Webster, “sententiously”, https://www.merriam-webster.com/dictionary/sententiously",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-067",
+    "anchor": "a thing like calipers",
+    "layer": "vocab",
+    "note": "Calipers: a tool with two curved legs for measuring thickness or distance.",
+    "source": "Merriam-Webster, “calipers”, https://www.merriam-webster.com/dictionary/calipers",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-068",
+    "anchor": "a gaberdine",
+    "layer": "vocab",
+    "note": "Gaberdine: a long, loose outer coat.",
+    "source": "Merriam-Webster, “gaberdine”, https://www.merriam-webster.com/dictionary/gaberdine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-069",
+    "anchor": "the crania of those going out there",
+    "layer": "vocab",
+    "note": "Crania: skulls, the bones of the head.",
+    "source": "Merriam-Webster, “cranium”, https://www.merriam-webster.com/dictionary/cranium",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-070",
+    "anchor": "Are you an alienist?",
+    "layer": "vocab",
+    "note": "Alienist: an old word for a doctor who treats mental illness.",
+    "source": "Merriam-Webster, “alienist”, https://www.merriam-webster.com/dictionary/alienist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-071",
+    "anchor": "which you messieurs",
+    "layer": "vocab",
+    "note": "Messieurs: French for “gentlemen,” the plural of monsieur.",
+    "source": "Merriam-Webster, “monsieur”, https://www.merriam-webster.com/dictionary/monsieur",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-072",
+    "anchor": "Adieu. How do",
+    "layer": "vocab",
+    "note": "Adieu: French for “goodbye,” said when parting.",
+    "source": "Merriam-Webster, “adieu”, https://www.merriam-webster.com/dictionary/adieu",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-073",
+    "anchor": "two-penny-half-penny river-steamboat",
+    "layer": "vocab",
+    "note": "Two-penny-half-penny: cheap, petty, of little worth.",
+    "source": "Merriam-Webster, “twopenny-halfpenny”, https://www.merriam-webster.com/dictionary/twopenny-halfpenny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-074",
+    "anchor": "the labourer is worthy of his hire",
+    "layer": "allusion",
+    "note": "From the Bible: Jesus tells his followers that “the labourer is worthy of his hire,” meaning a worker deserves his pay.",
+    "source": "The Bible (King James Version), Luke 10:7, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-075",
+    "anchor": "insipid",
+    "layer": "vocab",
+    "note": "Insipid: dull, with no flavor or interest.",
+    "source": "Merriam-Webster, “insipid”, https://www.merriam-webster.com/dictionary/insipid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-076",
+    "anchor": "to levy toll",
+    "layer": "vocab",
+    "note": "Levy toll: collect a tax or fee by authority.",
+    "source": "Merriam-Webster, “levy”, https://www.merriam-webster.com/dictionary/levy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-077",
+    "anchor": "Gran’ Bassam, Little Popo",
+    "layer": "place",
+    "note": "Grand Bassam was a port in the French colony of Ivory Coast. Little Popo was a coastal town in Togoland, a German colony. Both lie on the West African coast.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Ivory Coast”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ivory_Coast; Encyclopædia Britannica, 11th ed. (1911), “Togoland”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Togoland",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-078",
+    "anchor": "Her ensign dropped limp",
+    "layer": "vocab",
+    "note": "Ensign: the flag a ship flies to show her nation.",
+    "source": "Merriam-Webster, “ensign”, https://www.merriam-webster.com/dictionary/ensign",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-079",
+    "anchor": "lugubrious drollery",
+    "layer": "vocab",
+    "note": "Lugubrious: gloomy and mournful. Drollery: odd, dark humor.",
+    "source": "Merriam-Webster, “lugubrious”, https://www.merriam-webster.com/dictionary/lugubrious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-080",
+    "anchor": "overheated catacomb",
+    "layer": "vocab",
+    "note": "Catacomb: an underground burial place with passages and tombs.",
+    "source": "Merriam-Webster, “catacomb”, https://www.merriam-webster.com/dictionary/catacomb",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-081",
+    "anchor": "contorted mangroves",
+    "layer": "vocab",
+    "note": "Mangroves: tropical trees that grow in muddy salt water on tangled roots.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Mangrove”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mangrove",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-082",
+    "anchor": "We anchored off the seat of the government",
+    "layer": "place",
+    "note": "The seat of government was Boma, a port on the north bank of the Congo about 60 miles from its mouth.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Boma”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Boma",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-083",
+    "anchor": "a place thirty miles higher up",
+    "layer": "place",
+    "note": "This is Matadi, the highest point on the lower Congo that sea-going ships can reach. Cataracts stretching about 60 miles block the river above it.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Congo Free State”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congo_Free_State; Encyclopædia Britannica, 11th ed. (1911), “Congo”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-084",
+    "anchor": "At last we opened a reach",
+    "layer": "vocab",
+    "note": "Opened a reach: came in sight of a straight stretch of river.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Reach, or ratch”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-085",
+    "anchor": "the declivity",
+    "layer": "vocab",
+    "note": "Declivity: a slope that goes downward, a hillside.",
+    "source": "Merriam-Webster, “declivity”, https://www.merriam-webster.com/dictionary/declivity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-086",
+    "anchor": "A jetty projected into the river",
+    "layer": "vocab",
+    "note": "Jetty: a landing wharf built out into the water.",
+    "source": "Merriam-Webster, “jetty”, https://www.merriam-webster.com/dictionary/jetty",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-087",
+    "anchor": "sudden recrudescence of glare",
+    "layer": "vocab",
+    "note": "Recrudescence: a new outbreak after a pause.",
+    "source": "Merriam-Webster, “recrudescence”, https://www.merriam-webster.com/dictionary/recrudescence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-088",
+    "anchor": "undersized railway-truck",
+    "layer": "vocab",
+    "note": "Railway-truck: a small open wagon that runs on rails.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-089",
+    "anchor": "wound round their loins",
+    "layer": "vocab",
+    "note": "Loins: the hips and lower part of the body.",
+    "source": "Merriam-Webster, “loin”, https://www.merriam-webster.com/dictionary/loin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-090",
+    "anchor": "whose bights swung between them",
+    "layer": "vocab",
+    "note": "Bights: the loops or slack curves of a rope or chain.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Bight”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-091",
+    "anchor": "hoisted his weapon to his shoulder with alacrity",
+    "layer": "vocab",
+    "note": "Alacrity: quick, cheerful, eager readiness to act.",
+    "source": "Merriam-Webster, “alacrity”, https://www.merriam-webster.com/dictionary/alacrity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-092",
+    "anchor": "rapacious and pitiless folly",
+    "layer": "vocab",
+    "note": "Rapacious: greedy, grasping for whatever can be taken.",
+    "source": "Merriam-Webster, “rapacious”, https://www.merriam-webster.com/dictionary/rapacious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-093",
+    "anchor": "How insidious he could be",
+    "layer": "vocab",
+    "note": "Insidious: harmful in a sly, gradual way that is hard to notice.",
+    "source": "Merriam-Webster, “insidious”, https://www.merriam-webster.com/dictionary/insidious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-094",
+    "anchor": "some Inferno",
+    "layer": "allusion",
+    "note": "The Inferno is the first part of Dante’s poem the Divine Comedy, a journey down through the circles of hell. Here it means a place like hell.",
+    "source": "Merriam-Webster, “inferno”, https://www.merriam-webster.com/dictionary/inferno; Encyclopædia Britannica, 11th ed. (1911), “Dante”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dante",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-095",
+    "anchor": "These moribund shapes",
+    "layer": "vocab",
+    "note": "Moribund: close to death, dying.",
+    "source": "Merriam-Webster, “moribund”, https://www.merriam-webster.com/dictionary/moribund",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-096",
+    "anchor": "a bit of white worsted",
+    "layer": "vocab",
+    "note": "Worsted: a smooth woollen yarn.",
+    "source": "Merriam-Webster, “worsted”, https://www.merriam-webster.com/dictionary/worsted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-097",
+    "anchor": "a propitiatory act",
+    "layer": "vocab",
+    "note": "Propitiatory: meant to win the favor of a spirit or god.",
+    "source": "Merriam-Webster, “propitiatory”, https://www.merriam-webster.com/dictionary/propitiatory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-098",
+    "anchor": "a light alpaca jacket",
+    "layer": "vocab",
+    "note": "Alpaca: a thin, light cloth made of alpaca wool.",
+    "source": "Merriam-Webster, “alpaca”, https://www.merriam-webster.com/dictionary/alpaca",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-099",
+    "anchor": "apple-pie order",
+    "layer": "vocab",
+    "note": "Apple-pie order: perfectly neat and in place.",
+    "source": "Merriam-Webster, “apple-pie order”, https://www.merriam-webster.com/dictionary/apple-pie%20order",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-100",
+    "anchor": "a precious trickle of ivory",
+    "layer": "history",
+    "note": "Ivory, from elephant tusks, was a main export of the Congo. With rubber, it made the Congo Free State rich enough to pay its way.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Congo Free State”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congo_Free_State",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-101",
+    "anchor": "truckle-bed",
+    "layer": "vocab",
+    "note": "Truckle-bed: a low bed on small wheels, kept under another bed.",
+    "source": "Merriam-Webster, “truckle bed”, https://www.merriam-webster.com/dictionary/truckle%20bed",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-102",
+    "anchor": "catching the yokels",
+    "layer": "vocab",
+    "note": "Yokels: country people, seen as simple and unschooled.",
+    "source": "Merriam-Webster, “yokel”, https://www.merriam-webster.com/dictionary/yokel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-103",
+    "anchor": "an empty water-gourd",
+    "layer": "vocab",
+    "note": "Water-gourd: a dried hard-shelled fruit used as a water bottle.",
+    "source": "Merriam-Webster, “gourd”, https://www.merriam-webster.com/dictionary/gourd",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-104",
+    "anchor": "Zanzibaris",
+    "layer": "place",
+    "note": "Zanzibaris are people from Zanzibar, a sultanate on islands off East Africa that Britain protected. Here they are an armed escort for a white agent.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Zanzibar”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Zanzibar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-105",
+    "anchor": "he weighed sixteen stone",
+    "layer": "vocab",
+    "note": "Stone: a British weight of 14 pounds. Sixteen stone is 224 pounds.",
+    "source": "Merriam-Webster, “stone”, https://www.merriam-webster.com/dictionary/stone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-106",
+    "anchor": "They jibbed",
+    "layer": "vocab",
+    "note": "Jibbed: refused to go on, like a balking horse.",
+    "source": "Merriam-Webster, “jib”, https://www.merriam-webster.com/dictionary/jib",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-107",
+    "anchor": "great volubility",
+    "layer": "vocab",
+    "note": "Volubility: a fast, smooth flow of talk.",
+    "source": "Merriam-Webster, “voluble”, https://www.merriam-webster.com/dictionary/voluble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-108",
+    "anchor": "trenchant and heavy as an axe",
+    "layer": "vocab",
+    "note": "Trenchant: sharp and cutting, like a blade.",
+    "source": "Merriam-Webster, “trenchant”, https://www.merriam-webster.com/dictionary/trenchant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-109",
+    "anchor": "Men who come out here should have no entrails",
+    "layer": "vocab",
+    "note": "Entrails: the inner organs, the guts.",
+    "source": "Merriam-Webster, “entrails”, https://www.merriam-webster.com/dictionary/entrails",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-110",
+    "anchor": "dumfounded",
+    "layer": "vocab",
+    "note": "Dumfounded: struck speechless with surprise.",
+    "source": "Merriam-Webster, “dumbfound”, https://www.merriam-webster.com/dictionary/dumbfound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-111",
+    "anchor": "extreme nicety",
+    "layer": "vocab",
+    "note": "Nicety: careful, exact attention to detail.",
+    "source": "Merriam-Webster, “nicety”, https://www.merriam-webster.com/dictionary/nicety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-112",
+    "anchor": "the time requisite",
+    "layer": "vocab",
+    "note": "Requisite: needed for a purpose, necessary.",
+    "source": "Merriam-Webster, “requisite”, https://www.merriam-webster.com/dictionary/requisite",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-113",
+    "anchor": "faithless pilgrims",
+    "layer": "vocab",
+    "note": "Pilgrims: Marlow’s mocking name for the white agents, who carry long staves like pilgrims.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-114",
+    "anchor": "imbecile rapacity",
+    "layer": "vocab",
+    "note": "Rapacity: greed that grabs whatever it can.",
+    "source": "Merriam-Webster, “rapacious”, https://www.merriam-webster.com/dictionary/rapacious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-115",
+    "anchor": "calico, cotton prints",
+    "layer": "vocab",
+    "note": "Calico: cheap, printed cotton cloth.",
+    "source": "Merriam-Webster, “calico”, https://www.merriam-webster.com/dictionary/calico",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-116",
+    "anchor": "cutting capers",
+    "layer": "vocab",
+    "note": "Cutting capers: leaping about in a lively, playful way.",
+    "source": "Merriam-Webster, “caper”, https://www.merriam-webster.com/dictionary/caper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-117",
+    "anchor": "assegais",
+    "layer": "vocab",
+    "note": "Assegais: slender spears with iron tips, used in southern Africa.",
+    "source": "Merriam-Webster, “assegai”, https://www.merriam-webster.com/dictionary/assegai",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-118",
+    "anchor": "They beguiled the time",
+    "layer": "vocab",
+    "note": "Beguiled the time: made the hours pass pleasantly.",
+    "source": "Merriam-Webster, “beguile”, https://www.merriam-webster.com/dictionary/beguile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-119",
+    "anchor": "back-biting",
+    "layer": "vocab",
+    "note": "Back-biting: saying spiteful things about people who are not there.",
+    "source": "Merriam-Webster, “backbiting”, https://www.merriam-webster.com/dictionary/backbiting",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-120",
+    "anchor": "mica discs",
+    "layer": "vocab",
+    "note": "Mica: a mineral that splits into thin, shiny sheets.",
+    "source": "Merriam-Webster, “mica”, https://www.merriam-webster.com/dictionary/mica",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-121",
+    "anchor": "a bit of superciliousness",
+    "layer": "vocab",
+    "note": "Superciliousness: cool, scornful pride that looks down on others.",
+    "source": "Merriam-Webster, “supercilious”, https://www.merriam-webster.com/dictionary/supercilious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-122",
+    "anchor": "a perfectly shameless prevaricator",
+    "layer": "vocab",
+    "note": "Prevaricator: a person who avoids the truth, a liar.",
+    "source": "Merriam-Webster, “prevaricator”, https://www.merriam-webster.com/dictionary/prevaricator",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-123",
+    "anchor": "indefatigable man",
+    "layer": "vocab",
+    "note": "Indefatigable: never tired, able to keep going and going.",
+    "source": "Merriam-Webster, “indefatigable”, https://www.merriam-webster.com/dictionary/indefatigable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-124",
+    "anchor": "became crestfallen",
+    "layer": "vocab",
+    "note": "Crestfallen: sad and let down, dejected.",
+    "source": "Merriam-Webster, “crestfallen”, https://www.merriam-webster.com/dictionary/crestfallen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-125",
+    "anchor": "a kind of servile heartiness",
+    "layer": "vocab",
+    "note": "Servile: eager to please like a servant.",
+    "source": "Merriam-Webster, “servile”, https://www.merriam-webster.com/dictionary/servile",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-126",
+    "anchor": "Heap of muffs",
+    "layer": "vocab",
+    "note": "Muffs: clumsy, foolish people who bungle things.",
+    "source": "Merriam-Webster, “muff”, https://www.merriam-webster.com/dictionary/muff",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-127",
+    "anchor": "this papier-mache Mephistopheles",
+    "layer": "allusion",
+    "note": "Mephistopheles is the chief devil in the legend of Faust. Papier-mâché is molded paper pulp, so this devil is hollow and fake.",
+    "source": "Merriam-Webster, “Mephistopheles”, https://www.merriam-webster.com/dictionary/Mephistopheles; Merriam-Webster, “papier-mâché”, https://www.merriam-webster.com/dictionary/papier-m%C3%A2ch%C3%A9",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-128",
+    "anchor": "talked precipitately",
+    "layer": "vocab",
+    "note": "Precipitately: in a headlong rush, too fast.",
+    "source": "Merriam-Webster, “precipitately”, https://www.merriam-webster.com/dictionary/precipitately",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-129",
+    "anchor": "primeval mud",
+    "layer": "vocab",
+    "note": "Primeval: belonging to the earliest ages of the world.",
+    "source": "Merriam-Webster, “primeval”, https://www.merriam-webster.com/dictionary/primeval",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-130",
+    "anchor": "That animal has a charmed life",
+    "layer": "vocab",
+    "note": "Charmed life: a life protected as if by magic from harm.",
+    "source": "Merriam-Webster, “charmed life”, https://www.merriam-webster.com/dictionary/charmed%20life",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-131",
+    "anchor": "rather chummed with the few mechanics",
+    "layer": "vocab",
+    "note": "Chummed: became friendly with, like a pal.",
+    "source": "Merriam-Webster, “chum”, https://www.merriam-webster.com/dictionary/chum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-132",
+    "anchor": "an enthusiast and a connoisseur",
+    "layer": "vocab",
+    "note": "Connoisseur: an expert who knows and enjoys the fine points of something.",
+    "source": "Merriam-Webster, “connoisseur”, https://www.merriam-webster.com/dictionary/connoisseur",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-133",
+    "anchor": "white serviette",
+    "layer": "vocab",
+    "note": "Serviette: a table napkin, here used as a beard-wrap.",
+    "source": "Merriam-Webster, “serviette”, https://www.merriam-webster.com/dictionary/serviette",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-134",
+    "anchor": "that hulk",
+    "layer": "vocab",
+    "note": "Hulk: the body of an old ship, no longer fit for sailing.",
+    "source": "Merriam-Webster, “hulk”, https://www.merriam-webster.com/dictionary/hulk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-135",
+    "anchor": "festoons",
+    "layer": "vocab",
+    "note": "Festoons: hanging loops or garlands of leaves and branches.",
+    "source": "Merriam-Webster, “festoon”, https://www.merriam-webster.com/dictionary/festoon",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-136",
+    "anchor": "an icthyosaurus",
+    "layer": "vocab",
+    "note": "Ichthyosaurus: an extinct sea reptile shaped like a fish, from the age of the dinosaurs.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Ichthyosaurus”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ichthyosaurus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-137",
+    "anchor": "an inextricable mess",
+    "layer": "vocab",
+    "note": "Inextricable: so tangled that it cannot be sorted out.",
+    "source": "Merriam-Webster, “inextricable”, https://www.merriam-webster.com/dictionary/inextricable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-138",
+    "anchor": "Eldorado Exploring Expedition",
+    "layer": "allusion",
+    "note": "El Dorado, Spanish for “the gilded one,” first meant a South American king said to cover himself in gold dust, then a legendary golden city.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “El Dorado”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/El_Dorado",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-139",
+    "anchor": "sordid buccaneers",
+    "layer": "vocab",
+    "note": "Buccaneers: pirates or sea robbers who prey on others.",
+    "source": "Merriam-Webster, “buccaneer”, https://www.merriam-webster.com/dictionary/buccaneer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-140",
+    "anchor": "reckless without hardihood",
+    "layer": "vocab",
+    "note": "Hardihood: firm courage, boldness in facing danger.",
+    "source": "Merriam-Webster, “hardihood”, https://www.merriam-webster.com/dictionary/hardihood",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-141",
+    "anchor": "carried his fat paunch with ostentation",
+    "layer": "vocab",
+    "note": "Ostentation: showy display meant to attract notice.",
+    "source": "Merriam-Webster, “ostentation”, https://www.merriam-webster.com/dictionary/ostentation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-142",
+    "anchor": "an everlasting confab",
+    "layer": "vocab",
+    "note": "Confab: a casual talk, a chat.",
+    "source": "Merriam-Webster, “confab”, https://www.merriam-webster.com/dictionary/confab",
+    "status": "draft",
+    "checker": null
+  }
+]
