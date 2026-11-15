@@ -63,16 +63,6 @@ Each note is a JSON object:
 
 See [`notes/SCHEMA.md`](notes/SCHEMA.md) for the full rules.
 
-## Contributing
-
-We need checkers. To help:
-
-1. Pick an open issue for a chapter.
-2. For each note with `"status": "draft"`, check it against a reliable source.
-3. Fix or cut wrong notes, set `status` to `verified` or `cut`, add your username as `checker`, and open a pull request.
-
-Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly editions, and primary sources for allusions and history. Wikipedia is a starting point, not a final source.
-
 ## Status
 
 *Heart of Darkness*: 605 draft notes (Part I 306, Part II 161, Part III 138), none verified by a person yet.

@@ -124,7 +124,7 @@
   }).join('');
 
   document.getElementById('uncited').innerHTML = uncited.length
-    ? '<p>' + uncited.length + ' vocabulary notes give a common meaning of a word or idiom without naming a dictionary entry yet. They are drafts like the rest; a checker should add a source or cut the note.</p>' +
+    ? '<p>' + uncited.length + ' vocabulary notes give a common meaning of a word or idiom without naming a dictionary entry yet. They are drafts like the rest.</p>' +
       '<details><summary>Show each note</summary><ul class="cites">' +
       uncited.map(r => '<li>' + where(r) + ': ' + esc(r.n.note) + '</li>').join('') + '</ul></details>'
     : '<p>None: every note cites a source.</p>';
