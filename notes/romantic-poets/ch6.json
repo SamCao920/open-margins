@@ -10,6 +10,42 @@
   },
   {
     "id": "ch6-002",
+    "anchor": "Boatman, do not tarry!",
+    "layer": "vocab",
+    "note": "Tarry: to delay or linger.",
+    "source": "Merriam-Webster, “tarry”, https://www.merriam-webster.com/dictionary/tarry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-003",
+    "anchor": "To row us o’er the ferry",
+    "layer": "vocab",
+    "note": "Ferry: a boat that carries people across water, or the crossing itself.",
+    "source": "Merriam-Webster, “ferry”, https://www.merriam-webster.com/dictionary/ferry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-004",
+    "anchor": "My blood would stain the heather",
+    "layer": "vocab",
+    "note": "Heather: a low shrub that covers Scottish hills and moors.",
+    "source": "Merriam-Webster, “heather”, https://www.merriam-webster.com/dictionary/heather",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-005",
+    "anchor": "Then who will cheer my bonny bride",
+    "layer": "vocab",
+    "note": "Bonny: pretty and pleasant, a Scottish word.",
+    "source": "Merriam-Webster, “bonny”, https://www.merriam-webster.com/dictionary/bonny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-006",
     "anchor": "Out spoke the hardy Highland wight",
     "layer": "vocab",
     "note": "Wight: a person, a fellow. Hardy: tough and brave.",
@@ -18,7 +54,7 @@
     "checker": null
   },
   {
-    "id": "ch6-003",
+    "id": "ch6-007",
     "anchor": "But for your winsome lady",
     "layer": "vocab",
     "note": "Winsome: charming and engaging, pleasing to look at.",
@@ -27,7 +63,16 @@
     "checker": null
   },
   {
-    "id": "ch6-004",
+    "id": "ch6-008",
+    "anchor": "By this the storm grew loud apace",
+    "layer": "vocab",
+    "note": "Apace: quickly, at a rapid pace.",
+    "source": "Merriam-Webster, “apace”, https://www.merriam-webster.com/dictionary/apace",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-009",
     "anchor": "The water-wraith was shrieking",
     "layer": "vocab",
     "note": "Water-wraith: a ghost or spirit of the water, whose cry was thought to foretell drowning.",
@@ -35,7 +80,7 @@
     "checker": null
   },
   {
-    "id": "ch6-005",
+    "id": "ch6-010",
     "anchor": "And in the scowl of heaven each face",
     "layer": "vocab",
     "note": "Scowl: a dark, angry frown.",
@@ -44,7 +89,16 @@
     "checker": null
   },
   {
-    "id": "ch6-006",
+    "id": "ch6-011",
+    "anchor": "And as the night grew drearer",
+    "layer": "vocab",
+    "note": "Drearer: more gloomy and dismal.",
+    "source": "Merriam-Webster, “dreary”, https://www.merriam-webster.com/dictionary/dreary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-012",
     "anchor": "Adown the glen rode armed men",
     "layer": "vocab",
     "note": "Adown: down. Glen: a narrow valley.",
@@ -53,7 +107,85 @@
     "checker": null
   },
   {
-    "id": "ch6-007",
+    "id": "ch6-013",
+    "anchor": "Though tempests round us gather",
+    "layer": "vocab",
+    "note": "Tempests: violent storms. The lady says she fears her father more.",
+    "source": "Merriam-Webster, “tempest”, https://www.merriam-webster.com/dictionary/tempest",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-014",
+    "anchor": "And still they row’d amidst the roar",
+    "layer": "vocab",
+    "note": "Row’d: rowed. The poet shortens the word to fit the meter.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-015",
+    "anchor": "Of waters fast prevailing",
+    "layer": "vocab",
+    "note": "Prevailing: gaining strength and winning out over the boat.",
+    "source": "Merriam-Webster, “prevail”, https://www.merriam-webster.com/dictionary/prevail",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-016",
+    "anchor": "His wrath was changed to wailing",
+    "layer": "vocab",
+    "note": "Wrath: fierce anger. Wailing: loud crying from grief.",
+    "source": "Merriam-Webster, “wrath”, https://www.merriam-webster.com/dictionary/wrath",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-017",
+    "anchor": "For, sore dismay’d",
+    "layer": "vocab",
+    "note": "Sore: very much, painfully. Dismay’d: struck with fear.",
+    "source": "Merriam-Webster, “dismay”, https://www.merriam-webster.com/dictionary/dismay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-018",
+    "anchor": "’Twas vain: the loud waves lash’d the shore",
+    "layer": "vocab",
+    "note": "Vain: useless. His call came too late and could not be heard.",
+    "source": "Merriam-Webster, “vain”, https://www.merriam-webster.com/dictionary/vain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-019",
+    "anchor": "How delicious is the winning",
+    "layer": "vocab",
+    "note": "Winning: gaining the love and favor of someone.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-020",
+    "anchor": "For the knot there’s no untying",
+    "layer": "vocab",
+    "note": "The knot is marriage, which a popular phrase calls a bond one cannot undo.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-021",
+    "anchor": "’midst your wooing",
+    "layer": "vocab",
+    "note": "Wooing: courting, trying to win someone’s love.",
+    "source": "Merriam-Webster, “woo”, https://www.merriam-webster.com/dictionary/woo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-022",
     "anchor": "Love has bliss, but Love has ruing",
     "layer": "vocab",
     "note": "Ruing: sorrow, regret, feeling sorry afterward.",
@@ -62,7 +194,16 @@
     "checker": null
   },
   {
-    "id": "ch6-008",
+    "id": "ch6-023",
+    "anchor": "Other smiles may make you fickle",
+    "layer": "vocab",
+    "note": "Fickle: changeable, not loyal. New smiles can turn a lover’s heart.",
+    "source": "Merriam-Webster, “fickle”, https://www.merriam-webster.com/dictionary/fickle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-024",
     "anchor": "Longest stays, when sorest chidden",
     "layer": "vocab",
     "note": "Chidden: scolded, rebuked with angry words.",
@@ -71,7 +212,24 @@
     "checker": null
   },
   {
-    "id": "ch6-009",
+    "id": "ch6-025",
+    "anchor": "Bind the aspen ne’er to quiver",
+    "layer": "vocab",
+    "note": "Aspen: a poplar tree whose leaves tremble in the slightest breeze.",
+    "source": "Merriam-Webster, “aspen”, https://www.merriam-webster.com/dictionary/aspen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-026",
+    "anchor": "Then bind Love to last for ever",
+    "layer": "vocab",
+    "note": "The poet lists impossible tasks to show that love cannot be held fixed.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-027",
     "anchor": "Love’s wing moults when caged and captured",
     "layer": "vocab",
     "note": "Moults: sheds feathers, as birds do.",
@@ -79,7 +237,25 @@
     "checker": null
   },
   {
-    "id": "ch6-010",
+    "id": "ch6-028",
+    "anchor": "Only free, he soars enraptured",
+    "layer": "vocab",
+    "note": "Enraptured: filled with delight. Love is happy only when free.",
+    "source": "Merriam-Webster, “enraptured”, https://www.merriam-webster.com/dictionary/enraptured",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-029",
+    "anchor": "Can you keep the bee from ranging",
+    "layer": "vocab",
+    "note": "Ranging: roaming widely. A bee, like love, cannot be kept in one place.",
+    "source": "Merriam-Webster, “range”, https://www.merriam-webster.com/dictionary/range",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-030",
     "anchor": "Or the ringdove’s neck from changing",
     "layer": "vocab",
     "note": "Ringdove: a wood pigeon whose neck feathers change color in the light.",
@@ -88,7 +264,25 @@
     "checker": null
   },
   {
-    "id": "ch6-011",
+    "id": "ch6-031",
+    "anchor": "Gem of the crimson-colour’d Even",
+    "layer": "vocab",
+    "note": "Even: evening. Crimson: deep red, here the color of the sunset.",
+    "source": "Merriam-Webster, “even”, https://www.merriam-webster.com/dictionary/even",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-032",
+    "anchor": "Companion of retiring day",
+    "layer": "vocab",
+    "note": "Retiring: withdrawing, going to rest.",
+    "source": "Merriam-Webster, “retiring”, https://www.merriam-webster.com/dictionary/retiring",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-033",
     "anchor": "So fair thy pensile beauty burns",
     "layer": "vocab",
     "note": "Pensile: hanging down, as the evening star hangs low in the sky.",
@@ -97,7 +291,16 @@
     "checker": null
   },
   {
-    "id": "ch6-012",
+    "id": "ch6-034",
+    "anchor": "So due thy plighted love returns",
+    "layer": "vocab",
+    "note": "Plighted: pledged or promised. The star’s return each evening is like a promise kept.",
+    "source": "Merriam-Webster, “plight”, https://www.merriam-webster.com/dictionary/plight",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-035",
     "anchor": "Sure some enamour’d orb above",
     "layer": "vocab",
     "note": "Enamour’d: in love. Orb: a heavenly body, a star or planet.",
@@ -106,7 +309,24 @@
     "checker": null
   },
   {
-    "id": "ch6-013",
+    "id": "ch6-036",
+    "anchor": "Thine is the breathing, blushing hour",
+    "layer": "vocab",
+    "note": "The hour of dusk, when light fades pink and the evening air seems to breathe.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-037",
+    "anchor": "Of Love’s delicious witchery",
+    "layer": "vocab",
+    "note": "Witchery: charm that seems magical.",
+    "source": "Merriam-Webster, “witchery”, https://www.merriam-webster.com/dictionary/witchery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-038",
     "anchor": "Queen of propitious stars, appear",
     "layer": "vocab",
     "note": "Propitious: favorable, bringing good luck.",
@@ -115,7 +335,34 @@
     "checker": null
   },
   {
-    "id": "ch6-014",
+    "id": "ch6-039",
+    "anchor": "And wanton flowers",
+    "layer": "vocab",
+    "note": "Wanton: growing freely and luxuriantly.",
+    "source": "Merriam-Webster, “wanton”, https://www.merriam-webster.com/dictionary/wanton",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-040",
+    "anchor": "Embalms the soft exhaling dew",
+    "layer": "vocab",
+    "note": "Embalms: fills with fragrance. Exhaling: giving off vapor.",
+    "source": "Merriam-Webster, “embalm”, https://www.merriam-webster.com/dictionary/embalm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-041",
+    "anchor": "Where dying winds a sigh bequeath",
+    "layer": "vocab",
+    "note": "Bequeath: to pass on or leave to another.",
+    "source": "Merriam-Webster, “bequeath”, https://www.merriam-webster.com/dictionary/bequeath",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-042",
     "anchor": "Where, winnow’d by the gentle air",
     "layer": "vocab",
     "note": "Winnow’d: blown through, stirred by a current of air.",
@@ -124,7 +371,7 @@
     "checker": null
   },
   {
-    "id": "ch6-015",
+    "id": "ch6-043",
     "anchor": "Her silken tresses darkly flow",
     "layer": "vocab",
     "note": "Tresses: long locks of hair.",
@@ -133,7 +380,48 @@
     "checker": null
   },
   {
-    "id": "ch6-016",
+    "id": "ch6-044",
+    "anchor": "In converse sweet to wander far",
+    "layer": "vocab",
+    "note": "Converse: conversation, talk. The speaker pictures strolling and talking with Caroline.",
+    "source": "Merriam-Webster, “converse”, https://www.merriam-webster.com/dictionary/converse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-045",
+    "anchor": "And she look’d on her lover",
+    "layer": "vocab",
+    "note": "Ellen’s bower is her private room in the castle.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-046",
+    "anchor": "Though her smile on him was dwelling",
+    "layer": "vocab",
+    "note": "She smiles at him, but he does not recognize her, she is so pale.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-047",
+    "anchor": "Nor love’s own kiss shall wake those eyes",
+    "layer": "vocab",
+    "note": "She has died, and not even love can wake her.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-048",
+    "anchor": "The spirits of your fathers",
+    "layer": "vocab",
+    "note": "The poem recalls earlier British sailors who died at sea.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-049",
     "anchor": "Where Blake and mighty Nelson fell",
     "layer": "history",
     "note": "Robert Blake and Horatio Nelson were great British admirals. Nelson fell in battle, and the song calls on sailors to follow them.",
@@ -142,7 +430,7 @@
     "checker": null
   },
   {
-    "id": "ch6-017",
+    "id": "ch6-050",
     "anchor": "Britannia needs no bulwarks",
     "layer": "vocab",
     "note": "Bulwarks: walls built for defense. Britannia is a name and picture of Britain as a woman.",
@@ -151,7 +439,24 @@
     "checker": null
   },
   {
-    "id": "ch6-018",
+    "id": "ch6-051",
+    "anchor": "With thunders from her native oak",
+    "layer": "vocab",
+    "note": "British warships were built of oak, and the thunder is the sound of their guns.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-052",
+    "anchor": "The meteor flag of England",
+    "layer": "vocab",
+    "note": "Meteor: a bright streak across the sky. The flag is pictured as a blazing light.",
+    "source": "Merriam-Webster, “meteor”, https://www.merriam-webster.com/dictionary/meteor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-053",
     "anchor": "Of Nelson and the North",
     "layer": "history",
     "note": "In 1801 Nelson led a British fleet against the Danish fleet at Copenhagen, after Denmark and other northern powers joined a league against Britain.",
@@ -160,7 +465,34 @@
     "checker": null
   },
   {
-    "id": "ch6-019",
+    "id": "ch6-054",
+    "anchor": "Sing the glorious day’s renown",
+    "layer": "vocab",
+    "note": "Renown: fame, wide honor. The poem opens by praising the day of Nelson’s victory.",
+    "source": "Merriam-Webster, “renown”, https://www.merriam-webster.com/dictionary/renown",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-055",
+    "anchor": "All the might of Denmark’s crown",
+    "layer": "history",
+    "note": "In 1801 the British fleet attacked Denmark’s fleet at Copenhagen after the northern powers formed an armed league against British trade at sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Copenhagen”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Copenhagen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-056",
+    "anchor": "By each gun the lighted brand",
+    "layer": "vocab",
+    "note": "Brand: a burning piece of wood, here a match lit to fire cannon.",
+    "source": "Merriam-Webster, “brand”, https://www.merriam-webster.com/dictionary/brand",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-057",
     "anchor": "Like leviathans afloat",
     "layer": "vocab",
     "note": "Leviathan: a huge sea monster, here a mighty warship.",
@@ -169,7 +501,15 @@
     "checker": null
   },
   {
-    "id": "ch6-020",
+    "id": "ch6-058",
+    "anchor": "While the sign of battle flew",
+    "layer": "vocab",
+    "note": "Flags on the British ships signaled the order to fight.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-059",
     "anchor": "It was ten of April morn by the chime",
     "layer": "history",
     "note": "The Battle of Copenhagen was fought on the 2nd of April 1801, when the Danes resisted bravely but lost their fleet.",
@@ -178,7 +518,33 @@
     "checker": null
   },
   {
-    "id": "ch6-021",
+    "id": "ch6-060",
+    "anchor": "But the might of England flush’d",
+    "layer": "vocab",
+    "note": "Flush’d: glowed with excitement and eagerness.",
+    "source": "Merriam-Webster, “flush”, https://www.merriam-webster.com/dictionary/flush",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-061",
+    "anchor": "And her van the fleeter rush’d",
+    "layer": "vocab",
+    "note": "Van: the front part of a fleet or army.",
+    "source": "Merriam-Webster, “van”, https://www.merriam-webster.com/dictionary/van",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-062",
+    "anchor": "“Hearts of oak!” our captains cried",
+    "layer": "vocab",
+    "note": "Hearts of oak: a phrase for brave sailors. Ships of oak and men of oak.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-063",
     "anchor": "From its adamantine lips",
     "layer": "vocab",
     "note": "Adamantine: unbreakable, hard as diamond. The “lips” are the cannon’s mouth.",
@@ -187,7 +553,32 @@
     "checker": null
   },
   {
-    "id": "ch6-022",
+    "id": "ch6-064",
+    "anchor": "Spread a death-shade round the ships",
+    "layer": "vocab",
+    "note": "Cannon smoke covers the ships like the shadow of a solar eclipse.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-065",
+    "anchor": "And the havoc did not slack",
+    "layer": "vocab",
+    "note": "Havoc: widespread destruction. Slack: grow less intense.",
+    "source": "Merriam-Webster, “havoc”, https://www.merriam-webster.com/dictionary/havoc",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-066",
+    "anchor": "As they strike the shatter’d sail",
+    "layer": "vocab",
+    "note": "To strike a sail or flag is to lower it as a sign of surrender.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-067",
     "anchor": "Or in conflagration pale",
     "layer": "vocab",
     "note": "Conflagration: a large destructive fire, here of burning ships.",
@@ -196,7 +587,25 @@
     "checker": null
   },
   {
-    "id": "ch6-023",
+    "id": "ch6-068",
+    "anchor": "And make submission meet",
+    "layer": "vocab",
+    "note": "Meet: fitting, proper. Nelson asks the Danes to yield in a fitting way.",
+    "source": "Merriam-Webster, “meet”, https://www.merriam-webster.com/dictionary/meet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-069",
+    "anchor": "Full many a fathom deep",
+    "layer": "vocab",
+    "note": "Fathom: a measure of water depth, six feet.",
+    "source": "Merriam-Webster, “fathom”, https://www.merriam-webster.com/dictionary/fathom",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-070",
     "anchor": "Elsinore!",
     "layer": "place",
     "note": "Elsinore is a Danish town on the narrowest part of the Sound, the strait between Denmark and Sweden.",
@@ -205,7 +614,25 @@
     "checker": null
   },
   {
-    "id": "ch6-024",
+    "id": "ch6-071",
+    "anchor": "With the gallant good Riou",
+    "layer": "history",
+    "note": "Captain Edward Riou led a squadron of frigates at Copenhagen in 1801, fighting beside Nelson’s division, and was killed there.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Riou, Edward”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Riou%2C_Edward",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-072",
+    "anchor": "And the mermaid’s song condoles",
+    "layer": "vocab",
+    "note": "Condoles: expresses sympathy with the grieving.",
+    "source": "Merriam-Webster, “condole”, https://www.merriam-webster.com/dictionary/condole",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-073",
     "anchor": "On Linden, when the sun was low",
     "layer": "history",
     "note": "The Battle of Hohenlinden was fought on 2 December 1800 near Munich. French troops under Moreau beat the Austrians. Hohen Linden means “high lime trees.”",
@@ -214,7 +641,94 @@
     "checker": null
   },
   {
-    "id": "ch6-025",
+    "id": "ch6-074",
+    "anchor": "All bloodless lay the untrodden snow",
+    "layer": "vocab",
+    "note": "The snow is white and untouched before the battle begins.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-075",
+    "anchor": "Commanding fires of death to light",
+    "layer": "vocab",
+    "note": "The drum calls the army to light its guns and torches.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-076",
+    "anchor": "Each horseman drew his battle-blade",
+    "layer": "vocab",
+    "note": "Blade: sword. Each horseman draws his sword for the coming battle.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-077",
+    "anchor": "And furious every charger neigh’d",
+    "layer": "vocab",
+    "note": "Charger: a horse trained for battle.",
+    "source": "Merriam-Webster, “charger”, https://www.merriam-webster.com/dictionary/charger",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-078",
+    "anchor": "To join the dreadful revelry",
+    "layer": "vocab",
+    "note": "Revelry: noisy merrymaking. The poet calls the battle a dreadful party.",
+    "source": "Merriam-Webster, “revelry”, https://www.merriam-webster.com/dictionary/revelry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-079",
+    "anchor": "Then shook the hills with thunder riven",
+    "layer": "vocab",
+    "note": "Riven: split apart. The hills are split with the thunder of guns.",
+    "source": "Merriam-Webster, “riven”, https://www.merriam-webster.com/dictionary/riven",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-080",
+    "anchor": "Far flash’d the red artillery",
+    "layer": "vocab",
+    "note": "Artillery: large guns. The cannon flash red in the dark.",
+    "source": "Merriam-Webster, “artillery”, https://www.merriam-webster.com/dictionary/artillery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-081",
+    "anchor": "Can pierce the war-clouds, rolling dun",
+    "layer": "vocab",
+    "note": "Dun: dull grayish-brown, the color of the battle smoke.",
+    "source": "Merriam-Webster, “dun”, https://www.merriam-webster.com/dictionary/dun",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-082",
+    "anchor": "Shout in their sulphurous canopy",
+    "layer": "vocab",
+    "note": "Sulphurous: smelling of sulfur, from burning gunpowder. Canopy: the overhead cover of smoke.",
+    "source": "Merriam-Webster, “sulfurous”, https://www.merriam-webster.com/dictionary/sulfurous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-083",
+    "anchor": "And charge with all thy chivalry",
+    "layer": "vocab",
+    "note": "Chivalry: mounted knights, here Bavarian horsemen.",
+    "source": "Merriam-Webster, “chivalry”, https://www.merriam-webster.com/dictionary/chivalry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-084",
     "anchor": "The snow shall be their winding-sheet",
     "layer": "vocab",
     "note": "Winding-sheet: the cloth wrapped around a dead body.",
@@ -223,7 +737,16 @@
     "checker": null
   },
   {
-    "id": "ch6-026",
+    "id": "ch6-085",
+    "anchor": "Shall be a soldier’s sepulchre",
+    "layer": "vocab",
+    "note": "Sepulchre: a tomb. Every patch of turf becomes a soldier’s grave.",
+    "source": "Merriam-Webster, “sepulchre”, https://www.merriam-webster.com/dictionary/sepulchre",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-086",
     "anchor": "When first the fiery mantled Sun",
     "layer": "vocab",
     "note": "Mantled: cloaked, covered as with a cloak.",
@@ -231,7 +754,33 @@
     "checker": null
   },
   {
-    "id": "ch6-027",
+    "id": "ch6-087",
+    "anchor": "His heavenly race began to run",
+    "layer": "vocab",
+    "note": "The sun runs a race across the sky, and his children the Seasons fly around the earth.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-088",
+    "anchor": "First, in green apparel dancing",
+    "layer": "vocab",
+    "note": "Apparel: clothing. Spring is dressed in green leaves.",
+    "source": "Merriam-Webster, “apparel”, https://www.merriam-webster.com/dictionary/apparel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-089",
+    "anchor": "Her bright-hair’d sire",
+    "layer": "vocab",
+    "note": "Sire: father, here the sun.",
+    "source": "Merriam-Webster, “sire”, https://www.merriam-webster.com/dictionary/sire",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-090",
     "anchor": "On Calpe’s olive-shaded steep",
     "layer": "place",
     "note": "Calpe is the old name for Gibraltar, the great rock at the southern tip of Spain, at the entrance to the Mediterranean.",
@@ -240,11 +789,197 @@
     "checker": null
   },
   {
-    "id": "ch6-028",
+    "id": "ch6-091",
+    "anchor": "Or India’s citron-cover’d isles",
+    "layer": "vocab",
+    "note": "Citron: a lemonlike fruit, here growing on warm islands.",
+    "source": "Merriam-Webster, “citron”, https://www.merriam-webster.com/dictionary/citron",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-092",
+    "anchor": "More remote and buxom-brown",
+    "layer": "vocab",
+    "note": "Buxom: plump and healthy, here full of vigor.",
+    "source": "Merriam-Webster, “buxom”, https://www.merriam-webster.com/dictionary/buxom",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-093",
+    "anchor": "A rich pomegranate gemm’d her crown",
+    "layer": "vocab",
+    "note": "The pomegranate is a fruit with many red seeds, ripe in autumn.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Pomegranate”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pomegranate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-094",
+    "anchor": "To hills that prop the polar star",
+    "layer": "vocab",
+    "note": "Winter flees to the far north, whose hills seem to hold up the pole star.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-095",
     "anchor": "Round the shore where loud Lofoden",
     "layer": "place",
     "note": "Lofoden is a group of islands off northwest Norway, where a great whirlpool, the Maelstrom, was said to swallow whales.",
     "source": "F. T. Palgrave, The Golden Treasury (1861), Palgrave’s Notes, Poem 256, https://www.gutenberg.org/ebooks/19221",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-096",
+    "anchor": "Round the hall where Runic Odin",
+    "layer": "allusion",
+    "note": "Odin was the chief god of the northern peoples, worshiped chiefly by warriors. The poem borrows his northern mythology for Winter’s hall.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Odin”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Odin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-097",
+    "anchor": "Deflowering Nature’s grassy robe",
+    "layer": "vocab",
+    "note": "Deflowering: stripping of flowers. Winter strips the earth of its flowers.",
+    "source": "Merriam-Webster, “deflower”, https://www.merriam-webster.com/dictionary/deflower",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-098",
+    "anchor": "The Lapland drum delights to hear",
+    "layer": "place",
+    "note": "Lapland is the far-northern region of Europe, here named for the cold of its winters.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Lapland”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lapland",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-099",
+    "anchor": "Thy horror-breathing agues cease to lend",
+    "layer": "vocab",
+    "note": "Agues: fevers with chills. Winter is asked to spare the poor.",
+    "source": "Merriam-Webster, “ague”, https://www.merriam-webster.com/dictionary/ague",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-100",
+    "anchor": "The sailor on his airy shrouds",
+    "layer": "vocab",
+    "note": "Shrouds: ropes that brace a ship’s mast.",
+    "source": "Merriam-Webster, “shroud”, https://www.merriam-webster.com/dictionary/shroud",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-101",
+    "anchor": "Star that bringest home the bee",
+    "layer": "vocab",
+    "note": "Bringest: brings. Old second-person verb form.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-102",
+    "anchor": "And sett’st the weary labourer free",
+    "layer": "vocab",
+    "note": "Sett’st: set, the old second-person verb form. The evening star ends the workday.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-103",
+    "anchor": "Whilst far-off lowing herds are heard",
+    "layer": "vocab",
+    "note": "Lowing: the deep sound cattle make.",
+    "source": "Merriam-Webster, “low”, https://www.merriam-webster.com/dictionary/low",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-104",
+    "anchor": "Their remembrancer in Heaven",
+    "layer": "vocab",
+    "note": "Remembrancer: one who reminds others of something.",
+    "source": "Merriam-Webster, “remembrancer”, https://www.merriam-webster.com/dictionary/remembrancer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-105",
+    "anchor": "Our bugles sang truce",
+    "layer": "vocab",
+    "note": "Truce: a pause in fighting.",
+    "source": "Merriam-Webster, “truce”, https://www.merriam-webster.com/dictionary/truce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-106",
+    "anchor": "And the sentinel stars set their watch in the sky",
+    "layer": "vocab",
+    "note": "Sentinel: a guard. The stars are pictured as guards on duty.",
+    "source": "Merriam-Webster, “sentinel”, https://www.merriam-webster.com/dictionary/sentinel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-107",
+    "anchor": "By the wolf-scaring faggot that guarded the slain",
+    "layer": "vocab",
+    "note": "Faggot: a bundle of sticks used as fuel for a fire.",
+    "source": "Merriam-Webster, “faggot”, https://www.merriam-webster.com/dictionary/faggot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-108",
+    "anchor": "Methought from the battle-field’s dreadful array",
+    "layer": "vocab",
+    "note": "Methought: it seemed to me.",
+    "source": "Merriam-Webster, “methinks”, https://www.merriam-webster.com/dictionary/methinks",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-109",
+    "anchor": "And fain was their war-broken soldier to stay",
+    "layer": "vocab",
+    "note": "Fain: gladly, willing. The soldier is glad to stay, but dawn ends the dream.",
+    "source": "Merriam-Webster, “fain”, https://www.merriam-webster.com/dictionary/fain",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-110",
+    "anchor": "The gladsome current of our youth",
+    "layer": "vocab",
+    "note": "Gladsome: cheerful and joyful, as the stream of youth is.",
+    "source": "Merriam-Webster, “gladsome”, https://www.merriam-webster.com/dictionary/gladsome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-111",
+    "anchor": "And life itself is vapid",
+    "layer": "vocab",
+    "note": "Vapid: dull, without interest or spirit.",
+    "source": "Merriam-Webster, “vapid”, https://www.merriam-webster.com/dictionary/vapid",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch6-112",
+    "anchor": "Indemnifying fleetness",
+    "layer": "vocab",
+    "note": "Indemnifying: making up for a loss. The speed of old age pays back the slow years of youth.",
+    "source": "Merriam-Webster, “indemnify”, https://www.merriam-webster.com/dictionary/indemnify",
     "status": "draft",
     "checker": null
   }

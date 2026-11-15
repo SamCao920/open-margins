@@ -1,6 +1,24 @@
 [
   {
     "id": "ch5-001",
+    "anchor": "I have had playmates, I have had companions",
+    "layer": "vocab",
+    "note": "Companions: people who keep one company.",
+    "source": "Merriam-Webster, “companion”, https://www.merriam-webster.com/dictionary/companion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-002",
+    "anchor": "my joyful school-days",
+    "layer": "history",
+    "note": "Lamb attended Christ’s Hospital from 1782 to 1789 and there met Coleridge, whose friendship lasted all their lives.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Lamb, Charles”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lamb%2C_Charles",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-003",
     "anchor": "I have been carousing",
     "layer": "vocab",
     "note": "Carousing: drinking and making merry in a noisy group.",
@@ -9,7 +27,16 @@
     "checker": null
   },
   {
-    "id": "ch5-002",
+    "id": "ch5-004",
+    "anchor": "Drinking late, sitting late",
+    "layer": "vocab",
+    "note": "Carousing means noisy, hearty drinking with friends.",
+    "source": "Merriam-Webster, “carouse”, https://www.merriam-webster.com/dictionary/carouse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-005",
     "anchor": "with my bosom cronies",
     "layer": "vocab",
     "note": "Cronies: close friends of long standing.",
@@ -18,7 +45,23 @@
     "checker": null
   },
   {
-    "id": "ch5-003",
+    "id": "ch5-006",
+    "anchor": "I loved a Love once, fairest among women",
+    "layer": "vocab",
+    "note": "Love here is capitalized as a name or title for the woman he loved.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-007",
+    "anchor": "Closed are her doors on me",
+    "layer": "vocab",
+    "note": "The woman he loved has shut him out, ending their friendship.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-008",
     "anchor": "Like an ingrate, I left my friend",
     "layer": "vocab",
     "note": "Ingrate: an ungrateful person, one who does not give thanks.",
@@ -27,7 +70,25 @@
     "checker": null
   },
   {
-    "id": "ch5-004",
+    "id": "ch5-009",
+    "anchor": "Left him, to muse on the old familiar faces",
+    "layer": "vocab",
+    "note": "Muse: to think deeply and quietly.",
+    "source": "Merriam-Webster, “muse”, https://www.merriam-webster.com/dictionary/muse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-010",
+    "anchor": "Ghost-like I paced round the haunts",
+    "layer": "vocab",
+    "note": "Haunts: places one often visits, like childhood scenes.",
+    "source": "Merriam-Webster, “haunt”, https://www.merriam-webster.com/dictionary/haunt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-011",
     "anchor": "Earth seem’d a desert I was bound to traverse",
     "layer": "vocab",
     "note": "Traverse: to travel across, to pass over.",
@@ -36,7 +97,41 @@
     "checker": null
   },
   {
-    "id": "ch5-005",
+    "id": "ch5-012",
+    "anchor": "Why wert not thou born in my father’s dwelling?",
+    "layer": "vocab",
+    "note": "Wert: were. He wishes his friend had been born his brother.",
+    "source": "Merriam-Webster, “wert”, https://www.merriam-webster.com/dictionary/wert",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-013",
+    "anchor": "When maidens such as Hester die",
+    "layer": "vocab",
+    "note": "Maidens: young unmarried women. Hester’s death is named in the first line.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-014",
+    "anchor": "Their place ye may not well supply",
+    "layer": "vocab",
+    "note": "Supply: to fill, to take the place of.",
+    "source": "Merriam-Webster, “supply”, https://www.merriam-webster.com/dictionary/supply",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-015",
+    "anchor": "To think upon the wormy bed",
+    "layer": "vocab",
+    "note": "The grave, where worms feed on the body.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-016",
     "anchor": "A springy motion in her gait",
     "layer": "vocab",
     "note": "Gait: a manner of walking.",
@@ -45,7 +140,34 @@
     "checker": null
   },
   {
-    "id": "ch5-006",
+    "id": "ch5-017",
+    "anchor": "A rising step, did indicate",
+    "layer": "vocab",
+    "note": "Indicate: to show or point to.",
+    "source": "Merriam-Webster, “indicate”, https://www.merriam-webster.com/dictionary/indicate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-018",
+    "anchor": "a joy to that allied",
+    "layer": "vocab",
+    "note": "Allied: closely related, joined. Her joy was near kin to pride.",
+    "source": "Merriam-Webster, “allied”, https://www.merriam-webster.com/dictionary/allied",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-019",
+    "anchor": "She did inherit",
+    "layer": "vocab",
+    "note": "Inherit: to receive from one’s nature or family.",
+    "source": "Merriam-Webster, “inherit”, https://www.merriam-webster.com/dictionary/inherit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-020",
     "anchor": "Her parents held the Quaker rule",
     "layer": "history",
     "note": "Quakers, or the Society of Friends, are a Christian group whose meetings are held in silence. Lamb says their rule “cools the human feeling.”",
@@ -54,7 +176,41 @@
     "checker": null
   },
   {
-    "id": "ch5-007",
+    "id": "ch5-021",
+    "anchor": "Which doth the human feeling cool",
+    "layer": "vocab",
+    "note": "Lamb says the Quaker rule of plain living cooled natural feeling.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-022",
+    "anchor": "But she was train’d in Nature’s school",
+    "layer": "vocab",
+    "note": "Trained by nature, not by her sober family.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-023",
+    "anchor": "A waking eye, a prying mind",
+    "layer": "vocab",
+    "note": "Prying: eagerly curious, always looking into things.",
+    "source": "Merriam-Webster, “prying”, https://www.merriam-webster.com/dictionary/prying",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-024",
+    "anchor": "A hawk’s keen sight ye cannot blind",
+    "layer": "vocab",
+    "note": "Keen: sharp and quick. Hester sees as clearly as a hawk.",
+    "source": "Merriam-Webster, “keen”, https://www.merriam-webster.com/dictionary/keen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-025",
     "anchor": "My sprightly neighbour!",
     "layer": "vocab",
     "note": "Sprightly: lively, full of spirit.",
@@ -63,7 +219,7 @@
     "checker": null
   },
   {
-    "id": "ch5-008",
+    "id": "ch5-026",
     "anchor": "as heretofore",
     "layer": "vocab",
     "note": "Heretofore: before this time, up to now.",
@@ -72,7 +228,49 @@
     "checker": null
   },
   {
-    "id": "ch5-009",
+    "id": "ch5-027",
+    "anchor": "A sweet fore-warning?",
+    "layer": "vocab",
+    "note": "Fore-warning: a sign given in advance.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-028",
+    "anchor": "I saw where in the shroud did lurk",
+    "layer": "vocab",
+    "note": "Lurk: to lie hidden. The baby is hidden in her burial cloth.",
+    "source": "Merriam-Webster, “lurk”, https://www.merriam-webster.com/dictionary/lurk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-029",
+    "anchor": "A flow’ret crushed in the bud",
+    "layer": "vocab",
+    "note": "Flow’ret: a small flower, here one crushed before it opens.",
+    "source": "Merriam-Webster, “floweret”, https://www.merriam-webster.com/dictionary/floweret",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-030",
+    "anchor": "A nameless piece of Babyhood",
+    "layer": "vocab",
+    "note": "The baby died before she was named.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-031",
+    "anchor": "Was in her cradle-coffin lying",
+    "layer": "vocab",
+    "note": "The coffin is small and cradle-like.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-032",
     "anchor": "Extinct, with scarce the sense of dying",
     "layer": "vocab",
     "note": "Extinct: put out, no longer living or burning.",
@@ -81,7 +279,42 @@
     "checker": null
   },
   {
-    "id": "ch5-010",
+    "id": "ch5-033",
+    "anchor": "So soon to exchange the imprisoning womb",
+    "layer": "vocab",
+    "note": "Womb: the organ where a child grows before birth.",
+    "source": "Merriam-Webster, “womb”, https://www.merriam-webster.com/dictionary/womb",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-034",
+    "anchor": "Through glasses of mortality",
+    "layer": "vocab",
+    "note": "Mortality: the state of being subject to death. The eye is a glass through which one sees life.",
+    "source": "Merriam-Webster, “mortality”, https://www.merriam-webster.com/dictionary/mortality",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-035",
+    "anchor": "Riddle of destiny, who can show",
+    "layer": "vocab",
+    "note": "Destiny: a person’s fixed fate. Lamb asks what her short life was for.",
+    "source": "Merriam-Webster, “destiny”, https://www.merriam-webster.com/dictionary/destiny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-036",
+    "anchor": "Shall we say, that Nature blind",
+    "layer": "vocab",
+    "note": "Lamb wonders if Nature simply stopped, changed her mind, or ran out of strength.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-037",
     "anchor": "Or lack’d she the Promethean fire",
     "layer": "allusion",
     "note": "In Greek myth Prometheus stole fire from heaven and gave it to humans. “Promethean fire” here means the power to give life.",
@@ -90,7 +323,7 @@
     "checker": null
   },
   {
-    "id": "ch5-011",
+    "id": "ch5-038",
     "anchor": "That should thy little limbs have quicken’d",
     "layer": "vocab",
     "note": "Quicken’d: given life to, brought to life.",
@@ -99,7 +332,7 @@
     "checker": null
   },
   {
-    "id": "ch5-012",
+    "id": "ch5-039",
     "anchor": "Or did the stern-eyed Fate descry",
     "layer": "vocab",
     "note": "Descry: to catch sight of, to see at a distance.",
@@ -108,7 +341,7 @@
     "checker": null
   },
   {
-    "id": "ch5-013",
+    "id": "ch5-040",
     "anchor": "Thenceforward drags a maimed life?",
     "layer": "vocab",
     "note": "Maimed: crippled, wounded so as to be disabled.",
@@ -117,7 +350,16 @@
     "checker": null
   },
   {
-    "id": "ch5-014",
+    "id": "ch5-041",
+    "anchor": "The economy of Heaven is dark",
+    "layer": "vocab",
+    "note": "Economy: the way something is ordered or managed. Heaven’s plan is hidden from us.",
+    "source": "Merriam-Webster, “economy”, https://www.merriam-webster.com/dictionary/economy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-042",
     "anchor": "More brief than fly ephemeral",
     "layer": "vocab",
     "note": "Ephemeral: lasting a very short time. The mayfly lives for about a day.",
@@ -126,7 +368,24 @@
     "checker": null
   },
   {
-    "id": "ch5-015",
+    "id": "ch5-043",
+    "anchor": "shrivell’d crones",
+    "layer": "vocab",
+    "note": "Crones: withered old women, who live long while babies die.",
+    "source": "Merriam-Webster, “crone”, https://www.merriam-webster.com/dictionary/crone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-044",
+    "anchor": "Stiffen with age to stocks and stones",
+    "layer": "vocab",
+    "note": "Stocks and stones: lifeless things, as the old turn stiff.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-045",
     "anchor": "And crabbed use the conscience sears",
     "layer": "vocab",
     "note": "Crabbed: cross and bitter. Sears: burns, makes hard and unfeeling.",
@@ -135,7 +394,7 @@
     "checker": null
   },
   {
-    "id": "ch5-016",
+    "id": "ch5-046",
     "anchor": "Mother’s prattle, mother’s kiss",
     "layer": "vocab",
     "note": "Prattle: simple, childish talk, baby chatter.",
@@ -144,7 +403,7 @@
     "checker": null
   },
   {
-    "id": "ch5-017",
+    "id": "ch5-047",
     "anchor": "See them laid upon the hearse",
     "layer": "vocab",
     "note": "Hearse: a vehicle that carries a coffin to the grave.",
@@ -153,7 +412,16 @@
     "checker": null
   },
   {
-    "id": "ch5-018",
+    "id": "ch5-048",
+    "anchor": "Pictured trophies to their grave",
+    "layer": "vocab",
+    "note": "Trophies: carvings or emblems placed on a monument.",
+    "source": "Merriam-Webster, “trophy”, https://www.merriam-webster.com/dictionary/trophy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch5-049",
     "anchor": "And we, churls, to thee deny",
     "layer": "vocab",
     "note": "Churls: rude, low-born men, common people.",

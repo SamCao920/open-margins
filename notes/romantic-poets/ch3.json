@@ -1,6 +1,15 @@
 [
   {
     "id": "ch3-001",
+    "anchor": "Whatever stirs this mortal frame",
+    "layer": "vocab",
+    "note": "Frame: the body. Mortal means subject to death.",
+    "source": "Merriam-Webster, “frame”, https://www.merriam-webster.com/dictionary/frame",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-002",
     "anchor": "All are but ministers of Love",
     "layer": "vocab",
     "note": "Ministers: servants, those who carry out another’s will.",
@@ -9,7 +18,25 @@
     "checker": null
   },
   {
-    "id": "ch3-002",
+    "id": "ch3-003",
+    "anchor": "Live o’er again that happy hour",
+    "layer": "vocab",
+    "note": "O’er: over. Poets shorten the word to fit the meter.",
+    "source": "Merriam-Webster, “o'er”, https://www.merriam-webster.com/dictionary/o'er",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-004",
+    "anchor": "When midway on the mount I lay",
+    "layer": "vocab",
+    "note": "Mount: a hill or small mountain, here the slope where the ruined tower stands.",
+    "source": "Merriam-Webster, “mount”, https://www.merriam-webster.com/dictionary/mount",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-005",
     "anchor": "Beside the ruin’d tower",
     "layer": "vocab",
     "note": "Ruin’d: fallen into ruins, in broken pieces.",
@@ -17,7 +44,16 @@
     "checker": null
   },
   {
-    "id": "ch3-003",
+    "id": "ch3-006",
+    "anchor": "The moonshine stealing o’er the scene",
+    "layer": "vocab",
+    "note": "Stealing: moving gently and almost unnoticed.",
+    "source": "Merriam-Webster, “steal”, https://www.merriam-webster.com/dictionary/steal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-007",
     "anchor": "She lean’d against the armed man",
     "layer": "vocab",
     "note": "Armed man: a stone statue of a knight in armor on a tomb.",
@@ -25,7 +61,24 @@
     "checker": null
   },
   {
-    "id": "ch3-004",
+    "id": "ch3-008",
+    "anchor": "Few sorrows hath she of her own",
+    "layer": "vocab",
+    "note": "Hath: has. An old form used to give the poem a ballad flavor.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-009",
+    "anchor": "I play’d a soft and doleful air",
+    "layer": "vocab",
+    "note": "Doleful: full of sorrow. Air: a tune.",
+    "source": "Merriam-Webster, “doleful”, https://www.merriam-webster.com/dictionary/doleful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-010",
     "anchor": "I sang an old and moving story",
     "layer": "vocab",
     "note": "Moving: stirring the feelings, touching.",
@@ -33,7 +86,7 @@
     "checker": null
   },
   {
-    "id": "ch3-005",
+    "id": "ch3-011",
     "anchor": "An old rude song",
     "layer": "vocab",
     "note": "Rude: simple and rough, not polished.",
@@ -42,7 +95,7 @@
     "checker": null
   },
   {
-    "id": "ch3-006",
+    "id": "ch3-012",
     "anchor": "That ruin wild and hoary",
     "layer": "vocab",
     "note": "Hoary: gray or white with age, very old.",
@@ -51,7 +104,7 @@
     "checker": null
   },
   {
-    "id": "ch3-007",
+    "id": "ch3-013",
     "anchor": "ten long years he woo’d",
     "layer": "vocab",
     "note": "Woo’d: courted, tried to win the love of.",
@@ -60,7 +113,69 @@
     "checker": null
   },
   {
-    "id": "ch3-008",
+    "id": "ch3-014",
+    "anchor": "I told her how he pined",
+    "layer": "vocab",
+    "note": "Pined: wasted away with longing.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-015",
+    "anchor": "That crazed that bold and lovely Knight",
+    "layer": "vocab",
+    "note": "Crazed: driven mad, deranged by his grief and rejection.",
+    "source": "Merriam-Webster, “craze”, https://www.merriam-webster.com/dictionary/craze",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-016",
+    "anchor": "And sometimes from the darksome shade",
+    "layer": "vocab",
+    "note": "Darksome: dark and gloomy, a shadowy place in the woods.",
+    "source": "Merriam-Webster, “darksome”, https://www.merriam-webster.com/dictionary/darksome",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-017",
+    "anchor": "In green and sunny glade",
+    "layer": "vocab",
+    "note": "Glade: an open space in a forest.",
+    "source": "Merriam-Webster, “glade”, https://www.merriam-webster.com/dictionary/glade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-018",
+    "anchor": "And that he knew it was a Fiend",
+    "layer": "vocab",
+    "note": "Fiend: a devil or evil spirit.",
+    "source": "Merriam-Webster, “fiend”, https://www.merriam-webster.com/dictionary/fiend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-019",
+    "anchor": "And saved from outrage worse than death",
+    "layer": "vocab",
+    "note": "Outrage: here, a violent assault. The phrase is a Victorian euphemism for rape.",
+    "source": "Merriam-Webster, “outrage”, https://www.merriam-webster.com/dictionary/outrage",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-020",
+    "anchor": "And how she tended him in vain",
+    "layer": "vocab",
+    "note": "Tended: nursed and looked after, as she cared for the sick knight.",
+    "source": "Merriam-Webster, “tend”, https://www.merriam-webster.com/dictionary/tend",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-021",
     "anchor": "And ever strove to expiate",
     "layer": "vocab",
     "note": "Expiate: to make up for a wrong by suffering or doing good.",
@@ -69,7 +184,15 @@
     "checker": null
   },
   {
-    "id": "ch3-009",
+    "id": "ch3-022",
+    "anchor": "A dying man he lay",
+    "layer": "vocab",
+    "note": "The knight is lying near death on the yellow leaves of autumn.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-023",
     "anchor": "That tenderest strain of all the ditty",
     "layer": "vocab",
     "note": "Strain: a stretch of music. Ditty: a short simple song.",
@@ -78,7 +201,7 @@
     "checker": null
   },
   {
-    "id": "ch3-010",
+    "id": "ch3-024",
     "anchor": "Had thrill’d my guileless Genevieve",
     "layer": "vocab",
     "note": "Guileless: honest, without any trickery.",
@@ -87,7 +210,7 @@
     "checker": null
   },
   {
-    "id": "ch3-011",
+    "id": "ch3-025",
     "anchor": "The music and the doleful tale",
     "layer": "vocab",
     "note": "Doleful: sad and mournful, full of grief.",
@@ -96,7 +219,7 @@
     "checker": null
   },
   {
-    "id": "ch3-012",
+    "id": "ch3-026",
     "anchor": "The rich and balmy eve",
     "layer": "vocab",
     "note": "Balmy: soft, mild, and soothing. Eve: evening.",
@@ -105,7 +228,16 @@
     "checker": null
   },
   {
-    "id": "ch3-013",
+    "id": "ch3-027",
+    "anchor": "And gentle wishes long subdued",
+    "layer": "vocab",
+    "note": "Subdued: held back, kept down, as wishes she long hid.",
+    "source": "Merriam-Webster, “subdue”, https://www.merriam-webster.com/dictionary/subdue",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-028",
     "anchor": "Then suddenly, with timorous eye",
     "layer": "vocab",
     "note": "Timorous: shy and fearful, easily frightened.",
@@ -114,7 +246,16 @@
     "checker": null
   },
   {
-    "id": "ch3-014",
+    "id": "ch3-029",
+    "anchor": "’Twas partly love, and partly fear",
+    "layer": "vocab",
+    "note": "’Twas: it was, a contraction poets use to keep the meter.",
+    "source": "Merriam-Webster, “'twas”, https://www.merriam-webster.com/dictionary/'twas",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-030",
     "anchor": "And partly ’twas a bashful art",
     "layer": "vocab",
     "note": "Bashful: shy and easily embarrassed.",
@@ -123,7 +264,25 @@
     "checker": null
   },
   {
-    "id": "ch3-015",
+    "id": "ch3-031",
+    "anchor": "My bright and beauteous Bride",
+    "layer": "vocab",
+    "note": "Beauteous: beautiful, an old poetic form of the word.",
+    "source": "Merriam-Webster, “beauteous”, https://www.merriam-webster.com/dictionary/beauteous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-032",
+    "anchor": "Both were mine! Life went a-maying",
+    "layer": "allusion",
+    "note": "Going a-Maying: in medieval and Tudor England, people rose at dawn on May Day and went to the woods for branches and flowers. Here it means youth spent in joy.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “May”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/May",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-033",
     "anchor": "With Nature, Hope, and Poesy",
     "layer": "vocab",
     "note": "Poesy: poetry, the art of writing verse.",
@@ -132,7 +291,25 @@
     "checker": null
   },
   {
-    "id": "ch3-016",
+    "id": "ch3-034",
+    "anchor": "This breathing house not built with hands",
+    "layer": "allusion",
+    "note": "A biblical image: Paul calls the body an earthly house that will be dissolved, and the soul’s heavenly home a house “not made with hands.”",
+    "source": "The Bible (King James Version), 2 Corinthians 5:1, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-035",
+    "anchor": "This body that does me grievous wrong",
+    "layer": "vocab",
+    "note": "Grievous: causing grief or pain. The old poet blames his aging body.",
+    "source": "Merriam-Webster, “grievous”, https://www.merriam-webster.com/dictionary/grievous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-036",
     "anchor": "O’er aery cliffs and glittering sands",
     "layer": "vocab",
     "note": "Aery: airy, high up, like an eagle’s nest.",
@@ -140,7 +317,7 @@
     "checker": null
   },
   {
-    "id": "ch3-017",
+    "id": "ch3-037",
     "anchor": "Like those trim skiffs, unknown of yore",
     "layer": "vocab",
     "note": "Skiffs: small light boats. Unknown of yore: not known in the past.",
@@ -149,7 +326,16 @@
     "checker": null
   },
   {
-    "id": "ch3-018",
+    "id": "ch3-038",
+    "anchor": "Nought cared this body for wind or weather",
+    "layer": "vocab",
+    "note": "Nought: nothing. The body then cared nothing for weather.",
+    "source": "Merriam-Webster, “nought”, https://www.merriam-webster.com/dictionary/nought",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-039",
     "anchor": "Ere I was old?",
     "layer": "vocab",
     "note": "Ere: before (an old word).",
@@ -158,7 +344,7 @@
     "checker": null
   },
   {
-    "id": "ch3-019",
+    "id": "ch3-040",
     "anchor": "I’ll think it but a fond conceit",
     "layer": "vocab",
     "note": "Conceit: a fanciful notion, an idle idea.",
@@ -167,7 +353,7 @@
     "checker": null
   },
   {
-    "id": "ch3-020",
+    "id": "ch3-041",
     "anchor": "Thy vesper-bell hath not yet toll’d",
     "layer": "vocab",
     "note": "Vesper-bell: the bell that calls people to evening prayer.",
@@ -176,7 +362,7 @@
     "checker": null
   },
   {
-    "id": "ch3-021",
+    "id": "ch3-042",
     "anchor": "And thou wert aye a masker bold",
     "layer": "vocab",
     "note": "Aye: always. Masker: one who wears a disguise.",
@@ -185,7 +371,41 @@
     "checker": null
   },
   {
-    "id": "ch3-022",
+    "id": "ch3-043",
+    "anchor": "What strange disguise hast now put on",
+    "layer": "vocab",
+    "note": "Hast: have. The poet asks Youth what disguise he now wears.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-044",
+    "anchor": "I see these locks in silvery slips",
+    "layer": "vocab",
+    "note": "Locks: hair. Slips: thin strands or locks.",
+    "source": "Merriam-Webster, “lock”, https://www.merriam-webster.com/dictionary/lock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-045",
+    "anchor": "Life is but Thought",
+    "layer": "vocab",
+    "note": "A line of idealist philosophy: if life is only thought, then he can keep youth by thinking young.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-046",
+    "anchor": "With oft and tedious taking-leave",
+    "layer": "vocab",
+    "note": "Oft: often. Tedious: tiresome, long and wearisome.",
+    "source": "Merriam-Webster, “oft”, https://www.merriam-webster.com/dictionary/oft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch3-047",
     "anchor": "Like some poor nigh-related guest",
     "layer": "vocab",
     "note": "Nigh-related: closely related, a near relative.",

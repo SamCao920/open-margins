@@ -1,6 +1,23 @@
 [
   {
     "id": "ch7-001",
+    "anchor": "How sweet the answer Echo makes",
+    "layer": "allusion",
+    "note": "In Greek myth Echo was a mountain nymph who could only repeat the last words spoken to her. Moore makes her the voice that answers music at night.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Echo”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Echo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-002",
+    "anchor": "To Music at night",
+    "layer": "vocab",
+    "note": "Music is capitalized as if it were a person, answered by Echo.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-003",
     "anchor": "When, roused by lute or horn, she wakes",
     "layer": "vocab",
     "note": "Lute: an old stringed instrument with a pear-shaped body, played by plucking.",
@@ -9,7 +26,93 @@
     "checker": null
   },
   {
-    "id": "ch7-002",
+    "id": "ch7-004",
+    "anchor": "And far away o’er lawns and lakes",
+    "layer": "vocab",
+    "note": "Lawns: stretches of open grassland, here part of the night landscape.",
+    "source": "Merriam-Webster, “lawn”, https://www.merriam-webster.com/dictionary/lawn",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-005",
+    "anchor": "Yet Love hath echoes truer far",
+    "layer": "vocab",
+    "note": "Hath: has. Love’s echo is the answering sigh of the beloved.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-006",
+    "anchor": "Of horn or lute or soft guitar",
+    "layer": "vocab",
+    "note": "The three instruments whose songs are repeated by echoes.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-007",
+    "anchor": "’Tis when the sigh,—in youth sincere",
+    "layer": "vocab",
+    "note": "Sincere: honest, meant in earnest.",
+    "source": "Merriam-Webster, “sincere”, https://www.merriam-webster.com/dictionary/sincere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-008",
+    "anchor": "The sigh that’s breathed for one to hear",
+    "layer": "vocab",
+    "note": "The only true echo is when the loved one breathes the sigh back.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-009",
+    "anchor": "At the mid hour of night, when stars are weeping",
+    "layer": "vocab",
+    "note": "The stars are pictured as weeping, perhaps as dew falls in the night.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-010",
+    "anchor": "To the lone vale we loved",
+    "layer": "vocab",
+    "note": "Vale: a valley. Lone: solitary.",
+    "source": "Merriam-Webster, “vale”, https://www.merriam-webster.com/dictionary/vale",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-011",
+    "anchor": "To revisit past scenes of delight",
+    "layer": "vocab",
+    "note": "Revisit: to visit again. The speaker hopes a spirit might.",
+    "source": "Merriam-Webster, “revisit”, https://www.merriam-webster.com/dictionary/revisit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-012",
+    "anchor": "Then I sing the wild song it once was rapture to hear",
+    "layer": "vocab",
+    "note": "Rapture: a state of great joy.",
+    "source": "Merriam-Webster, “rapture”, https://www.merriam-webster.com/dictionary/rapture",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-013",
+    "anchor": "When our voices, commingling, breathed like one on the ear",
+    "layer": "vocab",
+    "note": "Commingling: blending together. Their two voices once sounded as one.",
+    "source": "Merriam-Webster, “commingle”, https://www.merriam-webster.com/dictionary/commingle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-014",
     "anchor": "my sad orison rolls",
     "layer": "vocab",
     "note": "Orison: a prayer, a spoken plea to God.",
@@ -18,7 +121,25 @@
     "checker": null
   },
   {
-    "id": "ch7-003",
+    "id": "ch7-015",
+    "anchor": "When he who adores thee has left but the name",
+    "layer": "vocab",
+    "note": "Adores: loves deeply, worships. The speaker is the one who adores his country.",
+    "source": "Merriam-Webster, “adore”, https://www.merriam-webster.com/dictionary/adore",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-016",
+    "anchor": "Of a life that for thee was resign’d",
+    "layer": "vocab",
+    "note": "Resign’d: given up. The speaker has given his life for his country.",
+    "source": "Merriam-Webster, “resign”, https://www.merriam-webster.com/dictionary/resign",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-017",
     "anchor": "Thy tears shall efface their decree",
     "layer": "vocab",
     "note": "Efface: to rub out, to wipe away.",
@@ -27,7 +148,40 @@
     "checker": null
   },
   {
-    "id": "ch7-004",
+    "id": "ch7-018",
+    "anchor": "Every thought of my reason was thine",
+    "layer": "vocab",
+    "note": "Reason: his thinking mind. All of it was devoted to the beloved.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-019",
+    "anchor": "Is the pride of thus dying for thee",
+    "layer": "vocab",
+    "note": "The title’s Latin, pro patria mori, means “to die for one’s country.” The beloved “thee” is the country.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-020",
+    "anchor": "As slow our ship her foamy track",
+    "layer": "vocab",
+    "note": "Track: the path of foam that a ship leaves behind it.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-021",
+    "anchor": "Against the wind was cleaving",
+    "layer": "vocab",
+    "note": "Cleaving: cutting through. The ship cuts into the headwind.",
+    "source": "Merriam-Webster, “cleave”, https://www.merriam-webster.com/dictionary/cleave",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-022",
     "anchor": "Her trembling pennant still look’d back",
     "layer": "vocab",
     "note": "Pennant: a long, narrow flag flown on a ship.",
@@ -36,7 +190,7 @@
     "checker": null
   },
   {
-    "id": "ch7-005",
+    "id": "ch7-023",
     "anchor": "So loth we part from all we love",
     "layer": "vocab",
     "note": "Loth: unwilling, reluctant, not wanting to do it.",
@@ -45,7 +199,60 @@
     "checker": null
   },
   {
-    "id": "ch7-006",
+    "id": "ch7-024",
+    "anchor": "When, round the bowl, of vanish’d years",
+    "layer": "vocab",
+    "note": "The bowl is a drinking bowl, around which friends gather to talk of the past.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-025",
+    "anchor": "Each early tie that twined us",
+    "layer": "vocab",
+    "note": "Tie: a bond, here of friendship or love. Twined: wound together.",
+    "source": "Merriam-Webster, “twine”, https://www.merriam-webster.com/dictionary/twine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-026",
+    "anchor": "Where all looks flowery wild and sweet",
+    "layer": "vocab",
+    "note": "Flowery: full of flowers. Travelers find lovely scenes abroad.",
+    "source": "Merriam-Webster, “flowery”, https://www.merriam-webster.com/dictionary/flowery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-027",
+    "anchor": "If Heaven had but assign’d us",
+    "layer": "vocab",
+    "note": "Assign’d: allotted by fate. Heaven might have given them a home there.",
+    "source": "Merriam-Webster, “assign”, https://www.merriam-webster.com/dictionary/assign",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-028",
+    "anchor": "As travellers oft look back at eve",
+    "layer": "vocab",
+    "note": "Oft: often. Eve: evening. Travelers look back at the fading light.",
+    "source": "Merriam-Webster, “oft”, https://www.merriam-webster.com/dictionary/oft",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-029",
+    "anchor": "To gloom hath near consign’d us",
+    "layer": "vocab",
+    "note": "Consign’d: handed over, here to sadness.",
+    "source": "Merriam-Webster, “consign”, https://www.merriam-webster.com/dictionary/consign",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-030",
     "anchor": "Oft, in the stilly night",
     "layer": "vocab",
     "note": "Stilly: quiet and still, without a sound.",
@@ -54,11 +261,37 @@
     "checker": null
   },
   {
-    "id": "ch7-007",
+    "id": "ch7-031",
     "anchor": "Ere slumber’s chain has bound me, Fond Memory",
     "layer": "vocab",
     "note": "Ere: before. Slumber: sleep. Both are old poetic words.",
     "source": "Merriam-Webster, “ere”, https://www.merriam-webster.com/dictionary/ere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-032",
+    "anchor": "Like leaves in wintry weather",
+    "layer": "vocab",
+    "note": "The friends have fallen away as leaves drop in winter.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-033",
+    "anchor": "Some banquet-hall deserted",
+    "layer": "vocab",
+    "note": "Banquet-hall: a large hall for feasts, here now empty.",
+    "source": "Merriam-Webster, “banquet”, https://www.merriam-webster.com/dictionary/banquet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch7-034",
+    "anchor": "Whose garlands dead",
+    "layer": "vocab",
+    "note": "Garlands: wreaths of flowers hung for a feast. They are now withered.",
+    "source": "Merriam-Webster, “garland”, https://www.merriam-webster.com/dictionary/garland",
     "status": "draft",
     "checker": null
   }

@@ -79,7 +79,7 @@ Good sources: Merriam-Webster or the OED for words; encyclopedias, scholarly edi
 *Heart of Darkness*: 605 draft notes (Part I 306, Part II 161, Part III 138), none verified by a person yet.
 
 *Siddhartha*: 312 draft notes across 12 chapters, none verified by a person yet.
-*The Romantic Poets*: 501 draft notes across 12 poets, none verified by a person yet.
+*The Romantic Poets*: 732 draft notes across 12 poets, none verified by a person yet.
 
 *Bartleby, the Scrivener*: 306 draft notes across 6 parts, none verified by a person yet.
 
