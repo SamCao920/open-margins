@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Library · Open Margins</title>
+<meta name="description" content="Every annotated edition in Open Margins: novels, stories, and poetry, each with notes on hard words, places, and references.">
+<link rel="icon" href="brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="brand/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
+<script src="prefs.js?v=dev"></script>
+<script src="books.js?v=dev"></script>
+<link rel="stylesheet" href="style.css?v=dev">
+</head>
+<body>
+<header class="bar">
+  <div class="bar-inner">
+    <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Open Margins</a>
+    <nav class="running" aria-label="Breadcrumb"><span>The Library</span></nav>
+    <span class="bar-spacer"></span>
+    <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
+  </div>
+  <div class="rule-double"></div>
+</header>
+<main class="page page-wide">
+  <header class="lib-head">
+    <h1>The Library</h1>
+    <p class="by">Every edition, with its notes. Pick one to open its contents.</p>
+    <div class="lib-filters" role="group" aria-label="Filter the library">
+      <button type="button" class="lib-filter" data-filter="all" aria-pressed="true">All</button>
+      <button type="button" class="lib-filter" data-filter="Prose" aria-pressed="false">Prose</button>
+      <button type="button" class="lib-filter" data-filter="Poetry" aria-pressed="false">Poetry</button>
+    </div>
+  </header>
+  <ul class="lib-grid" id="lib-grid"></ul>
+  <noscript><p><a href="book.html?book=lord-jim">Lord Jim</a> · <a href="book.html?book=heart-of-darkness">Heart of Darkness</a> · <a href="book.html?book=ivan-ilyich">The Death of Ivan Ilyich</a> · <a href="book.html?book=bartleby">Bartleby</a> · <a href="book.html?book=siddhartha">Siddhartha</a> · <a href="book.html?book=romantic-poets">The Romantic Poets</a></p></noscript>
+  <p class="lib-foot">Notes are drafts, open under CC BY 4.0. More books are in preparation.</p>
+</main>
+<script src="library.js?v=dev"></script>
+<script>
+(function () {
+  const grid = document.getElementById('lib-grid');
+  const btns = document.querySelectorAll('.lib-filter');
+  function show(f) {
+    OMLIB.renderGrid(grid, f);
+    btns.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.filter === f)));
+  }
+  btns.forEach(b => b.addEventListener('click', () => show(b.dataset.filter)));
+  show('all');
+})();
+</script>
+</body>
+</html>

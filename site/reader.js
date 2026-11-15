@@ -30,6 +30,7 @@
   const book = BOOKS[bookId];
   if (book.verse) document.body.classList.add('verse');
   const ch = Math.min(book.chapters, Math.max(1, parseInt(params.get('ch'), 10) || 1));
+  try { localStorage.setItem('scholia.last', JSON.stringify({ book: bookId, ch: ch })); } catch (e) { /* ignore */ }
   const pad = String(ch).padStart(2, '0');
 
   const readerEl = document.getElementById('reader');

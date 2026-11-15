@@ -10,6 +10,7 @@
 <link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
 <script src="prefs.js?v=dev"></script>
 <script src="books.js?v=dev"></script>
+<script src="library.js?v=dev" defer></script>
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
 <body class="home">
@@ -34,63 +35,11 @@
       <p class="lede">Classic books are free to read, but full of words, places, and references that modern readers don’t know. Open Margins sets a short note in the margin wherever you are likely to stop, so you can keep reading instead of searching.</p>
 
       <h2 class="contents-head">The Library</h2>
-      <ul class="library">
-        <li class="book">
-          <a class="cover" href="book.html?book=lord-jim" style="--cloth: #22403a" tabindex="-1" aria-hidden="true">
-            <span class="cover-frame"><span class="cover-title">Lord Jim</span><span class="cover-rule"></span><span class="cover-sub">A Tale</span><span class="cover-author">Joseph Conrad</span><span class="logo"></span></span>
-          </a>
-          <div class="book-text">
-            <a class="book-line" href="book.html?book=lord-jim"><span class="book-name">Lord Jim</span><span class="leader" aria-hidden="true"></span><span class="author">Joseph Conrad, 1900</span></a>
-            <span class="book-meta">The complete novel, in forty-five chapters</span>
-          </div>
-        </li>
-        <li class="book">
-          <a class="cover" href="book.html?book=heart-of-darkness" style="--cloth: #4b2e24" tabindex="-1" aria-hidden="true">
-            <span class="cover-frame"><span class="cover-title long">Heart of<br>Darkness</span><span class="cover-rule"></span><span class="cover-sub">A Novella</span><span class="cover-author">Joseph Conrad</span><span class="logo"></span></span>
-          </a>
-          <div class="book-text">
-            <a class="book-line" href="book.html?book=heart-of-darkness"><span class="book-name">Heart of Darkness</span><span class="leader" aria-hidden="true"></span><span class="author">Joseph Conrad, 1899</span></a>
-            <span class="book-meta">The complete novella, in three parts</span>
-          </div>
-        </li>
-        <li class="book">
-          <a class="cover" href="book.html?book=ivan-ilyich" style="--cloth: #2f3a52" tabindex="-1" aria-hidden="true">
-            <span class="cover-frame"><span class="cover-title xlong">The Death of<br>Ivan Ilyich</span><span class="cover-rule"></span><span class="cover-sub">A Novella</span><span class="cover-author">Leo Tolstoy</span><span class="logo"></span></span>
-          </a>
-          <div class="book-text">
-            <a class="book-line" href="book.html?book=ivan-ilyich"><span class="book-name">The Death of Ivan Ilyich</span><span class="leader" aria-hidden="true"></span><span class="author">Leo Tolstoy, 1886</span></a>
-            <span class="book-meta">The complete novella, in twelve chapters</span>
-          </div>
-        </li>
-        <li class="book">
-          <a class="cover" href="book.html?book=bartleby" style="--cloth: #5a3e2b" tabindex="-1" aria-hidden="true">
-            <span class="cover-frame"><span class="cover-title long">Bartleby,<br>the Scrivener</span><span class="cover-rule"></span><span class="cover-sub">A Story</span><span class="cover-author">Herman Melville</span><span class="logo"></span></span>
-          </a>
-          <div class="book-text">
-            <a class="book-line" href="book.html?book=bartleby"><span class="book-name">Bartleby, the Scrivener</span><span class="leader" aria-hidden="true"></span><span class="author">Herman Melville, 1853</span></a>
-            <span class="book-meta">The complete story, in six parts</span>
-          </div>
-        </li>
-        <li class="book">
-          <a class="cover" href="book.html?book=siddhartha" style="--cloth: #7a4b1c" tabindex="-1" aria-hidden="true">
-            <span class="cover-frame"><span class="cover-title xlong">Siddhartha</span><span class="cover-rule"></span><span class="cover-sub">An Indian Tale</span><span class="cover-author">Hermann Hesse</span><span class="logo"></span></span>
-          </a>
-          <div class="book-text">
-            <a class="book-line" href="book.html?book=siddhartha"><span class="book-name">Siddhartha</span><span class="leader" aria-hidden="true"></span><span class="author">Hermann Hesse, 1922</span></a>
-            <span class="book-meta">The complete novel, in twelve chapters</span>
-          </div>
-        </li>
-        <li class="book">
-          <a class="cover" href="book.html?book=romantic-poets" style="--cloth: #3f4a3a" tabindex="-1" aria-hidden="true">
-            <span class="cover-frame"><span class="cover-title xlong">The Romantic<br>Poets</span><span class="cover-rule"></span><span class="cover-sub">From the Golden Treasury</span><span class="cover-author">F. T. Palgrave, ed.</span><span class="logo"></span></span>
-          </a>
-          <div class="book-text">
-            <a class="book-line" href="book.html?book=romantic-poets"><span class="book-name">The Romantic Poets</span><span class="leader" aria-hidden="true"></span><span class="author">Palgrave, ed., 1861</span></a>
-            <span class="book-meta">A selection of 123 poems, by twelve poets</span>
-          </div>
-        </li>
-      </ul>
-      <a class="primary-action" href="book.html?book=lord-jim">Open <em>Lord Jim</em></a>
+      <ul class="shelf" id="shelf"></ul>
+      <noscript><p><a href="library.html">Browse the library</a></p></noscript>
+      <div class="shelf-board" aria-hidden="true"></div>
+      <p class="shelf-links"><a href="library.html">Browse the whole library</a></p>
+      <a class="primary-action" id="primary-action" href="book.html?book=bartleby">Start with <em>Bartleby</em></a>
       <p class="imprint">Notes open under CC BY 4.0 · More books in preparation</p>
     </div>
   </div>
@@ -176,5 +125,16 @@
     <p><a href="sources.html">Sources</a> for every note, text, and image · <a href="https://github.com/samcao920/scholia">Code and notes on GitHub</a></p>
   </footer>
 </main>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  OMLIB.renderShelf(document.getElementById('shelf'));
+  var l = OMLIB.lastRead(), a = document.getElementById('primary-action');
+  if (l) {
+    var b = window.OMBOOKS[l.book];
+    a.href = 'chapter.html?book=' + l.book + '&ch=' + l.ch;
+    a.innerHTML = 'Continue <em>' + b.title + '</em>, ' + b.unit.toLowerCase() + ' ' + l.ch;
+  }
+});
+</script>
 </body>
 </html>

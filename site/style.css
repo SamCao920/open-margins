@@ -261,14 +261,6 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
   font-size: .8rem; letter-spacing: .24em; text-transform: uppercase;
   margin: 2.4rem 0 .7rem;
 }
-.library { list-style: none; margin: 0 auto; padding: 0; max-width: 30rem; text-align: left; }
-.library li { padding: .55rem 0; border-top: 1px solid var(--faint); border-bottom: 1px solid var(--faint); }
-.book-line { display: flex; align-items: baseline; gap: .6rem; text-decoration: none; }
-.book-line .book-name { font-weight: 700; letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; }
-.book-line .leader { flex: 1; border-bottom: 1px dotted var(--muted); transform: translateY(-.3em); min-width: .6rem; }
-.book-line .author { font-style: italic; white-space: nowrap; }
-.book-line:hover .title { text-decoration: underline; text-underline-offset: .2em; }
-.library .book-meta { display: block; color: var(--muted); font-size: .92rem; font-style: italic; margin-top: .1rem; }
 .primary-action {
   display: inline-block; margin-top: 1.6rem;
   padding: .6rem 1.4rem .55rem;
@@ -379,13 +371,6 @@ h1, h2, h3 { font-weight: 700; margin: 0; }
 a.cover { transition: transform .2s cubic-bezier(.16, 1, .3, 1); }
 a.cover:hover { transform: translateY(-3px); }
 
-/* Home library: cover beside its contents line */
-.library .book { display: flex; align-items: center; gap: 1.2rem; }
-.library .book + .book { margin-top: 1.4rem; }
-.library .book-line { font-size: .85rem; gap: .5rem; }
-.library .book-line .book-name { letter-spacing: .04em; }
-.library .book .cover { font-size: 8.5px; }
-.library .book-text { flex: 1; min-width: 0; }
 
 /* ----- Title page (book) ----- */
 .page { max-width: 40rem; margin: 0 auto; padding: 0 16px 4rem; }
@@ -660,3 +645,61 @@ body:not(.type-focus) .type-text .caret { box-shadow: inset 0 -2px 0 var(--faint
 .type-pointer { text-align: center; color: var(--muted); font-size: .92rem; margin-top: 1.6rem; }
 
 .verse #text p:first-child::first-letter { font-size: inherit; float: none; line-height: inherit; padding: 0; margin: 0; font-weight: inherit; }
+
+/* ----- Home: a shelf of spines ----- */
+.shelf {
+  --gilt: #d2b36e;
+  list-style: none; margin: 0 auto; padding: 1.6rem 1rem 0; max-width: 30rem;
+  display: flex; align-items: flex-end; justify-content: safe center; gap: 3px; overflow-x: auto; overflow-y: hidden;
+  scroll-snap-type: x proximity; font-size: 13px;
+}
+.spine-item { flex: none; scroll-snap-align: start; padding-top: .8em; }
+.spine {
+  display: flex; flex-direction: column; align-items: center; justify-content: space-between;
+  width: var(--w); height: var(--h); padding: .55em 0; box-sizing: border-box;
+  background:
+    linear-gradient(90deg, rgba(0,0,0,.3) 0, rgba(0,0,0,0) 18%, rgba(255,255,255,.08) 34%, rgba(255,255,255,0) 52%, rgba(0,0,0,.22) 100%),
+    var(--cloth);
+  color: var(--gilt); text-decoration: none;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.25), 0 10px 14px -12px var(--shadow);
+  transform-origin: 50% 100%;
+  transition: transform .22s cubic-bezier(.16, 1, .3, 1), box-shadow .22s;
+}
+.spine-band { width: 78%; border-top: .18em double var(--gilt); flex: none; }
+.spine-title, .spine-author { writing-mode: vertical-rl; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.spine-title { font-weight: 700; font-size: .86em; letter-spacing: .05em; text-transform: uppercase; flex: 1; margin: .7em 0; max-height: 100%; line-height: 1; }
+.spine-author { font-style: italic; font-size: .8em; flex: none; margin-bottom: .2em; opacity: .9; }
+.spine:hover, .spine:focus-visible { transform: translateY(-.9em) rotate(-2deg); box-shadow: inset 0 0 0 1px rgba(0,0,0,.25), 0 18px 18px -14px var(--shadow); outline: none; }
+.spine:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.shelf-board {
+  max-width: 30rem; height: .9rem; margin: 0 auto;
+  background: linear-gradient(var(--wrapper), color-mix(in srgb, var(--wrapper) 70%, #000));
+  box-shadow: 0 8px 12px -8px var(--shadow);
+}
+.shelf-links { margin: 1rem 0 0; font-size: .92rem; font-style: italic; }
+.shelf-links a { color: var(--ink); text-underline-offset: .25em; text-decoration-color: var(--muted); }
+
+/* ----- Library page ----- */
+.page-wide { max-width: 64rem; }
+.lib-head { text-align: center; margin: 2.2rem 0 1.8rem; }
+.lib-head h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); letter-spacing: .14em; text-transform: uppercase; margin: 0; }
+.lib-head .by { font-style: italic; color: var(--muted); margin: .6rem 0 1.2rem; }
+.lib-filters { display: inline-flex; gap: .4rem; }
+.lib-filter {
+  font: inherit; font-size: .78rem; letter-spacing: .12em; text-transform: uppercase;
+  padding: .35rem .9rem; background: none; color: var(--ink); border: 1px solid var(--faint); cursor: pointer;
+}
+.lib-filter:hover { border-color: var(--ink); }
+.lib-filter[aria-pressed="true"] { background: var(--ink); color: var(--ground); border-color: var(--ink); }
+.lib-grid {
+  list-style: none; margin: 0; padding: 0;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr)); gap: 2.4rem 1.2rem;
+}
+.lib-link { display: flex; flex-direction: column; align-items: center; text-align: center; text-decoration: none; color: var(--ink); }
+.lib-link .cover { font-size: 14px; transition: transform .22s cubic-bezier(.16, 1, .3, 1); }
+.lib-link:hover .cover, .lib-link:focus-visible .cover { transform: translateY(-5px); }
+.lib-name { margin-top: 1rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; font-size: .9rem; }
+.lib-by { font-style: italic; margin-top: .15rem; }
+.lib-meta { margin-top: .35rem; font-size: .8rem; color: var(--muted); letter-spacing: .04em; }
+.lib-foot { text-align: center; margin: 3rem 0 0; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+@media (prefers-reduced-motion: reduce) { .spine, .lib-link .cover { transition: none; } }
