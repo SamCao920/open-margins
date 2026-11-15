@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   fetch:
@@ -59,3 +60,8 @@ jobs:
           git add site/art
           git diff --cached --quiet || git commit -m "Fetch public-domain paintings from Wikimedia Commons"
           git push
+          # Pushes made with the built-in token do not start other workflows,
+          # so deploy the site explicitly.
+          if git diff --quiet HEAD~1 HEAD -- site/art 2>/dev/null; then :; else gh workflow run pages.yml --ref "${GITHUB_REF_NAME}"; fi
+        env:
+          GH_TOKEN: ${{ github.token }}
