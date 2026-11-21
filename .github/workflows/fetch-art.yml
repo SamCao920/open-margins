@@ -62,6 +62,6 @@ jobs:
           git push
           # Pushes made with the built-in token do not start other workflows,
           # so deploy the site explicitly.
-          if git diff --quiet HEAD~1 HEAD -- site/art 2>/dev/null; then :; else gh workflow run pages.yml --ref "${GITHUB_REF_NAME}"; fi
+          if [ "${GITHUB_REF_NAME}" = "main" ] && ! git diff --quiet HEAD~1 HEAD -- site/art 2>/dev/null; then gh workflow run pages.yml --ref main; fi
         env:
           GH_TOKEN: ${{ github.token }}
