@@ -1,0 +1,749 @@
+[
+  {
+    "id": "ch21-001",
+    "anchor": "draw the line where the violet tint ends and the orange tint begins",
+    "layer": "vocab",
+    "note": "Melville compares the border between sanity and madness to the unmarked border between colors in a rainbow.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-002",
+    "anchor": "the exact line of demarkation",
+    "layer": "vocab",
+    "note": "Demarkation: a boundary, a line marking a limit.",
+    "source": "Merriam-Webster, “demarcation”, https://www.merriam-webster.com/dictionary/demarcation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-003",
+    "anchor": "some professional experts will",
+    "layer": "vocab",
+    "note": "Melville mocks expert witnesses in madness trials who give opinions for a fee.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-004",
+    "anchor": "any degree of aberration",
+    "layer": "vocab",
+    "note": "Aberration: a departure from what is normal, here a mental lapse.",
+    "source": "Merriam-Webster, “aberration”, https://www.merriam-webster.com/dictionary/aberration",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-005",
+    "anchor": "could not have happened at a worse juncture",
+    "layer": "vocab",
+    "note": "Juncture: a particular point in time, a critical moment.",
+    "source": "Merriam-Webster, “juncture”, https://www.merriam-webster.com/dictionary/juncture",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-006",
+    "anchor": "close on the heel of the suppressed insurrections",
+    "layer": "vocab",
+    "note": "Insurrections: open revolts, here the mutinies of 1797.",
+    "source": "Merriam-Webster, “insurrection”, https://www.merriam-webster.com/dictionary/insurrection",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-007",
+    "anchor": "two qualities not readily interfusable—prudence and rigour",
+    "layer": "vocab",
+    "note": "Interfusable: able to be blended. Prudence and rigour pull in opposite directions.",
+    "source": "Merriam-Webster, “interfuse”, https://www.merriam-webster.com/dictionary/interfuse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-008",
+    "anchor": "In the jugglery of circumstances",
+    "layer": "vocab",
+    "note": "Jugglery: a trick of shifting things around so they look different.",
+    "source": "Merriam-Webster, “jugglery”, https://www.merriam-webster.com/dictionary/jugglery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-009",
+    "anchor": "that martial code whereby it was formally to be judged",
+    "layer": "vocab",
+    "note": "Martial code: the military law that governs sailors and soldiers.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Martial Law”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Martial_Law",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-010",
+    "anchor": "constituted the most heinous of military crimes",
+    "layer": "vocab",
+    "note": "Heinous: shockingly evil, a crime of the worst kind.",
+    "source": "Merriam-Webster, “heinous”, https://www.merriam-webster.com/dictionary/heinous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-011",
+    "anchor": "circumspectness not less than promptitude",
+    "layer": "vocab",
+    "note": "Circumspectness: care in looking at every side before acting.",
+    "source": "Merriam-Webster, “circumspect”, https://www.merriam-webster.com/dictionary/circumspect",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-012",
+    "anchor": "in the confidential talk of more than one or two gun-rooms and cabins",
+    "layer": "vocab",
+    "note": "The gun-room was the junior officers’ mess; the cabins were the senior officers’ quarters.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gun-room”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-013",
+    "anchor": "professional jealousy of Starry Vere",
+    "layer": "vocab",
+    "note": "Professional jealousy: resentment among rivals in the same career.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-014",
+    "anchor": "Some imaginative ground for invidious comment",
+    "layer": "vocab",
+    "note": "Invidious: likely to cause ill will. Some basis existed for hostile gossip.",
+    "source": "Merriam-Webster, “invidious”, https://www.merriam-webster.com/dictionary/invidious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-015",
+    "anchor": "fain would the Indomitable’s Captain have deferred",
+    "layer": "vocab",
+    "note": "Fain: gladly. Deferred: put off to a later time.",
+    "source": "Merriam-Webster, “defer”, https://www.merriam-webster.com/dictionary/defer",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-016",
+    "anchor": "a true military officer is in one particular like a true monk",
+    "layer": "vocab",
+    "note": "Both give up personal will for a higher obedience.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-017",
+    "anchor": "Not with more of self-abnegation",
+    "layer": "vocab",
+    "note": "Self-abnegation: denying oneself, putting aside personal wishes.",
+    "source": "Merriam-Webster, “self-abnegation”, https://www.merriam-webster.com/dictionary/self-abnegation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-018",
+    "anchor": "slumbering embers of the Nore",
+    "layer": "history",
+    "note": "The Nore was the site of the second fleet mutiny of 1797. Vere fears it may spark again.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Nore, The”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nore%2C_The",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-019",
+    "anchor": "monopolizing to himself the perils of moral responsibility",
+    "layer": "vocab",
+    "note": "Monopolizing: taking all of something for oneself.",
+    "source": "Merriam-Webster, “monopolize”, https://www.merriam-webster.com/dictionary/monopolize",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-020",
+    "anchor": "a summary court of his own officers",
+    "layer": "vocab",
+    "note": "Summary: done quickly without ordinary formalities.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Court-Martial”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Court-Martial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-021",
+    "anchor": "the right of maintaining a supervision of it",
+    "layer": "vocab",
+    "note": "Supervision: oversight, watching over a process.",
+    "source": "Merriam-Webster, “supervision”, https://www.merriam-webster.com/dictionary/supervision",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-022",
+    "anchor": "formally or informally interposing at need",
+    "layer": "vocab",
+    "note": "Interposing: stepping in between, intervening.",
+    "source": "Merriam-Webster, “interpose”, https://www.merriam-webster.com/dictionary/interpose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-023",
+    "anchor": "the First Lieutenant, the Captain of Marines, and the Sailing Master",
+    "layer": "vocab",
+    "note": "The Sailing Master navigated the ship. The First Lieutenant was the captain’s deputy.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Master”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-024",
+    "anchor": "an officer of marines",
+    "layer": "vocab",
+    "note": "Marines were sea soldiers who guarded the ship and fought in boarding actions.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Marines”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Marines",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-025",
+    "anchor": "a difficult case unprecedented in his prior experience",
+    "layer": "vocab",
+    "note": "Unprecedented: never having happened before, with no earlier example.",
+    "source": "Merriam-Webster, “unprecedented”, https://www.merriam-webster.com/dictionary/unprecedented",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-026",
+    "anchor": "latent misgiving",
+    "layer": "vocab",
+    "note": "Latent: hidden. Misgiving: a feeling of doubt.",
+    "source": "Merriam-Webster, “latent”, https://www.merriam-webster.com/dictionary/latent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-027",
+    "anchor": "inclined to obesity",
+    "layer": "vocab",
+    "note": "Obesity: being very fat, here the officer’s comfortable build.",
+    "source": "Merriam-Webster, “obesity”, https://www.merriam-webster.com/dictionary/obesity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-028",
+    "anchor": "a moral dilemma involving aught of the tragic",
+    "layer": "vocab",
+    "note": "Dilemma: a choice between two hard options.",
+    "source": "Merriam-Webster, “dilemma”, https://www.merriam-webster.com/dictionary/dilemma",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-029",
+    "anchor": "under the poopdeck",
+    "layer": "vocab",
+    "note": "The poop deck is the raised deck at the stern of the ship.",
+    "source": "Merriam-Webster, “poop deck”, https://www.merriam-webster.com/dictionary/poop%20deck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-030",
+    "anchor": "a yet smaller compartment leaving a space between",
+    "layer": "vocab",
+    "note": "The cabin had a small room on each side, one used as a jail and one as a dead-house.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-031",
+    "anchor": "the ship’s beam",
+    "layer": "vocab",
+    "note": "Beam: the width of a ship at its widest part.",
+    "source": "Merriam-Webster, “beam”, https://www.merriam-webster.com/dictionary/beam",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-032",
+    "anchor": "embrasures for short carronades",
+    "layer": "vocab",
+    "note": "Embrasures: openings in a wall for guns. Carronades were short, light ship’s cannon.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Carronade”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Carronade",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-033",
+    "anchor": "Billy Budd was arraigned",
+    "layer": "vocab",
+    "note": "Arraigned: called before the court to answer a charge.",
+    "source": "Merriam-Webster, “arraign”, https://www.merriam-webster.com/dictionary/arraign",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-034",
+    "anchor": "deposing as to the manner",
+    "layer": "vocab",
+    "note": "Deposing: giving sworn testimony before a court.",
+    "source": "Merriam-Webster, “depose”, https://www.merriam-webster.com/dictionary/depose",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-035",
+    "anchor": "the last man they would have suspected",
+    "layer": "vocab",
+    "note": "The three officers could not believe Billy had a mutinous plan.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-036",
+    "anchor": "taking judicial primacy",
+    "layer": "vocab",
+    "note": "Primacy: first place, here as presiding officer.",
+    "source": "Merriam-Webster, “primacy”, https://www.merriam-webster.com/dictionary/primacy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-037",
+    "anchor": "I have eaten the King’s bread and I am true to the King",
+    "layer": "vocab",
+    "note": "To eat the King’s bread is to serve and be fed by him, so owing loyalty.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-038",
+    "anchor": "an innate repugnance to playing a part",
+    "layer": "vocab",
+    "note": "Innate: born with. Repugnance: strong dislike.",
+    "source": "Merriam-Webster, “repugnance”, https://www.merriam-webster.com/dictionary/repugnance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-039",
+    "anchor": "uninstructed honor",
+    "layer": "vocab",
+    "note": "Uninstructed: untaught. Billy’s honor has not been trained by rules.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-040",
+    "anchor": "with the blind feeling now his, that nothing really was being hatched",
+    "layer": "vocab",
+    "note": "Hatched: plotted. Billy feels no real plot exists.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-041",
+    "anchor": "Nevertheless he strove some way to answer",
+    "layer": "vocab",
+    "note": "Strove: tried hard, made an effort.",
+    "source": "Merriam-Webster, “strive”, https://www.merriam-webster.com/dictionary/strive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-042",
+    "anchor": "the point you make is hardly material",
+    "layer": "vocab",
+    "note": "Material: relevant, mattering to the matter at hand.",
+    "source": "Merriam-Webster, “material”, https://www.merriam-webster.com/dictionary/material",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-043",
+    "anchor": "a martial court must needs in the present case confine its attention",
+    "layer": "vocab",
+    "note": "Needs: must. A martial court judges only the deed.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-044",
+    "anchor": "a wistful interrogative look",
+    "layer": "vocab",
+    "note": "Wistful: sadly longing. Interrogative: questioning.",
+    "source": "Merriam-Webster, “wistful”, https://www.merriam-webster.com/dictionary/wistful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-045",
+    "anchor": "some elucidation of a previous gesture ambiguous to the canine intelligence",
+    "layer": "vocab",
+    "note": "Elucidation: making clear. Canine: of dogs.",
+    "source": "Merriam-Webster, “elucidation”, https://www.merriam-webster.com/dictionary/elucidation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-046",
+    "anchor": "a prejudgement on the speaker’s part",
+    "layer": "vocab",
+    "note": "Prejudgement: a decision made before hearing all the evidence.",
+    "source": "Merriam-Webster, “prejudge”, https://www.merriam-webster.com/dictionary/prejudge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-047",
+    "anchor": "who might shed lateral light",
+    "layer": "vocab",
+    "note": "Lateral: from the side. Indirect light on the case.",
+    "source": "Merriam-Webster, “lateral”, https://www.merriam-webster.com/dictionary/lateral",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-048",
+    "anchor": "a matter for psychologic theologians to discuss",
+    "layer": "vocab",
+    "note": "Vere says the question of why Claggart lied belongs to theologians, not to a military court.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-049",
+    "anchor": "the lasting tongue-tie of—him—in yonder",
+    "layer": "vocab",
+    "note": "Tongue-tie: loss of speech. Claggart is dead and cannot speak.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-050",
+    "anchor": "scarce in equable tones",
+    "layer": "vocab",
+    "note": "Equable: steady, even-tempered, not at all calm here.",
+    "source": "Merriam-Webster, “equable”, https://www.merriam-webster.com/dictionary/equable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-051",
+    "anchor": "in one of his absent fits",
+    "layer": "vocab",
+    "note": "Vere often falls into dreamy fits of abstraction.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-052",
+    "anchor": "to-and-fro paced the cabin athwart",
+    "layer": "vocab",
+    "note": "Athwart: across, from side to side of the ship.",
+    "source": "Merriam-Webster, “athwart”, https://www.merriam-webster.com/dictionary/athwart",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-053",
+    "anchor": "inly deliberating how best to put them",
+    "layer": "vocab",
+    "note": "Inly: inwardly. Deliberating: thinking carefully.",
+    "source": "Merriam-Webster, “inly”, https://www.merriam-webster.com/dictionary/inly",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-054",
+    "anchor": "principles that were axioms to himself",
+    "layer": "vocab",
+    "note": "Axioms: statements accepted as obviously true.",
+    "source": "Merriam-Webster, “axiom”, https://www.merriam-webster.com/dictionary/axiom",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-055",
+    "anchor": "that imputation of a certain pedantry",
+    "layer": "vocab",
+    "note": "Pedantry: fussy showing-off of learning.",
+    "source": "Merriam-Webster, “pedantry”, https://www.merriam-webster.com/dictionary/pedantry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-056",
+    "anchor": "your coadjutor",
+    "layer": "vocab",
+    "note": "Coadjutor: an assistant or colleague.",
+    "source": "Merriam-Webster, “coadjutor”, https://www.merriam-webster.com/dictionary/coadjutor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-057",
+    "anchor": "a troubled hesitancy",
+    "layer": "vocab",
+    "note": "Hesitancy: reluctance to act, holding back.",
+    "source": "Merriam-Webster, “hesitancy”, https://www.merriam-webster.com/dictionary/hesitancy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-058",
+    "anchor": "scruple vitalized by compassion",
+    "layer": "vocab",
+    "note": "Scruple: a moral hesitation. Vitalized: given life.",
+    "source": "Merriam-Webster, “scruple”, https://www.merriam-webster.com/dictionary/scruple",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-059",
+    "anchor": "tend to enervate decision",
+    "layer": "vocab",
+    "note": "Enervate: to weaken, drain of energy.",
+    "source": "Merriam-Webster, “enervate”, https://www.merriam-webster.com/dictionary/enervate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-060",
+    "anchor": "Speculatively regarded, it well might be referred to a jury of casuists",
+    "layer": "history",
+    "note": "Casuists are moral philosophers who work out the right answer in particular hard cases. Vere says a jury of casuists could argue it forever.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Casuistry”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Casuistry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-061",
+    "anchor": "mindless of palliating circumstances",
+    "layer": "vocab",
+    "note": "Palliating: making less severe. Mitigating.",
+    "source": "Merriam-Webster, “palliate”, https://www.merriam-webster.com/dictionary/palliate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-062",
+    "anchor": "the prisoner’s overt act",
+    "layer": "vocab",
+    "note": "Overt: done openly, not hidden.",
+    "source": "Merriam-Webster, “overt”, https://www.merriam-webster.com/dictionary/overt",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-063",
+    "anchor": "adjudge to summary and shameful death",
+    "layer": "vocab",
+    "note": "Adjudge: to decide by judgment.",
+    "source": "Merriam-Webster, “adjudge”, https://www.merriam-webster.com/dictionary/adjudge",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-064",
+    "anchor": "do these buttons that we wear attest that our allegiance is to Nature?",
+    "layer": "vocab",
+    "note": "Naval uniform buttons carried the King’s mark. Vere says officers serve the King, not Nature.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-065",
+    "anchor": "this be the element where we move and have our being",
+    "layer": "allusion",
+    "note": "Echoes Paul’s speech in Acts: “in him we live, and move, and have our being.” Vere applies it to the sea.",
+    "source": "The Bible (King James Version), Acts 17:28, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-066",
+    "anchor": "Would it be so much we ourselves that would condemn as it would be martial law",
+    "layer": "history",
+    "note": "Martial law is the suspension of ordinary law in war. It is the will of the commander, not law in the strict sense.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Martial Law”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Martial_Law",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-067",
+    "anchor": "tender kinswoman of the accused",
+    "layer": "vocab",
+    "note": "Kinswoman: a female relative who comes to plead.",
+    "source": "Merriam-Webster, “kinswoman”, https://www.merriam-webster.com/dictionary/kinswoman",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-068",
+    "anchor": "that imperial one formulated in the code",
+    "layer": "vocab",
+    "note": "Imperial: supreme. The code of military law outranks private conscience.",
+    "source": "Merriam-Webster, “imperial”, https://www.merriam-webster.com/dictionary/imperial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-069",
+    "anchor": "the Articles of War",
+    "layer": "history",
+    "note": "The Articles of War were the written code of discipline for the army and navy. A blow struck at a superior was a capital crime.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Martial Law”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Martial_Law",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-070",
+    "anchor": "At the Last Assizes it shall acquit",
+    "layer": "allusion",
+    "note": "The Last Assizes is the Last Judgment before God. Assizes were court sessions held in English counties.",
+    "source": "The Bible (King James Version), Revelation 20:12, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-071",
+    "anchor": "the law of the Mutiny Act",
+    "layer": "history",
+    "note": "The Mutiny Act was the English law that made mutiny and disobedience in the army and navy punishable by military courts.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Mutiny”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mutiny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-072",
+    "anchor": "what reck we of it?",
+    "layer": "vocab",
+    "note": "Reck: to care, to take heed.",
+    "source": "Merriam-Webster, “reck”, https://www.merriam-webster.com/dictionary/reck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-073",
+    "anchor": "in the same swath with our volunteers",
+    "layer": "vocab",
+    "note": "Swath: a strip cut by a scythe. The enemy would mow down impressed and volunteer alike.",
+    "source": "Merriam-Webster, “swath”, https://www.merriam-webster.com/dictionary/swath",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-074",
+    "anchor": "the regicidal French Directory",
+    "layer": "vocab",
+    "note": "Regicidal: involved in killing a king. The French had executed Louis XVI in 1793.",
+    "source": "Merriam-Webster, “regicide”, https://www.merriam-webster.com/dictionary/regicide",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-075",
+    "anchor": "convict and yet mitigate the penalty",
+    "layer": "vocab",
+    "note": "Mitigate: to make less severe.",
+    "source": "Merriam-Webster, “mitigate”, https://www.merriam-webster.com/dictionary/mitigate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-076",
+    "anchor": "consider the consequences of such clemency",
+    "layer": "vocab",
+    "note": "Clemency: mercy, leniency toward an offender.",
+    "source": "Merriam-Webster, “clemency”, https://www.merriam-webster.com/dictionary/clemency",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-077",
+    "anchor": "a flagrant act of mutiny",
+    "layer": "vocab",
+    "note": "Flagrant: glaringly obvious, impossible to overlook.",
+    "source": "Merriam-Webster, “flagrant”, https://www.merriam-webster.com/dictionary/flagrant",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-078",
+    "anchor": "Your clement sentence they would account pusillanimous",
+    "layer": "vocab",
+    "note": "Pusillanimous: cowardly, lacking courage, weak-spirited.",
+    "source": "Merriam-Webster, “pusillanimous”, https://www.merriam-webster.com/dictionary/pusillanimous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-079",
+    "anchor": "Loyal lieges, plain and practical",
+    "layer": "vocab",
+    "note": "Lieges: loyal subjects of a lord or king.",
+    "source": "Merriam-Webster, “liege”, https://www.merriam-webster.com/dictionary/liege",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-080",
+    "anchor": "without the faculty, hardly had the inclination, to gainsay",
+    "layer": "vocab",
+    "note": "Gainsay: to deny or contradict.",
+    "source": "Merriam-Webster, “gainsay”, https://www.merriam-webster.com/dictionary/gainsay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-081",
+    "anchor": "the unconfirmed tone of the fleet at the time",
+    "layer": "vocab",
+    "note": "Unconfirmed: not yet settled or firm.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-082",
+    "anchor": "a writer whom few know",
+    "layer": "vocab",
+    "note": "Melville quotes himself, a writer known to few.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-083",
+    "anchor": "Little ween the snug card-players in the cabin",
+    "layer": "vocab",
+    "note": "Ween: to think or imagine.",
+    "source": "Merriam-Webster, “ween”, https://www.merriam-webster.com/dictionary/ween",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-084",
+    "anchor": "sentenced to be hung at the yard-arm in the early morning watch",
+    "layer": "vocab",
+    "note": "The early morning watch was the hours before dawn. Hanging at the yard-arm was the navy’s way to execute mutineers.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch21-085",
+    "anchor": "without appeal",
+    "layer": "vocab",
+    "note": "A drum-head court’s sentence could not be appealed.",
+    "status": "draft",
+    "checker": null
+  }
+]

@@ -9,3 +9,4 @@ kramskoi|search:Kramskoi Inconsolable Grief
 wallst|search:Wall Street Half Past Two October 13 1857 Cafferty Rosenberg
 ganges|search:Edwin Lord Weeks Benares
 shelley|search:Joseph Severn Shelley Composing Prometheus Unbound
+pocock|search:Nicholas Pocock Glorious First of June

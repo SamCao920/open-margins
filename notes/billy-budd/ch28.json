@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ch28-001",
+    "anchor": "ragged edges",
+    "layer": "vocab",
+    "note": "Truth in fact has loose, uneven ends unlike a neat story.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-002",
+    "anchor": "architectural finial",
+    "layer": "vocab",
+    "note": "A finial is an ornament crowning a spire, gable, or post.",
+    "source": "Merriam-Webster, “finial”, https://www.merriam-webster.com/dictionary/finial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-003",
+    "anchor": "the St. Louis line-of-battle ship was named the Atheiste",
+    "layer": "vocab",
+    "note": "Line-of-battle ship: the largest kind of warship. The revolutionary navy gave ships names that mocked religion.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Line-of-battle ship”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-004",
+    "anchor": "the infidel audacity of the ruling power",
+    "layer": "vocab",
+    "note": "Infidel: unbeliever. The Directory’s navy named a ship the Atheist.",
+    "source": "Merriam-Webster, “infidel”, https://www.merriam-webster.com/dictionary/infidel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-005",
+    "anchor": "the Devastation, the Erebus (the Hell)",
+    "layer": "allusion",
+    "note": "Erebus, in Greek myth, is the dark region of the underworld, used as a name for hell.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Erebus”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Erebus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-006",
+    "anchor": "throwing his boarders across her bulwarks",
+    "layer": "vocab",
+    "note": "Boarders were sailors told off to attack an enemy by climbing aboard. Bulwarks are the ship’s side walls.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Boarders”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-007",
+    "anchor": "the same cock-pit where some of his men already lay",
+    "layer": "vocab",
+    "note": "The cockpit was the surgeon’s station below the waterline, where the wounded were treated in battle.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-008",
+    "anchor": "successfully taken into Gibraltar",
+    "layer": "place",
+    "note": "Gibraltar, at the entrance to the Mediterranean, had been British since 1704 and was a major naval base.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Gibraltar”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gibraltar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-009",
+    "anchor": "Unhappily he was cut off too early for the Nile and Trafalgar",
+    "layer": "history",
+    "note": "Nelson won the Nile in 1798 and Trafalgar in 1805. Vere dies in 1797 before these famous victories.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Nelson, Horatio Nelson, Viscount”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nelson%2C_Horatio_Nelson%2C_Viscount",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-010",
+    "anchor": "that magical drug which soothing the physical frame",
+    "layer": "vocab",
+    "note": "Melville means opium or laudanum, used then as a painkiller.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-011",
+    "anchor": "not the accents of remorse",
+    "layer": "vocab",
+    "note": "Remorse: deep regret for a wrong one has done.",
+    "source": "Merriam-Webster, “remorse”, https://www.merriam-webster.com/dictionary/remorse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch28-012",
+    "anchor": "the Indomitable’s senior officer of marines",
+    "layer": "vocab",
+    "note": "He was the member of the court who most hesitated to condemn Billy.",
+    "status": "draft",
+    "checker": null
+  }
+]
