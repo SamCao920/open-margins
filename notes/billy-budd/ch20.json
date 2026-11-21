@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ch20-001",
+    "anchor": "impolitic",
+    "layer": "vocab",
+    "note": "Impolitic: unwise, not in line with good policy.",
+    "source": "Merriam-Webster, “impolitic”, https://www.merriam-webster.com/dictionary/impolitic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-002",
+    "anchor": "the unwonted agitation of Captain Vere",
+    "layer": "vocab",
+    "note": "Unwonted: unusual, not customary, so unlike Vere’s calm.",
+    "source": "Merriam-Webster, “unwonted”, https://www.merriam-webster.com/dictionary/unwonted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch20-003",
+    "anchor": "Was he unhinged?",
+    "layer": "vocab",
+    "note": "Unhinged: mentally disturbed, like a door off its hinges.",
+    "source": "Merriam-Webster, “unhinged”, https://www.merriam-webster.com/dictionary/unhinged",
+    "status": "draft",
+    "checker": null
+  }
+]

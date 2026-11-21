@@ -1,0 +1,240 @@
+[
+  {
+    "id": "ch14-001",
+    "anchor": "more gravelled him than aught that had previously occurred",
+    "layer": "vocab",
+    "note": "Gravelled: puzzled and stuck, as if stopped by gravel.",
+    "source": "Merriam-Webster, “gravel”, https://www.merriam-webster.com/dictionary/gravel",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-002",
+    "anchor": "a warm night for the latitude",
+    "layer": "vocab",
+    "note": "Latitude: the distance north or south of the equator.",
+    "source": "Merriam-Webster, “latitude”, https://www.merriam-webster.com/dictionary/latitude",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-003",
+    "anchor": "dozing on the uppermost deck",
+    "layer": "vocab",
+    "note": "Dozing: sleeping lightly, half awake, outdoors in the warm night.",
+    "source": "Merriam-Webster, “doze”, https://www.merriam-webster.com/dictionary/doze",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-004",
+    "anchor": "one of hundreds suspended so closely wedged together",
+    "layer": "vocab",
+    "note": "Hundreds of hammocks hung side by side below decks.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-005",
+    "anchor": "under the lee of the booms",
+    "layer": "vocab",
+    "note": "Lee: the sheltered side, away from the wind. Booms are the spare spars stowed on deck.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Booms”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-006",
+    "anchor": "a piled ridge of spare spars amidships",
+    "layer": "vocab",
+    "note": "Spars are poles that hold sails. Amidships: in the middle of the ship.",
+    "source": "Merriam-Webster, “amidships”, https://www.merriam-webster.com/dictionary/amidships",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-007",
+    "anchor": "the launch",
+    "layer": "vocab",
+    "note": "The launch is the largest boat a warship carries.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Launch”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-008",
+    "anchor": "deckstation of the forecastlemen",
+    "layer": "vocab",
+    "note": "Forecastlemen: older sailors stationed forward on the forecastle.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-009",
+    "anchor": "Slip into the lee forechains",
+    "layer": "vocab",
+    "note": "The chains are platforms on the ship’s side where the shrouds are fastened, used for sounding.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Chains”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-010",
+    "anchor": "there is something in the wind",
+    "layer": "vocab",
+    "note": "A saying for something secret going on.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-011",
+    "anchor": "a reluctance, almost an incapacity of plumply saying no",
+    "layer": "vocab",
+    "note": "Plumply: bluntly. Billy finds it hard to say no outright.",
+    "source": "Merriam-Webster, “plumply”, https://www.merriam-webster.com/dictionary/plumply",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-012",
+    "anchor": "the phlegm tacitly to negative any proposition",
+    "layer": "vocab",
+    "note": "Phlegm: calm temperament. Tacitly: without words. Negative: to reject.",
+    "source": "Merriam-Webster, “phlegm”, https://www.merriam-webster.com/dictionary/phlegm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-013",
+    "anchor": "a narrow platform, one of six, outside of the high bulwarks",
+    "layer": "vocab",
+    "note": "Bulwarks: the solid sides of a ship above the deck.",
+    "source": "Merriam-Webster, “bulwark”, https://www.merriam-webster.com/dictionary/bulwark",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-014",
+    "anchor": "great dead-eyes and multiple columned lanyards of the shrouds and back-stays",
+    "layer": "vocab",
+    "note": "Dead-eyes and lanyards tighten the shrouds and backstays, ropes that hold up the masts.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Dead-eyes”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-015",
+    "anchor": "a non-conformist old tar of a serious turn",
+    "layer": "vocab",
+    "note": "Non-conformist: a Protestant outside the Church of England. Tar: sailor.",
+    "source": "Merriam-Webster, “nonconformist”, https://www.merriam-webster.com/dictionary/nonconformist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-016",
+    "anchor": "made it even in daytime his private oratory",
+    "layer": "vocab",
+    "note": "Oratory: a small place for prayer.",
+    "source": "Merriam-Webster, “oratory”, https://www.merriam-webster.com/dictionary/oratory",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-017",
+    "anchor": "one of the afterguard",
+    "layer": "vocab",
+    "note": "The afterguard were the less skilled men stationed near the stern.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “After-guard”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-018",
+    "anchor": "Hist! Billy",
+    "layer": "vocab",
+    "note": "Hist: a call for silence.",
+    "source": "Merriam-Webster, “hist”, https://www.merriam-webster.com/dictionary/hist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-019",
+    "anchor": "held up two small objects faintly twinkling",
+    "layer": "vocab",
+    "note": "Two coins, as a bribe to join a mutiny.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-020",
+    "anchor": "the mysterious emissary decamped",
+    "layer": "vocab",
+    "note": "Emissary: someone sent on a secret errand. Decamped: left quickly.",
+    "source": "Merriam-Webster, “emissary”, https://www.merriam-webster.com/dictionary/emissary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-021",
+    "anchor": "an irascible old fellow",
+    "layer": "vocab",
+    "note": "Irascible: quick to anger, easily annoyed and hot-tempered.",
+    "source": "Merriam-Webster, “irascible”, https://www.merriam-webster.com/dictionary/irascible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-022",
+    "anchor": "Red Pepper",
+    "layer": "vocab",
+    "note": "A nickname for his red face and hot temper.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-023",
+    "anchor": "to marry to the gunner’s daughter",
+    "layer": "vocab",
+    "note": "The gunner’s daughter was a sailors’ joke for the gun to which boys were tied to be flogged.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gunner’s daughter”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-024",
+    "anchor": "disciplinary castigation",
+    "layer": "vocab",
+    "note": "Castigation: severe punishment, here a flogging at the gun.",
+    "source": "Merriam-Webster, “castigation”, https://www.merriam-webster.com/dictionary/castigation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-025",
+    "anchor": "bigoted in their sea-prejudices",
+    "layer": "vocab",
+    "note": "Bigoted: stubbornly attached to one’s own opinions.",
+    "source": "Merriam-Webster, “bigoted”, https://www.merriam-webster.com/dictionary/bigoted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-026",
+    "anchor": "territorial encroachments",
+    "layer": "vocab",
+    "note": "Encroachments: intrusions on someone else’s ground.",
+    "source": "Merriam-Webster, “encroachment”, https://www.merriam-webster.com/dictionary/encroachment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch14-027",
+    "anchor": "to handle a marlinspike",
+    "layer": "vocab",
+    "note": "A marlinspike is a pointed iron tool for splicing rope.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Marline-spike”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  }
+]

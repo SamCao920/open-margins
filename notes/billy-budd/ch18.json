@@ -1,0 +1,554 @@
+[
+  {
+    "id": "ch18-001",
+    "anchor": "nothing especially german to the story",
+    "layer": "vocab",
+    "note": "Germane: relevant, closely connected to the subject.",
+    "source": "Merriam-Webster, “germane”, https://www.merriam-webster.com/dictionary/germane",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-002",
+    "anchor": "line-of-battle ships",
+    "layer": "vocab",
+    "note": "Line-of-battle ships were the largest warships, built to fight in a line against enemy fleets.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Line-of-battle ship”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-003",
+    "anchor": "the English squadron up the Straits",
+    "layer": "place",
+    "note": "The Straits are the Strait of Gibraltar, the narrow gateway from the Atlantic into the Mediterranean Sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Gibraltar”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gibraltar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-004",
+    "anchor": "not common in a ship of her rate",
+    "layer": "vocab",
+    "note": "A ship’s rate was her class, set by her number of guns.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Rate”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-005",
+    "anchor": "a prompt initiative might have to be taken",
+    "layer": "vocab",
+    "note": "Initiative: the power or readiness to act first.",
+    "source": "Merriam-Webster, “initiative”, https://www.merriam-webster.com/dictionary/initiative",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-006",
+    "anchor": "in the latter part of an afternoon-watch",
+    "layer": "vocab",
+    "note": "The afternoon watch lasted from noon to four.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Afternoon-watch”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-007",
+    "anchor": "invoking her light heels",
+    "layer": "vocab",
+    "note": "The enemy frigate trusts to her speed to escape.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-008",
+    "anchor": "crowded sail to get away",
+    "layer": "vocab",
+    "note": "To crowd sail is to spread as many sails as possible.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Crowd”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-009",
+    "anchor": "ere the excitement incident thereto",
+    "layer": "vocab",
+    "note": "Incident thereto: connected with it.",
+    "source": "Merriam-Webster, “incident”, https://www.merriam-webster.com/dictionary/incident",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-010",
+    "anchor": "ascending from his cavernous sphere",
+    "layer": "vocab",
+    "note": "Cavernous: like a cave. The lower decks are Claggart’s domain.",
+    "source": "Merriam-Webster, “cavernous”, https://www.merriam-webster.com/dictionary/cavernous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-011",
+    "anchor": "cap in hand by the main-mast",
+    "layer": "vocab",
+    "note": "A lower-rank man waited by the mainmast to ask the captain for a hearing.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-012",
+    "anchor": "somewhat chafed at the failure of the pursuit",
+    "layer": "vocab",
+    "note": "Chafed: irritated, annoyed by the failed chase.",
+    "source": "Merriam-Webster, “chafe”, https://www.merriam-webster.com/dictionary/chafe",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-013",
+    "anchor": "the officer-of-the-deck",
+    "layer": "vocab",
+    "note": "The officer of the deck is the officer in charge of the ship during a watch.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Officer of the watch”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-014",
+    "anchor": "the doffed cap held in deferential expectancy",
+    "layer": "vocab",
+    "note": "Doffed: taken off as a sign of respect.",
+    "source": "Merriam-Webster, “doff”, https://www.merriam-webster.com/dictionary/doff",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-015",
+    "anchor": "a vaguely repellent distaste",
+    "layer": "vocab",
+    "note": "Repellent: causing dislike or disgust.",
+    "source": "Merriam-Webster, “repellent”, https://www.merriam-webster.com/dictionary/repellent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-016",
+    "anchor": "resuming much of his wonted official manner",
+    "layer": "vocab",
+    "note": "Wonted: usual, accustomed, as in his wonted manner.",
+    "source": "Merriam-Webster, “wonted”, https://www.merriam-webster.com/dictionary/wonted",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-017",
+    "anchor": "to disburthen, spoke up",
+    "layer": "vocab",
+    "note": "Disburthen: to unload, here to speak out freely.",
+    "source": "Merriam-Webster, “disburden”, https://www.merriam-webster.com/dictionary/disburden",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-018",
+    "anchor": "Be direct, man; say impressed men.",
+    "layer": "history",
+    "note": "Impressed men were those forced into the navy. Vere dislikes polite evasions about them, and says so.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Impressment”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Impressment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-019",
+    "anchor": "Claggart made a gesture of subservience",
+    "layer": "vocab",
+    "note": "Subservience: humble, servile obedience to a superior.",
+    "source": "Merriam-Webster, “subservience”, https://www.merriam-webster.com/dictionary/subservience",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-020",
+    "anchor": "the first broaching of the matter",
+    "layer": "vocab",
+    "note": "Broaching: bringing up a subject for the first time.",
+    "source": "Merriam-Webster, “broach”, https://www.merriam-webster.com/dictionary/broach",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-021",
+    "anchor": "could not wholly dissemble his disquietude",
+    "layer": "vocab",
+    "note": "Dissemble: to hide one’s true feelings. Disquietude: worry, unease.",
+    "source": "Merriam-Webster, “dissemble”, https://www.merriam-webster.com/dictionary/dissemble",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-022",
+    "anchor": "restiveness under something in the witness’ manner",
+    "layer": "vocab",
+    "note": "Restiveness: restlessness, resistance to control.",
+    "source": "Merriam-Webster, “restiveness”, https://www.merriam-webster.com/dictionary/restiveness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-023",
+    "anchor": "peremptorily broke in",
+    "layer": "vocab",
+    "note": "Peremptorily: in a commanding way that allows no argument.",
+    "source": "Merriam-Webster, “peremptorily”, https://www.merriam-webster.com/dictionary/peremptorily",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-024",
+    "anchor": "the Nore Mutiny had assumed a singularly tragical character",
+    "layer": "history",
+    "note": "At the Nore in 1797 the mutinous crews took over their ships. Claggart nearly names a ship whose commander’s life was in danger.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Nore, The”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nore%2C_The",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-025",
+    "anchor": "a most immodest presumption",
+    "layer": "vocab",
+    "note": "Presumption: overstepping one’s place and showing too much boldness.",
+    "source": "Merriam-Webster, “presumption”, https://www.merriam-webster.com/dictionary/presumption",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-026",
+    "anchor": "an intuitional surmise",
+    "layer": "vocab",
+    "note": "Intuitional: arising from instinct, not reasoning.",
+    "source": "Merriam-Webster, “intuitive”, https://www.merriam-webster.com/dictionary/intuitive",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-027",
+    "anchor": "its secret mines and dubious side",
+    "layer": "vocab",
+    "note": "Dubious: doubtful, not to be trusted.",
+    "source": "Merriam-Webster, “dubious”, https://www.merriam-webster.com/dictionary/dubious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-028",
+    "anchor": "the first palpable sign of recurring insubordination",
+    "layer": "vocab",
+    "note": "Palpable: so clear it can almost be touched. Insubordination: refusal to obey.",
+    "source": "Merriam-Webster, “palpable”, https://www.merriam-webster.com/dictionary/palpable",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-029",
+    "anchor": "police surveillance of the crew",
+    "layer": "vocab",
+    "note": "Surveillance: close watching of people.",
+    "source": "Merriam-Webster, “surveillance”, https://www.merriam-webster.com/dictionary/surveillance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-030",
+    "anchor": "rather supersensible and strained",
+    "layer": "vocab",
+    "note": "Supersensible: too sensitive, overly alert to danger.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-031",
+    "anchor": "a bandsman, a perjurous witness",
+    "layer": "vocab",
+    "note": "Perjurous: lying under oath. Vere recalls a false witness he had once seen at a court-martial.",
+    "source": "Merriam-Webster, “perjury”, https://www.merriam-webster.com/dictionary/perjury",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-032",
+    "anchor": "a capital case before a courtmartial",
+    "layer": "vocab",
+    "note": "A capital case is one where the penalty may be death. A court-martial is a military trial.",
+    "source": "Merriam-Webster, “capital”, https://www.merriam-webster.com/dictionary/capital",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-033",
+    "anchor": "with unfeigned astonishment",
+    "layer": "vocab",
+    "note": "Unfeigned: real, not pretended or put on for effect.",
+    "source": "Merriam-Webster, “unfeigned”, https://www.merriam-webster.com/dictionary/unfeigned",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-034",
+    "anchor": "a deep one",
+    "layer": "vocab",
+    "note": "A deep one: a person who hides his thoughts and intentions.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-035",
+    "anchor": "insinuate himself into the good will of his shipmates",
+    "layer": "vocab",
+    "note": "Insinuate: to work oneself gradually into favor by clever means.",
+    "source": "Merriam-Webster, “insinuate”, https://www.merriam-webster.com/dictionary/insinuate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-036",
+    "anchor": "that adroit fling of Budd’s",
+    "layer": "vocab",
+    "note": "Adroit: skillful, clever. Fling: here, a jibe.",
+    "source": "Merriam-Webster, “adroit”, https://www.merriam-webster.com/dictionary/adroit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-037",
+    "anchor": "masqued by that sort of good-humoured air",
+    "layer": "vocab",
+    "note": "Masqued: masked, hidden. His good humor hides resentment, Claggart says.",
+    "source": "Merriam-Webster, “masked”, https://www.merriam-webster.com/dictionary/masked",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-038",
+    "anchor": "A man-trap may be under his ruddy-tipped daisies",
+    "layer": "vocab",
+    "note": "A man-trap is a snare for people. Claggart pictures a trap hidden under a flowery bank.",
+    "source": "Merriam-Webster, “man-trap”, https://www.merriam-webster.com/dictionary/man-trap",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-039",
+    "anchor": "the genus homo, who in the nude might have posed for a statue of young Adam before the Fall",
+    "layer": "allusion",
+    "note": "Homo is the Latin genus of humans. Adam before the Fall was the first man, sinless, in Eden.",
+    "source": "The Bible (King James Version), Genesis 2:25, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-040",
+    "anchor": "a satiric sally",
+    "layer": "vocab",
+    "note": "Sally: a sudden witty remark.",
+    "source": "Merriam-Webster, “sally”, https://www.merriam-webster.com/dictionary/sally",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-041",
+    "anchor": "the first happy augury",
+    "layer": "vocab",
+    "note": "Augury: a sign or omen of future events.",
+    "source": "Merriam-Webster, “augury”, https://www.merriam-webster.com/dictionary/augury",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-042",
+    "anchor": "the captaincy of the mizzentop",
+    "layer": "vocab",
+    "note": "The captain of a top commanded the men working there. The mizzentop is on the mizzenmast, the rear mast.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Mizzen-top”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-043",
+    "anchor": "the starboard watch",
+    "layer": "vocab",
+    "note": "Sailors were divided into two watches, port and starboard, that took turns on duty.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Watch”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-044",
+    "anchor": "striplings",
+    "layer": "vocab",
+    "note": "Striplings: youths just growing up.",
+    "source": "Merriam-Webster, “stripling”, https://www.merriam-webster.com/dictionary/stripling",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-045",
+    "anchor": "a “King’s bargain,”",
+    "layer": "vocab",
+    "note": "A King’s bargain was a navy phrase for a man gotten for nothing, a bargain for the Crown.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-046",
+    "anchor": "a capital investment at small outlay or none at all",
+    "layer": "vocab",
+    "note": "Capital: excellent. Outlay: money spent.",
+    "source": "Merriam-Webster, “outlay”, https://www.merriam-webster.com/dictionary/outlay",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-047",
+    "anchor": "there is a yard-arm-end for the false-witness",
+    "layer": "vocab",
+    "note": "Vere threatens to hang a false witness from the yard-arm.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Yard-arm”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-048",
+    "anchor": "sad deprecation of such unmerited severity",
+    "layer": "vocab",
+    "note": "Deprecation: mild disapproval, here an injured, sorrowful shake of the head.",
+    "source": "Merriam-Webster, “deprecation”, https://www.merriam-webster.com/dictionary/deprecation",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-049",
+    "anchor": "he circumstantially alleged certain words and acts",
+    "layer": "vocab",
+    "note": "Circumstantially: with detailed circumstances, giving many particular facts.",
+    "source": "Merriam-Webster, “circumstantial”, https://www.merriam-webster.com/dictionary/circumstantial",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-050",
+    "anchor": "presumptions mortally inculpating Budd",
+    "layer": "vocab",
+    "note": "Inculpating: showing to be guilty.",
+    "source": "Merriam-Webster, “inculpate”, https://www.merriam-webster.com/dictionary/inculpate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-051",
+    "anchor": "averments",
+    "layer": "vocab",
+    "note": "Averments: formal statements asserting that something is true.",
+    "source": "Merriam-Webster, “averment”, https://www.merriam-webster.com/dictionary/averment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-052",
+    "anchor": "the spokesman of the envious children of Jacob",
+    "layer": "allusion",
+    "note": "Jacob’s sons, jealous of their brother Joseph, dipped his coat in goat’s blood and showed it to their father as proof he was dead.",
+    "source": "The Bible (King James Version), Genesis 37:31, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-053",
+    "anchor": "a veritable touch-stone of that man’s essential nature",
+    "layer": "vocab",
+    "note": "A touchstone is a stone used to test gold’s purity; Vere tests men’s character likewise.",
+    "source": "Merriam-Webster, “touchstone”, https://www.merriam-webster.com/dictionary/touchstone",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-054",
+    "anchor": "strong suspicion clogged by strange dubieties",
+    "layer": "vocab",
+    "note": "Dubieties: doubts, uncertainties that cloud his judgment.",
+    "source": "Merriam-Webster, “dubiety”, https://www.merriam-webster.com/dictionary/dubiety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-055",
+    "anchor": "before trying the accusation, he would first practically test the accuser",
+    "layer": "vocab",
+    "note": "Vere decides to examine the witness before the accused.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-056",
+    "anchor": "the few gun-room officers",
+    "layer": "vocab",
+    "note": "The gun-room was the mess of the junior officers, on the lower deck.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gun-room”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-057",
+    "anchor": "in due observance of naval etiquette",
+    "layer": "vocab",
+    "note": "Etiquette: the rules of polite behavior.",
+    "source": "Merriam-Webster, “etiquette”, https://www.merriam-webster.com/dictionary/etiquette",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-058",
+    "anchor": "the colloquy with Claggart",
+    "layer": "vocab",
+    "note": "Colloquy: a formal conversation between two people.",
+    "source": "Merriam-Webster, “colloquy”, https://www.merriam-webster.com/dictionary/colloquy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-059",
+    "anchor": "the waist",
+    "layer": "vocab",
+    "note": "The waist is the middle part of the ship’s upper deck.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Waist”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-060",
+    "anchor": "summoning the nearest midshipman",
+    "layer": "vocab",
+    "note": "A midshipman was a young officer in training.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Midshipman”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-061",
+    "anchor": "the Captain’s hammock-boy, a sort of sea-valet",
+    "layer": "vocab",
+    "note": "Valet: a man who looks after another’s clothes and needs.",
+    "source": "Merriam-Webster, “valet”, https://www.merriam-webster.com/dictionary/valet",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch18-062",
+    "anchor": "Contrive it that he speaks to nobody",
+    "layer": "vocab",
+    "note": "Contrive: to arrange cleverly, here to manage it without being noticed.",
+    "source": "Merriam-Webster, “contrive”, https://www.merriam-webster.com/dictionary/contrive",
+    "status": "draft",
+    "checker": null
+  }
+]
