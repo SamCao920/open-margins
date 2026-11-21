@@ -9,6 +9,8 @@
 <link rel="apple-touch-icon" href="brand/apple-touch-icon.png">
 <script src="prefs.js?v=dev"></script>
 <script src="books.js?v=dev"></script>
+<script src="covers.js?v=dev"></script>
+<script src="library.js?v=dev"></script>
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
 <body>
@@ -112,7 +114,7 @@
   document.getElementById('crumb-book').textContent = b.title;
   const cover = document.getElementById('cover');
   cover.style.setProperty('--cloth', b.cloth);
-  cover.innerHTML = '<span class="cover-frame"><span class="cover-title' + (b.coverClass ? ' ' + b.coverClass : b.title.length > 20 ? ' xlong' : b.title.length > 10 ? ' long' : '') + '">' + (b.coverTitle || b.title.replace(/ of /, ' of<br>')) + '</span><span class="cover-rule"></span><span class="cover-sub">' + b.sub + '</span><span class="cover-author">' + b.author + '</span><span class="logo"></span></span>';
+  cover.innerHTML = OMLIB.coverHTML(b, bookId);
   document.getElementById('book-title').textContent = b.title;
   document.getElementById('book-by').innerHTML = b.sub + ' \u00b7 by <em>' + b.author + '</em> \u00b7 ' + b.year;
   document.getElementById('book-blurb').textContent = b.blurb;

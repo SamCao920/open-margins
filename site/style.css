@@ -719,7 +719,7 @@ body:not(.type-focus) .type-text .caret { box-shadow: inset 0 -2px 0 var(--faint
 .flow-track:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
 .flow-item {
   flex: none; scroll-snap-align: center; width: 12.6em; display: flex; justify-content: center;
-  margin-inline: -2.4em;
+  margin-inline: -1.5em;
   --d: 0; --a: 0;
   transform-style: preserve-3d;
   transform: translateZ(calc(var(--a) * -70px)) rotateY(calc(var(--d) * -42deg)) scale(calc(1 - var(--a) * .06));
@@ -744,3 +744,20 @@ body:not(.type-focus) .type-text .caret { box-shadow: inset 0 -2px 0 var(--faint
 .flow-prev { left: 0; } .flow-next { right: 0; }
 @media (max-width: 700px) { .flow-arrow { display: none; } .flow-track { font-size: 15px; } .flow-cover { font-size: 15px; } }
 @media (prefers-reduced-motion: reduce) { .flow-item { transform: none; filter: none; } }
+
+/* ----- Covers: printed plate over a title band ----- */
+.cover-frame.plate {
+  position: absolute; inset: 0; margin: 0; padding: 0; border: 0; display: flex; flex-direction: column;
+  align-items: stretch; background: var(--paper); overflow: hidden;
+}
+.cover-frame.plate::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(90deg, rgba(0,0,0,.34) 0, rgba(0,0,0,0) .5em, rgba(255,255,255,.12) .62em, rgba(255,255,255,0) .9em);
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.28);
+}
+.cover-frame.plate .cover-art { flex: none; display: block; width: 100%; height: 11.2em; margin: 0; }
+.cover-frame.plate .cover-art svg { display: block; width: 100%; height: 100%; }
+.plate-band { flex: 1; display: flex; flex-direction: column; justify-content: center; text-align: center; padding: .3em .8em .35em; color: var(--ink2); border-top: .14em solid var(--ink2); }
+.plate-band .cover-title { color: var(--ink2); font-size: .92em; letter-spacing: .06em; margin: 0; line-height: 1.12; }
+.plate-band .cover-title.long, .plate-band .cover-title.xlong { font-size: .78em; letter-spacing: .04em; }
+.plate-by { margin-top: .35em; font-size: .46em; letter-spacing: .1em; white-space: nowrap; text-transform: uppercase; opacity: .8; }

@@ -4,10 +4,13 @@
   const BOOKS = window.OMBOOKS;
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-  function coverHTML(b) {
+  function coverHTML(b, id) {
     const cls = b.coverClass ? ' ' + b.coverClass : b.title.length > 20 ? ' xlong' : b.title.length > 10 ? ' long' : '';
-    return '<span class="cover-frame"><span class="cover-title' + cls + '">' + (b.coverTitle || esc(b.title).replace(/ of /, ' of<br>')) +
-      '</span><span class="cover-rule"></span><span class="cover-sub">' + esc(b.sub) + '</span><span class="cover-author">' + esc(b.author) +
+    const title = '<span class="cover-title' + cls + '">' + (b.coverTitle || esc(b.title).replace(/ of /, ' of<br>')) + '</span>';
+    const plate = id && window.OMCOVERS && window.OMCOVERS[id];
+    if (plate) return '<span class="cover-frame plate" style="--paper:' + plate.paper + ';--ink2:' + plate.ink + '"><span class="cover-art">' + plate.svg + '</span>' +
+      '<span class="plate-band">' + title + '<span class="plate-by">' + esc(b.author.replace(', ed.', '')) + ' \u00b7 ' + b.year + '</span></span></span>';
+    return '<span class="cover-frame">' + title + '<span class="cover-rule"></span><span class="cover-sub">' + esc(b.sub) + '</span><span class="cover-author">' + esc(b.author) +
       '</span><span class="logo"></span></span>';
   }
 
@@ -25,7 +28,7 @@
     el.innerHTML = ids.map(id => {
       const b = BOOKS[id];
       return '<li class="lib-item"><a class="lib-link" href="book.html?book=' + id + '">' +
-        '<span class="cover" style="--cloth:' + b.cloth + '" aria-hidden="true">' + coverHTML(b) + '</span>' +
+        '<span class="cover" style="--cloth:' + b.cloth + '" aria-hidden="true">' + coverHTML(b, id) + '</span>' +
         '<span class="lib-name">' + esc(b.title) + '</span>' +
         '<span class="lib-by">' + esc(b.author) + ', ' + b.year + '</span>' +
         '<span class="lib-meta">' + esc(b.form) + ' · ' + b.chapters + ' ' + b.unit.toLowerCase() + 's · ' + b.notes.toLocaleString('en-US') + ' notes</span>' +
@@ -51,7 +54,7 @@
     const ids = Object.keys(BOOKS);
     const track = root.querySelector('.flow-track');
     const cap = root.querySelector('.flow-caption');
-    track.innerHTML = ids.map(id => '<li class="flow-item" data-id="' + id + '"><a class="cover flow-cover" href="book.html?book=' + id + '" style="--cloth:' + BOOKS[id].cloth + '" aria-label="' + esc(BOOKS[id].title) + '">' + coverHTML(BOOKS[id]) + '</a></li>').join('');
+    track.innerHTML = ids.map(id => '<li class="flow-item" data-id="' + id + '"><a class="cover flow-cover" href="book.html?book=' + id + '" style="--cloth:' + BOOKS[id].cloth + '" aria-label="' + esc(BOOKS[id].title) + '">' + coverHTML(BOOKS[id], id) + '</a></li>').join('');
     const items = Array.from(track.children);
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     let current = -1, raf = 0;
