@@ -44,6 +44,17 @@
     </div>
   </div>
 
+  <section class="flow" id="flow" aria-label="Browse the library">
+    <h2 class="flow-head">Take one down</h2>
+    <div class="flow-stage">
+      <button type="button" class="flow-arrow flow-prev" aria-label="Previous book">&#8592;</button>
+      <ul class="flow-track" tabindex="0" aria-label="Books. Use the left and right arrow keys."></ul>
+      <button type="button" class="flow-arrow flow-next" aria-label="Next book">&#8594;</button>
+    </div>
+    <div class="flow-caption" aria-live="polite"></div>
+    <p class="shelf-links"><a href="library.html">Browse the whole library</a></p>
+  </section>
+
   <section class="folio folio-figures">
     <h2>Fewer people are reading</h2>
     <div class="figures">
@@ -117,6 +128,7 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   OMLIB.renderShelf(document.getElementById('shelf'));
+  OMLIB.renderFlow(document.getElementById('flow'));
   var l = OMLIB.lastRead(), a = document.getElementById('primary-action');
   if (l) {
     var b = window.OMBOOKS[l.book];
