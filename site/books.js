@@ -46,7 +46,7 @@ window.OMBOOKS = {
     meta: 'A selection, in twelve poets'
   },
   'billy-budd': {
-    form: 'Novella', notes: 0,
+    form: 'Novella', notes: 884,
     title: 'Billy Budd, Sailor', coverTitle: 'Billy Budd,<br>Sailor', sub: 'An Inside Narrative', author: 'Herman Melville', year: 1924, chapters: 30,
     unit: 'Chapter', cloth: '#33505a', coverClass: 'long',
     textSource: 'Constable and Company edition (London, 1924), from the Penn State Electronic Classics copy at the Internet Archive, public domain.',

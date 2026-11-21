@@ -4,7 +4,7 @@ Free, open annotated editions of classic books for high school and college stude
 
 Classic books are free to read online, but they are full of words, places, people, and events that modern readers don't know. Open Margins puts a short note in the margin wherever a reader is likely to get stuck, and releases every note under an open license so teachers, students, and other projects can reuse them.
 
-**Library:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters; *Heart of Darkness* by Joseph Conrad (1899), all three parts; *The Death of Ivan Ilyich* by Leo Tolstoy (1886, trans. Constance Garnett), all twelve chapters; *Bartleby, the Scrivener* by Herman Melville (1853), all six parts; *Siddhartha* by Hermann Hesse (1922), all twelve chapters; *The Romantic Poets*, the 123 poems of Palgrave’s *Golden Treasury* Fourth Book (1861), regrouped under twelve poets.
+**Library:** *Lord Jim* by Joseph Conrad (1900), all 45 chapters; *Heart of Darkness* by Joseph Conrad (1899), all three parts; *The Death of Ivan Ilyich* by Leo Tolstoy (1886, trans. Constance Garnett), all twelve chapters; *Bartleby, the Scrivener* by Herman Melville (1853), all six parts; *Siddhartha* by Hermann Hesse (1922), all twelve chapters; *The Romantic Poets*, the 123 poems of Palgrave’s *Golden Treasury* Fourth Book (1861), regrouped under twelve poets; *Billy Budd, Sailor* by Herman Melville (written 1888 to 1891, first published 1924), all thirty chapters.
 
 ## Why?
 
@@ -30,6 +30,7 @@ texts/ivan-ilyich/         Chapters 1 to 12 as ch01.txt to ch12.txt
 texts/bartleby/            Parts 1 to 6 as ch01.txt to ch06.txt
 texts/siddhartha/          Chapters 1 to 12 as ch01.txt to ch12.txt
 texts/romantic-poets/      Twelve poets as ch01.txt to ch12.txt
+texts/billy-budd/          Chapters 1 to 30 as ch01.txt to ch30.txt
 notes/SCHEMA.md            Annotation format
 notes/lord-jim/ch1.json    Annotations, one JSON file per chapter (heart-of-darkness/ likewise, per part)
 site/books.js              The library registry shared by every page
