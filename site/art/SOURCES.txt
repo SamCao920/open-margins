@@ -7,3 +7,4 @@ kramskoi.jpg <- https://commons.wikimedia.org/wiki/File:Ivan_Nikolayevich_Kramsk
 wallst.jpg <- https://commons.wikimedia.org/wiki/File:Wall_Street%2C_Half_Past_Two%2C_October_13%2C_1857_MET_DP241867.jpg
 ganges.jpg <- https://commons.wikimedia.org/wiki/File:Weeks_Edwin_The_Barge_Of_The_Maharaja_Of_Benares.jpg
 shelley.jpg <- https://commons.wikimedia.org/wiki/File:Joseph_Severn_%281793-1879%29_-_Shelley_Composing_%E2%80%98Prometheus_Unbound%E2%80%99_in_the_Baths_of_Caracalla_-_2006.L2_-_Dove_Cottage.jpg
+pocock.jpg <- https://commons.wikimedia.org/wiki/File:Nicholas_Pocock_%281740-1821%29_%28after%29_-_The_%27Brunswick%27_and_the_Sinking_%27Vengeur%27_after_the_Battle_of_the_Glorious_First_of_June%2C_1794_-_P20339_-_HMS_Excellent.jpg
