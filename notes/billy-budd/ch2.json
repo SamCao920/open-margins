@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ch2-001",
+    "anchor": "that cynosure he had previously been",
+    "layer": "vocab",
+    "note": "Cynosure: the center of everyone’s attention. Billy was admired on merchant ships but is less noticed on a big warship.",
+    "source": "Merriam-Webster, “cynosure”, https://www.merriam-webster.com/dictionary/cynosure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-002",
+    "anchor": "minor ship’s companies of the merchant marine",
+    "layer": "vocab",
+    "note": "Merchant marine: the civilian ships that carry cargo, as opposed to the navy’s warships.",
+    "source": "Merriam-Webster, “merchant marine”, https://www.merriam-webster.com/dictionary/merchant%20marine",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-003",
+    "anchor": "a lingering adolescent expression",
+    "layer": "vocab",
+    "note": "Adolescent: of a young person between childhood and adulthood.",
+    "source": "Merriam-Webster, “adolescent”, https://www.merriam-webster.com/dictionary/adolescent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-004",
+    "anchor": "factitious life",
+    "layer": "vocab",
+    "note": "Factitious: artificial, produced by society rather than nature. Billy has little experience of such life.",
+    "source": "Merriam-Webster, “factitious”, https://www.merriam-webster.com/dictionary/factitious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-005",
+    "anchor": "had there been any conceit or vanity",
+    "layer": "vocab",
+    "note": "Conceit: too high an opinion of oneself.",
+    "source": "Merriam-Webster, “conceit”, https://www.merriam-webster.com/dictionary/conceit",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-006",
+    "anchor": "more signally susceptive of that air",
+    "layer": "vocab",
+    "note": "Signally: markedly, to a noticeable degree. Susceptive: able to take on an impression.",
+    "source": "Merriam-Webster, “signally”, https://www.merriam-webster.com/dictionary/signally",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-007",
+    "anchor": "a rustic beauty transplanted from the provinces",
+    "layer": "vocab",
+    "note": "Rustic: of the countryside. The comparison is to a country girl brought to a fashionable court.",
+    "source": "Merriam-Webster, “rustic”, https://www.merriam-webster.com/dictionary/rustic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-008",
+    "anchor": "the highborn dames of the court",
+    "layer": "vocab",
+    "note": "Dames: ladies of rank and title, the women of the court.",
+    "source": "Merriam-Webster, “dame”, https://www.merriam-webster.com/dictionary/dame",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-009",
+    "anchor": "the Saxon strain would seem not at all to partake",
+    "layer": "vocab",
+    "note": "The Anglo-Saxons and the Normans were the two peoples blended in the English. Melville imagines a purely Saxon line.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-010",
+    "anchor": "the Greek sculptor in some instances gave to his heroic strong man, Hercules",
+    "layer": "allusion",
+    "note": "Hercules was the Greek hero of great strength. Greek and Roman sculptors often showed him calm and good-natured as well as powerful.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hercules”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hercules",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-011",
+    "anchor": "the indurated hand dyed to the orange-tawny of the toucan’s bill",
+    "layer": "vocab",
+    "note": "Indurated: hardened. Tawny: a yellowish brown. A toucan is a tropical bird with a large orange bill.",
+    "source": "Merriam-Webster, “indurate”, https://www.merriam-webster.com/dictionary/indurate; Merriam-Webster, “tawny”, https://www.merriam-webster.com/dictionary/tawny",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-012",
+    "anchor": "a hand telling alike of the halyards and tar-bucket",
+    "layer": "vocab",
+    "note": "Halyards are ropes that hoist sails. Sailors handled tarred rope, so their hands were stained.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Halliards”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-013",
+    "anchor": "formally mustered into the service",
+    "layer": "vocab",
+    "note": "Mustered: officially enrolled and counted.",
+    "source": "Merriam-Webster, “muster”, https://www.merriam-webster.com/dictionary/muster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-014",
+    "anchor": "a small brisk little gentleman",
+    "layer": "vocab",
+    "note": "Brisk: quick and lively in manner, here the little officer.",
+    "source": "Merriam-Webster, “brisk”, https://www.merriam-webster.com/dictionary/brisk",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-015",
+    "anchor": "found in a pretty silklined basket hanging one morning from the knocker of a good man’s door in Bristol",
+    "layer": "place",
+    "note": "Bristol is a large port city in the west of England. Foundlings were often left on the doorsteps of respectable houses.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bristol”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bristol",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-016",
+    "anchor": "a presumable by-blow",
+    "layer": "vocab",
+    "note": "By-blow: an illegitimate child, born outside marriage.",
+    "source": "Merriam-Webster, “by-blow”, https://www.merriam-webster.com/dictionary/by-blow",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-017",
+    "anchor": "Noble descent was as evident in him as in a blood horse",
+    "layer": "vocab",
+    "note": "Blood horse: a thoroughbred, a horse of pure breeding. Melville says Billy’s good birth shows in his looks.",
+    "source": "Merriam-Webster, “blood horse”, https://www.merriam-webster.com/dictionary/blood%20horse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-018",
+    "anchor": "the wisdom of the serpent",
+    "layer": "allusion",
+    "note": "Jesus tells his disciples, “Be ye therefore wise as serpents, and harmless as doves.” Billy has neither the serpent’s wisdom nor quite the dove’s innocence.",
+    "source": "The Bible (King James Version), Matthew 10:16, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-019",
+    "anchor": "the questionable apple of knowledge",
+    "layer": "allusion",
+    "note": "The fruit of the tree of knowledge of good and evil in Eden, which Adam and Eve ate against God’s command.",
+    "source": "The Bible (King James Version), Genesis 3:6, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-020",
+    "anchor": "the illiterate nightingale",
+    "layer": "vocab",
+    "note": "Illiterate: unable to read or write. Billy cannot read but makes up songs, as a nightingale sings without being taught.",
+    "source": "Merriam-Webster, “illiterate”, https://www.merriam-webster.com/dictionary/illiterate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-021",
+    "anchor": "a dog of Saint Bernard’s breed",
+    "layer": "vocab",
+    "note": "The Saint Bernard is a large Swiss dog bred to rescue travelers in the Alps. It is known for gentleness.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-022",
+    "anchor": "the terraqueous globe",
+    "layer": "vocab",
+    "note": "Terraqueous: made up of land and water. Melville uses it for the earth, a mock-learned phrase.",
+    "source": "Merriam-Webster, “terraqueous”, https://www.merriam-webster.com/dictionary/terraqueous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-023",
+    "anchor": "dance-houses, doxies and tapsters",
+    "layer": "vocab",
+    "note": "Doxies: women of loose morals. Tapsters: those who tap kegs and serve drinks.",
+    "source": "Merriam-Webster, “doxy”, https://www.merriam-webster.com/dictionary/doxy; Merriam-Webster, “tapster”, https://www.merriam-webster.com/dictionary/tapster",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-024",
+    "anchor": "call a “fiddlers’-green",
+    "layer": "vocab",
+    "note": "Fiddlers’ green: a sailors’ name for a place on shore with drink, music, and women, or for their imagined paradise.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-025",
+    "anchor": "unsophisticated by those moral obliquities",
+    "layer": "vocab",
+    "note": "Unsophisticated: simple and natural. Obliquities: departures from what is right.",
+    "source": "Merriam-Webster, “obliquity”, https://www.merriam-webster.com/dictionary/obliquity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-026",
+    "anchor": "exuberance of vitality after long constraint",
+    "layer": "vocab",
+    "note": "Exuberance: overflowing energy and high spirits, here sailors let loose after long constraint.",
+    "source": "Merriam-Webster, “exuberance”, https://www.merriam-webster.com/dictionary/exuberance",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-027",
+    "anchor": "a sort of upright barbarian",
+    "layer": "vocab",
+    "note": "Barbarian: here, a man of simple natural ways, not made soft or crooked by civilization.",
+    "source": "Merriam-Webster, “barbarian”, https://www.merriam-webster.com/dictionary/barbarian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-028",
+    "anchor": "ere the urbane Serpent wriggled himself into his company",
+    "layer": "allusion",
+    "note": "In Genesis, the serpent tempts Eve to eat the forbidden fruit and brings sin into the world.",
+    "source": "The Bible (King James Version), Genesis 3:1, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-029",
+    "anchor": "the doctrine of man’s fall",
+    "layer": "allusion",
+    "note": "The Christian teaching that all people fell from innocence through the sin of Adam and Eve in Eden.",
+    "source": "The Bible (King James Version), Genesis 3:6, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-030",
+    "anchor": "prior to Cain’s city and citified man",
+    "layer": "allusion",
+    "note": "After killing Abel, Cain founded the first city, which Melville treats as the start of civilization and its corruption.",
+    "source": "The Bible (King James Version), Genesis 4:17, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-031",
+    "anchor": "an unvitiated taste",
+    "layer": "vocab",
+    "note": "Unvitiated: not spoiled or corrupted.",
+    "source": "Merriam-Webster, “vitiate”, https://www.merriam-webster.com/dictionary/vitiate",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-032",
+    "anchor": "Caspar Hauser",
+    "layer": "history",
+    "note": "Kaspar Hauser appeared in the streets of Nuremberg in 1828, a bewildered youth who seemed to have lived in isolation and who became a European mystery.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Hauser, Kaspar”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hauser%2C_Kaspar",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-033",
+    "anchor": "an occasional liability to a vocal defect",
+    "layer": "vocab",
+    "note": "Billy sometimes stutters badly when he feels something strongly.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-034",
+    "anchor": "an organic hesitancy",
+    "layer": "vocab",
+    "note": "Organic: of the body’s own structure, so not from nervousness alone.",
+    "source": "Merriam-Webster, “organic”, https://www.merriam-webster.com/dictionary/organic",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-035",
+    "anchor": "the envious marplot of Eden",
+    "layer": "vocab",
+    "note": "Marplot: someone who spoils a plan by meddling. Here it means the Devil, who spoiled Eden.",
+    "source": "Merriam-Webster, “marplot”, https://www.merriam-webster.com/dictionary/marplot",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch2-036",
+    "anchor": "no romance",
+    "layer": "vocab",
+    "note": "Romance: here, a story of adventure and idealized heroes. Melville warns that his tale will be plainer and grimmer.",
+    "source": "Merriam-Webster, “romance”, https://www.merriam-webster.com/dictionary/romance",
+    "status": "draft",
+    "checker": null
+  }
+]

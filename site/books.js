@@ -44,5 +44,14 @@ window.OMBOOKS = {
     textNote: 'Palgrave\u2019s Fourth Book (poems 166 to 288), regrouped by poet and kept in his numbering; his notes and the other three books are not included.',
     blurb: 'A hundred and twenty-three lyrics by the poets of the Romantic age, picked by a Victorian anthologist.',
     meta: 'A selection, in twelve poets'
+  },
+  'billy-budd': {
+    form: 'Novella', notes: 0,
+    title: 'Billy Budd, Sailor', coverTitle: 'Billy Budd,<br>Sailor', sub: 'An Inside Narrative', author: 'Herman Melville', year: 1924, chapters: 30,
+    unit: 'Chapter', cloth: '#33505a', coverClass: 'long',
+    textSource: 'Constable and Company edition (London, 1924), from the Penn State Electronic Classics copy at the Internet Archive, public domain.',
+    textNote: 'Melville left the story unfinished at his death in 1891 and it was first printed in 1924; this is that first edition, not the later scholarly text, which differs in places.',
+    blurb: 'On a British warship in 1797, the master-at-arms accuses a young, well-loved sailor of plotting mutiny, and a captain must judge him.',
+    meta: 'The complete novella, in thirty chapters'
   }
 };

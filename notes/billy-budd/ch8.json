@@ -1,0 +1,404 @@
+[
+  {
+    "id": "ch8-001",
+    "anchor": "the warrant-officers",
+    "layer": "vocab",
+    "note": "Warrant officers, such as the gunner, held rank by warrant, below commissioned officers.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Warrant-officers”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-002",
+    "anchor": "the petty-officers",
+    "layer": "vocab",
+    "note": "Petty officers were senior sailors with authority over the ordinary crew, below the warrant officers.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Petty-officers”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-003",
+    "anchor": "John Claggart, the Master-at-arms",
+    "layer": "vocab",
+    "note": "On a warship the master-at-arms was the petty officer who kept order and acted somewhat like a policeman.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Master-at-arms”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-004",
+    "anchor": "somewhat equivocal",
+    "layer": "vocab",
+    "note": "Equivocal: having two meanings, unclear.",
+    "source": "Merriam-Webster, “equivocal”, https://www.merriam-webster.com/dictionary/equivocal",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-005",
+    "anchor": "sword or cutlas",
+    "layer": "vocab",
+    "note": "A cutlass is a short, heavy curved sword used at sea.",
+    "source": "Merriam-Webster, “cutlass”, https://www.merriam-webster.com/dictionary/cutlass",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-006",
+    "anchor": "giving to nitre and sulphur the preeminence over steel",
+    "layer": "vocab",
+    "note": "Nitre and sulphur are the ingredients of gunpowder, which replaced hand-to-hand fighting with swords.",
+    "source": "Merriam-Webster, “niter”, https://www.merriam-webster.com/dictionary/niter",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-007",
+    "anchor": "a sort of Chief of Police",
+    "layer": "vocab",
+    "note": "The master-at-arms enforced order below decks, much as a police chief does.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-008",
+    "anchor": "the populous lower gun decks",
+    "layer": "vocab",
+    "note": "Populous: crowded with people, as the lower gun decks were.",
+    "source": "Merriam-Webster, “populous”, https://www.merriam-webster.com/dictionary/populous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-009",
+    "anchor": "cleanly cut as those on a Greek medallion",
+    "layer": "vocab",
+    "note": "A medallion is a large medal or round plaque with a portrait, here with fine, regular features.",
+    "source": "Merriam-Webster, “medallion”, https://www.merriam-webster.com/dictionary/medallion",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-010",
+    "anchor": "beardless as Tecumseh’s",
+    "layer": "history",
+    "note": "Tecumseh was a famous Shawnee leader who led resistance to American expansion in the early 1800s.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tecumseh”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tecumseh",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-011",
+    "anchor": "the Rev. Dr. Titus Oates",
+    "layer": "history",
+    "note": "Titus Oates (1649 to 1705) invented the Popish Plot of 1678, a false tale of a Catholic conspiracy that led to the execution of innocent people.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Oates, Titus”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Oates%2C_Titus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-012",
+    "anchor": "phrenologically associated with more than average intellect",
+    "layer": "vocab",
+    "note": "Phrenology was a nineteenth-century pseudoscience that claimed the shape of the skull showed a person’s mental powers.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Phrenology”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Phrenology",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-013",
+    "anchor": "making a foil to the pallor below",
+    "layer": "vocab",
+    "note": "Foil: something whose contrast sets off another.",
+    "source": "Merriam-Webster, “foil”, https://www.merriam-webster.com/dictionary/foil",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-014",
+    "anchor": "a pallor tinged with a faint shade of amber",
+    "layer": "vocab",
+    "note": "Pallor: unhealthy paleness of the skin, here Claggart’s amber tint.",
+    "source": "Merriam-Webster, “pallor”, https://www.merriam-webster.com/dictionary/pallor",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-015",
+    "anchor": "keeping incog.",
+    "layer": "vocab",
+    "note": "Incog: short for incognito, hiding one’s true identity.",
+    "source": "Merriam-Webster, “incognito”, https://www.merriam-webster.com/dictionary/incognito",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-016",
+    "anchor": "naturalization in early childhood",
+    "layer": "vocab",
+    "note": "Naturalization: becoming a citizen of a country where one was not born.",
+    "source": "Merriam-Webster, “naturalization”, https://www.merriam-webster.com/dictionary/naturalization",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-017",
+    "anchor": "a rumor perdue",
+    "layer": "vocab",
+    "note": "Perdue: French for lost, hidden. A secret rumor passed in whispers.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-018",
+    "anchor": "a chevalier who had volunteered into the King’s Navy",
+    "layer": "vocab",
+    "note": "Chevalier: a French knight or gentleman, here a man of some rank in disgrace.",
+    "source": "Merriam-Webster, “chevalier”, https://www.merriam-webster.com/dictionary/chevalier",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-019",
+    "anchor": "compounding for some mysterious swindle",
+    "layer": "vocab",
+    "note": "Compounding: settling a charge by agreement. The rumor says he joined the navy to escape trial.",
+    "source": "Merriam-Webster, “compound”, https://www.merriam-webster.com/dictionary/compound",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-020",
+    "anchor": "arraigned at the King’s Bench",
+    "layer": "vocab",
+    "note": "Arraigned: formally charged in court. The King’s Bench was a high English court.",
+    "source": "Merriam-Webster, “arraign”, https://www.merriam-webster.com/dictionary/arraign",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-021",
+    "anchor": "the tarry old wiseacres",
+    "layer": "vocab",
+    "note": "Wiseacres: people who claim to be wise but are not.",
+    "source": "Merriam-Webster, “wiseacre”, https://www.merriam-webster.com/dictionary/wiseacre",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-022",
+    "anchor": "the invidious a vague field for unfavorable surmise",
+    "layer": "vocab",
+    "note": "Invidious: likely to provoke resentment, spiteful. Surmise: a guess.",
+    "source": "Merriam-Webster, “invidious”, https://www.merriam-webster.com/dictionary/invidious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-023",
+    "anchor": "press-gangs notoriously abroad both afloat and ashore",
+    "layer": "history",
+    "note": "Press-gangs were parties of sailors sent to seize men for the navy by force. They worked both in ports and at sea.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Impressment”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Impressment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-024",
+    "anchor": "at liberty to capture any able-bodied suspect",
+    "layer": "vocab",
+    "note": "Able-bodied: physically fit and strong enough for service.",
+    "source": "Merriam-Webster, “able-bodied”, https://www.merriam-webster.com/dictionary/able-bodied",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-025",
+    "anchor": "Insolvent debtors of minor grade",
+    "layer": "vocab",
+    "note": "Insolvent: unable to pay one’s debts.",
+    "source": "Merriam-Webster, “insolvent”, https://www.merriam-webster.com/dictionary/insolvent",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-026",
+    "anchor": "the promiscuous lame ducks of morality",
+    "layer": "vocab",
+    "note": "Lame ducks: failures who cannot keep up. Promiscuous: of mixed, indiscriminate kinds.",
+    "source": "Merriam-Webster, “lame duck”, https://www.merriam-webster.com/dictionary/lame%20duck",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-027",
+    "anchor": "as much in sanctuary, as the transgressor of the Middle Ages",
+    "layer": "vocab",
+    "note": "Sanctuary: a place where criminals were safe from arrest, such as a church.",
+    "source": "Merriam-Webster, “sanctuary”, https://www.merriam-webster.com/dictionary/sanctuary",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-028",
+    "anchor": "an old pensioner in a cocked hat with whom I had a most interesting talk on the terrace at Greenwich",
+    "layer": "place",
+    "note": "Greenwich Hospital was a home for old and disabled navy sailors. Its pensioners were a familiar sight.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Greenwich”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Greenwich",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-029",
+    "anchor": "a Trafalgar man",
+    "layer": "vocab",
+    "note": "A man who had fought in Nelson’s great victory in 1805.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Trafalgar, Battle of”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trafalgar%2C_Battle_of",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-030",
+    "anchor": "the deficient quota",
+    "layer": "vocab",
+    "note": "Quota: the required number of men for the ship.",
+    "source": "Merriam-Webster, “quota”, https://www.merriam-webster.com/dictionary/quota",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-031",
+    "anchor": "eked out by draughts culled direct from the jails",
+    "layer": "vocab",
+    "note": "Eked out: stretched to make enough. Draughts: drafts, groups of men chosen and sent. Culled: picked out.",
+    "source": "Merriam-Webster, “eke”, https://www.merriam-webster.com/dictionary/eke",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-032",
+    "anchor": "rose shrieking from the din and dust of the fallen Bastille",
+    "layer": "history",
+    "note": "The Bastille, a royal fortress in Paris, was stormed by the Parisians on 14 July 1789. Its fall began the French Revolution.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bastille”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bastille",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-033",
+    "anchor": "Americans who had fought at Bunker Hill",
+    "layer": "history",
+    "note": "Bunker Hill, near Boston in June 1775, was the first considerable battle of the American War of Independence, fought by men then still living.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bunker Hill”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bunker_Hill",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-034",
+    "anchor": "this French upstart from the revolutionary chaos",
+    "layer": "vocab",
+    "note": "Upstart: a person who has risen suddenly to power. Here Napoleon.",
+    "source": "Merriam-Webster, “upstart”, https://www.merriam-webster.com/dictionary/upstart",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-035",
+    "anchor": "judgement prefigured in the Apocalypse",
+    "layer": "allusion",
+    "note": "The Apocalypse, or Book of Revelation, foretells terrible judgments before the end of the world.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Apocalypse”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Apocalypse",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-036",
+    "anchor": "the sea quid-nuncs",
+    "layer": "vocab",
+    "note": "Quid-nunc: a gossip, from Latin for “what now?”",
+    "source": "Merriam-Webster, “quidnunc”, https://www.merriam-webster.com/dictionary/quidnunc",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-037",
+    "anchor": "the man brokers and land-sharks of the sea-ports",
+    "layer": "vocab",
+    "note": "Land-sharks: swindlers who preyed on sailors ashore.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Land-shark”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-038",
+    "anchor": "his constitutional sobriety",
+    "layer": "vocab",
+    "note": "Sobriety: seriousness, soberness. Claggart seems steady and serious.",
+    "source": "Merriam-Webster, “sobriety”, https://www.merriam-webster.com/dictionary/sobriety",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-039",
+    "anchor": "ingratiating deference to superiors",
+    "layer": "vocab",
+    "note": "Ingratiating: trying to win favor.",
+    "source": "Merriam-Webster, “ingratiating”, https://www.merriam-webster.com/dictionary/ingratiating",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-040",
+    "anchor": "a peculiar ferreting genius",
+    "layer": "vocab",
+    "note": "Ferreting: searching out secrets, as a ferret hunts rabbits.",
+    "source": "Merriam-Webster, “ferret”, https://www.merriam-webster.com/dictionary/ferret",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-041",
+    "anchor": "a certain austere patriotism",
+    "layer": "vocab",
+    "note": "Austere: stern and strict, without softness or show of feeling.",
+    "source": "Merriam-Webster, “austere”, https://www.merriam-webster.com/dictionary/austere",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-042",
+    "anchor": "the ship’s-corporals",
+    "layer": "vocab",
+    "note": "Ship’s corporals were petty officers who helped the master-at-arms keep order.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Ship’s corporal”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-043",
+    "anchor": "converging wires of underground influence",
+    "layer": "vocab",
+    "note": "Converging: coming together. The master-at-arms controls hidden channels of influence.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-044",
+    "anchor": "his understrappers",
+    "layer": "vocab",
+    "note": "Understrappers: underlings, lowly assistants who do his work.",
+    "source": "Merriam-Webster, “understrapper”, https://www.merriam-webster.com/dictionary/understrapper",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch8-045",
+    "anchor": "the sea-commonalty",
+    "layer": "vocab",
+    "note": "Commonalty: the common people, here the ordinary crew.",
+    "source": "Merriam-Webster, “commonalty”, https://www.merriam-webster.com/dictionary/commonalty",
+    "status": "draft",
+    "checker": null
+  }
+]

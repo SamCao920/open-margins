@@ -1,0 +1,234 @@
+[
+  {
+    "id": "ch4-001",
+    "anchor": "some by-paths have an enticement",
+    "layer": "vocab",
+    "note": "Enticement: attraction, a pull toward something tempting.",
+    "source": "Merriam-Webster, “enticement”, https://www.merriam-webster.com/dictionary/enticement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-002",
+    "anchor": "the original introduction from China into Europe of gunpowder",
+    "layer": "history",
+    "note": "Gunpowder, an explosive of saltpetre, charcoal, and sulphur, altered the whole art of war after it reached Europe.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Gunpowder”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gunpowder",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-003",
+    "anchor": "scouted by no few of the knights as a base implement",
+    "layer": "vocab",
+    "note": "Scouted: rejected with scorn. Base: low, unworthy.",
+    "source": "Merriam-Webster, “scout”, https://www.merriam-webster.com/dictionary/scout",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-004",
+    "anchor": "good enough peradventure for weavers too craven",
+    "layer": "vocab",
+    "note": "Peradventure: perhaps. Craven: cowardly, too timid to fight in the open.",
+    "source": "Merriam-Webster, “peradventure”, https://www.merriam-webster.com/dictionary/peradventure; Merriam-Webster, “craven”, https://www.merriam-webster.com/dictionary/craven",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-005",
+    "anchor": "knightly valor, tho’ shorn of its blazonry",
+    "layer": "vocab",
+    "note": "Blazonry: the display of coats of arms and show. Valor kept going without the show.",
+    "source": "Merriam-Webster, “blazonry”, https://www.merriam-webster.com/dictionary/blazonry",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-006",
+    "anchor": "naval magnates as Don John of Austria",
+    "layer": "history",
+    "note": "Don John of Austria led the Christian fleet that defeated the Turks at the Battle of Lepanto in 1571.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Lepanto, Battle of”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lepanto%2C_Battle_of",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-007",
+    "anchor": "Doria",
+    "layer": "history",
+    "note": "Andrea Doria (1466 to 1560) was a Genoese soldier of fortune who became a famous admiral.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Doria, Andrea”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Doria%2C_Andrea",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-008",
+    "anchor": "Van Tromp",
+    "layer": "history",
+    "note": "Tromp is the name of two famous Dutch admirals, a father and son of the 1600s.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tromp”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tromp",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-009",
+    "anchor": "Jean Bart",
+    "layer": "history",
+    "note": "Jean Bart was a French naval commander from Dunkirk who rose from fisherman’s son to hero in the wars of Louis XIV.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bart, Jean”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bart%2C_Jean",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-010",
+    "anchor": "the American Decaturs of 1812",
+    "layer": "history",
+    "note": "Stephen Decatur was an American naval officer, famous for burning the captured frigate Philadelphia at Tripoli in 1804 and for fighting in the War of 1812.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Decatur, Stephen”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Decatur%2C_Stephen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-011",
+    "anchor": "their wooden walls",
+    "layer": "vocab",
+    "note": "Wooden walls: the old name for wooden warships as England’s defense.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-012",
+    "anchor": "a poetic reproach, softened by its picturesqueness",
+    "layer": "vocab",
+    "note": "Picturesqueness: beauty fit for a picture.",
+    "source": "Merriam-Webster, “picturesque”, https://www.merriam-webster.com/dictionary/picturesque",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-013",
+    "anchor": "to the Monitors and yet mightier hulls of the European ironclads",
+    "layer": "vocab",
+    "note": "Ironclads were steam warships armored with iron plates. Monitors were an American type with a revolving gun turret.",
+    "source": "Merriam-Webster, “ironclad”, https://www.merriam-webster.com/dictionary/ironclad",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-014",
+    "anchor": "to the extent of iconoclasm",
+    "layer": "vocab",
+    "note": "Iconoclasm: attacking cherished beliefs and traditions. The modern critic is willing to smash old idols.",
+    "source": "Merriam-Webster, “iconoclasm”, https://www.merriam-webster.com/dictionary/iconoclasm",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-015",
+    "anchor": "these martial utilitarians",
+    "layer": "vocab",
+    "note": "Utilitarians: people who judge things by their practical usefulness.",
+    "source": "Merriam-Webster, “utilitarian”, https://www.merriam-webster.com/dictionary/utilitarian",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-016",
+    "anchor": "Nelson’s ornate publication of his person in battle",
+    "layer": "history",
+    "note": "At Trafalgar Nelson walked the quarter deck of the Victory and was struck by a musket shot from the French ship Redoubtable that broke his spine.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Nelson, Horatio Nelson, Viscount”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nelson%2C_Horatio_Nelson%2C_Viscount",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-017",
+    "anchor": "savored of foolhardiness and vanity",
+    "layer": "vocab",
+    "note": "Foolhardiness: reckless daring that ignores danger.",
+    "source": "Merriam-Webster, “foolhardiness”, https://www.merriam-webster.com/dictionary/foolhardiness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-018",
+    "anchor": "his sagacious dying injunctions overruled",
+    "layer": "vocab",
+    "note": "Sagacious: wise. Injunctions: orders. Nelson’s dying order to anchor was reportedly not followed after the battle.",
+    "source": "Merriam-Webster, “sagacious”, https://www.merriam-webster.com/dictionary/sagacious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-019",
+    "anchor": "the Benthamites of war",
+    "layer": "history",
+    "note": "Benthamites were followers of Jeremy Bentham, a philosopher who judged laws and acts by their usefulness.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bentham, Jeremy”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bentham%2C_Jeremy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-020",
+    "anchor": "the might-have-been is but boggy ground to build on",
+    "layer": "vocab",
+    "note": "Boggy ground cannot hold a building. Melville says guessing about what might have happened is not reliable.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-021",
+    "anchor": "buoying the deadly way and mapping it out, as at Copenhagen",
+    "layer": "history",
+    "note": "Before Copenhagen in 1801, boats of the British fleet sounded the channel so that Nelson could bring his ships through.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Copenhagen”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Copenhagen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-022",
+    "anchor": "few commanders have been so painstakingly circumspect",
+    "layer": "vocab",
+    "note": "Circumspect: careful, looking at all possible consequences.",
+    "source": "Merriam-Webster, “circumspect”, https://www.merriam-webster.com/dictionary/circumspect",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-023",
+    "anchor": "If the name Wellington is not so much of a trumpet to the blood",
+    "layer": "history",
+    "note": "Wellington defeated Napoleon at Waterloo in 1815. Melville says his name stirs the blood less than Nelson’s.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Wellington, Arthur Wellesley, 1st Duke of”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Wellington%2C_Arthur_Wellesley%2C_1st_Duke_of",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-024",
+    "anchor": "Alfred in his funeral ode on the victor of Waterloo",
+    "layer": "history",
+    "note": "Alfred Tennyson wrote the Ode on the Death of the Duke of Wellington, published in 1852.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Tennyson, Alfred Tennyson, 1st Baron”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Tennyson%2C_Alfred_Tennyson%2C_1st_Baron",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-025",
+    "anchor": "the jewelled vouchers of his own shining deeds",
+    "layer": "vocab",
+    "note": "Vouchers: proofs or evidence. Nelson’s decorations were jewelled proofs of his achievements.",
+    "source": "Merriam-Webster, “voucher”, https://www.merriam-webster.com/dictionary/voucher",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch4-026",
+    "anchor": "affectation and fustian",
+    "layer": "vocab",
+    "note": "Affectation: false show. Fustian: pompous, empty language.",
+    "source": "Merriam-Webster, “fustian”, https://www.merriam-webster.com/dictionary/fustian",
+    "status": "draft",
+    "checker": null
+  }
+]

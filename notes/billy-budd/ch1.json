@@ -1,0 +1,689 @@
+[
+  {
+    "id": "ch1-001",
+    "anchor": "man-of-war’s men",
+    "layer": "vocab",
+    "note": "Man-of-war’s men: sailors who serve on a warship rather than a merchant ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Man-of-war”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-002",
+    "anchor": "attire ashore on liberty",
+    "layer": "vocab",
+    "note": "Liberty: leave granted to sailors to go ashore for a short time.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Liberty”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-003",
+    "anchor": "like Aldebaran among the lesser lights",
+    "layer": "allusion",
+    "note": "Aldebaran is a bright star in the constellation Taurus, known since Greek times. Melville compares the sailor to it among the dimmer stars around.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Taurus”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Taurus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-004",
+    "anchor": "That signal object was the “Handsome Sailor”",
+    "layer": "vocab",
+    "note": "A phrase for the finest-looking sailor, admired by his shipmates as a natural leader.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-005",
+    "anchor": "the vainglorious",
+    "layer": "vocab",
+    "note": "Vainglorious: boastful and full of empty pride, showing off.",
+    "source": "Merriam-Webster, “vainglorious”, https://www.merriam-webster.com/dictionary/vainglorious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-006",
+    "anchor": "natural regality",
+    "layer": "vocab",
+    "note": "Regality: the dignity of a king.",
+    "source": "Merriam-Webster, “regality”, https://www.merriam-webster.com/dictionary/regality",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-007",
+    "anchor": "native African of the unadulterate blood of Ham",
+    "layer": "allusion",
+    "note": "In Genesis, Ham is a son of Noah, and nineteenth-century writers wrongly treated him as the ancestor of Africans. Melville uses that old and racist phrase for a Black sailor.",
+    "source": "The Bible (King James Version), Genesis 9:18, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-008",
+    "anchor": "the displayed ebony of his chest",
+    "layer": "vocab",
+    "note": "Ebony: a very dark black wood. Melville uses it as a color word for the sailor’s skin.",
+    "source": "Merriam-Webster, “ebony”, https://www.merriam-webster.com/dictionary/ebony",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-009",
+    "anchor": "black pagod",
+    "layer": "vocab",
+    "note": "Pagod: an idol, or the temple that houses one. Melville compares the sailor to a statue.",
+    "source": "Merriam-Webster, “pagoda”, https://www.merriam-webster.com/dictionary/pagoda",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-010",
+    "anchor": "a nautical Murat",
+    "layer": "history",
+    "note": "Joachim Murat was a French cavalry general under Napoleon, famous for his showy costumes. A nautical Murat means a sailor who dressed up elaborately.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Murat, Joachim”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Murat%2C_Joachim",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-011",
+    "anchor": "Billy-be-Damn",
+    "layer": "vocab",
+    "note": "A nickname for a bragging, swaggering boatman of the American canals.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-012",
+    "anchor": "vaporing in the groggeries",
+    "layer": "vocab",
+    "note": "Vaporing: bragging. Groggeries: low drinking places that sold grog.",
+    "source": "Merriam-Webster, “vapor”, https://www.merriam-webster.com/dictionary/vapor; Merriam-Webster, “groggery”, https://www.merriam-webster.com/dictionary/groggery",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-013",
+    "anchor": "a mighty boxer or wrestler",
+    "layer": "vocab",
+    "note": "The Handsome Sailor is also a champion fighter among sailors.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-014",
+    "anchor": "Close-reefing top-sails in a gale",
+    "layer": "vocab",
+    "note": "Reefing: tying up part of a sail to shrink it. Close-reefing shrinks it as far as possible.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Reef”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-015",
+    "anchor": "astride the weather yard-arm-end",
+    "layer": "vocab",
+    "note": "The yard is the spar that holds a sail; the yard-arm is its end. Weather means the windward side.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Yard-arm”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-016",
+    "anchor": "foot in the Flemish horse",
+    "layer": "vocab",
+    "note": "The Flemish horse is a short footrope hung under a yard’s end for sailors to stand on.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Flemish horse”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-017",
+    "anchor": "curbing the fiery Bucephalus",
+    "layer": "allusion",
+    "note": "Bucephalus was the favorite horse of Alexander the Great, a famous war-horse of ancient times.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Bucephalus”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bucephalus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-018",
+    "anchor": "tossed up as by the horns of Taurus",
+    "layer": "allusion",
+    "note": "Taurus is the Bull, a constellation and sign of the zodiac. Melville pictures the sailor tossed upward by a bull’s horns against the sky.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Taurus”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Taurus",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-019",
+    "anchor": "cheerily hallooing to the strenuous file along the spar",
+    "layer": "vocab",
+    "note": "Strenuous: energetic, hard-working. File: a line of men.",
+    "source": "Merriam-Webster, “strenuous”, https://www.merriam-webster.com/dictionary/strenuous",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-020",
+    "anchor": "comeliness and power",
+    "layer": "vocab",
+    "note": "Comeliness: pleasing good looks. The sailor’s looks and strength go together.",
+    "source": "Merriam-Webster, “comeliness”, https://www.merriam-webster.com/dictionary/comeliness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-021",
+    "anchor": "Such a cynosure",
+    "layer": "vocab",
+    "note": "Cynosure: a person who attracts everyone’s attention. The word first meant the North Star.",
+    "source": "Merriam-Webster, “cynosure”, https://www.merriam-webster.com/dictionary/cynosure",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-022",
+    "anchor": "welkin-eyed Billy Budd",
+    "layer": "vocab",
+    "note": "Welkin: an old word for the sky. Billy’s eyes are sky-blue.",
+    "source": "Merriam-Webster, “welkin”, https://www.merriam-webster.com/dictionary/welkin",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-023",
+    "anchor": "a foretopman of the British fleet",
+    "layer": "vocab",
+    "note": "Foretop-men are stationed in the fore-top, a platform on the foremast, to set and take in sail.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Foretop-men”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-024",
+    "anchor": "having been impressed on the Narrow Seas",
+    "layer": "history",
+    "note": "Impressment was the British navy’s practice of forcing men into service, especially sailors. The Narrow Seas are the English Channel and the nearby waters.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Impressment”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Impressment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-025",
+    "anchor": "a seventy-four outward-bound",
+    "layer": "vocab",
+    "note": "A seventy-four was a warship with seventy-four guns. Outward-bound means leaving home waters for a distant station.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-026",
+    "anchor": "H.M.S. Indomitable",
+    "layer": "vocab",
+    "note": "H.M.S. stands for His Majesty’s Ship. Indomitable means impossible to defeat, an ironic name for this ship.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-027",
+    "anchor": "short of her proper complement of men",
+    "layer": "vocab",
+    "note": "Complement: the full number of crew a ship needs.",
+    "source": "Merriam-Webster, “complement”, https://www.merriam-webster.com/dictionary/complement",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-028",
+    "anchor": "in the gangway the boarding officer",
+    "layer": "vocab",
+    "note": "The gangway is the opening in a ship’s side where people come aboard.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Gangway”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-029",
+    "anchor": "Lieutenant Ratcliff pounced",
+    "layer": "vocab",
+    "note": "Pounced: swooped down suddenly, as a hawk does.",
+    "source": "Merriam-Webster, “pounce”, https://www.merriam-webster.com/dictionary/pounce",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-030",
+    "anchor": "mustered on the quarter-deck",
+    "layer": "vocab",
+    "note": "Mustered: gathered for inspection. The quarter-deck is the rear upper deck, reserved for officers.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Quarter-deck”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-031",
+    "anchor": "some scruples in view of the merchantman",
+    "layer": "vocab",
+    "note": "Scruples: moral doubts or hesitations that keep a person from acting.",
+    "source": "Merriam-Webster, “scruple”, https://www.merriam-webster.com/dictionary/scruple",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-032",
+    "anchor": "Billy made no demur",
+    "layer": "vocab",
+    "note": "Demur: an objection. Billy does not protest.",
+    "source": "Merriam-Webster, “demur”, https://www.merriam-webster.com/dictionary/demur",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-033",
+    "anchor": "the protest of a goldfinch popped into a cage",
+    "layer": "vocab",
+    "note": "Melville compares Billy’s easy submission to a bird that is caught and caged without a struggle.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-034",
+    "anchor": "Noting this uncomplaining acquiescence",
+    "layer": "vocab",
+    "note": "Acquiescence: quiet acceptance without resistance.",
+    "source": "Merriam-Webster, “acquiescence”, https://www.merriam-webster.com/dictionary/acquiescence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-035",
+    "anchor": "a ploughman of the troubled waters",
+    "layer": "vocab",
+    "note": "A merchant captain is called a ploughman of the sea, working the waves as a farmer works a field.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-036",
+    "anchor": "a little inclined to corpulence",
+    "layer": "vocab",
+    "note": "Corpulence: being fat or heavily built, a polite word.",
+    "source": "Merriam-Webster, “corpulence”, https://www.merriam-webster.com/dictionary/corpulence",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-037",
+    "anchor": "a prepossessing face",
+    "layer": "vocab",
+    "note": "Prepossessing: making a good first impression.",
+    "source": "Merriam-Webster, “prepossessing”, https://www.merriam-webster.com/dictionary/prepossessing",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-038",
+    "anchor": "the forecastle",
+    "layer": "vocab",
+    "note": "The forecastle is the forward part of a ship where the crew lives.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Forecastle”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-039",
+    "anchor": "a flask from the spirit-locker",
+    "layer": "vocab",
+    "note": "The spirit-locker is a locked cupboard in the captain’s cabin where liquor is kept.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-040",
+    "anchor": "irrigating its aridity",
+    "layer": "vocab",
+    "note": "A joke on the officer’s habit of drinking. He waters the dryness of duty with liquor.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-041",
+    "anchor": "a fertilizing decoction of strong waters",
+    "layer": "vocab",
+    "note": "Decoction: a liquid made by boiling. Strong waters: spirits.",
+    "source": "Merriam-Webster, “decoction”, https://www.merriam-webster.com/dictionary/decoction",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-042",
+    "anchor": "with whatever grace and alacrity",
+    "layer": "vocab",
+    "note": "Alacrity: quick, cheerful willingness. He plays the host with forced cheer.",
+    "source": "Merriam-Webster, “alacrity”, https://www.merriam-webster.com/dictionary/alacrity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-043",
+    "anchor": "the irrepressible guest",
+    "layer": "vocab",
+    "note": "Irrepressible: unable to be held back.",
+    "source": "Merriam-Webster, “irrepressible”, https://www.merriam-webster.com/dictionary/irrepressible",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-044",
+    "anchor": "diluting his grog",
+    "layer": "vocab",
+    "note": "Grog: rum diluted with water, the sailors’ ration in the Royal Navy.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Grog”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-045",
+    "anchor": "a rueful reproach",
+    "layer": "vocab",
+    "note": "Rueful: full of regret, sorrowful.",
+    "source": "Merriam-Webster, “rueful”, https://www.merriam-webster.com/dictionary/rueful",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-046",
+    "anchor": "my forecastle was a rat-pit of quarrels",
+    "layer": "vocab",
+    "note": "A rat-pit was an arena where rats were set against dogs. He means the crew always fought.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-047",
+    "anchor": "like a Catholic priest striking peace in an Irish shindy",
+    "layer": "vocab",
+    "note": "Shindy: a noisy quarrel. The captain compares Billy to a priest stopping a brawl.",
+    "source": "Merriam-Webster, “shindy”, https://www.merriam-webster.com/dictionary/shindy",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-048",
+    "anchor": "a virtue went out of him",
+    "layer": "allusion",
+    "note": "Echoes the Gospels, where Jesus feels “virtue” go out of him when a woman touches his clothes. Billy’s effect on others is like a gift flowing out.",
+    "source": "The Bible (King James Version), Luke 8:46, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-049",
+    "anchor": "sugaring the sour ones",
+    "layer": "vocab",
+    "note": "A figure of speech: he sweetened the ill-tempered men.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-050",
+    "anchor": "like hornets to treacle",
+    "layer": "vocab",
+    "note": "Treacle: molasses, a thick sweet syrup. The captain says the crew flocked to Billy as insects do to syrup.",
+    "source": "Merriam-Webster, “treacle”, https://www.merriam-webster.com/dictionary/treacle",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-051",
+    "anchor": "the buffer of the gang",
+    "layer": "vocab",
+    "note": "Buffer: here, a rough fellow who takes the knocks for the others.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-052",
+    "anchor": "the spirit of a game-cock",
+    "layer": "vocab",
+    "note": "A game-cock is a fighting rooster, bred to be bold.",
+    "source": "Merriam-Webster, “gamecock”, https://www.merriam-webster.com/dictionary/gamecock",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-053",
+    "anchor": "must needs bestir himself",
+    "layer": "vocab",
+    "note": "Must needs: has to. Bestir: stir himself into action.",
+    "source": "Merriam-Webster, “bestir”, https://www.merriam-webster.com/dictionary/bestir",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-054",
+    "anchor": "in the second dog-watch",
+    "layer": "vocab",
+    "note": "Dog-watch: one of two short watches of two hours between 4 and 8 in the evening on a ship.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Dog-watch”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-055",
+    "anchor": "the lubber was astonished at the celerity",
+    "layer": "vocab",
+    "note": "Lubber: a clumsy or inexperienced sailor. Celerity: speed.",
+    "source": "Merriam-Webster, “lubber”, https://www.merriam-webster.com/dictionary/lubber; Merriam-Webster, “celerity”, https://www.merriam-webster.com/dictionary/celerity",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-056",
+    "anchor": "lean over the capstan",
+    "layer": "vocab",
+    "note": "The capstan is a vertical drum on a ship’s deck that is turned to haul in cables.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Capstan”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-057",
+    "anchor": "blessed are the peacemakers",
+    "layer": "allusion",
+    "note": "From the Sermon on the Mount: “Blessed are the peacemakers: for they shall be called the children of God.”",
+    "source": "The Bible (King James Version), Matthew 5:9, https://www.gutenberg.org/ebooks/10",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-058",
+    "anchor": "his hard tack is not sought for by sailors",
+    "layer": "vocab",
+    "note": "Hard tack: hard ship’s biscuit, the basic food of the navy.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-059",
+    "anchor": "some shipmasters privily resent",
+    "layer": "vocab",
+    "note": "Privily: privately, in secret. Some captains secretly resent losing their men.",
+    "source": "Merriam-Webster, “privily”, https://www.merriam-webster.com/dictionary/privily",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-060",
+    "anchor": "Apollo with his portmanteau",
+    "layer": "allusion",
+    "note": "Apollo was the Greek god of beauty, music, and the sun. The Lieutenant jokes that Billy looks like a god carrying a suitcase.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Apollo”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Apollo",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-061",
+    "anchor": "Boot and saddle for the cavalryman",
+    "layer": "vocab",
+    "note": "Boot and saddle: a cavalry bugle call ordering the troops to mount.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-062",
+    "anchor": "bag and hammock for the man-of-war’s man",
+    "layer": "vocab",
+    "note": "Sailors in the navy kept their things in a bag and slept in hammocks.",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-063",
+    "anchor": "The hard-headed Dundee owner was a staunch admirer of Thomas Paine",
+    "layer": "history",
+    "note": "Thomas Paine wrote The Rights of Man (1791) in answer to Edmund Burke’s attack on the French Revolution. Dundee is a Scottish port city.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Paine, Thomas”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Paine%2C_Thomas; Encyclopædia Britannica, 11th ed. (1911), “Dundee”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dundee",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-064",
+    "anchor": "Burke’s arraignment of the French Revolution",
+    "layer": "history",
+    "note": "Edmund Burke’s Reflections on the Revolution in France (1790) condemned the Revolution. Paine’s book was a reply.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Burke, Edmund”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Burke%2C_Edmund",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-065",
+    "anchor": "Stephen Girard of Philadelphia",
+    "layer": "history",
+    "note": "Stephen Girard was a wealthy Philadelphia merchant and banker whose ships were mostly named for French writers such as Voltaire.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Girard, Stephen”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Girard%2C_Stephen",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-066",
+    "anchor": "Diderot",
+    "layer": "history",
+    "note": "Denis Diderot was a French philosopher of the 1700s, a leading writer of the Enlightenment.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Diderot, Denis”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Diderot%2C_Denis",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-067",
+    "anchor": "the coxswain had directed him",
+    "layer": "vocab",
+    "note": "The coxswain is the man in charge of a small boat and its crew.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Coxswain”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-068",
+    "anchor": "from the taffrail",
+    "layer": "vocab",
+    "note": "The taffrail is the rail around a ship’s stern.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Taffrail”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-069",
+    "anchor": "a terrible breach of naval decorum",
+    "layer": "vocab",
+    "note": "Breach: a breaking of a rule. Decorum: proper behavior.",
+    "source": "Merriam-Webster, “decorum”, https://www.merriam-webster.com/dictionary/decorum",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-070",
+    "anchor": "a sly slur at impressment",
+    "layer": "history",
+    "note": "Impressment: forced naval service. The Lieutenant suspects Billy’s farewell is a sly joke about it.",
+    "source": "Encyclopædia Britannica, 11th ed. (1911), “Impressment”, https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Impressment",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-071",
+    "anchor": "by no means of a satirical turn",
+    "layer": "vocab",
+    "note": "Satirical: mocking, using irony to ridicule. Billy has no such streak.",
+    "source": "Merriam-Webster, “satirical”, https://www.merriam-webster.com/dictionary/satirical",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-072",
+    "anchor": "practically a fatalist",
+    "layer": "vocab",
+    "note": "Fatalist: one who accepts that events are fixed by fate.",
+    "source": "Merriam-Webster, “fatalist”, https://www.merriam-webster.com/dictionary/fatalist",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-073",
+    "anchor": "rated as an able-seaman",
+    "layer": "vocab",
+    "note": "An able-seaman is a fully skilled sailor, above the ordinary seaman in rank and pay.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Able”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-074",
+    "anchor": "starboard watch of the fore-top",
+    "layer": "vocab",
+    "note": "Sailors worked in two watches, port and starboard. The fore-top is the platform on the foremast.",
+    "source": "W. H. Smyth, The Sailor’s Word-Book (1867), “Watch”, https://www.gutenberg.org/ebooks/26000",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-075",
+    "anchor": "not at all disliked for his unpretentious good looks",
+    "layer": "vocab",
+    "note": "Unpretentious: modest, without showing off. His looks are plain and natural.",
+    "source": "Merriam-Webster, “unpretentious”, https://www.merriam-webster.com/dictionary/unpretentious",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-076",
+    "anchor": "happy-go-lucky air",
+    "layer": "vocab",
+    "note": "Happy-go-lucky: cheerfully carefree, taking life as it comes.",
+    "source": "Merriam-Webster, “happy-go-lucky”, https://www.merriam-webster.com/dictionary/happy-go-lucky",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-077",
+    "anchor": "saddish mood which in some partook of sullenness",
+    "layer": "vocab",
+    "note": "Sullenness: gloomy silence, resentful bad mood.",
+    "source": "Merriam-Webster, “sullenness”, https://www.merriam-webster.com/dictionary/sullenness",
+    "status": "draft",
+    "checker": null
+  },
+  {
+    "id": "ch1-078",
+    "anchor": "acknowledged kith and kin",
+    "layer": "vocab",
+    "note": "Kith and kin: friends and family.",
+    "source": "Merriam-Webster, “kith”, https://www.merriam-webster.com/dictionary/kith",
+    "status": "draft",
+    "checker": null
+  }
+]
