@@ -6,7 +6,7 @@ window.OMCOVERS = (function () {
   const f = n => (Math.round(n * 100) / 100).toString();
   const svg = (id, body) => '<svg viewBox="0 0 100 112" preserveAspectRatio="xMidYMid slice" role="img" aria-hidden="true" focusable="false">' +
     '<defs>' +
-    '<pattern id="dt-' + id + '" width="2.6" height="2.6" patternUnits="userSpaceOnUse"><circle cx="1.3" cy="1.3" r=".62"/></pattern>' +
+    '<pattern id="dt-' + id + '" width="2.6" height="2.6" patternUnits="userSpaceOnUse"><circle cx="1.3" cy="1.3" r=".62" fill="currentColor"/></pattern>' +
     '<pattern id="hx-' + id + '" width="2.2" height="2.2" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0H2.2" stroke-width=".55" stroke="currentColor"/></pattern>' +
     '<linearGradient id="fa-' + id + '" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>' +
     '<linearGradient id="fb-' + id + '" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#fff"/></linearGradient>' +
@@ -35,7 +35,7 @@ window.OMCOVERS = (function () {
     R(0, 0, 100, 112, '#17413f') +
     C(68, 36, 25, '#12302f') + C(68, 36, 21, '#efe3c3') +
     '<g fill="#17413f" fill-opacity=".16"><circle cx="60" cy="30" r="4.5"/><circle cx="76" cy="44" r="3.4"/><circle cx="72" cy="26" r="2.2"/><circle cx="58" cy="46" r="2.6"/></g>' +
-    '<g mask="url(#mb-lj)"><rect x="47" y="15" width="42" height="42" fill="url(#dt-lj)" style="fill:#17413f" opacity=".55"/></g>' +
+    '<g mask="url(#mb-lj)"><rect x="47" y="15" width="42" height="42" fill="url(#dt-lj)" style="color:#17413f" opacity=".55"/></g>' +
     star(14, 14, 4.6, '#efe3c3') + star(24, 30, 4.2, '#efe3c3') + star(12, 44, 4.6, '#efe3c3') + star(3.5, 28, 3.6, '#efe3c3') + star(30, 52, 2, '#efe3c3') + star(40, 10, 1.6, '#efe3c3') + star(92, 70, 1.6, '#efe3c3') +
     L('M44 6 C32 12 26 28 30 40', '#efe3c3', .9, ' stroke-dasharray="1.2 3.4"') +
     sea(66, 2.2, 14, 3, '#1f5a55', '#efe3c3') + sea(74, 2.4, 16, -2, '#2b6f68', '#efe3c3') + sea(83, 2.6, 18, 6, '#123a38', '#efe3c3') + sea(93, 2.8, 20, -4, '#1f5a55', '#efe3c3') + sea(103, 3, 22, 4, '#0f2f2d', '#efe3c3') +
@@ -56,7 +56,7 @@ window.OMCOVERS = (function () {
     for (let i = 0; i < 9; i++) rings += C(50, 44, 24 + i * 5 + i * i * .3, 'none', ' stroke="#14100c" stroke-width="' + f(.5 + i * .12) + '" opacity="' + f(.9 - i * .08) + '"');
     out['heart-of-darkness'] = { paper: '#e8d3a1', ink: '#2b1a10', svg: svg('hd',
       R(0, 0, 100, 112, '#d49a37') + R(0, 0, 100, 30, '#c58a2b') +
-      '<g mask="url(#ma-hd)"><rect width="100" height="70" fill="url(#dt-hd)" style="fill:#7a4a14" opacity=".5"/></g>' +
+      '<g mask="url(#ma-hd)"><rect width="100" height="70" fill="url(#dt-hd)" style="color:#7a4a14" opacity=".5"/></g>' +
       rings + C(50, 44, 21, '#14100c') + C(50, 44, 14, 'none', ' stroke="#d49a37" stroke-width=".8" opacity=".7"') +
       R(0, 66, 100, 46, '#e0b862') +
       P('M0 62 H100 V112 H0 Z', '#2c4a2c') +
@@ -73,7 +73,7 @@ window.OMCOVERS = (function () {
     [[12, 12], [86, 18], [20, 60], [90, 54], [8, 36], [76, 8], [30, 22]].forEach(p => { st += C(p[0], p[1], .8, '#efe3c3'); });
     out['ivan-ilyich'] = { paper: '#e9dec0', ink: '#1d2a49', svg: svg('ii',
       R(0, 0, 100, 112, '#1d2a49') + halo + st +
-      '<g mask="url(#ma-ii)"><rect y="30" width="100" height="82" fill="url(#dt-ii)" style="fill:#3b5287" opacity=".7"/></g>' +
+      '<g mask="url(#ma-ii)"><rect y="30" width="100" height="82" fill="url(#dt-ii)" style="color:#3b5287" opacity=".7"/></g>' +
       C(50, 40, 8, '#f2b632', ' opacity=".28"') + C(50, 40, 5, '#f2b632', ' opacity=".4"') +
       P('M50 18 C58 30 60 40 50 47 C40 40 42 30 50 18 Z', '#f2b632') + P('M50 30 C54 36 54 41 50 45 C46 41 46 36 50 30 Z', '#fff4cf') +
       L('M50 47 V56', '#14100c', 1.4) +
@@ -93,7 +93,7 @@ window.OMCOVERS = (function () {
     }
     out['bartleby'] = { paper: '#ecdfc0', ink: '#5a1d10', svg: svg('bb',
       R(0, 0, 100, 112, '#6e2517') + bricks +
-      '<g mask="url(#ma-bb)"><rect width="100" height="112" fill="url(#dt-bb)" style="fill:#3a110a" opacity=".75" transform="scale(1 1)"/></g>' +
+      '<g mask="url(#ma-bb)"><rect width="100" height="112" fill="url(#dt-bb)" style="color:#3a110a" opacity=".75" transform="scale(1 1)"/></g>' +
       R(38, 20, 24, 40, '#2a0f08') + P('M38 60 V34 a12 12 0 0 1 24 0 V60 Z', '#17100d', ' stroke="#efe3c3" stroke-width="2"') +
       L('M50 22 V60 M38 40 H62 M38 50 H62', '#efe3c3', 1.4) +
       P('M38 60 H62 L66 66 H34 Z', '#d8c9a2') +
@@ -113,7 +113,7 @@ window.OMCOVERS = (function () {
     out['siddhartha'] = { paper: '#f0e0b8', ink: '#6a2f0d', svg: svg('sd',
       R(0, 0, 100, 112, '#c9692a') + rings +
       C(50, 46, 26, '#f2b33c') + C(50, 46, 20, '#f7c75a') + rays + C(50, 46, 12, '#fbe4a0') +
-      '<g mask="url(#ma-sd)"><rect width="100" height="70" fill="url(#dt-sd)" style="fill:#a8481b" opacity=".55"/></g>' +
+      '<g mask="url(#ma-sd)"><rect width="100" height="70" fill="url(#dt-sd)" style="color:#a8481b" opacity=".55"/></g>' +
       sea(70, 2.2, 14, 2, '#1e5a5a', '#f0e0b8') + sea(79, 2.4, 16, -3, '#12403f', '#f0e0b8') + sea(89, 2.6, 18, 5, '#1e5a5a', '#f0e0b8') + sea(100, 2.8, 20, -2, '#0f3534', '#f0e0b8') +
       P('M26 70 H72 L66 79 H33 Z', '#1a1410') + L('M64 72 L80 44', '#1a1410', 1.6) + P('M80 44 L86 52 L78 50 Z', '#1a1410') +
       C(44, 56, 2.4, '#1a1410') + L('M44 58 V70', '#1a1410', 3) +
@@ -129,9 +129,9 @@ window.OMCOVERS = (function () {
     hills += P('M0 94 C24 84 40 96 60 88 C80 80 90 92 100 86 V112 H0 Z', '#14291c');
     out['romantic-poets'] = { paper: '#ecdfbf', ink: '#1d3a29', svg: svg('rp',
       R(0, 0, 100, 112, '#2a4a35') +
-      '<g mask="url(#ma-rp)"><rect width="100" height="90" fill="url(#dt-rp)" style="fill:#3f6b4c" opacity=".8"/></g>' +
+      '<g mask="url(#ma-rp)"><rect width="100" height="90" fill="url(#dt-rp)" style="color:#3f6b4c" opacity=".8"/></g>' +
       P('M72 8 a28 28 0 1 0 8 52 a22 22 0 1 1 -8 -52 Z', '#efe3c3') +
-      '<g mask="url(#mb-rp)"><path d="M72 8 a28 28 0 1 0 8 52 a22 22 0 1 1 -8 -52 Z" fill="url(#dt-rp)" style="fill:#2a4a35" opacity=".45"/></g>' +
+      '<g mask="url(#mb-rp)"><path d="M72 8 a28 28 0 1 0 8 52 a22 22 0 1 1 -8 -52 Z" fill="url(#dt-rp)" style="color:#2a4a35" opacity=".45"/></g>' +
       star(14, 14, 3.4, '#efe3c3') + star(34, 8, 2, '#efe3c3') + star(90, 62, 2.2, '#efe3c3') + star(8, 40, 2.2, '#efe3c3') + star(44, 26, 1.6, '#efe3c3') +
       hills +
       L('M-4 72 C20 66 40 78 66 66 S92 60 104 54', '#14100c', 3.2) +

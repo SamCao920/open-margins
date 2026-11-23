@@ -17,7 +17,8 @@
   // Last place read, written by reader.js.
   function lastRead() {
     try {
-      const l = JSON.parse(localStorage.getItem('scholia.last'));
+      const raw = localStorage.getItem('openmargins.last') || localStorage.getItem('scholia.last');
+      const l = JSON.parse(raw);
       if (l && BOOKS[l.book] && l.ch >= 1 && l.ch <= BOOKS[l.book].chapters) return l;
     } catch (e) { /* ignore */ }
     return null;
@@ -25,6 +26,10 @@
 
   function renderGrid(el, filter) {
     const ids = Object.keys(BOOKS).filter(id => !filter || filter === 'all' || BOOKS[id].form === filter || (filter === 'Prose' && BOOKS[id].form !== 'Poetry'));
+    if (!ids.length) {
+      el.innerHTML = '<li class="lib-empty" style="grid-column: 1 / -1; text-align: center; color: var(--muted); font-style: italic; padding: 2rem 0;"><p>No books found in this category.</p></li>';
+      return;
+    }
     el.innerHTML = ids.map(id => {
       const b = BOOKS[id];
       return '<li class="lib-item"><a class="lib-link" href="book.html?book=' + id + '">' +
@@ -56,6 +61,7 @@
     const cap = root.querySelector('.flow-caption');
     track.innerHTML = ids.map(id => '<li class="flow-item" data-id="' + id + '"><a class="cover flow-cover" href="book.html?book=' + id + '" style="--cloth:' + BOOKS[id].cloth + '" aria-label="' + esc(BOOKS[id].title) + '">' + coverHTML(BOOKS[id], id) + '</a></li>').join('');
     const items = Array.from(track.children);
+    if (!items.length) return;
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     let current = -1, raf = 0;
 
@@ -71,6 +77,10 @@
         it.style.setProperty('--a', Math.abs(c).toFixed(3));
         if (Math.abs(d) < bestD) { bestD = Math.abs(d); best = i; }
       });
+      const prevBtn = root.querySelector('.flow-prev');
+      const nextBtn = root.querySelector('.flow-next');
+      if (prevBtn) { prevBtn.disabled = best === 0; prevBtn.setAttribute('aria-disabled', String(best === 0)); }
+      if (nextBtn) { nextBtn.disabled = best === items.length - 1; nextBtn.setAttribute('aria-disabled', String(best === items.length - 1)); }
       if (best !== current) {
         current = best;
         const id = items[best].dataset.id, b = BOOKS[id];
@@ -94,11 +104,25 @@
       const it = e.target.closest('.flow-item');
       if (it && !it.classList.contains('is-center')) { e.preventDefault(); goTo(items.indexOf(it)); }
     });
+    // Keyboard focus on a side cover scrolls it into centre.
+    track.addEventListener('focusin', e => {
+      const it = e.target.closest('.flow-item');
+      if (it) {
+        const idx = items.indexOf(it);
+        if (idx >= 0 && idx !== current) goTo(idx);
+      }
+    });
     root.querySelector('.flow-prev').addEventListener('click', () => goTo(current - 1));
     root.querySelector('.flow-next').addEventListener('click', () => goTo(current + 1));
     track.addEventListener('keydown', e => {
       if (e.key === 'ArrowRight') { e.preventDefault(); goTo(current + 1); }
       if (e.key === 'ArrowLeft') { e.preventDefault(); goTo(current - 1); }
+      if (e.key === 'Home') { e.preventDefault(); goTo(0); }
+      if (e.key === 'End') { e.preventDefault(); goTo(items.length - 1); }
+      if (e.key === 'Enter' && document.activeElement === track) {
+        const cur = items[current];
+        if (cur) { const a = cur.querySelector('a'); if (a) a.click(); }
+      }
     });
     // Start on the book last read, else the first.
     const l = lastRead();

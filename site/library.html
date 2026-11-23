@@ -13,10 +13,10 @@
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
 <body>
-<header class="bar">
+<header class="bar" role="banner">
   <div class="bar-inner">
     <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Open Margins</a>
-    <nav class="running" aria-label="Breadcrumb"><span>The Library</span></nav>
+    <nav class="running" aria-label="Breadcrumb"><a href="index.html">Home</a><span class="sep" aria-hidden="true">·</span><span aria-current="page">The Library</span></nav>
     <span class="bar-spacer"></span>
     <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
   </div>
@@ -32,8 +32,8 @@
       <button type="button" class="lib-filter" data-filter="Poetry" aria-pressed="false">Poetry</button>
     </div>
   </header>
-  <ul class="lib-grid" id="lib-grid"></ul>
-  <noscript><p><a href="book.html?book=lord-jim">Lord Jim</a> · <a href="book.html?book=heart-of-darkness">Heart of Darkness</a> · <a href="book.html?book=ivan-ilyich">The Death of Ivan Ilyich</a> · <a href="book.html?book=bartleby">Bartleby</a> · <a href="book.html?book=siddhartha">Siddhartha</a> · <a href="book.html?book=romantic-poets">The Romantic Poets</a></p></noscript>
+  <ul class="lib-grid" id="lib-grid" aria-label="Books in the library" aria-live="polite"></ul>
+  <noscript><p><a href="book.html?book=lord-jim">Lord Jim</a> · <a href="book.html?book=heart-of-darkness">Heart of Darkness</a> · <a href="book.html?book=ivan-ilyich">The Death of Ivan Ilyich</a> · <a href="book.html?book=bartleby">Bartleby</a> · <a href="book.html?book=siddhartha">Siddhartha</a> · <a href="book.html?book=romantic-poets">The Romantic Poets</a> · <a href="book.html?book=billy-budd">Billy Budd, Sailor</a></p></noscript>
   <p class="lib-foot">Notes are drafts, open under CC BY 4.0. More books are in preparation.</p>
 </main>
 <script src="covers.js?v=dev"></script>
@@ -41,13 +41,41 @@
 <script>
 (function () {
   const grid = document.getElementById('lib-grid');
-  const btns = document.querySelectorAll('.lib-filter');
-  function show(f) {
+  const btns = Array.from(document.querySelectorAll('.lib-filter'));
+  const params = new URLSearchParams(location.search);
+  const paramFilter = params.get('filter');
+  const validFilters = ['all', 'Prose', 'Poetry'];
+  let currentFilter = validFilters.includes(paramFilter) ? paramFilter : 'all';
+
+  function show(f, updateUrl) {
+    currentFilter = f;
     OMLIB.renderGrid(grid, f);
     btns.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.filter === f)));
+    if (updateUrl && window.history && history.replaceState) {
+      const u = new URL(location.href);
+      if (f === 'all') u.searchParams.delete('filter');
+      else u.searchParams.set('filter', f);
+      history.replaceState(null, '', u.toString());
+    }
   }
-  btns.forEach(b => b.addEventListener('click', () => show(b.dataset.filter)));
-  show('all');
+
+  btns.forEach((b, idx) => {
+    b.addEventListener('click', () => show(b.dataset.filter, true));
+    b.addEventListener('keydown', e => {
+      if (e.key === 'ArrowRight') {
+        e.preventDefault();
+        const next = btns[(idx + 1) % btns.length];
+        next.focus();
+        show(next.dataset.filter, true);
+      } else if (e.key === 'ArrowLeft') {
+        e.preventDefault();
+        const prev = btns[(idx - 1 + btns.length) % btns.length];
+        prev.focus();
+        show(prev.dataset.filter, true);
+      }
+    });
+  });
+  show(currentFilter, false);
 })();
 </script>
 </body>

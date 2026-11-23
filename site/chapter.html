@@ -12,16 +12,16 @@
 <link rel="stylesheet" href="style.css?v=dev">
 </head>
 <body class="inline-mode">
-<header class="bar">
+<header class="bar" role="banner">
   <div class="bar-inner">
   <a class="bar-title" href="index.html"><span class="logo" aria-hidden="true"></span>Open Margins</a>
-  <nav class="running" aria-label="Breadcrumb"><a id="book-link" href="book.html">Book</a><span class="chapter-crumb"><span class="sep">·</span><span id="crumb-chapter">Chapter</span></span></nav>
+  <nav class="running" aria-label="Breadcrumb"><a id="book-link" href="book.html">Book</a><span class="chapter-crumb"><span class="sep" aria-hidden="true">·</span><span id="crumb-chapter">Chapter</span></span></nav>
   <fieldset class="layers" id="layers">
     <legend class="sr-only">Note layers</legend>
-    <label><input type="checkbox" value="vocab"><span class="ref" aria-hidden="true">*</span><span class="name">Vocab</span></label>
-    <label><input type="checkbox" value="allusion"><span class="ref" aria-hidden="true">†</span><span class="name">Allusion</span></label>
-    <label><input type="checkbox" value="history"><span class="ref" aria-hidden="true">§</span><span class="name">History</span></label>
-    <label><input type="checkbox" value="place"><span class="ref" aria-hidden="true">¶</span><span class="name">Place</span></label>
+    <label><input type="checkbox" value="vocab" aria-label="Vocabulary notes"><span class="ref" aria-hidden="true">*</span><span class="name">Vocab</span></label>
+    <label><input type="checkbox" value="allusion" aria-label="Allusion notes"><span class="ref" aria-hidden="true">†</span><span class="name">Allusion</span></label>
+    <label><input type="checkbox" value="history" aria-label="History notes"><span class="ref" aria-hidden="true">§</span><span class="name">History</span></label>
+    <label><input type="checkbox" value="place" aria-label="Place notes"><span class="ref" aria-hidden="true">¶</span><span class="name">Place</span></label>
   </fieldset>
   <span class="bar-spacer"></span>
   <details class="settings search-menu" id="search-menu">
@@ -30,8 +30,8 @@
   </details>
   <a class="bar-button" id="type-link" href="type.html" title="Type this chapter out to learn its diction">Type</a>
   <button type="button" class="bar-button" data-theme-toggle>Dark mode</button>
-  <details class="settings">
-    <summary aria-label="Reading settings">Aa</summary>
+  <details class="settings" id="settings-menu">
+    <summary aria-label="Reading settings" aria-haspopup="true">Aa</summary>
     <div class="settings-panel">
       <div class="row">
         <span class="label">Theme</span>
@@ -56,13 +56,13 @@
         <span class="label">Text size</span>
         <div class="stepper">
           <button type="button" data-size-step="-10" aria-label="Smaller text">A&minus;</button>
-          <output data-size-out>100%</output>
+          <output data-size-out aria-live="polite">100%</output>
           <button type="button" data-size-step="10" aria-label="Larger text">A+</button>
         </div>
       </div>
       <div class="row">
-        <label class="label" for="pref-width">Line length <output data-measure-out></output></label>
-        <input type="range" id="pref-width" data-pref="width" step="1">
+        <label class="label" for="pref-width">Line length <output data-measure-out aria-live="polite"></output></label>
+        <input type="range" id="pref-width" data-pref="width" min="26" max="46" value="36" step="1" aria-label="Reading line length in ems">
       </div>
       <div class="row">
         <span class="label">Margin notes</span>
@@ -72,7 +72,7 @@
         </div>
         <p class="hint">Vocabulary (*) notes are on the right; allusions (†), history (§), and places (¶) on the left. Hover a phrase to see its note; move the pointer into a margin to see every note on that side. “Always” keeps both sides open when the window is wide enough.</p>
       </div>
-      <button type="button" data-prefs-reset>Reset to defaults</button>
+      <button type="button" data-prefs-reset aria-label="Reset reading preferences to defaults">Reset to defaults</button>
     </div>
   </details>
   </div>
@@ -86,8 +86,8 @@
       <h1 id="title">Chapter</h1>
       <div class="rule-short" aria-hidden="true"></div>
     </header>
-    <div id="text"><p class="status">Loading…</p></div>
-    <nav class="chapnav" id="chapnav" aria-label="Chapters"></nav>
+    <div id="text"><p class="status" role="status" aria-live="polite">Loading…</p></div>
+    <nav class="chapnav" id="chapnav" aria-label="Chapter navigation"></nav>
     <p class="foot"><a href="sources.html">Sources</a> · <a href="https://github.com/samcao920/scholia">GitHub</a></p>
   </section>
   <aside class="panel panel-right" id="panel-right" aria-label="Vocabulary notes"></aside>

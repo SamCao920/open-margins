@@ -22,6 +22,8 @@
     if ('‘’ʼ\''.includes(d)) return '\'';
     if ('“”"'.includes(d)) return '"';
     if ('—–-'.includes(d)) return ' ';
+    if (d === 'æ') return 'a';
+    if (d === 'œ') return 'o';
     return d;
   }
   const norm = s => Array.from(s, normChar).join('');
@@ -69,6 +71,7 @@
   function loadIndex(bookId) {
     if (indexes[bookId]) return indexes[bookId];
     const book = BOOKS[bookId];
+    if (!book) return Promise.resolve({ docs: [], vocab: new Map(), book: null });
     indexes[bookId] = (async () => {
       const chs = Array.from({ length: book.chapters }, (_, i) => i + 1);
       const loaded = await Promise.all(chs.map(async ch => {
@@ -82,10 +85,15 @@
       const docs = [];
       const vocab = new Map();
       for (const { ch, raw, notes } of loaded) {
-        paragraphsOf(raw).forEach((text, i) => docs.push({ kind: 'text', ch, para: i + 1, text, n: norm(text) }));
+        const paras = paragraphsOf(raw);
+        paras.forEach((text, i) => docs.push({ kind: 'text', ch, para: i + 1, text, n: norm(text) }));
         notes.forEach(note => {
           const text = note.anchor + ' — ' + note.note;
-          docs.push({ kind: 'note', ch, note, text, n: norm(text) });
+          let pNum = null;
+          for (let i = 0; i < paras.length; i++) {
+            if (paras[i].includes(note.anchor)) { pNum = i + 1; break; }
+          }
+          docs.push({ kind: 'note', ch, para: pNum, note, text, n: norm(text) });
         });
       }
       docs.forEach(d => { d.words = words(d.n); d.words.forEach(({ w }) => vocab.set(w, (vocab.get(w) || 0) + 1)); });
@@ -140,7 +148,13 @@
       if (span <= p.terms.length + 3) score += 6;
     }
     if (d.kind === 'note') score -= 1;
-    return { d, score, all: found.size === p.terms.length, hits: hits.sort((a, b) => a[0] - b[0]) };
+    hits.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
+    const mergedHits = [];
+    for (const [a, b] of hits) {
+      if (!mergedHits.length || a > mergedHits[mergedHits.length - 1][1]) mergedHits.push([a, b]);
+      else mergedHits[mergedHits.length - 1][1] = Math.max(mergedHits[mergedHits.length - 1][1], b);
+    }
+    return { d, score, all: found.size === p.terms.length, hits: mergedHits };
   }
 
   async function search(bookId, q) {
@@ -163,15 +177,19 @@
   const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
   function snippet(text, hits, len) {
-    const first = hits.length ? hits[0][0] : 0;
+    if (!hits.length) return esc(text.slice(0, len)) + (text.length > len ? ' …' : '');
+    const first = hits[0][0];
     const start = Math.max(0, text.lastIndexOf(' ', Math.max(0, first - len / 3)) + 1);
     const end = Math.min(text.length, start + len);
     let out = start > 0 ? '… ' : '';
     let pos = start;
     for (const [a, b] of hits) {
-      if (a < pos || a >= end) continue;
-      out += esc(text.slice(pos, a)) + '<mark>' + esc(text.slice(a, b)) + '</mark>';
-      pos = b;
+      if (b <= pos || a >= end) continue;
+      const sa = Math.max(pos, a);
+      const sb = Math.min(end, b);
+      if (sa > pos) out += esc(text.slice(pos, sa));
+      out += '<mark>' + esc(text.slice(sa, sb)) + '</mark>';
+      pos = sb;
     }
     return out + esc(text.slice(pos, end)) + (end < text.length ? ' …' : '');
   }
@@ -179,6 +197,7 @@
   function mount(root, opts) {
     const bookId = opts.book;
     const book = BOOKS[bookId];
+    if (!book) return { focus: () => {} };
     root.classList.add('search');
     root.innerHTML =
       '<form class="search-form" role="search">' +
@@ -191,6 +210,7 @@
     const out = root.querySelector('.search-results');
     let shown = 25;
     let last = null;
+    let searchSeq = 0;
 
     function chapterHref(ch, para, q) {
       return 'chapter.html?book=' + bookId + '&ch=' + ch + '&q=' + encodeURIComponent(q) + (para ? '#p' + para : '');
@@ -198,7 +218,15 @@
 
     function draw() {
       const { p, results, partial, q } = last;
-      if (!results.length) { out.innerHTML = '<p class="search-meta">No passages found.</p>'; return; }
+      if (!results.length) {
+        let msg = '<p class="search-meta">No passages found' + (q ? ' for “' + esc(q) + '”' : '') + '.';
+        if (p.fixes && p.fixes.length) {
+          msg += ' Showing no matches for ' + p.fixes.map(([a, b]) => '<em>' + esc(b) + '</em> (not “' + esc(a) + '”)').join(', ') + '.';
+        }
+        msg += '</p>';
+        out.innerHTML = msg;
+        return;
+      }
       const chs = new Set(results.map(r => r.d.ch));
       let html = '';
       if (p.fixes.length) html += '<p class="search-meta">Showing results for ' + p.fixes.map(([a, b]) => '<em>' + esc(b) + '</em> (not “' + esc(a) + '”)').join(', ') + '.</p>';
@@ -211,7 +239,7 @@
           html += '<li><a href="' + chapterHref(d.ch, d.para, q) + '"><span class="where">' + book.unit + ' ' + d.ch + here + '</span>' +
             '<span class="snip">' + snippet(d.text, r.hits, 220) + '</span></a></li>';
         } else {
-          html += '<li class="note-hit"><a href="' + chapterHref(d.ch, null, q) + '"><span class="where">Note · ' + book.unit + ' ' + d.ch + here + '</span>' +
+          html += '<li class="note-hit"><a href="' + chapterHref(d.ch, d.para, q) + '"><span class="where">Note · ' + book.unit + ' ' + d.ch + here + '</span>' +
             '<span class="snip">' + snippet(d.text, r.hits, 220) + '</span></a></li>';
         }
       });
@@ -226,7 +254,9 @@
       q = q.trim();
       if (!q) { out.innerHTML = ''; return; }
       out.innerHTML = '<p class="search-meta">Searching…</p>';
+      const mySeq = ++searchSeq;
       const r = await search(bookId, q);
+      if (mySeq !== searchSeq) return;
       last = Object.assign(r, { q });
       shown = 25;
       draw();
@@ -236,6 +266,17 @@
     let timer;
     input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(() => run(input.value), 250); });
     input.addEventListener('focus', () => loadIndex(bookId), { once: true });
+    input.addEventListener('keydown', e => {
+      if (e.key === 'ArrowDown') {
+        const first = out.querySelector('.search-list a');
+        if (first) { e.preventDefault(); first.focus(); }
+      }
+    });
+    out.addEventListener('keydown', e => {
+      if (e.key === 'ArrowUp' && e.target === out.querySelector('.search-list a')) {
+        e.preventDefault(); input.focus();
+      }
+    });
     if (opts.initial) { input.value = opts.initial; run(opts.initial); }
     return { focus: () => input.focus() };
   }
@@ -245,6 +286,10 @@
     const { vocab } = await loadIndex(bookId);
     const p = parse(q, vocab);
     if (!p.terms.length && !p.phrases.length) return 0;
+    el.querySelectorAll('mark.search-hit').forEach(m => {
+      m.replaceWith(...m.childNodes);
+    });
+    el.normalize();
     const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
     const nodes = [];
     while (walker.nextNode()) nodes.push(walker.currentNode);
@@ -255,10 +300,15 @@
       p.phrases.forEach(ph => { for (let i = n.indexOf(ph); i >= 0; i = n.indexOf(ph, i + 1)) ranges.push([i, i + ph.length]); });
       words(n).forEach(({ w, i }) => { if (p.terms.some(t => w.startsWith(t))) ranges.push([i, i + w.length]); });
       if (!ranges.length) return;
-      ranges.sort((a, b) => a[0] - b[0]);
+      ranges.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
+      const merged = [];
+      for (const [a, b] of ranges) {
+        if (!merged.length || a > merged[merged.length - 1][1]) merged.push([a, b]);
+        else merged[merged.length - 1][1] = Math.max(merged[merged.length - 1][1], b);
+      }
       const frag = document.createDocumentFragment();
       let pos = 0;
-      ranges.forEach(([a, b]) => {
+      merged.forEach(([a, b]) => {
         if (a < pos) return;
         frag.appendChild(document.createTextNode(node.nodeValue.slice(pos, a)));
         const m = document.createElement('mark');

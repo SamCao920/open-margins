@@ -32,9 +32,9 @@
     const p = Object.assign({}, DEFAULTS);
     Object.keys(ALLOWED).forEach(k => { if (ALLOWED[k].includes(saved[k])) p[k] = saved[k]; });
     const size = Number(saved.size);
-    if (size >= SIZE_MIN && size <= SIZE_MAX) p.size = size;
+    if (!isNaN(size) && size >= SIZE_MIN && size <= SIZE_MAX) p.size = size;
     const width = Number(saved.width);
-    if (width >= WIDTH_MIN && width <= WIDTH_MAX) p.width = width;
+    if (!isNaN(width) && width >= WIDTH_MIN && width <= WIDTH_MAX) p.width = width;
     p.v = 2;
     return p;
   }
@@ -107,7 +107,11 @@
     document.querySelectorAll('[data-prefs-reset]').forEach(b => {
       b.addEventListener('click', () => {
         Object.assign(prefs, DEFAULTS);
-        set('theme', DEFAULTS.theme);
+        prefs.v = 2;
+        try { localStorage.setItem(KEY, JSON.stringify(prefs)); } catch (e) { /* ignore */ }
+        apply();
+        syncControls();
+        document.dispatchEvent(new CustomEvent('scholia:prefs', { detail: { key: 'reset' } }));
       });
     });
     // Close the settings popover when clicking outside it or pressing Escape.
@@ -119,7 +123,10 @@
     document.addEventListener('keydown', e => {
       if (e.key === 'Escape') document.querySelectorAll('details.settings[open]').forEach(d => { d.open = false; });
     });
-    darkQuery.addEventListener('change', syncControls);
+    darkQuery.addEventListener('change', () => {
+      apply();
+      syncControls();
+    });
     syncControls();
   }
 
@@ -127,5 +134,5 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', wire);
   else wire();
 
-  window.Scholia = { prefs, set };
+  window.Scholia = { prefs, set, DEFAULTS };
 })();

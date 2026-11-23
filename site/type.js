@@ -68,6 +68,8 @@
     if ('‘’ʼ'.includes(c)) return '\'';
     if ('“”'.includes(c)) return '"';
     if ('—–'.includes(c)) return '-';
+    if (c === 'æ') return 'a';
+    if (c === 'œ') return 'o';
     if (c === ' ') return ' ';
     return c.normalize('NFD')[0];
   }
@@ -78,6 +80,7 @@
   const state = { para: 0, pos: 0, keys: 0, errors: 0, ms: 0 };
   let lastKey = 0;
   let afterDash = false;
+  let afterLigature = false;
 
   function save() {
     try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { /* private mode */ }
@@ -109,6 +112,7 @@
   }
 
   function drawPara(i) {
+    if (i < 0 || i >= paras.length) return;
     const el = textEl.children[i];
     if (!el) return;
     el.className = (paras[i].extract ? 'extract ' : '') + (i < state.para ? 'done' : i === state.para ? 'current' : 'todo');
@@ -117,7 +121,7 @@
 
   function drawAll() {
     textEl.innerHTML = paras.map((p, i) => '<p></p>').join('') +
-      '<p class="type-finished" hidden>End of the ' + book.unit.toLowerCase() + '. ' +
+      '<p class="type-finished" role="status" aria-live="polite" hidden>End of the ' + book.unit.toLowerCase() + '. ' +
       (ch < book.chapters ? '<a href="type.html?' + q + (ch + 1) + '">Type ' + book.unit + ' ' + (ch + 1) + '</a>' : 'That was the whole book.') + '</p>';
     paras.forEach((_, i) => drawPara(i));
     finished();
@@ -166,13 +170,17 @@
       const want = p.text[state.pos];
       // "--" for an em dash: the second hyphen is not a mistake.
       if (afterDash && c === '-' && want !== '-') { afterDash = false; return; }
+      // "ae" for æ, "oe" for œ: the second letter 'e' is not a mistake.
+      if (afterLigature && (c === 'e' || c === 'E') && want !== c) { afterLigature = false; return; }
       state.keys++;
       if (matches(want, c)) {
         afterDash = '—–'.includes(want);
+        afterLigature = 'æœÆŒ'.includes(want);
         state.pos++;
         drawPara(state.para);
       } else {
         afterDash = false;
+        afterLigature = false;
         miss();
       }
     }
@@ -204,6 +212,8 @@
   document.getElementById('restart').addEventListener('click', () => {
     Object.assign(state, { para: 0, pos: 0, keys: 0, errors: 0, ms: 0 });
     lastKey = 0;
+    afterDash = false;
+    afterLigature = false;
     save();
     drawAll();
     window.scrollTo({ top: 0 });

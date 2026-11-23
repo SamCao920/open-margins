@@ -6,7 +6,7 @@
 (function () {
   'use strict';
 
-  const BOOKS = window.OMBOOKS;
+  const BOOKS = window.OMBOOKS || {};
   const LAYERS = ['vocab', 'allusion', 'history', 'place'];
   const LAYER_NAMES = { vocab: 'Vocab', allusion: 'Allusion', history: 'History', place: 'Place' };
   // Vocabulary goes on the right; references to the wider world on the left.
@@ -26,12 +26,10 @@
   const NOTE_GAP = 3;
 
   const params = new URLSearchParams(location.search);
-  const bookId = BOOKS[params.get('book')] ? params.get('book') : 'lord-jim';
+  const defaultBookId = BOOKS['lord-jim'] ? 'lord-jim' : Object.keys(BOOKS)[0];
+  const requestedBook = params.get('book');
+  const bookId = BOOKS[requestedBook] ? requestedBook : defaultBookId;
   const book = BOOKS[bookId];
-  if (book.verse) document.body.classList.add('verse');
-  const ch = Math.min(book.chapters, Math.max(1, parseInt(params.get('ch'), 10) || 1));
-  try { localStorage.setItem('scholia.last', JSON.stringify({ book: bookId, ch: ch })); } catch (e) { /* ignore */ }
-  const pad = String(ch).padStart(2, '0');
 
   const readerEl = document.getElementById('reader');
   const columnEl = document.getElementById('column');
@@ -39,14 +37,29 @@
   const panels = { left: document.getElementById('panel-left'), right: document.getElementById('panel-right') };
   const ticks = { left: document.getElementById('ticks-left'), right: document.getElementById('ticks-right') };
 
+  if (!book) {
+    if (textEl) textEl.innerHTML = '<p class="status" role="status">Could not find the requested book.</p>';
+    return;
+  }
+
+  if (book.verse) document.body.classList.add('verse');
+  const maxChapters = book.chapters || 1;
+  const ch = Math.min(maxChapters, Math.max(1, parseInt(params.get('ch'), 10) || 1));
+  try { localStorage.setItem('scholia.last', JSON.stringify({ book: bookId, ch: ch })); } catch (e) { /* ignore */ }
+  const pad = String(ch).padStart(2, '0');
+
   // Arabic numerals: easier to read than the original Roman ones.
   const chName = n => book.unit + ' ' + n;
-  document.getElementById('title').textContent = chName(ch) + (book.titles ? ': ' + book.titles[ch - 1] : '');
-  document.getElementById('crumb-chapter').textContent = chName(ch);
+  const titleEl = document.getElementById('title');
+  if (titleEl) titleEl.textContent = chName(ch) + (book.titles ? ': ' + book.titles[ch - 1] : '');
+  const crumbEl = document.getElementById('crumb-chapter');
+  if (crumbEl) crumbEl.textContent = chName(ch);
   document.title = book.title + ', ' + chName(ch) + ' · Open Margins';
   const bookLink = document.getElementById('book-link');
-  bookLink.textContent = book.title;
-  bookLink.href = 'book.html?book=' + bookId;
+  if (bookLink) {
+    bookLink.textContent = book.title;
+    bookLink.href = 'book.html?book=' + bookId;
+  }
   const typeLink = document.getElementById('type-link');
   if (typeLink) typeLink.href = 'type.html?book=' + bookId + '&ch=' + ch;
 
@@ -57,17 +70,19 @@
       try {
         // no-cache: revalidate, so edited notes show up right after a deploy.
         const r = await fetch(p, { cache: 'no-cache' });
-        if (r.ok) return parse(r);
+        if (r.ok) return await parse(r);
       } catch (e) { /* try next */ }
     }
     return null;
   }
 
   function escapeHtml(s) {
-    return s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    if (s === null || s === undefined) return '';
+    return String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   }
 
   function linkify(s) {
+    if (!s) return '';
     return escapeHtml(s).replace(/https?:\/\/[^\s)]+/g, u => '<a href="' + u + '" target="_blank" rel="noopener">' + u + '</a>');
   }
 
@@ -80,16 +95,38 @@
     return on;
   }
   const layersOn = loadLayers();
+
   function applyLayers() {
-    LAYERS.forEach(l => document.body.classList.toggle('hide-' + l, !layersOn[l]));
+    LAYERS.forEach(l => {
+      const on = !!layersOn[l];
+      document.body.classList.toggle('hide-' + l, !on);
+    });
+    // Screen reader and keyboard navigation: when a layer is hidden, its
+    // anchors become plain text with no button role and negative tabindex.
+    textEl.querySelectorAll('.anchor').forEach(a => {
+      const on = !!layersOn[a.dataset.layer];
+      a.setAttribute('tabindex', on ? '0' : '-1');
+      if (on) {
+        a.setAttribute('role', 'button');
+        a.setAttribute('aria-haspopup', 'true');
+        a.setAttribute('aria-expanded', a.classList.contains('active') ? 'true' : 'false');
+      } else {
+        a.removeAttribute('role');
+        a.removeAttribute('aria-haspopup');
+        a.removeAttribute('aria-expanded');
+      }
+    });
   }
+
   document.querySelectorAll('#layers input').forEach(box => {
-    box.checked = layersOn[box.value];
+    box.checked = !!layersOn[box.value];
     box.addEventListener('change', () => {
       layersOn[box.value] = box.checked;
       try { localStorage.setItem(STORE_KEY, JSON.stringify(layersOn)); } catch (e) { /* ignore */ }
       applyLayers();
       clearActive();
+      state.peekId = null;
+      showFocus({ left: false, right: false });
       layout();
     });
   });
@@ -97,15 +134,21 @@
 
   // ----- Chapter navigation -----
   const chapterHref = n => 'chapter.html?book=' + bookId + '&ch=' + n;
-  document.getElementById('chapnav').innerHTML =
-    '<span class="prev">' + (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '" rel="prev"><span class="dir">Previous</span> ' + chName(ch - 1) + '</a>' : '') + '</span>' +
-    '<span class="toc-link"><a href="book.html?book=' + bookId + '">Contents</a></span>' +
-    '<span class="next">' + (ch < book.chapters ? '<a href="' + chapterHref(ch + 1) + '" rel="next"><span class="dir">Next</span> ' + chName(ch + 1) + '</a>' : '') + '</span>';
+  const chapnavEl = document.getElementById('chapnav');
+  if (chapnavEl) {
+    chapnavEl.innerHTML =
+      '<span class="prev">' + (ch > 1 ? '<a href="' + chapterHref(ch - 1) + '" rel="prev" title="Previous chapter (keyboard: [)"><span class="dir">Previous</span> ' + chName(ch - 1) + '</a>' : '') + '</span>' +
+      '<span class="toc-link"><a href="book.html?book=' + bookId + '">Contents</a></span>' +
+      '<span class="next">' + (ch < maxChapters ? '<a href="' + chapterHref(ch + 1) + '" rel="next" title="Next chapter (keyboard: ])"><span class="dir">Next</span> ' + chName(ch + 1) + '</a>' : '') + '</span>';
+  }
 
   // ----- Rendering -----
   function noteHtml(n) {
-    return '<span class="ref" aria-hidden="true">' + REF[n.layer] + '</span>' +
-      '<span class="layer-name">' + LAYER_NAMES[n.layer] + '</span>' +
+    const layerName = LAYER_NAMES[n.layer] || 'Note';
+    const mark = REF[n.layer] || '*';
+    return '<span class="ref" aria-hidden="true">' + mark + '</span>' +
+      '<span class="sr-only">(' + layerName + ') </span>' +
+      '<span class="layer-name">' + layerName + '</span>' +
       '<span class="term">' + escapeHtml(n.anchor) + '</span>' +
       '<span class="gloss">' + escapeHtml(n.note) + '</span><span class="gloss-short"></span>' +
       (n.source ? '<span class="source">Source: ' + linkify(n.source) + '</span>' : '');
@@ -116,6 +159,8 @@
     div.className = 'note' + (extraClass ? ' ' + extraClass : '');
     div.dataset.layer = n.layer;
     div.dataset.id = n.id;
+    div.setAttribute('role', 'note');
+    div.setAttribute('aria-label', (LAYER_NAMES[n.layer] || 'Note') + ' on ' + n.anchor);
     div.innerHTML = noteHtml(n);
     return div;
   }
@@ -184,7 +229,10 @@
         return;
       }
       out += slice(t, pos, h.start);
-      out += '<span class="anchor" tabindex="0" role="button" data-id="' + h.note.id +
+      const activeLayer = layersOn[h.note.layer];
+      const tabIdx = activeLayer ? '0' : '-1';
+      const roleAttr = activeLayer ? ' role="button" aria-haspopup="true" aria-expanded="false"' : '';
+      out += '<span class="anchor" tabindex="' + tabIdx + '"' + roleAttr + ' data-id="' + h.note.id +
         '" data-layer="' + h.note.layer + '">' + slice(t, h.start, h.end) + '</span>';
       pos = h.end;
       used.add(h.note.id);
@@ -275,7 +323,7 @@
     const viewTop = -40, viewBottom = window.innerHeight;
     const items = [];
     panels[side].querySelectorAll('.note').forEach(el => {
-      if (getComputedStyle(el).display === 'none') return;
+      if (!layersOn[el.dataset.layer]) return;
       const a = anchorFor(el.dataset.id);
       if (!a) return;
       const lineTop = lineOf(a).top;
@@ -300,9 +348,9 @@
   // Trim a margin note's gloss to whole words so the note fits in `lines`
   // lines. The lemma is never cut, and at least the gloss's first words
   // always show. An ellipsis marks the cut unless the kept text ends a
-  // sentence. Results are cached per note, width, and lines.
+  // sentence. Results are cached per note, width, lines, and line-height.
   function fitNote(el, lines, lh) {
-    const key = lines + '|' + el.clientWidth;
+    const key = lines + '|' + el.clientWidth + '|' + lh;
     if (el.dataset.fitKey === key) return;
     el.dataset.fitKey = key;
     const full = el.querySelector('.gloss').textContent;
@@ -328,6 +376,7 @@
     }
     show(lo);
   }
+
   let scrollFrame = 0;
   window.addEventListener('scroll', () => {
     if (geo.inline || scrollFrame) return;
@@ -340,18 +389,24 @@
 
   // One reference mark per annotated line in each gutter, on that line.
   // When several notes share a line their marks sit side by side.
+  // Cluster marks within 6px so subpixel rounding differences on the same
+  // line never produce duplicate ticks.
   function placeTicks(side, top) {
-    const lines = new Map();
+    const lines = [];
     panels[side].querySelectorAll('.note').forEach(el => {
       const n = notesById[el.dataset.id];
       const a = anchorFor(el.dataset.id);
       if (!n || !a || !layersOn[n.layer]) return;
       const r = lineOf(a);
-      const key = Math.round(r.top);
-      if (!lines.has(key)) lines.set(key, { top: r.top - top, height: r.height, ids: [], marks: [] });
-      const line = lines.get(key);
-      line.ids.push(n.id);
-      if (!line.marks.includes(REF[n.layer])) line.marks.push(REF[n.layer]);
+      const lineTop = r.top - top;
+      let target = lines.find(l => Math.abs(l.top - lineTop) < 6);
+      if (!target) {
+        target = { top: lineTop, height: r.height, ids: [], marks: [] };
+        lines.push(target);
+      }
+      target.ids.push(n.id);
+      const mark = REF[n.layer] || '*';
+      if (!target.marks.includes(mark)) target.marks.push(mark);
     });
     ticks[side].innerHTML = '';
     lines.forEach(line => {
@@ -374,6 +429,7 @@
   // pinId: an anchor was clicked; its note stays (with its source) until
   //   dismissed.
   const state = { hover: null, peekId: null, pinId: null, overFocus: false };
+  let peekTimer = null;
 
   const focusEl = document.createElement('div');
   focusEl.className = 'note focus-note';
@@ -412,6 +468,7 @@
     if (focusEl.dataset.id !== id || focusEl.classList.contains('pinned') !== pinned) {
       focusEl.dataset.id = id;
       focusEl.dataset.layer = n.layer;
+      focusEl.setAttribute('aria-label', (LAYER_NAMES[n.layer] || 'Note') + ' on ' + n.anchor);
       focusEl.innerHTML = noteHtml(n);
       focusEl.classList.toggle('pinned', pinned);
     }
@@ -432,7 +489,7 @@
   function onMove() {
     frame = 0;
     const ev = lastMove;
-    if (geo.inline) return;
+    if (!ev || geo.inline) return;
     const inPanel = ev.target.closest && ev.target.closest('.panel.open');
     if (inPanel) {
       state.hover = inPanel === panels.left ? 'left' : 'right';
@@ -441,8 +498,11 @@
     } else if (ev.target.closest && ev.target.closest('.focus-note')) {
       state.hover = null; // reading a single note shouldn't open the whole side
     } else {
-      const x = ev.clientX - readerEl.getBoundingClientRect().left;
-      state.hover = x < geo.textLeft - 8 ? 'left' : x > geo.textRight + 8 ? 'right' : null;
+      // Use columnEl's rendered bounding box so hover detection stays immune
+      // to CSS column translation (geo.shift) and never oscillates.
+      const cr = columnEl.getBoundingClientRect();
+      const x = ev.clientX;
+      state.hover = x < cr.left - 8 ? 'left' : x > cr.right + 8 ? 'right' : null;
     }
     applyOpen();
   }
@@ -454,6 +514,7 @@
 
   function clearActive() {
     document.querySelectorAll('.anchor.active, .note.active, .tick.active').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.anchor[aria-expanded="true"]').forEach(el => el.setAttribute('aria-expanded', 'false'));
     textEl.querySelectorAll('.inline-note').forEach(el => el.remove());
     state.pinId = null;
   }
@@ -474,7 +535,7 @@
       if (bottom <= next.offsetTop) return;
       const lh = parseFloat(getComputedStyle(next).lineHeight) || 18;
       const target = next.offsetTop + lh + 4;
-      if (bottom < target) el.style.paddingBottom = (target - bottom + parseFloat(getComputedStyle(el).paddingBottom)) + 'px';
+      if (bottom < target) el.style.paddingBottom = (target - bottom + parseFloat(getComputedStyle(el).paddingBottom || 0)) + 'px';
     });
     ticksFor(id).forEach(el => el.classList.toggle('hover', on));
   }
@@ -491,7 +552,14 @@
       clearActive();
       if (open) return;
       anchor.classList.add('active');
-      p.after(makeNote(n, 'inline-note'));
+      anchor.setAttribute('aria-expanded', 'true');
+      const noteEl = makeNote(n, 'inline-note');
+      p.after(noteEl);
+      // Ensure the note is visible if it opens below the screen edge.
+      const nr = noteEl.getBoundingClientRect();
+      if (nr.bottom > window.innerHeight) {
+        noteEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
       return;
     }
 
@@ -499,6 +567,7 @@
     clearActive();
     if (wasPinned) { applyOpen(); return; }
     anchor.classList.add('active');
+    anchor.setAttribute('aria-expanded', 'true');
     document.querySelectorAll('.panel .note[data-id="' + id + '"]').forEach(el => el.classList.add('active'));
     ticksFor(id).forEach(el => el.classList.add('active'));
     state.pinId = id;
@@ -506,35 +575,78 @@
   }
 
   textEl.addEventListener('click', e => {
+    // Tapping or clicking inside an inline note should keep it open for reading.
+    if (e.target.closest('.inline-note')) return;
     const a = e.target.closest('.anchor');
     if (a) activate(a);
     else if (state.pinId || textEl.querySelector('.inline-note')) { clearActive(); applyOpen(); }
   });
+
   textEl.addEventListener('keydown', e => {
     const a = e.target.closest('.anchor');
     if (a && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); activate(a); }
   });
-  textEl.addEventListener('mouseover', e => {
+
+  // Keyboard accessibility: tabbing to an anchor shows its note in the margin.
+  textEl.addEventListener('focusin', e => {
     const a = e.target.closest('.anchor');
     if (!a || geo.inline || !layersOn[a.dataset.layer]) return;
+    if (peekTimer) { clearTimeout(peekTimer); peekTimer = null; }
     state.peekId = a.dataset.id;
     setHover(a.dataset.id, true);
     applyOpen();
   });
+  textEl.addEventListener('focusout', e => {
+    const a = e.target.closest('.anchor');
+    if (!a) return;
+    if (state.peekId === a.dataset.id) {
+      state.peekId = null;
+      setHover(a.dataset.id, false);
+      applyOpen();
+    }
+  });
+
+  textEl.addEventListener('mouseover', e => {
+    const a = e.target.closest('.anchor');
+    if (!a || geo.inline || !layersOn[a.dataset.layer]) return;
+    if (e.relatedTarget && a.contains(e.relatedTarget)) return;
+    if (peekTimer) { clearTimeout(peekTimer); peekTimer = null; }
+    state.peekId = a.dataset.id;
+    setHover(a.dataset.id, true);
+    applyOpen();
+  });
+
   textEl.addEventListener('mouseout', e => {
     const a = e.target.closest('.anchor');
     if (!a) return;
+    if (e.relatedTarget && a.contains(e.relatedTarget)) return;
+    // Allow a 120ms grace window so pointer can traverse into focusEl smoothly.
+    if (peekTimer) clearTimeout(peekTimer);
+    peekTimer = setTimeout(() => {
+      peekTimer = null;
+      if (!state.overFocus && state.peekId === a.dataset.id) {
+        state.peekId = null;
+        setHover(a.dataset.id, false);
+        applyOpen();
+      }
+    }, 120);
+  });
+
+  focusEl.addEventListener('mouseenter', () => {
+    if (peekTimer) { clearTimeout(peekTimer); peekTimer = null; }
+    state.overFocus = true;
+  });
+  focusEl.addEventListener('mouseleave', () => {
+    state.overFocus = false;
     state.peekId = null;
-    setHover(a.dataset.id, false);
     applyOpen();
   });
-  focusEl.addEventListener('mouseenter', () => { state.overFocus = true; });
-  focusEl.addEventListener('mouseleave', () => { state.overFocus = false; applyOpen(); });
   focusEl.addEventListener('click', e => {
     if (e.target.closest('a') || state.pinId === focusEl.dataset.id) return;
     const a = anchorFor(focusEl.dataset.id);
     if (a) activate(a);
   });
+
   ['left', 'right'].forEach(side => {
     panels[side].addEventListener('click', e => {
       const m = e.target.closest('.note');
@@ -551,8 +663,38 @@
       if (m) setHover(m.dataset.id, false);
     });
   });
+
+  // Clicking outside any interactive element dismisses pinned notes.
+  document.addEventListener('click', e => {
+    if (e.target.closest('.anchor') || e.target.closest('.note') || e.target.closest('.bar')) return;
+    if (state.pinId || textEl.querySelector('.inline-note')) {
+      clearActive();
+      applyOpen();
+    }
+  });
+
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape' && (state.pinId || textEl.querySelector('.inline-note'))) { clearActive(); applyOpen(); }
+    if (e.key === 'Escape') {
+      if (state.pinId || textEl.querySelector('.inline-note') || state.peekId) {
+        state.peekId = null;
+        clearActive();
+        applyOpen();
+      }
+    }
+    // Chapter navigation shortcuts: [ for previous, ] for next.
+    if (/input|textarea|select/i.test(document.activeElement.tagName) || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (searchMenu && searchMenu.open) return;
+    if (e.key === '[') {
+      if (ch > 1) {
+        e.preventDefault();
+        location.href = chapterHref(ch - 1);
+      }
+    } else if (e.key === ']') {
+      if (ch < maxChapters) {
+        e.preventDefault();
+        location.href = chapterHref(ch + 1);
+      }
+    }
   });
 
   // Report the real line length (average characters per line) next to the
@@ -564,8 +706,13 @@
     const cs = getComputedStyle(columnEl);
     ctx.font = cs.fontSize + ' ' + cs.fontFamily;
     const sample = textEl.textContent.slice(0, 2000) || 'the quick brown fox jumps over the lazy dog';
-    const avg = ctx.measureText(sample).width / sample.length;
-    measureOut.textContent = '· about ' + Math.round(columnEl.clientWidth / avg) + ' characters';
+    const textWidth = ctx.measureText(sample).width;
+    const avg = textWidth / sample.length;
+    if (avg > 0 && columnEl.clientWidth > 0) {
+      measureOut.textContent = '· about ' + Math.round(columnEl.clientWidth / avg) + ' characters';
+    } else {
+      measureOut.textContent = '';
+    }
   }
 
   let resizeTimer;
@@ -574,11 +721,16 @@
     resizeTimer = setTimeout(layout, 100);
   });
   document.addEventListener('scholia:prefs', () => {
+    panels.left.querySelectorAll('.note').forEach(el => delete el.dataset.fitKey);
+    panels.right.querySelectorAll('.note').forEach(el => delete el.dataset.fitKey);
     layout();
     updateMeasure();
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(layout);
   });
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { layout(); updateMeasure(); });
+
+  // Initial layout calculation so desktop readers avoid layout flicker on initial paint.
+  layout();
 
   // ----- Load -----
   (async function () {
@@ -586,12 +738,14 @@
     const notesPath = 'notes/' + bookId + '/ch' + ch + '.json';
     const raw = await fetchFirst([textPath, '../' + textPath], r => r.text());
     if (raw === null) {
-      textEl.innerHTML = '<p class="status">Could not load the text for this ' + book.unit.toLowerCase() + '.</p>';
+      const unitName = book.unit ? book.unit.toLowerCase() : 'chapter';
+      textEl.innerHTML = '<p class="status" role="status">Could not load the text for this ' + unitName + '.</p>';
       return;
     }
     const all = (await fetchFirst([notesPath, '../' + notesPath], r => r.json())) || [];
+    const noteList = Array.isArray(all) ? all : [];
     // Only verified and draft notes are shown; cut notes never are.
-    const notes = all.filter(n => (n.status === 'verified' || n.status === 'draft') && LAYERS.includes(n.layer));
+    const notes = noteList.filter(n => (n.status === 'verified' || n.status === 'draft') && LAYERS.includes(n.layer));
     render(raw, notes);
     updateMeasure();
     await showSearchHits();
@@ -618,13 +772,17 @@
   async function showSearchHits() {
     const q = params.get('q');
     if (!q || !window.OMSearch) return;
-    await OMSearch.highlight(textEl, bookId, q);
-    layout();
-    const target = location.hash && document.getElementById(location.hash.slice(1));
-    const first = (target && target.querySelector('mark.search-hit')) || target || textEl.querySelector('mark.search-hit');
-    if (first) {
-      first.scrollIntoView({ block: 'center' });
-      (first.closest('p') || first).classList.add('search-target');
+    try {
+      await OMSearch.highlight(textEl, bookId, q);
+      layout();
+      const target = location.hash && document.getElementById(location.hash.slice(1));
+      const first = (target && target.querySelector('mark.search-hit')) || target || textEl.querySelector('mark.search-hit');
+      if (first) {
+        first.scrollIntoView({ block: 'center' });
+        (first.closest('p') || first).classList.add('search-target');
+      }
+    } catch (e) {
+      console.warn('Search highlight failed:', e);
     }
   }
 })();

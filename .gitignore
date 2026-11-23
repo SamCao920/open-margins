@@ -4,3 +4,9 @@
 .claude/skills/impeccable/scripts/config.json
 # Impeccable working captures
 .impeccable/review/
+
+# macOS
+.DS_Store
+Icon*
+Icon?
+
